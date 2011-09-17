@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/EXECUTABLES/vfp-crasher_intermediates/vfp-crasher.o: \
+ system/core/debuggerd/vfp-crasher.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ system/core/debuggerd/vfp-crasher.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

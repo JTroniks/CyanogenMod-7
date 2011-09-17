@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:3
+-keep class com.android.ninepatchlab.NinePatchLab { <init>(...); }
+

@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libopensles_helper_intermediates/MPH_to.o: \
+ system/media/opensles/libopensles/MPH_to.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ system/media/opensles/libopensles/MPH.h \
+ system/media/opensles/libopensles/MPH_to.h
+ system/media/opensles/libopensles/MPH_to.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ system/media/opensles/libopensles/MPH.h :
+ system/media/opensles/libopensles/MPH_to.h :

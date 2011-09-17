@@ -1,0 +1,83 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-ldpi/icon.png:0 -->
+  <!-- Declared at res/drawable-mdpi/icon.png:0 -->
+  <!-- Declared at res/drawable-hdpi/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020000" />
+
+  <!-- Declared at res/layout/account_entry.xml:0 -->
+  <public type="layout" name="account_entry" id="0x7f030000" />
+  <!-- Declared at res/layout/contact_adder.xml:0 -->
+  <public type="layout" name="contact_adder" id="0x7f030001" />
+  <!-- Declared at res/layout/contact_entry.xml:0 -->
+  <public type="layout" name="contact_entry" id="0x7f030002" />
+  <!-- Declared at res/layout/contact_manager.xml:0 -->
+  <public type="layout" name="contact_manager" id="0x7f030003" />
+
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:18 -->
+  <public type="string" name="accountSpinnerLabel" id="0x7f040000" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:19 -->
+  <public type="string" name="addContactButtonLabel" id="0x7f040001" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:20 -->
+  <public type="string" name="addContactTitle" id="0x7f040002" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:21 -->
+  <public type="string" name="allAccounts" id="0x7f040003" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:22 -->
+  <public type="string" name="app_name" id="0x7f040004" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:23 -->
+  <public type="string" name="contactCreationFailure" id="0x7f040005" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:24 -->
+  <public type="string" name="contactEmailLabel" id="0x7f040006" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:25 -->
+  <public type="string" name="contactNameLabel" id="0x7f040007" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:26 -->
+  <public type="string" name="contactPhoneLabel" id="0x7f040008" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:27 -->
+  <public type="string" name="save" id="0x7f040009" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:28 -->
+  <public type="string" name="selectAccountLabel" id="0x7f04000a" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:29 -->
+  <public type="string" name="selectLabel" id="0x7f04000b" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:30 -->
+  <public type="string" name="showInvisible" id="0x7f04000c" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:31 -->
+  <public type="string" name="targetAccountLabel" id="0x7f04000d" />
+  <!-- Declared at development/samples/ContactManager/res/values/strings.xml:32 -->
+  <public type="string" name="undefinedTypeLabel" id="0x7f04000e" />
+
+  <!-- Declared at development/samples/ContactManager/res/layout/account_entry.xml:21 -->
+  <public type="id" name="accountIcon" id="0x7f050000" />
+  <!-- Declared at development/samples/ContactManager/res/layout/account_entry.xml:28 -->
+  <public type="id" name="secondAccountLine" id="0x7f050001" />
+  <!-- Declared at development/samples/ContactManager/res/layout/account_entry.xml:38 -->
+  <public type="id" name="firstAccountLine" id="0x7f050002" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_adder.xml:28 -->
+  <public type="id" name="accountSpinner" id="0x7f050003" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_adder.xml:39 -->
+  <public type="id" name="contactNameEditText" id="0x7f050004" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_adder.xml:50 -->
+  <public type="id" name="contactPhoneEditText" id="0x7f050005" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_adder.xml:54 -->
+  <public type="id" name="contactPhoneTypeSpinner" id="0x7f050006" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_adder.xml:64 -->
+  <public type="id" name="contactEmailEditText" id="0x7f050007" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_adder.xml:68 -->
+  <public type="id" name="contactEmailTypeSpinner" id="0x7f050008" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_adder.xml:73 -->
+  <public type="id" name="contactSaveButton" id="0x7f050009" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_entry.xml:20 -->
+  <public type="id" name="contactEntryText" id="0x7f05000a" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_manager.xml:21 -->
+  <public type="id" name="contactList" id="0x7f05000b" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_manager.xml:25 -->
+  <public type="id" name="showInvisible" id="0x7f05000c" />
+  <!-- Declared at development/samples/ContactManager/res/layout/contact_manager.xml:29 -->
+  <public type="id" name="addContactButton" id="0x7f05000d" />
+
+</resources>

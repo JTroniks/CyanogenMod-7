@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libc_common_intermediates/arch-arm/syscalls/sched_getscheduler.o: \
+ bionic/libc/arch-arm/syscalls/sched_getscheduler.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/sys/linux-syscalls.h
+ bionic/libc/arch-arm/syscalls/sched_getscheduler.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/sys/linux-syscalls.h :

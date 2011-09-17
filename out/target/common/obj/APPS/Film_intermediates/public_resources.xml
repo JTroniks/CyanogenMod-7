@@ -1,0 +1,41 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/p01.png:0 -->
+  <public type="drawable" name="p01" id="0x7f020000" />
+  <!-- Declared at res/drawable/p02.png:0 -->
+  <public type="drawable" name="p02" id="0x7f020001" />
+  <!-- Declared at res/drawable/p03.png:0 -->
+  <public type="drawable" name="p03" id="0x7f020002" />
+  <!-- Declared at res/drawable/p04.png:0 -->
+  <public type="drawable" name="p04" id="0x7f020003" />
+  <!-- Declared at res/drawable/p05.png:0 -->
+  <public type="drawable" name="p05" id="0x7f020004" />
+  <!-- Declared at res/drawable/p06.png:0 -->
+  <public type="drawable" name="p06" id="0x7f020005" />
+  <!-- Declared at res/drawable/p07.png:0 -->
+  <public type="drawable" name="p07" id="0x7f020006" />
+  <!-- Declared at res/drawable/p08.png:0 -->
+  <public type="drawable" name="p08" id="0x7f020007" />
+  <!-- Declared at res/drawable/p09.png:0 -->
+  <public type="drawable" name="p09" id="0x7f020008" />
+  <!-- Declared at res/drawable/p10.png:0 -->
+  <public type="drawable" name="p10" id="0x7f020009" />
+  <!-- Declared at res/drawable/p11.png:0 -->
+  <public type="drawable" name="p11" id="0x7f02000a" />
+  <!-- Declared at res/drawable/p12.png:0 -->
+  <public type="drawable" name="p12" id="0x7f02000b" />
+  <!-- Declared at res/drawable/p13.png:0 -->
+  <public type="drawable" name="p13" id="0x7f02000c" />
+
+  <!-- Declared at res/raw/filmimage.c:0 -->
+  <public type="raw" name="filmimage" id="0x7f030000" />
+  <!-- Declared at res/raw/filmstrip.c:0 -->
+  <public type="raw" name="filmstrip" id="0x7f030001" />
+
+</resources>

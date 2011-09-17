@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libembunit_intermediates/src/TestCaller.o: \
+ external/embunit/src/TestCaller.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/embunit/inc/Test.h external/embunit/inc/TestCase.h \
+ external/embunit/inc/TestCaller.h
+ external/embunit/src/TestCaller.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/embunit/inc/Test.h external/embunit/inc/TestCase.h :
+ external/embunit/inc/TestCaller.h :

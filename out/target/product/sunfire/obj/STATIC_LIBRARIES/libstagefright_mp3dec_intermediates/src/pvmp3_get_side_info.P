@@ -1,0 +1,29 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_mp3dec_intermediates/src/pvmp3_get_side_info.o: \
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_get_side_info.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_get_side_info.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_dec_defs.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/include/pvmp3_audio_type_defs.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/include/pvmp3decoder_api.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/include/pvmp3_audio_type_defs.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_dec_defs.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/s_mp3bits.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_crc.h
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_get_side_info.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_get_side_info.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_dec_defs.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/include/pvmp3_audio_type_defs.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/include/pvmp3decoder_api.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/include/pvmp3_audio_type_defs.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_dec_defs.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/s_mp3bits.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_crc.h :

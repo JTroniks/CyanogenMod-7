@@ -1,0 +1,83 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/dialog_edit_text_no_scroll.xml:0 -->
+  <public type="layout" name="dialog_edit_text_no_scroll" id="0x7f020000" />
+  <!-- Declared at res/layout/full_screen_edit_text.xml:0 -->
+  <public type="layout" name="full_screen_edit_text" id="0x7f020001" />
+  <!-- Declared at res/layout/one_edit_text_activity.xml:0 -->
+  <public type="layout" name="one_edit_text_activity" id="0x7f020002" />
+  <!-- Declared at res/layout/sample_edit_text.xml:0 -->
+  <public type="layout" name="sample_edit_text" id="0x7f020003" />
+
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/config.xml:20 -->
+  <public type="bool" name="def_expect_ime_autopop" id="0x7f030000" />
+
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:22 -->
+  <public type="string" name="normal_edit_text_label" id="0x7f040000" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:23 -->
+  <public type="string" name="uri_edit_text_label" id="0x7f040001" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:24 -->
+  <public type="string" name="email_address_edit_text_label" id="0x7f040002" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:25 -->
+  <public type="string" name="email_subject_edit_text_label" id="0x7f040003" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:26 -->
+  <public type="string" name="email_content_edit_text_label" id="0x7f040004" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:27 -->
+  <public type="string" name="person_name_edit_text_label" id="0x7f040005" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:28 -->
+  <public type="string" name="postal_address_edit_text_label" id="0x7f040006" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:29 -->
+  <public type="string" name="password_edit_text_label" id="0x7f040007" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:30 -->
+  <public type="string" name="search_string_edit_text_label" id="0x7f040008" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:31 -->
+  <public type="string" name="web_edit_text_label" id="0x7f040009" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:32 -->
+  <public type="string" name="signed_number_edit_text_label" id="0x7f04000a" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:33 -->
+  <public type="string" name="decimal_number_edit_text_label" id="0x7f04000b" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:34 -->
+  <public type="string" name="phone_number_edit_text_label" id="0x7f04000c" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:35 -->
+  <public type="string" name="normal_datetime_edit_text_label" id="0x7f04000d" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:36 -->
+  <public type="string" name="date_edit_text_label" id="0x7f04000e" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:37 -->
+  <public type="string" name="time_edit_text_label" id="0x7f04000f" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:38 -->
+  <public type="string" name="cap_chars_edit_text_label" id="0x7f040010" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:39 -->
+  <public type="string" name="cap_words_edit_text_label" id="0x7f040011" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:40 -->
+  <public type="string" name="multiline_edit_text_label" id="0x7f040012" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:41 -->
+  <public type="string" name="search_edit_text_label" id="0x7f040013" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:42 -->
+  <public type="string" name="cap_sentences_edit_text_label" id="0x7f040014" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:43 -->
+  <public type="string" name="auto_complete_edit_text_label" id="0x7f040015" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:44 -->
+  <public type="string" name="auto_correct_edit_text_label" id="0x7f040016" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:45 -->
+  <public type="string" name="test_dialog" id="0x7f040017" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:46 -->
+  <public type="string" name="open_dialog_scrollable" id="0x7f040018" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/values/strings.xml:47 -->
+  <public type="string" name="open_dialog_nonscrollable" id="0x7f040019" />
+
+  <!-- Declared at frameworks/base/tests/ImfTest/res/layout/dialog_edit_text_no_scroll.xml:23 -->
+  <public type="id" name="blank" id="0x7f050000" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/layout/dialog_edit_text_no_scroll.xml:29 -->
+  <public type="id" name="dialog_edit_text" id="0x7f050001" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/layout/full_screen_edit_text.xml:21 -->
+  <public type="id" name="data" id="0x7f050002" />
+  <!-- Declared at frameworks/base/tests/ImfTest/res/layout/sample_edit_text.xml:34 -->
+  <public type="id" name="label" id="0x7f050003" />
+
+</resources>

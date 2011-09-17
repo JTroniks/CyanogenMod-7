@@ -1,0 +1,15 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libcrypto_static_intermediates/bf/bf_ecb.o: \
+ external/openssl/crypto/bf/bf_ecb.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/openssl/include/openssl/blowfish.h \
+ external/openssl/include/openssl/e_os2.h \
+ external/openssl/include/openssl/opensslconf.h \
+ external/openssl/crypto/bf/bf_locl.h \
+ external/openssl/include/openssl/opensslv.h
+ external/openssl/crypto/bf/bf_ecb.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/openssl/include/openssl/blowfish.h :
+ external/openssl/include/openssl/e_os2.h :
+ external/openssl/include/openssl/opensslconf.h :
+ external/openssl/crypto/bf/bf_locl.h :
+ external/openssl/include/openssl/opensslv.h :

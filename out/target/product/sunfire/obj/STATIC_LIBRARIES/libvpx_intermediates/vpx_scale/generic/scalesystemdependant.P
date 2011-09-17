@@ -1,0 +1,11 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libvpx_intermediates/vpx_scale/generic/scalesystemdependant.o: \
+ external/libvpx/vpx_scale/generic/scalesystemdependant.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/libvpx/vpx_ports/config.h external/libvpx/vpx_config.h \
+ external/libvpx/vpx_scale/vpxscale.h \
+ external/libvpx/vpx_scale/yv12config.h
+ external/libvpx/vpx_scale/generic/scalesystemdependant.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/libvpx/vpx_ports/config.h external/libvpx/vpx_config.h :
+ external/libvpx/vpx_scale/vpxscale.h :
+ external/libvpx/vpx_scale/yv12config.h :

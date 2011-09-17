@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/accessibilityservice/IAccessibilityServiceConnection.java: \
+  frameworks/base/core/java/android/accessibilityservice/IAccessibilityServiceConnection.aidl \
+  frameworks/base/core/java/android/accessibilityservice/AccessibilityServiceInfo.aidl 
+

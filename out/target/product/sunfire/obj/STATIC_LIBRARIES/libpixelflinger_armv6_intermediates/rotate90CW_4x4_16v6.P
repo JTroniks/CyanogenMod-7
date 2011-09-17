@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libpixelflinger_armv6_intermediates/rotate90CW_4x4_16v6.o: \
+ system/core/libpixelflinger/rotate90CW_4x4_16v6.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ system/core/libpixelflinger/rotate90CW_4x4_16v6.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

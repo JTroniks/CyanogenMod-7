@@ -1,0 +1,103 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libcrypto_intermediates/bn/bn_mod.o: \
+ external/openssl/crypto/bn/bn_mod.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/openssl/crypto/cryptlib.h bionic/libc/include/stdlib.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/string.h bionic/libc/include/malloc.h \
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h \
+ external/openssl/e_os.h external/openssl/include/openssl/opensslconf.h \
+ external/openssl/include/openssl/e_os2.h bionic/libc/include/unistd.h \
+ bionic/libc/include/sys/select.h bionic/libc/include/sys/time.h \
+ bionic/libc/kernel/common/linux/time.h bionic/libc/include/signal.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/kernel/arch-arm/asm/signal.h \
+ bionic/libc/kernel/common/asm-generic/signal.h \
+ bionic/libc/kernel/arch-arm/asm/siginfo.h \
+ bionic/libc/kernel/common/asm-generic/siginfo.h \
+ bionic/libc/include/sys/sysconf.h \
+ bionic/libc/kernel/common/linux/capability.h \
+ bionic/libc/include/pathconf.h external/openssl/include/openssl/crypto.h \
+ bionic/libc/include/stdio.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ external/openssl/include/openssl/stack.h \
+ external/openssl/include/openssl/safestack.h \
+ external/openssl/include/openssl/opensslv.h \
+ external/openssl/include/openssl/ossl_typ.h \
+ external/openssl/include/openssl/symhacks.h \
+ external/openssl/include/openssl/buffer.h \
+ external/openssl/include/openssl/bio.h \
+ external/openssl/include/openssl/err.h \
+ external/openssl/include/openssl/lhash.h bionic/libc/include/errno.h \
+ bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h \
+ external/openssl/crypto/bn/bn_lcl.h \
+ external/openssl/include/openssl/bn.h
+ external/openssl/crypto/bn/bn_mod.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/openssl/crypto/cryptlib.h bionic/libc/include/stdlib.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/string.h bionic/libc/include/malloc.h :
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h :
+ external/openssl/e_os.h external/openssl/include/openssl/opensslconf.h :
+ external/openssl/include/openssl/e_os2.h bionic/libc/include/unistd.h :
+ bionic/libc/include/sys/select.h bionic/libc/include/sys/time.h :
+ bionic/libc/kernel/common/linux/time.h bionic/libc/include/signal.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/kernel/arch-arm/asm/signal.h :
+ bionic/libc/kernel/common/asm-generic/signal.h :
+ bionic/libc/kernel/arch-arm/asm/siginfo.h :
+ bionic/libc/kernel/common/asm-generic/siginfo.h :
+ bionic/libc/include/sys/sysconf.h :
+ bionic/libc/kernel/common/linux/capability.h :
+ bionic/libc/include/pathconf.h external/openssl/include/openssl/crypto.h :
+ bionic/libc/include/stdio.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ external/openssl/include/openssl/stack.h :
+ external/openssl/include/openssl/safestack.h :
+ external/openssl/include/openssl/opensslv.h :
+ external/openssl/include/openssl/ossl_typ.h :
+ external/openssl/include/openssl/symhacks.h :
+ external/openssl/include/openssl/buffer.h :
+ external/openssl/include/openssl/bio.h :
+ external/openssl/include/openssl/err.h :
+ external/openssl/include/openssl/lhash.h bionic/libc/include/errno.h :
+ bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :
+ external/openssl/crypto/bn/bn_lcl.h :
+ external/openssl/include/openssl/bn.h :

@@ -1,0 +1,162 @@
+# view res/layout/gesture_create.xml #generated:48
+-keep class android.gesture.GestureOverlayView { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.cyanogenmod.cmparts.activities.ApplicationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:219
+-keep class com.cyanogenmod.cmparts.activities.BacklightActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:272
+-keep class com.cyanogenmod.cmparts.activities.BatteryTester { <init>(...); }
+
+# view AndroidManifest.xml #generated:200
+-keep class com.cyanogenmod.cmparts.activities.CPUActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:303
+-keep class com.cyanogenmod.cmparts.activities.ChangeLog { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.cyanogenmod.cmparts.activities.CreateShortcut { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.cyanogenmod.cmparts.activities.DisplayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:297
+-keep class com.cyanogenmod.cmparts.activities.GestureCreateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:291
+-keep class com.cyanogenmod.cmparts.activities.GestureListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:285
+-keep class com.cyanogenmod.cmparts.activities.GestureMenuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:212
+-keep class com.cyanogenmod.cmparts.activities.HapticAdjust { <init>(...); }
+
+# view res/layout/hapticadjust.xml #generated:89
+-keep class com.cyanogenmod.cmparts.activities.HapticAdjust$TestButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class com.cyanogenmod.cmparts.activities.HapticTweaksActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.cyanogenmod.cmparts.activities.InputActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.cyanogenmod.cmparts.activities.InputSearchKeyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:224
+-keep class com.cyanogenmod.cmparts.activities.LightLevelsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.cyanogenmod.cmparts.activities.LockscreenActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class com.cyanogenmod.cmparts.activities.LockscreenStyleActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class com.cyanogenmod.cmparts.activities.LockscreenTimeoutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.cyanogenmod.cmparts.activities.LockscreenUnlockActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:125
+-keep class com.cyanogenmod.cmparts.activities.LockscreenWidgetsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:181
+-keep class com.cyanogenmod.cmparts.activities.LongPressHomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:187
+-keep class com.cyanogenmod.cmparts.activities.LongPressMenuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.cyanogenmod.cmparts.activities.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:193
+-keep class com.cyanogenmod.cmparts.activities.PerformanceSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:239
+-keep class com.cyanogenmod.cmparts.activities.PhoneGogglesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:244
+-keep class com.cyanogenmod.cmparts.activities.PhoneGogglesAppActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:249
+-keep class com.cyanogenmod.cmparts.activities.PhoneGogglesDefaultActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:254
+-keep class com.cyanogenmod.cmparts.activities.PhoneGogglesFilterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:260
+-keep class com.cyanogenmod.cmparts.activities.PowerWidgetActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:266
+-keep class com.cyanogenmod.cmparts.activities.PowerWidgetOrderActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:229
+-keep class com.cyanogenmod.cmparts.activities.SoundActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:234
+-keep class com.cyanogenmod.cmparts.activities.SoundQuietHoursActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:146
+-keep class com.cyanogenmod.cmparts.activities.SystemActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:167
+-keep class com.cyanogenmod.cmparts.activities.TabletExtendPmActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:174
+-keep class com.cyanogenmod.cmparts.activities.TabletInputActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:160
+-keep class com.cyanogenmod.cmparts.activities.TabletSoftButtonsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.cyanogenmod.cmparts.activities.TabletTweaksActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.cyanogenmod.cmparts.activities.UIActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.cyanogenmod.cmparts.activities.UIPowerWidgetActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.cyanogenmod.cmparts.activities.UIStatusBarActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:279
+-keep class com.cyanogenmod.cmparts.activities.WidgetOptionsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.cyanogenmod.cmparts.activities.led.AdvancedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.cyanogenmod.cmparts.activities.led.CategoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.cyanogenmod.cmparts.activities.led.NotificationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class com.cyanogenmod.cmparts.activities.led.PackageSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.cyanogenmod.cmparts.intents.CPUReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.cyanogenmod.cmparts.intents.LEDNotificationReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:310
+-keep class com.cyanogenmod.cmparts.provider.RenderFXWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:276
+-keep class com.cyanogenmod.cmparts.provider.SettingsProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:319
+-keep class com.cyanogenmod.cmparts.services.BatteryService { <init>(...); }
+
+# view AndroidManifest.xml #generated:318
+-keep class com.cyanogenmod.cmparts.services.RenderFXService { <init>(...); }
+
+# view res/layout-finger/order_power_widget_buttons_activity.xml #generated:23
+-keep class com.cyanogenmod.cmparts.widgets.TouchInterceptor { <init>(...); }
+

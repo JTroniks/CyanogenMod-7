@@ -1,0 +1,5 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/speech/tts/ITts.java: \
+  frameworks/base/core/java/android/speech/tts/ITts.aidl \
+  frameworks/base/core/java/android/speech/tts/ITtsCallback.aidl \
+  frameworks/base/core/java/android/content/Intent.aidl 
+

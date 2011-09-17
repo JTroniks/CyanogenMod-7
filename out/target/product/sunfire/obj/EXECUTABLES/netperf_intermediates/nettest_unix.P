@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/EXECUTABLES/netperf_intermediates/nettest_unix.o: \
+ external/netperf/nettest_unix.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/netperf/config.h
+ external/netperf/nettest_unix.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/netperf/config.h :

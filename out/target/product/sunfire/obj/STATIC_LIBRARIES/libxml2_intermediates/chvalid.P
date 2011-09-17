@@ -1,0 +1,45 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libxml2_intermediates/chvalid.o: \
+ external/libxml2/chvalid.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/libxml2/libxml.h external/libxml2/config.h \
+ external/libxml2/include/libxml/xmlversion.h \
+ external/libxml2/include/libxml/xmlexports.h bionic/libc/include/stdio.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h \
+ external/libxml2/include/libxml/chvalid.h \
+ external/libxml2/include/libxml/xmlstring.h \
+ external/libxml2/elfgcchack.h
+ external/libxml2/chvalid.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/libxml2/libxml.h external/libxml2/config.h :
+ external/libxml2/include/libxml/xmlversion.h :
+ external/libxml2/include/libxml/xmlexports.h bionic/libc/include/stdio.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h :
+ external/libxml2/include/libxml/chvalid.h :
+ external/libxml2/include/libxml/xmlstring.h :
+ external/libxml2/elfgcchack.h :

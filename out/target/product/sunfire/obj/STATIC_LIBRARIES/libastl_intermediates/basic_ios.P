@@ -1,0 +1,11 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libastl_intermediates/basic_ios.o: \
+ external/astl/src/basic_ios.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/astl/include/basic_ios.h external/astl/include/ios_base.h \
+ external/astl/include/ios_pos_types.h bionic/libstdc++/include/cstddef \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h
+ external/astl/src/basic_ios.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/astl/include/basic_ios.h external/astl/include/ios_base.h :
+ external/astl/include/ios_pos_types.h bionic/libstdc++/include/cstddef :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :

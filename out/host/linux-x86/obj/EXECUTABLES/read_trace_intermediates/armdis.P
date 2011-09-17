@@ -1,0 +1,31 @@
+out/host/linux-x86/obj/EXECUTABLES/read_trace_intermediates/armdis.o: \
+ sdk/emulator/qtools/armdis.cpp \
+ system/core/include/arch/linux-x86/AndroidConfig.h /usr/include/stdio.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h \
+ sdk/emulator/qtools/armdis.h /usr/include/inttypes.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ sdk/emulator/qtools/opcode.h
+ sdk/emulator/qtools/armdis.cpp :
+ system/core/include/arch/linux-x86/AndroidConfig.h /usr/include/stdio.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h :
+ /usr/include/string.h /usr/include/xlocale.h :
+ sdk/emulator/qtools/armdis.h /usr/include/inttypes.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/bits/wchar.h :
+ sdk/emulator/qtools/opcode.h :

@@ -1,0 +1,5 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libpng_intermediates/pnggccrd.o: \
+ external/libpng/pnggccrd.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h
+ external/libpng/pnggccrd.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :

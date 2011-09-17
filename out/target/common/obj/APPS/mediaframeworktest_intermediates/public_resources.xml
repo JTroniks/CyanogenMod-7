@@ -1,0 +1,39 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/icon.png:0 -->
+  <!-- Declared at res/drawable-hdpi/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020000" />
+
+  <!-- Declared at res/layout/movie_view.xml:0 -->
+  <public type="layout" name="movie_view" id="0x7f030000" />
+  <!-- Declared at res/layout/surface_view.xml:0 -->
+  <public type="layout" name="surface_view" id="0x7f030001" />
+
+  <!-- Declared at res/raw/shortmp3.mp3:0 -->
+  <public type="raw" name="shortmp3" id="0x7f040000" />
+  <!-- Declared at res/raw/testmidi.mid:0 -->
+  <public type="raw" name="testmidi" id="0x7f040001" />
+  <!-- Declared at res/raw/testmp3.mp3:0 -->
+  <public type="raw" name="testmp3" id="0x7f040002" />
+
+  <!-- Declared at frameworks/base/media/tests/MediaFrameworkTest/res/values/strings.xml:3 -->
+  <public type="string" name="app_name" id="0x7f050000" />
+  <!-- Declared at frameworks/base/media/tests/MediaFrameworkTest/res/values/strings.xml:4 -->
+  <public type="string" name="open_url" id="0x7f050001" />
+
+  <!-- Declared at frameworks/base/media/tests/MediaFrameworkTest/res/layout/movie_view.xml:27 -->
+  <public type="id" name="surface_view" id="0x7f060000" />
+  <!-- Declared at frameworks/base/media/tests/MediaFrameworkTest/res/layout/movie_view.xml:39 -->
+  <public type="id" name="url" id="0x7f060001" />
+  <!-- Declared at frameworks/base/media/tests/MediaFrameworkTest/res/layout/movie_view.xml:48 -->
+  <public type="id" name="open" id="0x7f060002" />
+  <!-- Declared at frameworks/base/media/tests/MediaFrameworkTest/res/layout/surface_view.xml:33 -->
+  <public type="id" name="video_view" id="0x7f060003" />
+
+</resources>

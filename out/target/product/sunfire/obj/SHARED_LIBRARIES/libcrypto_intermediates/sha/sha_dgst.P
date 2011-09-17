@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libcrypto_intermediates/sha/sha_dgst.o: \
+ external/openssl/crypto/sha/sha_dgst.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/openssl/include/openssl/opensslconf.h
+ external/openssl/crypto/sha/sha_dgst.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/openssl/include/openssl/opensslconf.h :

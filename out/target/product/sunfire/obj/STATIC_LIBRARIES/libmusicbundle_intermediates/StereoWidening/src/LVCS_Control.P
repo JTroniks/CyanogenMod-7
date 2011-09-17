@@ -1,0 +1,35 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/StereoWidening/src/LVCS_Control.o: \
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_Control.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/lib/LVCS.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Common.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_Private.h \
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_StereoEnhancer.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/Filters.h \
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_Headphone_Coeffs.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/BIQUAD.h \
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_ReverbGenerator.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer.h \
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_Equaliser.h \
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_BypassMix.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Timer.h \
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_Tables.h
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_Control.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/lib/LVCS.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Common.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_Private.h :
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_StereoEnhancer.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/src/Filters.h :
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_Headphone_Coeffs.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/BIQUAD.h :
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_ReverbGenerator.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer.h :
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_Equaliser.h :
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_BypassMix.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Timer.h :
+ frameworks/base/media/libeffects/lvm/lib/StereoWidening/src/LVCS_Tables.h :

@@ -1,0 +1,75 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-ldpi/logo120dpi.png:0 -->
+  <public type="drawable" name="logo120dpi" id="0x7f020000" />
+  <!-- Declared at res/drawable/logo160dpi.png:0 -->
+  <public type="drawable" name="logo160dpi" id="0x7f020001" />
+  <!-- Declared at res/drawable-hdpi/logo240dpi.png:0 -->
+  <public type="drawable" name="logo240dpi" id="0x7f020002" />
+  <!-- Declared at res/drawable-nodpi/logonodpi120.png:0 -->
+  <public type="drawable" name="logonodpi120" id="0x7f020003" />
+  <!-- Declared at res/drawable-nodpi/logonodpi160.png:0 -->
+  <public type="drawable" name="logonodpi160" id="0x7f020004" />
+  <!-- Declared at res/drawable-nodpi/logonodpi240.png:0 -->
+  <public type="drawable" name="logonodpi240" id="0x7f020005" />
+  <!-- Declared at res/drawable-ldpi/npatch120dpi.9.png:0 -->
+  <public type="drawable" name="npatch120dpi" id="0x7f020006" />
+  <!-- Declared at res/drawable/npatch160dpi.9.png:0 -->
+  <public type="drawable" name="npatch160dpi" id="0x7f020007" />
+  <!-- Declared at res/drawable-hdpi/npatch240dpi.9.png:0 -->
+  <public type="drawable" name="npatch240dpi" id="0x7f020008" />
+  <!-- Declared at res/drawable-ldpi/reslogo120dpi.png:0 -->
+  <public type="drawable" name="reslogo120dpi" id="0x7f020009" />
+  <!-- Declared at res/drawable/reslogo160dpi.png:0 -->
+  <public type="drawable" name="reslogo160dpi" id="0x7f02000a" />
+  <!-- Declared at res/drawable-hdpi/reslogo240dpi.png:0 -->
+  <public type="drawable" name="reslogo240dpi" id="0x7f02000b" />
+  <!-- Declared at res/drawable-ldpi/smlnpatch120dpi.9.png:0 -->
+  <public type="drawable" name="smlnpatch120dpi" id="0x7f02000c" />
+  <!-- Declared at res/drawable/smlnpatch160dpi.9.png:0 -->
+  <public type="drawable" name="smlnpatch160dpi" id="0x7f02000d" />
+  <!-- Declared at res/drawable-hdpi/smlnpatch240dpi.9.png:0 -->
+  <public type="drawable" name="smlnpatch240dpi" id="0x7f02000e" />
+  <!-- Declared at res/drawable-ldpi/stylogo120dpi.png:0 -->
+  <public type="drawable" name="stylogo120dpi" id="0x7f02000f" />
+  <!-- Declared at res/drawable/stylogo160dpi.png:0 -->
+  <public type="drawable" name="stylogo160dpi" id="0x7f020010" />
+  <!-- Declared at res/drawable-hdpi/stylogo240dpi.png:0 -->
+  <public type="drawable" name="stylogo240dpi" id="0x7f020011" />
+
+  <!-- Declared at res/layout/image_views.xml:0 -->
+  <public type="layout" name="image_views" id="0x7f030000" />
+  <!-- Declared at res/layout/styled_image_views.xml:0 -->
+  <public type="layout" name="styled_image_views" id="0x7f030001" />
+
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-small/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-normal/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-large/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-xlarge/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-notlong/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-small-notlong/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-normal-notlong/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-large-notlong/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-xlarge-notlong/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-long/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-small-long/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-normal-long/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-large-long/strings.xml:18 -->
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values-xlarge-long/strings.xml:18 -->
+  <public type="string" name="act_title" id="0x7f040000" />
+
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values/styles.xml:18 -->
+  <public type="style" name="ImageView120dpi" id="0x7f050000" />
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values/styles.xml:24 -->
+  <public type="style" name="ImageView160dpi" id="0x7f050001" />
+  <!-- Declared at frameworks/base/tests/DpiTest/res/values/styles.xml:30 -->
+  <public type="style" name="ImageView240dpi" id="0x7f050002" />
+
+</resources>

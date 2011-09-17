@@ -1,0 +1,21 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_mp3dec_intermediates/src/pvmp3_mdct_6.o: \
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_mdct_6.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pv_mp3dec_fxd_op.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/include/pvmp3_audio_type_defs.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pv_mp3dec_fxd_op_c_equivalent.h \
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_mdct_6.h
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_mdct_6.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pv_mp3dec_fxd_op.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/include/pvmp3_audio_type_defs.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pv_mp3dec_fxd_op_c_equivalent.h :
+ frameworks/base/media/libstagefright/codecs/mp3dec/src/pvmp3_mdct_6.h :

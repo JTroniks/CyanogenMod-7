@@ -1,0 +1,29 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_amrwbdec_intermediates/src/isp_isf.o: \
+ frameworks/base/media/libstagefright/codecs/amrwb/src/isp_isf.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/amrwb/src/pv_amr_wb_type_defs.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ frameworks/base/media/libstagefright/codecs/amrwb/src/pvamrwbdecoder_basic_op.h \
+ frameworks/base/media/libstagefright/codecs/amrwb/src/normalize_amr_wb.h \
+ frameworks/base/media/libstagefright/codecs/amrwb/src/pvamrwbdecoder_basic_op_cequivalent.h \
+ frameworks/base/media/libstagefright/codecs/amrwb/src/pvamrwbdecoder_acelp.h \
+ frameworks/base/media/libstagefright/codecs/amrwb/src/pvamrwbdecoder_mem_funcs.h \
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/malloc.h
+ frameworks/base/media/libstagefright/codecs/amrwb/src/isp_isf.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/amrwb/src/pv_amr_wb_type_defs.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ frameworks/base/media/libstagefright/codecs/amrwb/src/pvamrwbdecoder_basic_op.h :
+ frameworks/base/media/libstagefright/codecs/amrwb/src/normalize_amr_wb.h :
+ frameworks/base/media/libstagefright/codecs/amrwb/src/pvamrwbdecoder_basic_op_cequivalent.h :
+ frameworks/base/media/libstagefright/codecs/amrwb/src/pvamrwbdecoder_acelp.h :
+ frameworks/base/media/libstagefright/codecs/amrwb/src/pvamrwbdecoder_mem_funcs.h :
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/malloc.h :

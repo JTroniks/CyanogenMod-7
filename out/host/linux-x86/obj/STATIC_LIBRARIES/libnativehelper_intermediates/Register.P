@@ -1,0 +1,9 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libnativehelper_intermediates/Register.o: \
+ dalvik/libnativehelper/Register.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ dalvik/libnativehelper/include/nativehelper/jni.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h
+ dalvik/libnativehelper/Register.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ dalvik/libnativehelper/include/nativehelper/jni.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :

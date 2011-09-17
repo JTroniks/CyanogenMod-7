@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/audio_intermediates/module-bluetooth-sink.o: \
+ external/bluetooth/bluez/audio/module-bluetooth-sink.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/bluetooth/bluez/audio/module-bluetooth-sink.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

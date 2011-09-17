@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libboot_board_dream_sapphire_combined_intermediates/panel.o: \
+ device/htc/dream_sapphire/boot/panel.c \
+ bootable/bootloader/legacy/include/boot/board.h
+ device/htc/dream_sapphire/boot/panel.c :
+ bootable/bootloader/legacy/include/boot/board.h :

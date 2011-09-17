@@ -1,0 +1,157 @@
+out/host/linux-x86/obj/EXECUTABLES/mksnapshot_intermediates/src/rewriter.o: \
+ external/v8/src/rewriter.cc \
+ system/core/include/arch/linux-x86/AndroidConfig.h external/v8/src/v8.h \
+ external/v8/src/../include/v8.h external/v8/src/../include/v8stdint.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ external/v8/src/v8globals.h external/v8/src/globals.h \
+ external/v8/src/v8checks.h external/v8/src/checks.h \
+ /usr/include/string.h /usr/include/xlocale.h \
+ external/v8/src/allocation.h external/v8/src/v8utils.h \
+ external/v8/src/utils.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/types.h \
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/alloca.h external/v8/src/flags.h \
+ external/v8/src/flag-definitions.h external/v8/src/objects-inl.h \
+ external/v8/src/objects.h external/v8/src/builtins.h \
+ external/v8/src/smart-pointer.h external/v8/src/unicode-inl.h \
+ external/v8/src/unicode.h external/v8/src/arm/constants-arm.h \
+ external/v8/src/contexts.h external/v8/src/heap.h /usr/include/math.h \
+ /usr/include/bits/huge_val.h /usr/include/bits/huge_valf.h \
+ /usr/include/bits/huge_vall.h /usr/include/bits/inf.h \
+ /usr/include/bits/nan.h /usr/include/bits/mathdef.h \
+ /usr/include/bits/mathcalls.h /usr/include/bits/mathinline.h \
+ external/v8/src/spaces.h external/v8/src/list-inl.h \
+ external/v8/src/list.h external/v8/src/log.h external/v8/src/platform.h \
+ external/v8/src/log-utils.h external/v8/src/splay-tree-inl.h \
+ external/v8/src/splay-tree.h external/v8/src/v8-counters.h \
+ external/v8/src/counters.h external/v8/src/conversions-inl.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/float.h \
+ external/v8/src/conversions.h external/v8/src/memory.h \
+ external/v8/src/property.h external/v8/src/spaces-inl.h \
+ external/v8/src/heap-inl.h external/v8/src/log-inl.h \
+ external/v8/src/cpu-profiler.h external/v8/src/circular-queue.h \
+ external/v8/src/unbound-queue.h external/v8/src/cpu-profiler-inl.h \
+ external/v8/src/circular-queue-inl.h \
+ external/v8/src/profile-generator-inl.h \
+ external/v8/src/profile-generator.h external/v8/src/hashmap.h \
+ external/v8/src/../include/v8-profiler.h external/v8/src/../include/v8.h \
+ external/v8/src/unbound-queue-inl.h external/v8/src/handles-inl.h \
+ external/v8/src/apiutils.h external/v8/src/handles.h \
+ external/v8/src/api.h external/v8/src/factory.h \
+ external/v8/src/vm-state-inl.h external/v8/src/vm-state.h \
+ external/v8/src/top.h external/v8/src/frames-inl.h \
+ external/v8/src/frames.h external/v8/src/arm/frames-arm.h \
+ external/v8/src/simulator.h external/v8/src/arm/simulator-arm.h \
+ external/v8/src/allocation.h external/v8/src/arm/constants-arm.h \
+ external/v8/src/hashmap.h external/v8/src/rewriter.h \
+ external/v8/src/ast.h external/v8/src/execution.h \
+ external/v8/src/jsregexp.h external/v8/src/macro-assembler.h \
+ external/v8/src/assembler.h external/v8/src/runtime.h \
+ external/v8/src/token.h external/v8/src/arm/assembler-arm.h \
+ external/v8/src/assembler.h external/v8/src/serialize.h \
+ external/v8/src/arm/assembler-arm-inl.h \
+ external/v8/src/arm/assembler-arm.h external/v8/src/cpu.h \
+ external/v8/src/debug.h external/v8/src/debug-agent.h \
+ external/v8/src/../include/v8-debug.h external/v8/src/string-stream.h \
+ external/v8/src/v8threads.h external/v8/src/code.h \
+ external/v8/src/arm/macro-assembler-arm.h external/v8/src/zone-inl.h \
+ external/v8/src/zone.h external/v8/src/jump-target.h \
+ external/v8/src/jump-target-light.h external/v8/src/virtual-frame.h \
+ external/v8/src/frame-element.h external/v8/src/type-info.h \
+ external/v8/src/arm/virtual-frame-arm.h \
+ external/v8/src/register-allocator.h \
+ external/v8/src/arm/register-allocator-arm.h external/v8/src/variables.h \
+ external/v8/src/compiler.h external/v8/src/register-allocator.h \
+ external/v8/src/scopes.h
+ external/v8/src/rewriter.cc :
+ system/core/include/arch/linux-x86/AndroidConfig.h external/v8/src/v8.h :
+ external/v8/src/../include/v8.h external/v8/src/../include/v8stdint.h :
+ /usr/include/stdio.h /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h :
+ /usr/include/bits/stdio.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/bits/wchar.h :
+ external/v8/src/v8globals.h external/v8/src/globals.h :
+ external/v8/src/v8checks.h external/v8/src/checks.h :
+ /usr/include/string.h /usr/include/xlocale.h :
+ external/v8/src/allocation.h external/v8/src/v8utils.h :
+ external/v8/src/utils.h /usr/include/stdlib.h :
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h :
+ /usr/include/endian.h /usr/include/bits/endian.h :
+ /usr/include/bits/byteswap.h /usr/include/sys/types.h :
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h :
+ /usr/include/bits/sigset.h /usr/include/bits/time.h :
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h :
+ /usr/include/alloca.h external/v8/src/flags.h :
+ external/v8/src/flag-definitions.h external/v8/src/objects-inl.h :
+ external/v8/src/objects.h external/v8/src/builtins.h :
+ external/v8/src/smart-pointer.h external/v8/src/unicode-inl.h :
+ external/v8/src/unicode.h external/v8/src/arm/constants-arm.h :
+ external/v8/src/contexts.h external/v8/src/heap.h /usr/include/math.h :
+ /usr/include/bits/huge_val.h /usr/include/bits/huge_valf.h :
+ /usr/include/bits/huge_vall.h /usr/include/bits/inf.h :
+ /usr/include/bits/nan.h /usr/include/bits/mathdef.h :
+ /usr/include/bits/mathcalls.h /usr/include/bits/mathinline.h :
+ external/v8/src/spaces.h external/v8/src/list-inl.h :
+ external/v8/src/list.h external/v8/src/log.h external/v8/src/platform.h :
+ external/v8/src/log-utils.h external/v8/src/splay-tree-inl.h :
+ external/v8/src/splay-tree.h external/v8/src/v8-counters.h :
+ external/v8/src/counters.h external/v8/src/conversions-inl.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/float.h :
+ external/v8/src/conversions.h external/v8/src/memory.h :
+ external/v8/src/property.h external/v8/src/spaces-inl.h :
+ external/v8/src/heap-inl.h external/v8/src/log-inl.h :
+ external/v8/src/cpu-profiler.h external/v8/src/circular-queue.h :
+ external/v8/src/unbound-queue.h external/v8/src/cpu-profiler-inl.h :
+ external/v8/src/circular-queue-inl.h :
+ external/v8/src/profile-generator-inl.h :
+ external/v8/src/profile-generator.h external/v8/src/hashmap.h :
+ external/v8/src/../include/v8-profiler.h external/v8/src/../include/v8.h :
+ external/v8/src/unbound-queue-inl.h external/v8/src/handles-inl.h :
+ external/v8/src/apiutils.h external/v8/src/handles.h :
+ external/v8/src/api.h external/v8/src/factory.h :
+ external/v8/src/vm-state-inl.h external/v8/src/vm-state.h :
+ external/v8/src/top.h external/v8/src/frames-inl.h :
+ external/v8/src/frames.h external/v8/src/arm/frames-arm.h :
+ external/v8/src/simulator.h external/v8/src/arm/simulator-arm.h :
+ external/v8/src/allocation.h external/v8/src/arm/constants-arm.h :
+ external/v8/src/hashmap.h external/v8/src/rewriter.h :
+ external/v8/src/ast.h external/v8/src/execution.h :
+ external/v8/src/jsregexp.h external/v8/src/macro-assembler.h :
+ external/v8/src/assembler.h external/v8/src/runtime.h :
+ external/v8/src/token.h external/v8/src/arm/assembler-arm.h :
+ external/v8/src/assembler.h external/v8/src/serialize.h :
+ external/v8/src/arm/assembler-arm-inl.h :
+ external/v8/src/arm/assembler-arm.h external/v8/src/cpu.h :
+ external/v8/src/debug.h external/v8/src/debug-agent.h :
+ external/v8/src/../include/v8-debug.h external/v8/src/string-stream.h :
+ external/v8/src/v8threads.h external/v8/src/code.h :
+ external/v8/src/arm/macro-assembler-arm.h external/v8/src/zone-inl.h :
+ external/v8/src/zone.h external/v8/src/jump-target.h :
+ external/v8/src/jump-target-light.h external/v8/src/virtual-frame.h :
+ external/v8/src/frame-element.h external/v8/src/type-info.h :
+ external/v8/src/arm/virtual-frame-arm.h :
+ external/v8/src/register-allocator.h :
+ external/v8/src/arm/register-allocator-arm.h external/v8/src/variables.h :
+ external/v8/src/compiler.h external/v8/src/register-allocator.h :
+ external/v8/src/scopes.h :

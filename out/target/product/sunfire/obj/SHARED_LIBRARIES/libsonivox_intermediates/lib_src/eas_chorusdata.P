@@ -1,0 +1,11 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libsonivox_intermediates/lib_src/eas_chorusdata.o: \
+ external/sonivox/arm-wt-22k/lib_src/eas_chorusdata.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/sonivox/arm-wt-22k/lib_src/eas_chorusdata.h \
+ external/sonivox/arm-wt-22k/host_src/eas_types.h \
+ external/sonivox/arm-wt-22k/lib_src/eas_audioconst.h
+ external/sonivox/arm-wt-22k/lib_src/eas_chorusdata.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/sonivox/arm-wt-22k/lib_src/eas_chorusdata.h :
+ external/sonivox/arm-wt-22k/host_src/eas_types.h :
+ external/sonivox/arm-wt-22k/lib_src/eas_audioconst.h :

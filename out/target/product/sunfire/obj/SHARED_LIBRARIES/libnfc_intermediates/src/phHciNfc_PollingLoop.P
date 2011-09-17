@@ -1,0 +1,57 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libnfc_intermediates/src/phHciNfc_PollingLoop.o: \
+ external/libnfc-nxp/src/phHciNfc_PollingLoop.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/libnfc-nxp/inc/phNfcCompId.h \
+ external/libnfc-nxp/inc/phNfcHalTypes.h \
+ external/libnfc-nxp/inc/phNfcTypes.h bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ external/libnfc-nxp/inc/phNfcConfig.h \
+ external/libnfc-nxp/src/phHciNfc_Pipe.h \
+ external/libnfc-nxp/src/phHciNfc.h external/libnfc-nxp/inc/phNfcStatus.h \
+ external/libnfc-nxp/inc/phNfcInterface.h bionic/libc/include/string.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/malloc.h external/libnfc-nxp/src/phHciNfc_Generic.h \
+ external/libnfc-nxp/inc/phNfcIoctlCode.h \
+ external/libnfc-nxp/inc/phDbgTrace.h bionic/libc/include/stdio.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ bionic/libc/include/sys/types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h \
+ external/libnfc-nxp/src/phHciNfc_PollingLoop.h \
+ external/libnfc-nxp/src/phOsalNfc.h bionic/libc/include/memory.h
+ external/libnfc-nxp/src/phHciNfc_PollingLoop.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/libnfc-nxp/inc/phNfcCompId.h :
+ external/libnfc-nxp/inc/phNfcHalTypes.h :
+ external/libnfc-nxp/inc/phNfcTypes.h bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ external/libnfc-nxp/inc/phNfcConfig.h :
+ external/libnfc-nxp/src/phHciNfc_Pipe.h :
+ external/libnfc-nxp/src/phHciNfc.h external/libnfc-nxp/inc/phNfcStatus.h :
+ external/libnfc-nxp/inc/phNfcInterface.h bionic/libc/include/string.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/malloc.h external/libnfc-nxp/src/phHciNfc_Generic.h :
+ external/libnfc-nxp/inc/phNfcIoctlCode.h :
+ external/libnfc-nxp/inc/phDbgTrace.h bionic/libc/include/stdio.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ bionic/libc/include/sys/types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h :
+ external/libnfc-nxp/src/phHciNfc_PollingLoop.h :
+ external/libnfc-nxp/src/phOsalNfc.h bionic/libc/include/memory.h :

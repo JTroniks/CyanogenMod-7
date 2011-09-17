@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:25
+-keep class com.example.android.simplewiktionary.WordWidget { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.example.android.simplewiktionary.WordWidget$UpdateService { <init>(...); }
+

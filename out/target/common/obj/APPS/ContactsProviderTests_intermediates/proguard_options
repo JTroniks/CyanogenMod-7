@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:41
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.android.providers.contacts.tests.MockSyncAdapter { <init>(...); }
+

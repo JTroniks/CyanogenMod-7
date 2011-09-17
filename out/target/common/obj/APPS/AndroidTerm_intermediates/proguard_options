@@ -1,0 +1,12 @@
+# view res/layout/term_activity.xml #generated:24
+-keep class jackpal.androidterm2.EmulatorView { <init>(...); }
+
+# view AndroidManifest.xml #generated:9
+-keep class jackpal.androidterm2.Term { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class jackpal.androidterm2.TermPreferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class jackpal.androidterm2.TermService { <init>(...); }
+

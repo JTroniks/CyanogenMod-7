@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/EXECUTABLES/busybox_intermediates/android/libc/arch-arm/syscalls/swapon.o: \
+ external/busybox/android/libc/arch-arm/syscalls/swapon.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/busybox/include-full/autoconf.h \
+ bionic/libc/kernel/arch-arm/asm/unistd.h
+ external/busybox/android/libc/arch-arm/syscalls/swapon.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/busybox/include-full/autoconf.h :
+ bionic/libc/kernel/arch-arm/asm/unistd.h :

@@ -1,0 +1,5 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libdvm_intermediates/alloc/clz.o: \
+ dalvik/vm/alloc/clz.c system/core/include/arch/linux-x86/AndroidConfig.h \
+ dalvik/vm/alloc/clz.h
+ dalvik/vm/alloc/clz.c system/core/include/arch/linux-x86/AndroidConfig.h :
+ dalvik/vm/alloc/clz.h :

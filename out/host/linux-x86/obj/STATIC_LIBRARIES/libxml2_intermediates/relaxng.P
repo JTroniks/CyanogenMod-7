@@ -1,0 +1,29 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libxml2_intermediates/relaxng.o: \
+ external/libxml2/relaxng.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/libxml2/libxml.h external/libxml2/config.h \
+ external/libxml2/include/libxml/xmlversion.h \
+ external/libxml2/include/libxml/xmlexports.h /usr/include/stdio.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h
+ external/libxml2/relaxng.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/libxml2/libxml.h external/libxml2/config.h :
+ external/libxml2/include/libxml/xmlversion.h :
+ external/libxml2/include/libxml/xmlexports.h /usr/include/stdio.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h :
+ /usr/include/bits/stdio.h :

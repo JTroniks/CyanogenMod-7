@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:15
+-keep class com.cyanogenmod.screenshot.ScreenshotActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class com.cyanogenmod.screenshot.ScreenshotReceiver { <init>(...); }
+

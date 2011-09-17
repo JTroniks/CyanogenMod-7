@@ -1,0 +1,65 @@
+out/target/product/sunfire/obj/EXECUTABLES/sh_intermediates/alias.o: \
+ system/core/sh/alias.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/stdlib.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/string.h bionic/libc/include/malloc.h \
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h \
+ system/core/sh/shell.h bionic/libc/include/sys/param.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/kernel/common/linux/param.h \
+ bionic/libc/kernel/arch-arm/asm/param.h system/core/sh/input.h \
+ system/core/sh/output.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ system/core/sh/error.h bionic/libc/include/setjmp.h \
+ bionic/libc/arch-arm/include/machine/setjmp.h system/core/sh/memalloc.h \
+ system/core/sh/mystring.h system/core/sh/alias.h \
+ system/core/sh/options.h system/core/sh/var.h
+ system/core/sh/alias.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/stdlib.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/string.h bionic/libc/include/malloc.h :
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h :
+ system/core/sh/shell.h bionic/libc/include/sys/param.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/kernel/common/linux/param.h :
+ bionic/libc/kernel/arch-arm/asm/param.h system/core/sh/input.h :
+ system/core/sh/output.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ system/core/sh/error.h bionic/libc/include/setjmp.h :
+ bionic/libc/arch-arm/include/machine/setjmp.h system/core/sh/memalloc.h :
+ system/core/sh/mystring.h system/core/sh/alias.h :
+ system/core/sh/options.h system/core/sh/var.h :

@@ -1,0 +1,298 @@
+# view AndroidManifest.xml #generated:10
+-keep class com.android.lotsofapps.00 { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.android.lotsofapps.01 { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.android.lotsofapps.02 { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.android.lotsofapps.03 { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.android.lotsofapps.04 { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.android.lotsofapps.05 { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.android.lotsofapps.06 { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.android.lotsofapps.07 { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.android.lotsofapps.08 { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.android.lotsofapps.09 { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.android.lotsofapps.10 { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.android.lotsofapps.11 { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class com.android.lotsofapps.12 { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class com.android.lotsofapps.13 { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.android.lotsofapps.14 { <init>(...); }
+
+# view AndroidManifest.xml #generated:115
+-keep class com.android.lotsofapps.15 { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class com.android.lotsofapps.16 { <init>(...); }
+
+# view AndroidManifest.xml #generated:129
+-keep class com.android.lotsofapps.17 { <init>(...); }
+
+# view AndroidManifest.xml #generated:136
+-keep class com.android.lotsofapps.18 { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.android.lotsofapps.19 { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+# view AndroidManifest.xml #generated:220
+-keep class com.android.lotsofapps.20 { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.android.lotsofapps.21 { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class com.android.lotsofapps.22 { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class com.android.lotsofapps.23 { <init>(...); }
+
+# view AndroidManifest.xml #generated:178
+-keep class com.android.lotsofapps.24 { <init>(...); }
+
+# view AndroidManifest.xml #generated:185
+-keep class com.android.lotsofapps.25 { <init>(...); }
+
+# view AndroidManifest.xml #generated:192
+-keep class com.android.lotsofapps.26 { <init>(...); }
+
+# view AndroidManifest.xml #generated:199
+-keep class com.android.lotsofapps.27 { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class com.android.lotsofapps.28 { <init>(...); }
+
+# view AndroidManifest.xml #generated:213
+-keep class com.android.lotsofapps.29 { <init>(...); }
+
+# view AndroidManifest.xml #generated:227
+-keep class com.android.lotsofapps.31 { <init>(...); }
+
+# view AndroidManifest.xml #generated:234
+-keep class com.android.lotsofapps.32 { <init>(...); }
+
+# view AndroidManifest.xml #generated:241
+-keep class com.android.lotsofapps.33 { <init>(...); }
+
+# view AndroidManifest.xml #generated:248
+-keep class com.android.lotsofapps.34 { <init>(...); }
+
+# view AndroidManifest.xml #generated:255
+-keep class com.android.lotsofapps.35 { <init>(...); }
+
+# view AndroidManifest.xml #generated:262
+-keep class com.android.lotsofapps.36 { <init>(...); }
+
+# view AndroidManifest.xml #generated:269
+-keep class com.android.lotsofapps.37 { <init>(...); }
+
+# view AndroidManifest.xml #generated:276
+-keep class com.android.lotsofapps.38 { <init>(...); }
+
+# view AndroidManifest.xml #generated:283
+-keep class com.android.lotsofapps.39 { <init>(...); }
+
+# view AndroidManifest.xml #generated:290
+-keep class com.android.lotsofapps.40 { <init>(...); }
+
+# view AndroidManifest.xml #generated:297
+-keep class com.android.lotsofapps.41 { <init>(...); }
+
+# view AndroidManifest.xml #generated:304
+-keep class com.android.lotsofapps.42 { <init>(...); }
+
+# view AndroidManifest.xml #generated:311
+-keep class com.android.lotsofapps.43 { <init>(...); }
+
+# view AndroidManifest.xml #generated:318
+-keep class com.android.lotsofapps.44 { <init>(...); }
+
+# view AndroidManifest.xml #generated:325
+-keep class com.android.lotsofapps.45 { <init>(...); }
+
+# view AndroidManifest.xml #generated:332
+-keep class com.android.lotsofapps.46 { <init>(...); }
+
+# view AndroidManifest.xml #generated:339
+-keep class com.android.lotsofapps.47 { <init>(...); }
+
+# view AndroidManifest.xml #generated:346
+-keep class com.android.lotsofapps.48 { <init>(...); }
+
+# view AndroidManifest.xml #generated:353
+-keep class com.android.lotsofapps.49 { <init>(...); }
+
+# view AndroidManifest.xml #generated:360
+-keep class com.android.lotsofapps.50 { <init>(...); }
+
+# view AndroidManifest.xml #generated:367
+-keep class com.android.lotsofapps.51 { <init>(...); }
+
+# view AndroidManifest.xml #generated:374
+-keep class com.android.lotsofapps.52 { <init>(...); }
+
+# view AndroidManifest.xml #generated:381
+-keep class com.android.lotsofapps.53 { <init>(...); }
+
+# view AndroidManifest.xml #generated:388
+-keep class com.android.lotsofapps.54 { <init>(...); }
+
+# view AndroidManifest.xml #generated:395
+-keep class com.android.lotsofapps.55 { <init>(...); }
+
+# view AndroidManifest.xml #generated:402
+-keep class com.android.lotsofapps.56 { <init>(...); }
+
+# view AndroidManifest.xml #generated:409
+-keep class com.android.lotsofapps.57 { <init>(...); }
+
+# view AndroidManifest.xml #generated:416
+-keep class com.android.lotsofapps.58 { <init>(...); }
+
+# view AndroidManifest.xml #generated:423
+-keep class com.android.lotsofapps.59 { <init>(...); }
+
+# view AndroidManifest.xml #generated:430
+-keep class com.android.lotsofapps.60 { <init>(...); }
+
+# view AndroidManifest.xml #generated:437
+-keep class com.android.lotsofapps.61 { <init>(...); }
+
+# view AndroidManifest.xml #generated:444
+-keep class com.android.lotsofapps.62 { <init>(...); }
+
+# view AndroidManifest.xml #generated:451
+-keep class com.android.lotsofapps.63 { <init>(...); }
+
+# view AndroidManifest.xml #generated:458
+-keep class com.android.lotsofapps.64 { <init>(...); }
+
+# view AndroidManifest.xml #generated:465
+-keep class com.android.lotsofapps.65 { <init>(...); }
+
+# view AndroidManifest.xml #generated:472
+-keep class com.android.lotsofapps.66 { <init>(...); }
+
+# view AndroidManifest.xml #generated:479
+-keep class com.android.lotsofapps.67 { <init>(...); }
+
+# view AndroidManifest.xml #generated:486
+-keep class com.android.lotsofapps.68 { <init>(...); }
+
+# view AndroidManifest.xml #generated:493
+-keep class com.android.lotsofapps.69 { <init>(...); }
+
+# view AndroidManifest.xml #generated:500
+-keep class com.android.lotsofapps.70 { <init>(...); }
+
+# view AndroidManifest.xml #generated:507
+-keep class com.android.lotsofapps.71 { <init>(...); }
+
+# view AndroidManifest.xml #generated:514
+-keep class com.android.lotsofapps.72 { <init>(...); }
+
+# view AndroidManifest.xml #generated:521
+-keep class com.android.lotsofapps.73 { <init>(...); }
+
+# view AndroidManifest.xml #generated:528
+-keep class com.android.lotsofapps.74 { <init>(...); }
+
+# view AndroidManifest.xml #generated:535
+-keep class com.android.lotsofapps.75 { <init>(...); }
+
+# view AndroidManifest.xml #generated:542
+-keep class com.android.lotsofapps.76 { <init>(...); }
+
+# view AndroidManifest.xml #generated:549
+-keep class com.android.lotsofapps.77 { <init>(...); }
+
+# view AndroidManifest.xml #generated:556
+-keep class com.android.lotsofapps.78 { <init>(...); }
+
+# view AndroidManifest.xml #generated:563
+-keep class com.android.lotsofapps.79 { <init>(...); }
+
+# view AndroidManifest.xml #generated:570
+-keep class com.android.lotsofapps.80 { <init>(...); }
+
+# view AndroidManifest.xml #generated:577
+-keep class com.android.lotsofapps.81 { <init>(...); }
+
+# view AndroidManifest.xml #generated:584
+-keep class com.android.lotsofapps.82 { <init>(...); }
+
+# view AndroidManifest.xml #generated:591
+-keep class com.android.lotsofapps.83 { <init>(...); }
+
+# view AndroidManifest.xml #generated:598
+-keep class com.android.lotsofapps.84 { <init>(...); }
+
+# view AndroidManifest.xml #generated:605
+-keep class com.android.lotsofapps.85 { <init>(...); }
+
+# view AndroidManifest.xml #generated:612
+-keep class com.android.lotsofapps.86 { <init>(...); }
+
+# view AndroidManifest.xml #generated:619
+-keep class com.android.lotsofapps.87 { <init>(...); }
+
+# view AndroidManifest.xml #generated:626
+-keep class com.android.lotsofapps.88 { <init>(...); }
+
+# view AndroidManifest.xml #generated:633
+-keep class com.android.lotsofapps.89 { <init>(...); }
+
+# view AndroidManifest.xml #generated:640
+-keep class com.android.lotsofapps.90 { <init>(...); }
+
+# view AndroidManifest.xml #generated:647
+-keep class com.android.lotsofapps.91 { <init>(...); }
+
+# view AndroidManifest.xml #generated:654
+-keep class com.android.lotsofapps.92 { <init>(...); }
+
+# view AndroidManifest.xml #generated:661
+-keep class com.android.lotsofapps.93 { <init>(...); }
+
+# view AndroidManifest.xml #generated:668
+-keep class com.android.lotsofapps.94 { <init>(...); }
+
+# view AndroidManifest.xml #generated:675
+-keep class com.android.lotsofapps.95 { <init>(...); }
+
+# view AndroidManifest.xml #generated:682
+-keep class com.android.lotsofapps.96 { <init>(...); }
+
+# view AndroidManifest.xml #generated:689
+-keep class com.android.lotsofapps.97 { <init>(...); }
+
+# view AndroidManifest.xml #generated:696
+-keep class com.android.lotsofapps.98 { <init>(...); }
+
+# view AndroidManifest.xml #generated:703
+-keep class com.android.lotsofapps.99 { <init>(...); }
+

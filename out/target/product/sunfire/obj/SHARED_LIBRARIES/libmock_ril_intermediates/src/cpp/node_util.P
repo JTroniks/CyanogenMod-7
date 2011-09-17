@@ -1,0 +1,127 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libmock_ril_intermediates/src/cpp/node_util.o: \
+ hardware/ril/mock-ril/src/cpp/node_util.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/v8/include/v8.h external/v8/include/v8stdint.h \
+ external/stlport/stlport/stdio.h external/stlport/stlport/stl/_cprolog.h \
+ external/stlport/stlport/stl/config/features.h \
+ external/stlport/stlport/stl/_stlport_version.h \
+ external/stlport/stlport/stl/config/user_config.h \
+ external/stlport/stlport/stl/config/compat.h \
+ external/stlport/stlport/stl/config/host.h \
+ external/stlport/stlport/stl/config/_system.h \
+ external/stlport/stlport/stl/config/_android.h \
+ external/stlport/stlport/stl/config/_gcc.h \
+ external/stlport/stlport/stl/config/stl_confix.h \
+ external/stlport/stlport/stl/config/_native_headers.h \
+ bionic/libc/include/../include/stdio.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ external/stlport/stlport/stdarg.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/../include/stdarg.h \
+ external/stlport/stlport/stddef.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/../include/stddef.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h \
+ external/stlport/stlport/stl/_epilog.h \
+ external/stlport/stlport/stl/_config_compat_post.h \
+ external/stlport/stlport/string.h \
+ bionic/libc/include/../include/string.h bionic/libc/include/malloc.h \
+ hardware/ril/mock-ril/src/cpp/logging.h \
+ frameworks/base/include/utils/Log.h system/core/include/cutils/log.h \
+ external/stlport/stlport/time.h bionic/libc/include/../include/time.h \
+ bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h \
+ bionic/libc/kernel/arch-arm/asm/siginfo.h \
+ bionic/libc/kernel/common/asm-generic/siginfo.h \
+ bionic/libc/include/unistd.h bionic/libc/include/sys/select.h \
+ external/stlport/stlport/signal.h \
+ bionic/libc/include/../include/signal.h \
+ external/stlport/stlport/limits.h \
+ bionic/libc/include/../include/limits.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/kernel/arch-arm/asm/signal.h \
+ bionic/libc/kernel/common/asm-generic/signal.h \
+ bionic/libc/include/sys/sysconf.h \
+ bionic/libc/kernel/common/linux/capability.h \
+ bionic/libc/include/pathconf.h external/stlport/stlport/pthread.h \
+ external/stlport/stlport/stl/_prolog.h \
+ bionic/libc/include/../include/pthread.h bionic/libc/include/sched.h \
+ system/core/include/cutils/uio.h bionic/libc/include/sys/uio.h \
+ bionic/libc/kernel/common/linux/uio.h system/core/include/cutils/logd.h \
+ system/core/include/android/log.h \
+ hardware/ril/mock-ril/src/cpp/node_object_wrap.h \
+ external/stlport/stlport/assert.h \
+ bionic/libc/include/../include/assert.h \
+ hardware/ril/mock-ril/src/cpp/node_util.h
+ hardware/ril/mock-ril/src/cpp/node_util.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/v8/include/v8.h external/v8/include/v8stdint.h :
+ external/stlport/stlport/stdio.h external/stlport/stlport/stl/_cprolog.h :
+ external/stlport/stlport/stl/config/features.h :
+ external/stlport/stlport/stl/_stlport_version.h :
+ external/stlport/stlport/stl/config/user_config.h :
+ external/stlport/stlport/stl/config/compat.h :
+ external/stlport/stlport/stl/config/host.h :
+ external/stlport/stlport/stl/config/_system.h :
+ external/stlport/stlport/stl/config/_android.h :
+ external/stlport/stlport/stl/config/_gcc.h :
+ external/stlport/stlport/stl/config/stl_confix.h :
+ external/stlport/stlport/stl/config/_native_headers.h :
+ bionic/libc/include/../include/stdio.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ external/stlport/stlport/stdarg.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/../include/stdarg.h :
+ external/stlport/stlport/stddef.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/../include/stddef.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h :
+ external/stlport/stlport/stl/_epilog.h :
+ external/stlport/stlport/stl/_config_compat_post.h :
+ external/stlport/stlport/string.h :
+ bionic/libc/include/../include/string.h bionic/libc/include/malloc.h :
+ hardware/ril/mock-ril/src/cpp/logging.h :
+ frameworks/base/include/utils/Log.h system/core/include/cutils/log.h :
+ external/stlport/stlport/time.h bionic/libc/include/../include/time.h :
+ bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h :
+ bionic/libc/kernel/arch-arm/asm/siginfo.h :
+ bionic/libc/kernel/common/asm-generic/siginfo.h :
+ bionic/libc/include/unistd.h bionic/libc/include/sys/select.h :
+ external/stlport/stlport/signal.h :
+ bionic/libc/include/../include/signal.h :
+ external/stlport/stlport/limits.h :
+ bionic/libc/include/../include/limits.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/kernel/arch-arm/asm/signal.h :
+ bionic/libc/kernel/common/asm-generic/signal.h :
+ bionic/libc/include/sys/sysconf.h :
+ bionic/libc/kernel/common/linux/capability.h :
+ bionic/libc/include/pathconf.h external/stlport/stlport/pthread.h :
+ external/stlport/stlport/stl/_prolog.h :
+ bionic/libc/include/../include/pthread.h bionic/libc/include/sched.h :
+ system/core/include/cutils/uio.h bionic/libc/include/sys/uio.h :
+ bionic/libc/kernel/common/linux/uio.h system/core/include/cutils/logd.h :
+ system/core/include/android/log.h :
+ hardware/ril/mock-ril/src/cpp/node_object_wrap.h :
+ external/stlport/stlport/assert.h :
+ bionic/libc/include/../include/assert.h :
+ hardware/ril/mock-ril/src/cpp/node_util.h :

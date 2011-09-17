@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:34
+-keep class com.android.wallpaper.livepicker.LiveWallpaperListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.android.wallpaper.livepicker.LiveWallpaperPreview { <init>(...); }
+

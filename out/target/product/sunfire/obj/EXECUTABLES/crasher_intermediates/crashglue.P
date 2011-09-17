@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/EXECUTABLES/crasher_intermediates/crashglue.o: \
+ system/core/debuggerd/crashglue.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ system/core/debuggerd/crashglue.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

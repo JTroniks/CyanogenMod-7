@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libfdlibm_intermediates/w_jn.o: \
+ external/fdlibm/w_jn.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/fdlibm/fdlibm.h
+ external/fdlibm/w_jn.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/fdlibm/fdlibm.h :

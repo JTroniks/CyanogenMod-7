@@ -1,0 +1,4 @@
+out/target/common/obj/APPS/Phone_intermediates/src/src/com/android/phone/INetworkQueryService.java: \
+  packages/apps/Phone/src/com/android/phone/INetworkQueryService.aidl \
+  packages/apps/Phone/src/com/android/phone/INetworkQueryServiceCallback.aidl 
+

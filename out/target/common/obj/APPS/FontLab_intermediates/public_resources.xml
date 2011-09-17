@@ -1,0 +1,19 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/font_lab.xml:0 -->
+  <public type="layout" name="font_lab" id="0x7f020000" />
+
+  <!-- Declared at development/apps/FontLab/res/layout/font_lab.xml:17 -->
+  <public type="id" name="content" id="0x7f030000" />
+  <!-- Declared at development/apps/FontLab/res/layout/font_lab.xml:24 -->
+  <public type="id" name="column1" id="0x7f030001" />
+  <!-- Declared at development/apps/FontLab/res/layout/font_lab.xml:26 -->
+  <public type="id" name="column2" id="0x7f030002" />
+
+</resources>

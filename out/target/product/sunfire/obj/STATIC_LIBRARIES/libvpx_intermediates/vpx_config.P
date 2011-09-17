@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libvpx_intermediates/vpx_config.o: \
+ external/libvpx/vpx_config.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/libvpx/vpx_config.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

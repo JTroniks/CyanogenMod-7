@@ -1,0 +1,37 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libext4_utils_intermediates/sha1.o: \
+ system/extras/ext4_utils/sha1.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ /usr/include/sys/cdefs.h /usr/include/features.h \
+ /usr/include/bits/predefs.h /usr/include/gnu/stubs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs-32.h \
+ /usr/include/sys/types.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/time.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/assert.h \
+ /usr/include/string.h /usr/include/xlocale.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/stdlib.h \
+ system/extras/ext4_utils/sha1.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h
+ system/extras/ext4_utils/sha1.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ /usr/include/sys/cdefs.h /usr/include/features.h :
+ /usr/include/bits/predefs.h /usr/include/gnu/stubs.h :
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs-32.h :
+ /usr/include/sys/types.h /usr/include/bits/types.h :
+ /usr/include/bits/typesizes.h /usr/include/time.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/endian.h /usr/include/bits/endian.h :
+ /usr/include/bits/byteswap.h /usr/include/sys/select.h :
+ /usr/include/bits/select.h /usr/include/bits/sigset.h :
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h :
+ /usr/include/bits/pthreadtypes.h /usr/include/assert.h :
+ /usr/include/string.h /usr/include/xlocale.h /usr/include/bits/string.h :
+ /usr/include/bits/string2.h /usr/include/stdlib.h :
+ system/extras/ext4_utils/sha1.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/bits/wchar.h :

@@ -1,0 +1,75 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libnfc_intermediates/Linux_x86/phDal4Nfc_messageQueueLib.o: \
+ external/libnfc-nxp/Linux_x86/phDal4Nfc_messageQueueLib.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/pthread.h bionic/libc/include/time.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/sys/time.h bionic/libc/include/sys/types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h \
+ bionic/libc/kernel/common/linux/time.h \
+ bionic/libc/kernel/arch-arm/asm/siginfo.h \
+ bionic/libc/kernel/common/asm-generic/siginfo.h \
+ bionic/libc/include/signal.h bionic/libc/include/limits.h \
+ bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/kernel/arch-arm/asm/signal.h \
+ bionic/libc/kernel/common/asm-generic/signal.h \
+ bionic/libc/include/sched.h bionic/libc/kernel/common/linux/ipc.h \
+ bionic/libc/kernel/arch-arm/asm/ipcbuf.h bionic/libc/include/semaphore.h \
+ external/libnfc-nxp/src/phDal4Nfc.h external/libnfc-nxp/inc/phNfcTypes.h \
+ external/libnfc-nxp/inc/phNfcInterface.h \
+ external/libnfc-nxp/inc/phNfcHalTypes.h \
+ external/libnfc-nxp/inc/phNfcCompId.h \
+ external/libnfc-nxp/inc/phNfcConfig.h \
+ external/libnfc-nxp/src/phOsalNfc.h bionic/libc/include/memory.h \
+ external/libnfc-nxp/src/phDal4Nfc_DeferredCall.h \
+ external/libnfc-nxp/src/phDal4Nfc_messageQueueLib.h
+ external/libnfc-nxp/Linux_x86/phDal4Nfc_messageQueueLib.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/pthread.h bionic/libc/include/time.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/sys/time.h bionic/libc/include/sys/types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h :
+ bionic/libc/kernel/common/linux/time.h :
+ bionic/libc/kernel/arch-arm/asm/siginfo.h :
+ bionic/libc/kernel/common/asm-generic/siginfo.h :
+ bionic/libc/include/signal.h bionic/libc/include/limits.h :
+ bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/kernel/arch-arm/asm/signal.h :
+ bionic/libc/kernel/common/asm-generic/signal.h :
+ bionic/libc/include/sched.h bionic/libc/kernel/common/linux/ipc.h :
+ bionic/libc/kernel/arch-arm/asm/ipcbuf.h bionic/libc/include/semaphore.h :
+ external/libnfc-nxp/src/phDal4Nfc.h external/libnfc-nxp/inc/phNfcTypes.h :
+ external/libnfc-nxp/inc/phNfcInterface.h :
+ external/libnfc-nxp/inc/phNfcHalTypes.h :
+ external/libnfc-nxp/inc/phNfcCompId.h :
+ external/libnfc-nxp/inc/phNfcConfig.h :
+ external/libnfc-nxp/src/phOsalNfc.h bionic/libc/include/memory.h :
+ external/libnfc-nxp/src/phDal4Nfc_DeferredCall.h :
+ external/libnfc-nxp/src/phDal4Nfc_messageQueueLib.h :

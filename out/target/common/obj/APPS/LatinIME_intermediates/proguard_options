@@ -1,0 +1,32 @@
+# view res/layout/candidates.xml #generated:29
+-keep class com.android.inputmethod.latin.CandidateView { <init>(...); }
+
+# view res/xml/prefs.xml #generated:71
+-keep class com.android.inputmethod.latin.DialogSeekBarPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.android.inputmethod.latin.InputLanguageSelection { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.android.inputmethod.latin.LatinIME { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class com.android.inputmethod.latin.LatinIMEBackupAgent { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.android.inputmethod.latin.LatinIMEDebugSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.android.inputmethod.latin.LatinIMESettings { <init>(...); }
+
+# view res/layout/input_stone_popup.xml #generated:28
+# view res/layout/keyboard_popup.xml #generated:29
+-keep class com.android.inputmethod.latin.LatinKeyboardBaseView { <init>(...); }
+
+# view res/layout/input_basic.xml #generated:21
+# view res/layout/input_basic_highcontrast.xml #generated:21
+# view res/layout/input_gingerbread.xml #generated:21
+# view res/layout/input_stone_bold.xml #generated:21
+# view res/layout/input_stone_normal.xml #generated:21
+-keep class com.android.inputmethod.latin.LatinKeyboardView { <init>(...); }
+

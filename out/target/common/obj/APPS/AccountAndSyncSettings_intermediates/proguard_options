@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:27
+-keep class com.android.settings.AccountSyncSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.android.settings.AccountSyncSettingsInAddAccount { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.android.settings.AddAccountSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.android.settings.ManageAccountsSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.android.settings.SyncActivityTooManyDeletes { <init>(...); }
+

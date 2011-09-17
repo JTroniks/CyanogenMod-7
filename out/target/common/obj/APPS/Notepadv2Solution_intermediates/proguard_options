@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:10
+-keep class com.android.demo.notepad2.NoteEdit { <init>(...); }
+
+# view AndroidManifest.xml #generated:4
+-keep class com.android.demo.notepad2.Notepadv2 { <init>(...); }
+

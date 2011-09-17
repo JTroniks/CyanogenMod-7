@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:25
+-keep class com.android.locationtracker.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.android.locationtracker.TrackerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.android.locationtracker.TrackerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.android.locationtracker.data.TrackerProvider { <init>(...); }
+

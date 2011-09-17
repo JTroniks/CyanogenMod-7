@@ -1,0 +1,3 @@
+out/target/common/obj/APPS/Music_intermediates/src/src/com/android/music/IMediaPlaybackService.java: \
+  packages/apps/Music/src/com/android/music/IMediaPlaybackService.aidl \
+

@@ -1,0 +1,31 @@
+# view AndroidManifest.xml #generated:16
+-keep class com.noshufou.android.su.AppListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.noshufou.android.su.InstallReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.noshufou.android.su.LogActivity { <init>(...); }
+
+# view res/layout/app_list.xml #generated:7
+# view res/layout/log_list.xml #generated:7
+-keep class com.noshufou.android.su.PinnedHeaderListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:8
+-keep class com.noshufou.android.su.Su { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.noshufou.android.su.SuNotificationReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.noshufou.android.su.SuPreferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.noshufou.android.su.SuRequest { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.noshufou.android.su.SuRequestReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.noshufou.android.su.UninstallReceiver { <init>(...); }
+

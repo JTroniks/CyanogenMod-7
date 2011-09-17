@@ -1,0 +1,19 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libFFTEm_intermediates/Embedded/common/src/b_BasicEm/Memory.o: \
+ external/neven/Embedded/common/src/b_BasicEm/Memory.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/neven/Embedded/common/src/b_BasicEm/Memory.h \
+ external/neven/Embedded/common/src/b_BasicEm/Basic.h \
+ external/neven/Embedded/common/conf/../conf/b_BasicEm/LibConfig.h \
+ external/neven/Embedded/common/src/b_BasicEm/Config.h \
+ external/neven/Embedded/common/src/b_BasicEm/Functions.h \
+ external/neven/Embedded/common/src/b_BasicEm/String.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h
+ external/neven/Embedded/common/src/b_BasicEm/Memory.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/neven/Embedded/common/src/b_BasicEm/Memory.h :
+ external/neven/Embedded/common/src/b_BasicEm/Basic.h :
+ external/neven/Embedded/common/conf/../conf/b_BasicEm/LibConfig.h :
+ external/neven/Embedded/common/src/b_BasicEm/Config.h :
+ external/neven/Embedded/common/src/b_BasicEm/Functions.h :
+ external/neven/Embedded/common/src/b_BasicEm/String.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :

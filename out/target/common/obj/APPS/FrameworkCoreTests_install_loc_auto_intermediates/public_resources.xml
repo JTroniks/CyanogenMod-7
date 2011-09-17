@@ -1,0 +1,12 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at frameworks/base/core/tests/coretests/apks/install_loc_auto/res/values/strings.xml:5 -->
+  <public type="string" name="dummy" id="0x7f020000" />
+
+</resources>

@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/view/accessibility/IAccessibilityManager.java: \
+  frameworks/base/core/java/android/view/accessibility/IAccessibilityManager.aidl \
+  frameworks/base/core/java/android/view/accessibility/AccessibilityEvent.aidl \
+  frameworks/base/core/java/android/view/accessibility/IAccessibilityManagerClient.aidl \
+  frameworks/base/core/java/android/content/pm/ServiceInfo.aidl 
+

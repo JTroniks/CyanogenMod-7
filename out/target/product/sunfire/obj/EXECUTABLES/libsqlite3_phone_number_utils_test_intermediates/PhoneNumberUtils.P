@@ -1,0 +1,13 @@
+out/target/product/sunfire/obj/EXECUTABLES/libsqlite3_phone_number_utils_test_intermediates/PhoneNumberUtils.o: \
+ external/sqlite/android/PhoneNumberUtils.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/ctype.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/string.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/malloc.h
+ external/sqlite/android/PhoneNumberUtils.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/ctype.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/string.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/malloc.h :

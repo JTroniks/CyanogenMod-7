@@ -1,0 +1,116 @@
+# view res/layout-finger/contacts_list_item_photo.xml #generated:83
+# view res/layout-finger/recent_calls_list_group_item.xml #generated:124
+# view res/layout-finger/recent_calls_list_item_layout.xml #generated:82
+-keep class android.widget.QuickContactBadge { <init>(...); }
+
+# view AndroidManifest.xml #generated:405
+-keep class com.android.contacts.AttachImage { <init>(...); }
+
+# view AndroidManifest.xml #generated:340
+-keep class com.android.contacts.CallDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:395
+-keep class com.android.contacts.ContactOptionsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.android.contacts.ContactsListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:243
+-keep class com.android.contacts.ContactsListActivity$ContactsSearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:232
+-keep class com.android.contacts.ContactsListActivity$JoinContactActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:423
+-keep class com.android.contacts.ContactsLiveFolders$AllContacts { <init>(...); }
+
+# view AndroidManifest.xml #generated:443
+-keep class com.android.contacts.ContactsLiveFolders$PhoneContacts { <init>(...); }
+
+# view AndroidManifest.xml #generated:433
+-keep class com.android.contacts.ContactsLiveFolders$StarredContacts { <init>(...); }
+
+# view AndroidManifest.xml #generated:467
+-keep class com.android.contacts.ContactsPreferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.android.contacts.DialtactsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:463
+-keep class com.android.contacts.ExportVCardActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:453
+-keep class com.android.contacts.ImportVCardActivity { <init>(...); }
+
+# view res/layout-finger/contacts_list_content.xml #generated:25
+# view res/layout-finger/contacts_list_search_results.xml #generated:55
+-keep class com.android.contacts.PinnedHeaderListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.android.contacts.RecentCallsListActivity { <init>(...); }
+
+# view res/layout-finger/search_bar.xml #generated:54
+-keep class com.android.contacts.SearchEditText { <init>(...); }
+
+# view AndroidManifest.xml #generated:255
+-keep class com.android.contacts.SearchResultsActivity { <init>(...); }
+
+# view res/layout-finger/tab_layout.xml #generated:25
+-keep class com.android.contacts.TabStripView { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.android.contacts.TwelveKeyDialer { <init>(...); }
+
+# view AndroidManifest.xml #generated:352
+-keep class com.android.contacts.ViewContactActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:270
+-keep class com.android.contacts.ui.ContactsPreferencesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:366
+-keep class com.android.contacts.ui.EditContactActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:286
+-keep class com.android.contacts.ui.QuickContactActivity { <init>(...); }
+
+# view res/layout-finger/quickcontact.xml #generated:17
+-keep class com.android.contacts.ui.QuickContactWindow$RootLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:272
+-keep class com.android.contacts.ui.ShowOrCreateActivity { <init>(...); }
+
+# view res/layout-finger/quickcontact_item.xml #generated:17
+-keep class com.android.contacts.ui.widget.CheckableImageView { <init>(...); }
+
+# view res/layout/item_contact_editor.xml #generated:18
+-keep class com.android.contacts.ui.widget.ContactEditorView { <init>(...); }
+
+# view res/layout-finger/contacts_list_item.xml #generated:66
+# view res/layout-finger/contacts_list_item_photo.xml #generated:66
+# view res/layout-finger/recent_calls_list_child_item.xml #generated:24
+# view res/layout-finger/recent_calls_list_group_item.xml #generated:23
+# view res/layout-finger/recent_calls_list_item.xml #generated:23
+-keep class com.android.contacts.ui.widget.DontPressWithParentImageView { <init>(...); }
+
+# view res/layout/item_generic_editor.xml #generated:17
+-keep class com.android.contacts.ui.widget.GenericEditorView { <init>(...); }
+
+# view res/layout/item_kind_section.xml #generated:19
+-keep class com.android.contacts.ui.widget.KindSectionView { <init>(...); }
+
+# view res/layout/item_photo_editor.xml #generated:17
+-keep class com.android.contacts.ui.widget.PhotoEditorView { <init>(...); }
+
+# view res/layout/item_read_only_contact_editor.xml #generated:18
+-keep class com.android.contacts.ui.widget.ReadOnlyContactEditorView { <init>(...); }
+
+# view AndroidManifest.xml #generated:390
+-keep class com.android.contacts.util.EmptyService { <init>(...); }
+
+# view res/layout-finger/contact_card_layout.xml #generated:23
+-keep class com.android.internal.widget.ContactHeaderWidget { <init>(...); }
+
+# view res/layout-finger/dialpad.xml #generated:20
+# view res/layout-long-finger/dialpad.xml #generated:21
+-keep class com.android.phone.ButtonGridLayout { <init>(...); }
+

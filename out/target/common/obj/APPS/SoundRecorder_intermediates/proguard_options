@@ -1,0 +1,7 @@
+# view AndroidManifest.xml #generated:28
+-keep class com.android.soundrecorder.SoundRecorder { <init>(...); }
+
+# view res/layout-land/main.xml #generated:113
+# view res/layout-port/main.xml #generated:110
+-keep class com.android.soundrecorder.VUMeter { <init>(...); }
+

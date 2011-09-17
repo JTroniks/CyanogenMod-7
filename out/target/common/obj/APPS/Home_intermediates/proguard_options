@@ -1,0 +1,10 @@
+# view res/layout-land/home.xml #generated:41
+# view res/layout-port/home.xml #generated:41
+-keep class com.example.android.home.ApplicationsStackLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.example.android.home.Home { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.example.android.home.Wallpaper { <init>(...); }
+

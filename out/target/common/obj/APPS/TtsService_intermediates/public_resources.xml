@@ -1,0 +1,13 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/ic_launcher_text_to_speech.png:0 -->
+  <!-- Declared at res/drawable-hdpi/ic_launcher_text_to_speech.png:0 -->
+  <public type="drawable" name="ic_launcher_text_to_speech" id="0x7f020000" />
+
+</resources>

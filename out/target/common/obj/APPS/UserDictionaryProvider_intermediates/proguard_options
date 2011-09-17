@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.android.providers.userdictionary.DictionaryBackupAgent { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.android.providers.userdictionary.UserDictionaryProvider { <init>(...); }
+

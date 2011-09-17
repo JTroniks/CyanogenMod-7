@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:60
+-keep class com.tmobile.thememanager.provider.PackageResourcesProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.tmobile.thememanager.provider.ThemesProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.tmobile.thememanager.receiver.ChangeThemeReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.tmobile.thememanager.receiver.ThemePackageReceiver { <init>(...); }
+

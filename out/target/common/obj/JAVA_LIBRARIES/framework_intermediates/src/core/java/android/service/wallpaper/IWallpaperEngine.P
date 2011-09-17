@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/service/wallpaper/IWallpaperEngine.java: \
+  frameworks/base/core/java/android/service/wallpaper/IWallpaperEngine.aidl \
+  frameworks/base/core/java/android/view/MotionEvent.aidl 
+

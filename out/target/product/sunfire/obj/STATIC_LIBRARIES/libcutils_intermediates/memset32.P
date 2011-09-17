@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libcutils_intermediates/memset32.o: \
+ system/core/libcutils/memset32.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ system/core/libcutils/memset32.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

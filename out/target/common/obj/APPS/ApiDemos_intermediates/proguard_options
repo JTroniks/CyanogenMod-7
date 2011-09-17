@@ -1,0 +1,773 @@
+# view res/layout/surface_view_overlay.xml #generated:31
+-keep class android.opengl.GLSurfaceView { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.example.android.apis.ApiDemos { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.example.android.apis.ApiDemosApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:703
+-keep class com.example.android.apis.animation.Transition3d { <init>(...); }
+
+# view AndroidManifest.xml #generated:546
+-keep class com.example.android.apis.app.AdvancedPreferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:322
+-keep class com.example.android.apis.app.AlarmController { <init>(...); }
+
+# view AndroidManifest.xml #generated:331
+-keep class com.example.android.apis.app.AlarmService { <init>(...); }
+
+# view AndroidManifest.xml #generated:329
+-keep class com.example.android.apis.app.AlarmService_Service { <init>(...); }
+
+# view AndroidManifest.xml #generated:408
+-keep class com.example.android.apis.app.AlertDialogSamples { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.example.android.apis.app.Animation { <init>(...); }
+
+# view AndroidManifest.xml #generated:347
+-keep class com.example.android.apis.app.ContactsFilter { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.example.android.apis.app.CustomDialogActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:185
+-keep class com.example.android.apis.app.CustomTitle { <init>(...); }
+
+# view AndroidManifest.xml #generated:567
+-keep class com.example.android.apis.app.DefaultValues { <init>(...); }
+
+# view AndroidManifest.xml #generated:585
+-keep class com.example.android.apis.app.DeviceAdminSample { <init>(...); }
+
+# view AndroidManifest.xml #generated:576
+-keep class com.example.android.apis.app.DeviceAdminSample$Controller { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.example.android.apis.app.DialogActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:305
+-keep class com.example.android.apis.app.ForegroundService { <init>(...); }
+
+# view AndroidManifest.xml #generated:307
+-keep class com.example.android.apis.app.ForegroundService$Controller { <init>(...); }
+
+# view AndroidManifest.xml #generated:169
+-keep class com.example.android.apis.app.ForwardTarget { <init>(...); }
+
+# view AndroidManifest.xml #generated:162
+-keep class com.example.android.apis.app.Forwarding { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.example.android.apis.app.HelloWorld { <init>(...); }
+
+# view AndroidManifest.xml #generated:364
+-keep class com.example.android.apis.app.IncomingMessage { <init>(...); }
+
+# view AndroidManifest.xml #generated:371
+-keep class com.example.android.apis.app.IncomingMessageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:224
+-keep class com.example.android.apis.app.Intents { <init>(...); }
+
+# view AndroidManifest.xml #generated:496
+-keep class com.example.android.apis.app.LauncherShortcuts { <init>(...); }
+
+# view AndroidManifest.xml #generated:553
+-keep class com.example.android.apis.app.LaunchingPreferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:340
+-keep class com.example.android.apis.app.LocalSample { <init>(...); }
+
+# view AndroidManifest.xml #generated:1987
+-keep class com.example.android.apis.app.LocalSampleInstrumentation { <init>(...); }
+
+# view AndroidManifest.xml #generated:233
+-keep class com.example.android.apis.app.LocalService { <init>(...); }
+
+# view AndroidManifest.xml #generated:244
+-keep class com.example.android.apis.app.LocalServiceActivities$Binding { <init>(...); }
+
+# view AndroidManifest.xml #generated:235
+-keep class com.example.android.apis.app.LocalServiceActivities$Controller { <init>(...); }
+
+# view AndroidManifest.xml #generated:523
+-keep class com.example.android.apis.app.MenuInflateFromXml { <init>(...); }
+
+# view AndroidManifest.xml #generated:253
+-keep class com.example.android.apis.app.MessengerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:257
+-keep class com.example.android.apis.app.MessengerServiceActivities$Binding { <init>(...); }
+
+# view res/xml/advanced_preferences.xml #generated:26
+-keep class com.example.android.apis.app.MyPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:382
+-keep class com.example.android.apis.app.NotificationDisplay { <init>(...); }
+
+# view AndroidManifest.xml #generated:357
+-keep class com.example.android.apis.app.NotifyWithText { <init>(...); }
+
+# view AndroidManifest.xml #generated:400
+-keep class com.example.android.apis.app.NotifyingController { <init>(...); }
+
+# view AndroidManifest.xml #generated:398
+-keep class com.example.android.apis.app.NotifyingService { <init>(...); }
+
+# view AndroidManifest.xml #generated:318
+-keep class com.example.android.apis.app.OneShotAlarm { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.example.android.apis.app.PersistentState { <init>(...); }
+
+# view AndroidManifest.xml #generated:560
+-keep class com.example.android.apis.app.PreferenceDependencies { <init>(...); }
+
+# view AndroidManifest.xml #generated:539
+-keep class com.example.android.apis.app.PreferencesFromCode { <init>(...); }
+
+# view AndroidManifest.xml #generated:532
+-keep class com.example.android.apis.app.PreferencesFromXml { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.example.android.apis.app.QuickContactsDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:152
+-keep class com.example.android.apis.app.ReceiveResult { <init>(...); }
+
+# view AndroidManifest.xml #generated:172
+-keep class com.example.android.apis.app.RedirectEnter { <init>(...); }
+
+# view AndroidManifest.xml #generated:182
+-keep class com.example.android.apis.app.RedirectGetter { <init>(...); }
+
+# view AndroidManifest.xml #generated:179
+-keep class com.example.android.apis.app.RedirectMain { <init>(...); }
+
+# view AndroidManifest.xml #generated:265
+-keep class com.example.android.apis.app.RemoteService { <init>(...); }
+
+# view AndroidManifest.xml #generated:286
+-keep class com.example.android.apis.app.RemoteService$Binding { <init>(...); }
+
+# view AndroidManifest.xml #generated:277
+-keep class com.example.android.apis.app.RemoteService$Controller { <init>(...); }
+
+# view AndroidManifest.xml #generated:204
+-keep class com.example.android.apis.app.ReorderFour { <init>(...); }
+
+# view AndroidManifest.xml #generated:194
+-keep class com.example.android.apis.app.ReorderOnLaunch { <init>(...); }
+
+# view AndroidManifest.xml #generated:203
+-keep class com.example.android.apis.app.ReorderThree { <init>(...); }
+
+# view AndroidManifest.xml #generated:202
+-keep class com.example.android.apis.app.ReorderTwo { <init>(...); }
+
+# view AndroidManifest.xml #generated:320
+-keep class com.example.android.apis.app.RepeatingAlarm { <init>(...); }
+
+# view AndroidManifest.xml #generated:134
+-keep class com.example.android.apis.app.SaveRestoreState { <init>(...); }
+
+# view AndroidManifest.xml #generated:214
+-keep class com.example.android.apis.app.ScreenOrientation { <init>(...); }
+
+# view AndroidManifest.xml #generated:422
+-keep class com.example.android.apis.app.SearchInvoke { <init>(...); }
+
+# view AndroidManifest.xml #generated:446
+-keep class com.example.android.apis.app.SearchQueryResults { <init>(...); }
+
+# view AndroidManifest.xml #generated:470
+-keep class com.example.android.apis.app.SearchSuggestionSampleProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class com.example.android.apis.app.SendResult { <init>(...); }
+
+# view AndroidManifest.xml #generated:294
+-keep class com.example.android.apis.app.ServiceStartArguments { <init>(...); }
+
+# view AndroidManifest.xml #generated:296
+-keep class com.example.android.apis.app.ServiceStartArguments$Controller { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class com.example.android.apis.app.SetWallpaperActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:389
+-keep class com.example.android.apis.app.StatusBarNotifications { <init>(...); }
+
+# view AndroidManifest.xml #generated:608
+-keep class com.example.android.apis.app.TextToSpeechActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class com.example.android.apis.app.TranslucentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class com.example.android.apis.app.TranslucentBlurActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:599
+-keep class com.example.android.apis.app.VoiceRecognition { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class com.example.android.apis.app.WallpaperActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1917
+-keep class com.example.android.apis.appwidget.ExampleAppWidgetConfigure { <init>(...); }
+
+# view AndroidManifest.xml #generated:1909
+-keep class com.example.android.apis.appwidget.ExampleAppWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:1923
+-keep class com.example.android.apis.appwidget.ExampleBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:619
+-keep class com.example.android.apis.content.ExternalStorage { <init>(...); }
+
+# view AndroidManifest.xml #generated:650
+-keep class com.example.android.apis.content.PickContact { <init>(...); }
+
+# view AndroidManifest.xml #generated:635
+-keep class com.example.android.apis.content.ReadAsset { <init>(...); }
+
+# view AndroidManifest.xml #generated:643
+-keep class com.example.android.apis.content.ResourcesSample { <init>(...); }
+
+# view AndroidManifest.xml #generated:627
+-keep class com.example.android.apis.content.StyledText { <init>(...); }
+
+# view AndroidManifest.xml #generated:1726
+-keep class com.example.android.apis.graphics.AlphaBitmap { <init>(...); }
+
+# view AndroidManifest.xml #generated:1712
+-keep class com.example.android.apis.graphics.AnimateDrawables { <init>(...); }
+
+# view AndroidManifest.xml #generated:1656
+-keep class com.example.android.apis.graphics.Arcs { <init>(...); }
+
+# view AndroidManifest.xml #generated:1782
+-keep class com.example.android.apis.graphics.BitmapDecode { <init>(...); }
+
+# view AndroidManifest.xml #generated:1747
+-keep class com.example.android.apis.graphics.BitmapMesh { <init>(...); }
+
+# view AndroidManifest.xml #generated:1819
+-keep class com.example.android.apis.graphics.BitmapPixels { <init>(...); }
+
+# view AndroidManifest.xml #generated:1498
+-keep class com.example.android.apis.graphics.CameraPreview { <init>(...); }
+
+# view AndroidManifest.xml #generated:1670
+-keep class com.example.android.apis.graphics.Clipping { <init>(...); }
+
+# view AndroidManifest.xml #generated:1789
+-keep class com.example.android.apis.graphics.ColorFilters { <init>(...); }
+
+# view AndroidManifest.xml #generated:1775
+-keep class com.example.android.apis.graphics.ColorMatrixSample { <init>(...); }
+
+# view AndroidManifest.xml #generated:1491
+-keep class com.example.android.apis.graphics.Compass { <init>(...); }
+
+# view AndroidManifest.xml #generated:1505
+-keep class com.example.android.apis.graphics.CompressedTextureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1796
+-keep class com.example.android.apis.graphics.CreateBitmap { <init>(...); }
+
+# view AndroidManifest.xml #generated:1515
+-keep class com.example.android.apis.graphics.CubeMapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1861
+-keep class com.example.android.apis.graphics.DensityActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1803
+-keep class com.example.android.apis.graphics.DrawPoints { <init>(...); }
+
+# view AndroidManifest.xml #generated:1768
+-keep class com.example.android.apis.graphics.FingerPaint { <init>(...); }
+
+# view AndroidManifest.xml #generated:1526
+-keep class com.example.android.apis.graphics.FrameBufferObjectActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1546
+-keep class com.example.android.apis.graphics.GLES20Activity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1536
+-keep class com.example.android.apis.graphics.GLSurfaceViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1840
+-keep class com.example.android.apis.graphics.GradientDrawable1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1677
+-keep class com.example.android.apis.graphics.Layers { <init>(...); }
+
+# view AndroidManifest.xml #generated:1556
+-keep class com.example.android.apis.graphics.MatrixPaletteActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1754
+-keep class com.example.android.apis.graphics.MeasureText { <init>(...); }
+
+# view AndroidManifest.xml #generated:1833
+-keep class com.example.android.apis.graphics.PathEffects { <init>(...); }
+
+# view AndroidManifest.xml #generated:1691
+-keep class com.example.android.apis.graphics.PathFillTypes { <init>(...); }
+
+# view AndroidManifest.xml #generated:1663
+-keep class com.example.android.apis.graphics.Patterns { <init>(...); }
+
+# view AndroidManifest.xml #generated:1698
+-keep class com.example.android.apis.graphics.Pictures { <init>(...); }
+
+# view AndroidManifest.xml #generated:1605
+-keep class com.example.android.apis.graphics.PolyToPoly { <init>(...); }
+
+# view AndroidManifest.xml #generated:1847
+-keep class com.example.android.apis.graphics.PurgeableBitmap { <init>(...); }
+
+# view AndroidManifest.xml #generated:1733
+-keep class com.example.android.apis.graphics.Regions { <init>(...); }
+
+# view AndroidManifest.xml #generated:1619
+-keep class com.example.android.apis.graphics.RoundRects { <init>(...); }
+
+# view AndroidManifest.xml #generated:1612
+-keep class com.example.android.apis.graphics.ScaleToFit { <init>(...); }
+
+# view AndroidManifest.xml #generated:1719
+-keep class com.example.android.apis.graphics.SensorTest { <init>(...); }
+
+# view AndroidManifest.xml #generated:1626
+-keep class com.example.android.apis.graphics.ShapeDrawable1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1633
+-keep class com.example.android.apis.graphics.SurfaceViewOverlay { <init>(...); }
+
+# view AndroidManifest.xml #generated:1740
+-keep class com.example.android.apis.graphics.Sweep { <init>(...); }
+
+# view AndroidManifest.xml #generated:1649
+-keep class com.example.android.apis.graphics.TextAlign { <init>(...); }
+
+# view AndroidManifest.xml #generated:1810
+-keep class com.example.android.apis.graphics.TouchPaint { <init>(...); }
+
+# view AndroidManifest.xml #generated:1595
+-keep class com.example.android.apis.graphics.TouchRotateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1565
+-keep class com.example.android.apis.graphics.TranslucentGLSurfaceViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1575
+-keep class com.example.android.apis.graphics.TriangleActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1761
+-keep class com.example.android.apis.graphics.Typefaces { <init>(...); }
+
+# view AndroidManifest.xml #generated:1684
+-keep class com.example.android.apis.graphics.UnicodeChart { <init>(...); }
+
+# view AndroidManifest.xml #generated:1705
+-keep class com.example.android.apis.graphics.Vertices { <init>(...); }
+
+# view AndroidManifest.xml #generated:1641
+-keep class com.example.android.apis.graphics.WindowSurface { <init>(...); }
+
+# view AndroidManifest.xml #generated:1826
+-keep class com.example.android.apis.graphics.Xfermodes { <init>(...); }
+
+# view AndroidManifest.xml #generated:1483
+-keep class com.example.android.apis.graphics.kube.Kube { <init>(...); }
+
+# view AndroidManifest.xml #generated:1585
+-keep class com.example.android.apis.graphics.spritetext.SpriteTextActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1898
+-keep class com.example.android.apis.media.AudioFxDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:1872
+-keep class com.example.android.apis.media.MediaPlayerDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:1879
+-keep class com.example.android.apis.media.MediaPlayerDemo_Audio { <init>(...); }
+
+# view AndroidManifest.xml #generated:1885
+-keep class com.example.android.apis.media.MediaPlayerDemo_Video { <init>(...); }
+
+# view AndroidManifest.xml #generated:1891
+-keep class com.example.android.apis.media.VideoViewDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:1955
+-keep class com.example.android.apis.nfc.ForegroundDispatch { <init>(...); }
+
+# view AndroidManifest.xml #generated:1978
+-keep class com.example.android.apis.nfc.ForegroundNdefPush { <init>(...); }
+
+# view AndroidManifest.xml #generated:1962
+-keep class com.example.android.apis.nfc.TechFilter { <init>(...); }
+
+# view AndroidManifest.xml #generated:661
+-keep class com.example.android.apis.os.MorseCode { <init>(...); }
+
+# view AndroidManifest.xml #generated:675
+-keep class com.example.android.apis.os.RotationVectorDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:668
+-keep class com.example.android.apis.os.Sensors { <init>(...); }
+
+# view AndroidManifest.xml #generated:693
+-keep class com.example.android.apis.os.SmsMessageReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:682
+-keep class com.example.android.apis.os.SmsMessagingDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:689
+-keep class com.example.android.apis.os.SmsReceivedDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:1934
+-keep class com.example.android.apis.text.Link { <init>(...); }
+
+# view res/layout/log_text_box_1.xml #generated:29
+-keep class com.example.android.apis.text.LogTextBox { <init>(...); }
+
+# view AndroidManifest.xml #generated:1948
+-keep class com.example.android.apis.text.LogTextBox1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1941
+-keep class com.example.android.apis.text.Marquee { <init>(...); }
+
+# view AndroidManifest.xml #generated:1252
+-keep class com.example.android.apis.view.Animation1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1259
+-keep class com.example.android.apis.view.Animation2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1266
+-keep class com.example.android.apis.view.Animation3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1346
+-keep class com.example.android.apis.view.AutoComplete1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1353
+-keep class com.example.android.apis.view.AutoComplete2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1360
+-keep class com.example.android.apis.view.AutoComplete3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1367
+-keep class com.example.android.apis.view.AutoComplete4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1374
+-keep class com.example.android.apis.view.AutoComplete5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1381
+-keep class com.example.android.apis.view.AutoComplete6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:966
+-keep class com.example.android.apis.view.Baseline1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:973
+-keep class com.example.android.apis.view.Baseline2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:980
+-keep class com.example.android.apis.view.Baseline3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:987
+-keep class com.example.android.apis.view.Baseline4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:994
+-keep class com.example.android.apis.view.Baseline6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1001
+-keep class com.example.android.apis.view.Baseline7 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1008
+-keep class com.example.android.apis.view.BaselineNested1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1015
+-keep class com.example.android.apis.view.BaselineNested2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1022
+-keep class com.example.android.apis.view.BaselineNested3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1338
+-keep class com.example.android.apis.view.Buttons1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:714
+-keep class com.example.android.apis.view.ChronometerDemo { <init>(...); }
+
+# view AndroidManifest.xml #generated:1322
+-keep class com.example.android.apis.view.Controls1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1331
+-keep class com.example.android.apis.view.Controls2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1176
+-keep class com.example.android.apis.view.CustomView1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1458
+-keep class com.example.android.apis.view.DateWidgets1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1465
+-keep class com.example.android.apis.view.DateWidgets2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1155
+-keep class com.example.android.apis.view.ExpandableList1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1162
+-keep class com.example.android.apis.view.ExpandableList2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1169
+-keep class com.example.android.apis.view.ExpandableList3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1430
+-keep class com.example.android.apis.view.Focus1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1437
+-keep class com.example.android.apis.view.Focus2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1444
+-keep class com.example.android.apis.view.Focus3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1185
+-keep class com.example.android.apis.view.Gallery1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1192
+-keep class com.example.android.apis.view.Gallery2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1206
+-keep class com.example.android.apis.view.Grid1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1213
+-keep class com.example.android.apis.view.Grid2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1244
+-keep class com.example.android.apis.view.ImageButton1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1228
+-keep class com.example.android.apis.view.ImageSwitcher1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1220
+-keep class com.example.android.apis.view.ImageView1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1451
+-keep class com.example.android.apis.view.InternalSelectionFocus { <init>(...); }
+
+# view AndroidManifest.xml #generated:854
+-keep class com.example.android.apis.view.InternalSelectionScroll { <init>(...); }
+
+# view res/layout/custom_view_1.xml #generated:25
+# view res/layout/custom_view_1.xml #generated:31
+# view res/layout/custom_view_1.xml #generated:37
+-keep class com.example.android.apis.view.LabelView { <init>(...); }
+
+# view AndroidManifest.xml #generated:1273
+-keep class com.example.android.apis.view.LayoutAnimation1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1280
+-keep class com.example.android.apis.view.LayoutAnimation2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1287
+-keep class com.example.android.apis.view.LayoutAnimation3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1294
+-keep class com.example.android.apis.view.LayoutAnimation4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1301
+-keep class com.example.android.apis.view.LayoutAnimation5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1308
+-keep class com.example.android.apis.view.LayoutAnimation6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1315
+-keep class com.example.android.apis.view.LayoutAnimation7 { <init>(...); }
+
+# view AndroidManifest.xml #generated:741
+-keep class com.example.android.apis.view.LinearLayout1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:804
+-keep class com.example.android.apis.view.LinearLayout10 { <init>(...); }
+
+# view AndroidManifest.xml #generated:748
+-keep class com.example.android.apis.view.LinearLayout2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:755
+-keep class com.example.android.apis.view.LinearLayout3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:762
+-keep class com.example.android.apis.view.LinearLayout4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:769
+-keep class com.example.android.apis.view.LinearLayout5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:776
+-keep class com.example.android.apis.view.LinearLayout6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:783
+-keep class com.example.android.apis.view.LinearLayout7 { <init>(...); }
+
+# view AndroidManifest.xml #generated:790
+-keep class com.example.android.apis.view.LinearLayout8 { <init>(...); }
+
+# view AndroidManifest.xml #generated:797
+-keep class com.example.android.apis.view.LinearLayout9 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1057
+-keep class com.example.android.apis.view.List1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1120
+-keep class com.example.android.apis.view.List10 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1127
+-keep class com.example.android.apis.view.List11 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1134
+-keep class com.example.android.apis.view.List12 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1141
+-keep class com.example.android.apis.view.List13 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1148
+-keep class com.example.android.apis.view.List14 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1064
+-keep class com.example.android.apis.view.List2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1071
+-keep class com.example.android.apis.view.List3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1078
+-keep class com.example.android.apis.view.List4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1085
+-keep class com.example.android.apis.view.List5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1092
+-keep class com.example.android.apis.view.List6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1099
+-keep class com.example.android.apis.view.List7 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1106
+-keep class com.example.android.apis.view.List8 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1113
+-keep class com.example.android.apis.view.List9 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1388
+-keep class com.example.android.apis.view.ProgressBar1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1395
+-keep class com.example.android.apis.view.ProgressBar2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1402
+-keep class com.example.android.apis.view.ProgressBar3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1409
+-keep class com.example.android.apis.view.ProgressBar4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:812
+-keep class com.example.android.apis.view.RadioGroup1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1423
+-keep class com.example.android.apis.view.RatingBar1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:727
+-keep class com.example.android.apis.view.RelativeLayout1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:734
+-keep class com.example.android.apis.view.RelativeLayout2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1029
+-keep class com.example.android.apis.view.ScrollBar1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1036
+-keep class com.example.android.apis.view.ScrollBar2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1043
+-keep class com.example.android.apis.view.ScrollBar3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:819
+-keep class com.example.android.apis.view.ScrollView1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:826
+-keep class com.example.android.apis.view.ScrollView2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1472
+-keep class com.example.android.apis.view.SecureView { <init>(...); }
+
+# view res/layout/secure_view_overlay.xml #generated:19
+-keep class com.example.android.apis.view.SecureViewOverlay { <init>(...); }
+
+# view AndroidManifest.xml #generated:1416
+-keep class com.example.android.apis.view.SeekBar1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1199
+-keep class com.example.android.apis.view.Spinner1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:861
+-keep class com.example.android.apis.view.TableLayout1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:924
+-keep class com.example.android.apis.view.TableLayout10 { <init>(...); }
+
+# view AndroidManifest.xml #generated:931
+-keep class com.example.android.apis.view.TableLayout11 { <init>(...); }
+
+# view AndroidManifest.xml #generated:938
+-keep class com.example.android.apis.view.TableLayout12 { <init>(...); }
+
+# view AndroidManifest.xml #generated:868
+-keep class com.example.android.apis.view.TableLayout2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:875
+-keep class com.example.android.apis.view.TableLayout3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:882
+-keep class com.example.android.apis.view.TableLayout4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:889
+-keep class com.example.android.apis.view.TableLayout5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:896
+-keep class com.example.android.apis.view.TableLayout6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:903
+-keep class com.example.android.apis.view.TableLayout7 { <init>(...); }
+
+# view AndroidManifest.xml #generated:910
+-keep class com.example.android.apis.view.TableLayout8 { <init>(...); }
+
+# view AndroidManifest.xml #generated:917
+-keep class com.example.android.apis.view.TableLayout9 { <init>(...); }
+
+# view AndroidManifest.xml #generated:833
+# view AndroidManifest.xml #generated:945
+-keep class com.example.android.apis.view.Tabs1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:840
+# view AndroidManifest.xml #generated:952
+-keep class com.example.android.apis.view.Tabs2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:847
+# view AndroidManifest.xml #generated:959
+-keep class com.example.android.apis.view.Tabs3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1236
+-keep class com.example.android.apis.view.TextSwitcher1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:1050
+-keep class com.example.android.apis.view.Visibility1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:720
+-keep class com.example.android.apis.view.WebView1 { <init>(...); }
+
+# view res/layout/mapview.xml #generated:24
+-keep class com.google.android.maps.MapView { <init>(...); }
+

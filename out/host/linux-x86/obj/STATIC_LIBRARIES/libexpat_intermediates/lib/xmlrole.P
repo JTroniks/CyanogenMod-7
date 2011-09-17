@@ -1,0 +1,13 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libexpat_intermediates/lib/xmlrole.o: \
+ external/expat/lib/xmlrole.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ external/expat/expat_config.h external/expat/lib/expat_external.h \
+ external/expat/lib/internal.h external/expat/lib/xmlrole.h \
+ external/expat/lib/xmltok.h external/expat/lib/ascii.h
+ external/expat/lib/xmlrole.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ external/expat/expat_config.h external/expat/lib/expat_external.h :
+ external/expat/lib/internal.h external/expat/lib/xmlrole.h :
+ external/expat/lib/xmltok.h external/expat/lib/ascii.h :

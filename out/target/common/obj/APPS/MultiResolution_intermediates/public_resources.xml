@@ -1,0 +1,63 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-ldpi/android.png:0 -->
+  <!-- Declared at res/drawable-mdpi/android.png:0 -->
+  <!-- Declared at res/drawable-hdpi/android.png:0 -->
+  <public type="drawable" name="android" id="0x7f020000" />
+  <!-- Declared at res/drawable/background.9.png:0 -->
+  <public type="drawable" name="background" id="0x7f020001" />
+  <!-- Declared at res/drawable-ldpi/ic_launcher.png:0 -->
+  <!-- Declared at res/drawable-ldpi-v6/ic_launcher.png:0 -->
+  <!-- Declared at res/drawable-mdpi/ic_launcher.png:0 -->
+  <!-- Declared at res/drawable-mdpi-v6/ic_launcher.png:0 -->
+  <!-- Declared at res/drawable-hdpi/ic_launcher.png:0 -->
+  <!-- Declared at res/drawable-hdpi-v6/ic_launcher.png:0 -->
+  <public type="drawable" name="ic_launcher" id="0x7f020002" />
+  <!-- Declared at res/drawable/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020003" />
+  <!-- Declared at res/drawable-ldpi/image_container.9.png:0 -->
+  <!-- Declared at res/drawable-mdpi/image_container.9.png:0 -->
+  <!-- Declared at res/drawable-hdpi/image_container.9.png:0 -->
+  <public type="drawable" name="image_container" id="0x7f020004" />
+  <!-- Declared at res/drawable/sample_0.jpg:0 -->
+  <public type="drawable" name="sample_0" id="0x7f020005" />
+  <!-- Declared at res/drawable/sample_1.jpg:0 -->
+  <public type="drawable" name="sample_1" id="0x7f020006" />
+  <!-- Declared at res/drawable/sample_2.jpg:0 -->
+  <public type="drawable" name="sample_2" id="0x7f020007" />
+  <!-- Declared at res/drawable/sample_3.jpg:0 -->
+  <public type="drawable" name="sample_3" id="0x7f020008" />
+  <!-- Declared at res/drawable/sample_4.jpg:0 -->
+  <public type="drawable" name="sample_4" id="0x7f020009" />
+  <!-- Declared at res/drawable/sample_5.jpg:0 -->
+  <public type="drawable" name="sample_5" id="0x7f02000a" />
+  <!-- Declared at res/drawable/sample_6.jpg:0 -->
+  <public type="drawable" name="sample_6" id="0x7f02000b" />
+  <!-- Declared at res/drawable/sample_7.jpg:0 -->
+  <public type="drawable" name="sample_7" id="0x7f02000c" />
+
+  <!-- Declared at res/layout/main.xml:0 -->
+  <!-- Declared at res/layout-land/main.xml:0 -->
+  <public type="layout" name="main" id="0x7f030000" />
+
+  <!-- Declared at development/samples/MultiResolution/res/values/strings.xml:3 -->
+  <public type="string" name="app_name" id="0x7f040000" />
+  <!-- Declared at development/samples/MultiResolution/res/values/strings.xml:4 -->
+  <public type="string" name="next_button" id="0x7f040001" />
+
+  <!-- Declared at development/samples/MultiResolution/res/layout/main.xml:32 -->
+  <public type="id" name="image_container" id="0x7f050000" />
+  <!-- Declared at development/samples/MultiResolution/res/layout/main.xml:37 -->
+  <public type="id" name="image_view" id="0x7f050001" />
+  <!-- Declared at development/samples/MultiResolution/res/layout/main.xml:42 -->
+  <public type="id" name="status_text" id="0x7f050002" />
+  <!-- Declared at development/samples/MultiResolution/res/layout/main.xml:62 -->
+  <public type="id" name="next_button" id="0x7f050003" />
+
+</resources>

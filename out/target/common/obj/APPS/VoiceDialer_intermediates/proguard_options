@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:28
+-keep class com.android.voicedialer.BluetoothVoiceDialerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.android.voicedialer.VoiceDialerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.android.voicedialer.VoiceDialerReceiver { <init>(...); }
+

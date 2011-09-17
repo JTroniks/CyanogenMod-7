@@ -1,0 +1,27 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/default_theme_preview.png:0 -->
+  <!-- Declared at res/drawable-land/default_theme_preview.png:0 -->
+  <public type="drawable" name="default_theme_preview" id="0x7f020000" />
+
+  <!-- Declared at res/xml/system_theme.xml:0 -->
+  <public type="xml" name="system_theme" id="0x7f030000" />
+
+  <!-- Declared at vendor/tmobile/providers/ThemeManager/res/values/strings.xml:19 -->
+  <public type="string" name="app_name" id="0x7f040000" />
+  <!-- Declared at vendor/tmobile/providers/ThemeManager/res/values/strings.xml:23 -->
+  <public type="string" name="permlab_access_DrmThemeResources" id="0x7f040001" />
+  <!-- Declared at vendor/tmobile/providers/ThemeManager/res/values/strings.xml:27 -->
+  <public type="string" name="permdesc_access_DrmThemeResources" id="0x7f040002" />
+  <!-- Declared at vendor/tmobile/providers/ThemeManager/res/values/strings.xml:29 -->
+  <public type="string" name="permlab_set_theme" id="0x7f040003" />
+  <!-- Declared at vendor/tmobile/providers/ThemeManager/res/values/strings.xml:30 -->
+  <public type="string" name="permdesc_set_theme" id="0x7f040004" />
+
+</resources>

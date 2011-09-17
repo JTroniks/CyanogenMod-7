@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libdvm_intermediates/arch/arm/CallOldABI.o: \
+ dalvik/vm/arch/arm/CallOldABI.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/arch-arm/include/machine/cpu-features.h
+ dalvik/vm/arch/arm/CallOldABI.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/arch-arm/include/machine/cpu-features.h :

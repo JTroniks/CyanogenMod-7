@@ -1,0 +1,149 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libSR_Core_intermediates/../cfront/spec_anl.o: \
+ external/srec/srec/ca/../cfront/spec_anl.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h /usr/include/stdlib.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/types.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/alloca.h /usr/include/stdio.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/string.h /usr/include/xlocale.h \
+ /usr/include/bits/string.h /usr/include/bits/string2.h \
+ /usr/include/math.h /usr/include/bits/huge_val.h \
+ /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+ /usr/include/bits/inf.h /usr/include/bits/nan.h \
+ /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+ /usr/include/bits/mathinline.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/limits.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/assert.h \
+ external/srec/srec/include/hmm_desc.h \
+ external/srec/srec/include/creccons.h \
+ external/srec/srec/include/all_defs.h \
+ external/srec/portable/include/ptypes.h /usr/include/ctype.h \
+ external/srec/portable/include/PortPrefix.h \
+ external/srec/portable/include/PortExport.h /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h /usr/include/pthread.h \
+ /usr/include/sched.h /usr/include/bits/sched.h \
+ /usr/include/bits/setjmp.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/getopt.h \
+ external/srec/portable/include/ESR_ReturnCode.h \
+ external/srec/portable/include/ptypes.h \
+ external/srec/portable/include/pstdio.h \
+ external/srec/portable/include/PFile.h \
+ external/srec/srec/include/setting.h \
+ external/srec/srec/include/buildopt.h \
+ external/srec/srec/include/hmm_type.h external/srec/srec/include/sizes.h \
+ external/srec/srec/include/front.h external/srec/srec/include/fronttyp.h \
+ external/srec/srec/include/log_tabl.h \
+ external/srec/srec/include/duk_err.h \
+ external/srec/srec/include/voicing.h \
+ external/srec/srec/include/specnorm.h \
+ external/srec/srec/include/channorm.h \
+ external/srec/srec/include/swicms.h \
+ external/srec/srec/include/pre_desc.h \
+ external/srec/srec/include/duk_io.h \
+ external/srec/portable/include/pstdio.h external/srec/srec/include/fft.h \
+ external/srec/srec/include/sp_fft.h \
+ external/srec/srec/include/frontpar.h \
+ external/srec/portable/include/pendian.h \
+ external/srec/srec/include/portable.h \
+ external/srec/portable/include/passert.h \
+ external/srec/portable/include/pmemory.h \
+ external/srec/portable/include/PFileSystem.h \
+ external/srec/portable/include/plog.h \
+ external/srec/portable/include/passert.h \
+ external/srec/portable/include/PFileSystem.h \
+ external/srec/portable/include/LCHAR.h \
+ external/srec/srec/ca/../cfront/../clib/memmove.h \
+ external/srec/srec/ca/../cfront/sh_down.h \
+ external/srec/srec/include/fronttyp.h \
+ external/srec/srec/include/setting.h
+ external/srec/srec/ca/../cfront/spec_anl.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h /usr/include/stdlib.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h :
+ /usr/include/endian.h /usr/include/bits/endian.h :
+ /usr/include/bits/byteswap.h /usr/include/sys/types.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h :
+ /usr/include/bits/sigset.h /usr/include/bits/time.h :
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h :
+ /usr/include/alloca.h /usr/include/stdio.h /usr/include/libio.h :
+ /usr/include/_G_config.h /usr/include/wchar.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h :
+ /usr/include/bits/stdio.h /usr/include/string.h /usr/include/xlocale.h :
+ /usr/include/bits/string.h /usr/include/bits/string2.h :
+ /usr/include/math.h /usr/include/bits/huge_val.h :
+ /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h :
+ /usr/include/bits/inf.h /usr/include/bits/nan.h :
+ /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h :
+ /usr/include/bits/mathinline.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/limits.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/syslimits.h :
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h :
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h :
+ /usr/include/bits/posix2_lim.h /usr/include/assert.h :
+ external/srec/srec/include/hmm_desc.h :
+ external/srec/srec/include/creccons.h :
+ external/srec/srec/include/all_defs.h :
+ external/srec/portable/include/ptypes.h /usr/include/ctype.h :
+ external/srec/portable/include/PortPrefix.h :
+ external/srec/portable/include/PortExport.h /usr/include/errno.h :
+ /usr/include/bits/errno.h /usr/include/linux/errno.h :
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h :
+ /usr/include/asm-generic/errno-base.h /usr/include/pthread.h :
+ /usr/include/sched.h /usr/include/bits/sched.h :
+ /usr/include/bits/setjmp.h /usr/include/unistd.h :
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h :
+ /usr/include/bits/confname.h /usr/include/getopt.h :
+ external/srec/portable/include/ESR_ReturnCode.h :
+ external/srec/portable/include/ptypes.h :
+ external/srec/portable/include/pstdio.h :
+ external/srec/portable/include/PFile.h :
+ external/srec/srec/include/setting.h :
+ external/srec/srec/include/buildopt.h :
+ external/srec/srec/include/hmm_type.h external/srec/srec/include/sizes.h :
+ external/srec/srec/include/front.h external/srec/srec/include/fronttyp.h :
+ external/srec/srec/include/log_tabl.h :
+ external/srec/srec/include/duk_err.h :
+ external/srec/srec/include/voicing.h :
+ external/srec/srec/include/specnorm.h :
+ external/srec/srec/include/channorm.h :
+ external/srec/srec/include/swicms.h :
+ external/srec/srec/include/pre_desc.h :
+ external/srec/srec/include/duk_io.h :
+ external/srec/portable/include/pstdio.h external/srec/srec/include/fft.h :
+ external/srec/srec/include/sp_fft.h :
+ external/srec/srec/include/frontpar.h :
+ external/srec/portable/include/pendian.h :
+ external/srec/srec/include/portable.h :
+ external/srec/portable/include/passert.h :
+ external/srec/portable/include/pmemory.h :
+ external/srec/portable/include/PFileSystem.h :
+ external/srec/portable/include/plog.h :
+ external/srec/portable/include/passert.h :
+ external/srec/portable/include/PFileSystem.h :
+ external/srec/portable/include/LCHAR.h :
+ external/srec/srec/ca/../cfront/../clib/memmove.h :
+ external/srec/srec/ca/../cfront/sh_down.h :
+ external/srec/srec/include/fronttyp.h :
+ external/srec/srec/include/setting.h :

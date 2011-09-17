@@ -1,0 +1,40 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/backup_restore.xml:0 -->
+  <public type="layout" name="backup_restore" id="0x7f020000" />
+
+  <!-- Declared at development/samples/BackupRestore/res/values/strings.xml:18 -->
+  <public type="string" name="filling_text" id="0x7f030000" />
+  <!-- Declared at development/samples/BackupRestore/res/values/strings.xml:19 -->
+  <public type="string" name="bacon_label" id="0x7f030001" />
+  <!-- Declared at development/samples/BackupRestore/res/values/strings.xml:20 -->
+  <public type="string" name="pastrami_label" id="0x7f030002" />
+  <!-- Declared at development/samples/BackupRestore/res/values/strings.xml:21 -->
+  <public type="string" name="hummus_label" id="0x7f030003" />
+  <!-- Declared at development/samples/BackupRestore/res/values/strings.xml:23 -->
+  <public type="string" name="extras_text" id="0x7f030004" />
+  <!-- Declared at development/samples/BackupRestore/res/values/strings.xml:24 -->
+  <public type="string" name="mayo_text" id="0x7f030005" />
+  <!-- Declared at development/samples/BackupRestore/res/values/strings.xml:25 -->
+  <public type="string" name="tomato_text" id="0x7f030006" />
+
+  <!-- Declared at development/samples/BackupRestore/res/layout/backup_restore.xml:37 -->
+  <public type="id" name="filling_group" id="0x7f040000" />
+  <!-- Declared at development/samples/BackupRestore/res/layout/backup_restore.xml:43 -->
+  <public type="id" name="bacon" id="0x7f040001" />
+  <!-- Declared at development/samples/BackupRestore/res/layout/backup_restore.xml:45 -->
+  <public type="id" name="pastrami" id="0x7f040002" />
+  <!-- Declared at development/samples/BackupRestore/res/layout/backup_restore.xml:47 -->
+  <public type="id" name="hummus" id="0x7f040003" />
+  <!-- Declared at development/samples/BackupRestore/res/layout/backup_restore.xml:59 -->
+  <public type="id" name="mayo" id="0x7f040004" />
+  <!-- Declared at development/samples/BackupRestore/res/layout/backup_restore.xml:65 -->
+  <public type="id" name="tomato" id="0x7f040005" />
+
+</resources>

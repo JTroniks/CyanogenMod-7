@@ -1,0 +1,7 @@
+out/host/linux-x86/obj/EXECUTABLES/emulator_intermediates/distrib/zlib-1.2.3/adler32.o: \
+ external/qemu/distrib/zlib-1.2.3/adler32.c \
+ external/qemu/distrib/zlib-1.2.3/zlib.h \
+ external/qemu/distrib/zlib-1.2.3/zconf.h
+ external/qemu/distrib/zlib-1.2.3/adler32.c :
+ external/qemu/distrib/zlib-1.2.3/zlib.h :
+ external/qemu/distrib/zlib-1.2.3/zconf.h :

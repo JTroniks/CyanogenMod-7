@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/com/android/internal/app/IAssetRedirectionManager.java: \
+  frameworks/base/core/java/com/android/internal/app/IAssetRedirectionManager.aidl \
+  frameworks/base/core/java/android/content/res/PackageRedirectionMap.aidl 
+

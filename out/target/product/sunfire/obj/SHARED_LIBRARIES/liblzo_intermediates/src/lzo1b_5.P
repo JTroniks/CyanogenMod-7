@@ -1,0 +1,39 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/liblzo_intermediates/src/lzo1b_5.o: \
+ external/lzo/src/lzo1b_5.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/lzo/src/compr1b.h external/lzo/src/config1b.h \
+ external/lzo/src/lzo_conf.h external/lzo/include/lzo/lzoconf.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ external/lzo/include/lzo/lzodefs.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h external/lzo/src/miniacc.h \
+ bionic/libc/include/assert.h external/lzo/src/lzo_ptr.h \
+ external/lzo/include/lzo/lzo1b.h external/lzo/src/lzo1b_de.h \
+ external/lzo/src/lzo_dict.h external/lzo/src/stats1b.h \
+ external/lzo/src/lzo1b_cc.h external/lzo/src/lzo1b_c.ch \
+ external/lzo/src/lzo1b_sm.ch external/lzo/src/lzo1b_tm.ch \
+ external/lzo/src/lzo1b_cr.ch external/lzo/src/lzo1b_cm.ch
+ external/lzo/src/lzo1b_5.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/lzo/src/compr1b.h external/lzo/src/config1b.h :
+ external/lzo/src/lzo_conf.h external/lzo/include/lzo/lzoconf.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ external/lzo/include/lzo/lzodefs.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h external/lzo/src/miniacc.h :
+ bionic/libc/include/assert.h external/lzo/src/lzo_ptr.h :
+ external/lzo/include/lzo/lzo1b.h external/lzo/src/lzo1b_de.h :
+ external/lzo/src/lzo_dict.h external/lzo/src/stats1b.h :
+ external/lzo/src/lzo1b_cc.h external/lzo/src/lzo1b_c.ch :
+ external/lzo/src/lzo1b_sm.ch external/lzo/src/lzo1b_tm.ch :
+ external/lzo/src/lzo1b_cr.ch external/lzo/src/lzo1b_cm.ch :

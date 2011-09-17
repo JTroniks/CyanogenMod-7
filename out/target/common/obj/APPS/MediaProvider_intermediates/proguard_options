@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:13
+-keep class com.android.providers.media.MediaProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.android.providers.media.MediaScannerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.android.providers.media.MediaScannerService { <init>(...); }
+

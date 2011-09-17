@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:46
+-keep class com.android.musicvis.vis2.Visualization2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.android.musicvis.vis3.Visualization3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.android.musicvis.vis4.Visualization4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class com.android.musicvis.vis5.Visualization5 { <init>(...); }
+

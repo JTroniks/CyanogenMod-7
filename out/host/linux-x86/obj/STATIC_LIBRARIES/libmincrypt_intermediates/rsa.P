@@ -1,0 +1,19 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libmincrypt_intermediates/rsa.o: \
+ system/core/libmincrypt/rsa.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ system/core/include/mincrypt/rsa.h /usr/include/inttypes.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ system/core/include/mincrypt/sha.h
+ system/core/libmincrypt/rsa.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ system/core/include/mincrypt/rsa.h /usr/include/inttypes.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/bits/wchar.h :
+ system/core/include/mincrypt/sha.h :

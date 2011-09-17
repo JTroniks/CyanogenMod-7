@@ -1,0 +1,58 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at packages/apps/CMScreenshot/res/values/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-da/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-ja/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-de/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-uk/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-nl/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-ko/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-fr/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-cs/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-it/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-pt/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-ru/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-sv/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-zh-rCN/strings.xml:3 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-zh-rTW/strings.xml:3 -->
+  <public type="string" name="app_name" id="0x7f020000" />
+  <!-- Declared at packages/apps/CMScreenshot/res/values/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-da/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-ja/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-de/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-uk/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-nl/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-ko/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-fr/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-cs/strings.xml:5 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-it/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-pt/strings.xml:4 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-ru/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-sv/strings.xml:5 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-zh-rCN/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-zh-rTW/strings.xml:6 -->
+  <public type="string" name="toast_error" id="0x7f020001" />
+  <!-- Declared at packages/apps/CMScreenshot/res/values/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-da/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-ja/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-de/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-uk/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-nl/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-ko/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-fr/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-cs/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-it/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-pt/strings.xml:5 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-ru/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-sv/strings.xml:6 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-zh-rCN/strings.xml:7 -->
+  <!-- Declared at packages/apps/CMScreenshot/res/values-zh-rTW/strings.xml:7 -->
+  <public type="string" name="toast_save_location" id="0x7f020002" />
+
+</resources>

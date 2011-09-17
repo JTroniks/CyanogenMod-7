@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libGLES_android_intermediates/fixed_asm.o: \
+ frameworks/base/opengl/libagl/fixed_asm.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ frameworks/base/opengl/libagl/fixed_asm.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

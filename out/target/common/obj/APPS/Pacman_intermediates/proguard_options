@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:18
+-keep class com.teamdouche.pacman.DownloadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class com.teamdouche.pacman.PacmanReciever { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.teamdouche.pacman.StartupActivity { <init>(...); }
+

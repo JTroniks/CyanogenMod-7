@@ -1,0 +1,57 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libsvoxpico_intermediates/picokpdf.o: \
+ external/svox/pico/lib/picokpdf.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/svox/pico/lib/picoos.h external/svox/pico/lib/picodefs.h \
+ external/svox/pico/lib/picopal.h bionic/libc/include/stdio.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/stdlib.h \
+ bionic/libc/include/string.h bionic/libc/include/malloc.h \
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+ bionic/libc/include/memory.h bionic/libm/include/math.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h external/svox/pico/lib/picopltf.h \
+ external/svox/pico/lib/picodbg.h external/svox/pico/lib/picoknow.h \
+ external/svox/pico/lib/picokpdf.h
+ external/svox/pico/lib/picokpdf.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/svox/pico/lib/picoos.h external/svox/pico/lib/picodefs.h :
+ external/svox/pico/lib/picopal.h bionic/libc/include/stdio.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/stdlib.h :
+ bionic/libc/include/string.h bionic/libc/include/malloc.h :
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+ bionic/libc/include/memory.h bionic/libm/include/math.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h external/svox/pico/lib/picopltf.h :
+ external/svox/pico/lib/picodbg.h external/svox/pico/lib/picoknow.h :
+ external/svox/pico/lib/picokpdf.h :

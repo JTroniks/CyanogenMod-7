@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libdl_intermediates/libdl.o: \
+ bionic/libdl/libdl.c system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/dlfcn.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h
+ bionic/libdl/libdl.c system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/dlfcn.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :

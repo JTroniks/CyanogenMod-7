@@ -1,0 +1,28 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/xml/preferences.xml:0 -->
+  <public type="xml" name="preferences" id="0x7f020000" />
+  <!-- Declared at res/xml/recognizer.xml:0 -->
+  <public type="xml" name="recognizer" id="0x7f020001" />
+
+  <!-- Declared at development/samples/VoiceRecognitionService/res/values/strings.xml:22 -->
+  <public type="string" name="service_name" id="0x7f030000" />
+  <!-- Declared at development/samples/VoiceRecognitionService/res/values/strings.xml:25 -->
+  <public type="string" name="settings_name" id="0x7f030001" />
+  <!-- Declared at development/samples/VoiceRecognitionService/res/values/strings.xml:28 -->
+  <public type="string" name="results_type_title" id="0x7f030002" />
+  <!-- Declared at development/samples/VoiceRecognitionService/res/values/strings.xml:46 -->
+  <public type="string" name="results_type_default_value" id="0x7f030003" />
+
+  <!-- Declared at development/samples/VoiceRecognitionService/res/values/strings.xml:32 -->
+  <public type="array" name="results_type_entries" id="0x7f040000" />
+  <!-- Declared at development/samples/VoiceRecognitionService/res/values/strings.xml:39 -->
+  <public type="array" name="results_type_values" id="0x7f040001" />
+
+</resources>

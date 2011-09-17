@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:25
+-keep class android.app.AliasActivity { <init>(...); }
+

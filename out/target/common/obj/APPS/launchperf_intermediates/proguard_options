@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:35
+-keep class com.android.launchperf.ComplexActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class com.android.launchperf.ComplexActivityLaunchPerformance { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.android.launchperf.EmptyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.android.launchperf.EmptyActivityLaunchPerformance { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.android.launchperf.HelloWorldLaunchPerformance { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.android.launchperf.SimpleActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.android.launchperf.SimpleActivityLaunchPerformance { <init>(...); }
+

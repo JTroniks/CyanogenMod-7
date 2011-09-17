@@ -1,0 +1,43 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libebl_sh_intermediates/libebl/sh_destr.o: \
+ external/elfutils/libebl/sh_destr.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/elfutils/config.h external/elfutils/libebl/libebl_sh.h \
+ external/elfutils/libebl/libeblP.h external/elfutils/libelf/gelf.h \
+ external/elfutils/libelf/libelf.h /usr/include/sys/types.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h external/elfutils/libelf/elf.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ external/elfutils/libebl/libebl.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdbool.h \
+ external/elfutils/libelf/elf-knowledge.h
+ external/elfutils/libebl/sh_destr.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/elfutils/config.h external/elfutils/libebl/libebl_sh.h :
+ external/elfutils/libebl/libeblP.h external/elfutils/libelf/gelf.h :
+ external/elfutils/libelf/libelf.h /usr/include/sys/types.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/time.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/endian.h /usr/include/bits/endian.h :
+ /usr/include/bits/byteswap.h /usr/include/sys/select.h :
+ /usr/include/bits/select.h /usr/include/bits/sigset.h :
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h :
+ /usr/include/bits/pthreadtypes.h external/elfutils/libelf/elf.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/bits/wchar.h :
+ external/elfutils/libebl/libebl.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdbool.h :
+ external/elfutils/libelf/elf-knowledge.h :

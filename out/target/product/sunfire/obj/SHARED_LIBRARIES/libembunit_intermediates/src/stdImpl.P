@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libembunit_intermediates/src/stdImpl.o: \
+ external/embunit/src/stdImpl.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/embunit/inc/stdImpl.h
+ external/embunit/src/stdImpl.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/embunit/inc/stdImpl.h :

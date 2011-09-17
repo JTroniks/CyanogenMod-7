@@ -1,0 +1,6 @@
+recovery_api_version=2
+blocksize=131072
+boot_size=4194304
+system_size=167772160
+userdata_size=1073741824
+tool_extensions=device/motorola/sunfire/../common

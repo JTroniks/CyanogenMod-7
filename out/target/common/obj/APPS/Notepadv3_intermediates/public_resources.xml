@@ -1,0 +1,45 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020000" />
+
+  <!-- Declared at res/layout/note_edit.xml:0 -->
+  <public type="layout" name="note_edit" id="0x7f030000" />
+  <!-- Declared at res/layout/notes_list.xml:0 -->
+  <public type="layout" name="notes_list" id="0x7f030001" />
+  <!-- Declared at res/layout/notes_row.xml:0 -->
+  <public type="layout" name="notes_row" id="0x7f030002" />
+
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/values/strings.xml:3 -->
+  <public type="string" name="app_name" id="0x7f040000" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/values/strings.xml:4 -->
+  <public type="string" name="no_notes" id="0x7f040001" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/values/strings.xml:5 -->
+  <public type="string" name="menu_insert" id="0x7f040002" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/values/strings.xml:6 -->
+  <public type="string" name="menu_delete" id="0x7f040003" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/values/strings.xml:7 -->
+  <public type="string" name="title" id="0x7f040004" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/values/strings.xml:8 -->
+  <public type="string" name="body" id="0x7f040005" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/values/strings.xml:9 -->
+  <public type="string" name="confirm" id="0x7f040006" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/values/strings.xml:10 -->
+  <public type="string" name="edit_note" id="0x7f040007" />
+
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/layout/note_edit.xml:14 -->
+  <public type="id" name="title" id="0x7f050000" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/layout/note_edit.xml:23 -->
+  <public type="id" name="body" id="0x7f050001" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/layout/note_edit.xml:28 -->
+  <public type="id" name="confirm" id="0x7f050002" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv3/res/layout/notes_row.xml:2 -->
+  <public type="id" name="text1" id="0x7f050003" />
+
+</resources>

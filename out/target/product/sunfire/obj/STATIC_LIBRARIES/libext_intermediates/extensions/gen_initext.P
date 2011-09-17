@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libext_intermediates/extensions/gen_initext.o: \
+ out/target/product/sunfire/obj/STATIC_LIBRARIES/libext_intermediates/extensions/gen_initext.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ out/target/product/sunfire/obj/STATIC_LIBRARIES/libext_intermediates/extensions/gen_initext.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

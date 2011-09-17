@@ -1,0 +1,17 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/default_icon.png:0 -->
+  <public type="drawable" name="default_icon" id="0x7f020000" />
+  <!-- Declared at res/drawable/phone_icon.png:0 -->
+  <public type="drawable" name="phone_icon" id="0x7f020001" />
+
+  <!-- Declared at res/xml/iconset.xml:0 -->
+  <public type="xml" name="iconset" id="0x7f030000" />
+
+</resources>

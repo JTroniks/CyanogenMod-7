@@ -1,0 +1,19 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libOpenSLES_intermediates/IID_to_MPH.o: \
+ system/media/opensles/libopensles/IID_to_MPH.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ system/media/opensles/include/SLES/OpenSLES.h \
+ system/media/opensles/include/SLES/OpenSLES_Platform.h \
+ system/media/opensles/libopensles/MPH.h bionic/libc/include/assert.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/string.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/malloc.h
+ system/media/opensles/libopensles/IID_to_MPH.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ system/media/opensles/include/SLES/OpenSLES.h :
+ system/media/opensles/include/SLES/OpenSLES_Platform.h :
+ system/media/opensles/libopensles/MPH.h bionic/libc/include/assert.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/string.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/malloc.h :

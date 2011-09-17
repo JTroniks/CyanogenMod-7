@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:26
+-keep class com.example.android.BluetoothChat.BluetoothChat { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.example.android.BluetoothChat.DeviceListActivity { <init>(...); }
+

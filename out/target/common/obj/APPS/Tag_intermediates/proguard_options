@@ -1,0 +1,27 @@
+# view AndroidManifest.xml #generated:88
+-keep class com.android.apps.tag.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.android.apps.tag.EditTagActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class com.android.apps.tag.MyTagList { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.android.apps.tag.TagBrowserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.android.apps.tag.TagList { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class com.android.apps.tag.TagService { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.android.apps.tag.TagViewer { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.android.apps.tag.WriteTagActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.android.apps.tag.provider.TagProvider { <init>(...); }
+

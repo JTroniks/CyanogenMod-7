@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libdvm_interp_intermediates/jdwp/JdwpConstants.o: \
+ dalvik/vm/jdwp/JdwpConstants.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ dalvik/vm/jdwp/JdwpConstants.h
+ dalvik/vm/jdwp/JdwpConstants.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ dalvik/vm/jdwp/JdwpConstants.h :

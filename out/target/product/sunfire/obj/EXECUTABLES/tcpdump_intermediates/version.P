@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/EXECUTABLES/tcpdump_intermediates/version.o: \
+ external/tcpdump/version.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/tcpdump/version.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

@@ -1,0 +1,46 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/btn_record.xml:0 -->
+  <public type="drawable" name="btn_record" id="0x7f020000" />
+  <!-- Declared at res/drawable/btn_speak_normal.png:0 -->
+  <public type="drawable" name="btn_speak_normal" id="0x7f020001" />
+  <!-- Declared at res/drawable/btn_speak_pressed.png:0 -->
+  <public type="drawable" name="btn_speak_pressed" id="0x7f020002" />
+  <!-- Declared at res/drawable/btn_speak_selected.png:0 -->
+  <public type="drawable" name="btn_speak_selected" id="0x7f020003" />
+  <!-- Declared at res/drawable/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020004" />
+
+  <!-- Declared at res/layout/call_address_dialog.xml:0 -->
+  <public type="layout" name="call_address_dialog" id="0x7f030000" />
+  <!-- Declared at res/layout/walkietalkie.xml:0 -->
+  <public type="layout" name="walkietalkie" id="0x7f030001" />
+
+  <!-- Declared at res/xml/preferences.xml:0 -->
+  <public type="xml" name="preferences" id="0x7f040000" />
+
+  <!-- Declared at development/samples/SipDemo/res/values/strings.xml:19 -->
+  <public type="string" name="app_name" id="0x7f050000" />
+  <!-- Declared at development/samples/SipDemo/res/values/strings.xml:20 -->
+  <public type="string" name="contactAddress" id="0x7f050001" />
+  <!-- Declared at development/samples/SipDemo/res/values/strings.xml:21 -->
+  <public type="string" name="talk" id="0x7f050002" />
+
+  <!-- Declared at development/samples/SipDemo/res/layout/call_address_dialog.xml:23 -->
+  <public type="id" name="calladdress_view" id="0x7f060000" />
+  <!-- Declared at development/samples/SipDemo/res/layout/call_address_dialog.xml:33 -->
+  <public type="id" name="calladdress_edit" id="0x7f060001" />
+  <!-- Declared at development/samples/SipDemo/res/layout/walkietalkie.xml:21 -->
+  <public type="id" name="mainlayout" id="0x7f060002" />
+  <!-- Declared at development/samples/SipDemo/res/layout/walkietalkie.xml:27 -->
+  <public type="id" name="sipLabel" id="0x7f060003" />
+  <!-- Declared at development/samples/SipDemo/res/layout/walkietalkie.xml:35 -->
+  <public type="id" name="pushToTalk" id="0x7f060004" />
+
+</resources>

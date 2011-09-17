@@ -1,0 +1,17 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/Common/src/LVC_Mixer_Init.o: \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer_Init.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Macros.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer_Private.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/VectorArithmetic.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer_Init.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Macros.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer_Private.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/VectorArithmetic.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :

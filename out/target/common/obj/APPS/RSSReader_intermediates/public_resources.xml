@@ -1,0 +1,26 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/rss_layout.xml:0 -->
+  <public type="layout" name="rss_layout" id="0x7f020000" />
+
+  <!-- Declared at development/samples/RSSReader/res/values/strings.xml:19 -->
+  <public type="string" name="rss_layout_urltext_text" id="0x7f030000" />
+  <!-- Declared at development/samples/RSSReader/res/values/strings.xml:20 -->
+  <public type="string" name="rss_layout_statustext_text" id="0x7f030001" />
+  <!-- Declared at development/samples/RSSReader/res/values/strings.xml:21 -->
+  <public type="string" name="rss_layout_download_text" id="0x7f030002" />
+
+  <!-- Declared at development/samples/RSSReader/res/layout/rss_layout.xml:23 -->
+  <public type="id" name="urltext" id="0x7f040000" />
+  <!-- Declared at development/samples/RSSReader/res/layout/rss_layout.xml:31 -->
+  <public type="id" name="download" id="0x7f040001" />
+  <!-- Declared at development/samples/RSSReader/res/layout/rss_layout.xml:36 -->
+  <public type="id" name="statustext" id="0x7f040002" />
+
+</resources>

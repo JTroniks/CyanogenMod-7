@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/vpn/java/android/net/vpn/IVpnService.java: \
+  frameworks/base/vpn/java/android/net/vpn/IVpnService.aidl \
+  frameworks/base/vpn/java/android/net/vpn/VpnProfile.aidl 
+

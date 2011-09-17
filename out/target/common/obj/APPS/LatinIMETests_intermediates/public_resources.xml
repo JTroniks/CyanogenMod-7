@@ -1,0 +1,14 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/raw/test.dict:0 -->
+  <public type="raw" name="test" id="0x7f020000" />
+  <!-- Declared at res/raw/testtext.txt:0 -->
+  <public type="raw" name="testtext" id="0x7f020001" />
+
+</resources>

@@ -1,0 +1,3 @@
+out/target/common/obj/APPS/FrameworksCoreTests_intermediates/src/src/android/os/IBinderThreadPriorityService.java: \
+  frameworks/base/core/tests/coretests/src/android/os/IBinderThreadPriorityService.aidl 
+

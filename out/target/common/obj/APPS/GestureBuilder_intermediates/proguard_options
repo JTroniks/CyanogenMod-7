@@ -1,0 +1,9 @@
+# view res/layout/create_gesture.xml #generated:50
+-keep class android.gesture.GestureOverlayView { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.android.gesture.builder.CreateGestureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.android.gesture.builder.GestureBuilderActivity { <init>(...); }
+

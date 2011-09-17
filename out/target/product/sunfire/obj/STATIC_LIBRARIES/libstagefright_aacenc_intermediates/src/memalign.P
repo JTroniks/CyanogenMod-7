@@ -1,0 +1,25 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_aacenc_intermediates/src/memalign.o: \
+ frameworks/base/media/libstagefright/codecs/aacenc/src/memalign.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/memalign.h \
+ frameworks/base/media/libstagefright/codecs/common/include/voMem.h \
+ frameworks/base/media/libstagefright/codecs/common/include/voIndex.h \
+ frameworks/base/media/libstagefright/codecs/common/include/voType.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedef.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h
+ frameworks/base/media/libstagefright/codecs/aacenc/src/memalign.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/memalign.h :
+ frameworks/base/media/libstagefright/codecs/common/include/voMem.h :
+ frameworks/base/media/libstagefright/codecs/common/include/voIndex.h :
+ frameworks/base/media/libstagefright/codecs/common/include/voType.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedef.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :

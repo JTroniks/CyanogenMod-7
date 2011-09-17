@@ -1,0 +1,37 @@
+out/target/product/sunfire/obj/EXECUTABLES/sh_intermediates/bltin/echo.o: \
+ system/core/sh/bltin/echo.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ system/core/sh/bltin/bltin.h system/core/sh/bltin/../shell.h \
+ bionic/libc/include/sys/param.h bionic/libc/include/limits.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/kernel/common/linux/param.h \
+ bionic/libc/kernel/arch-arm/asm/param.h \
+ system/core/sh/bltin/../mystring.h bionic/libc/include/string.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/malloc.h system/core/sh/bltin/../output.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ system/core/sh/bltin/../error.h bionic/libc/include/setjmp.h \
+ bionic/libc/arch-arm/include/machine/setjmp.h
+ system/core/sh/bltin/echo.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ system/core/sh/bltin/bltin.h system/core/sh/bltin/../shell.h :
+ bionic/libc/include/sys/param.h bionic/libc/include/limits.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/kernel/common/linux/param.h :
+ bionic/libc/kernel/arch-arm/asm/param.h :
+ system/core/sh/bltin/../mystring.h bionic/libc/include/string.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/malloc.h system/core/sh/bltin/../output.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ system/core/sh/bltin/../error.h bionic/libc/include/setjmp.h :
+ bionic/libc/arch-arm/include/machine/setjmp.h :

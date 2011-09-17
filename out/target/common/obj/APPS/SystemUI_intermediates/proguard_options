@@ -1,0 +1,76 @@
+# view AndroidManifest.xml #generated:24
+-keep class com.android.internal.app.ExternalMediaFormatActivity { <init>(...); }
+
+# view res/layout/status_bar.xml #generated:174
+# view res/layout/status_bar.xml #generated:178
+# view res/layout/status_bar_icon.xml #generated:28
+-keep class com.android.systemui.statusbar.AnimatedImageView { <init>(...); }
+
+# view res/layout/status_bar_expanded.xml #generated:164
+# view res/layout/status_bar_expanded.xml #generated:49
+-keep class com.android.systemui.statusbar.CarrierLabel { <init>(...); }
+
+# view res/layout/status_bar.xml #generated:78
+-keep class com.android.systemui.statusbar.Clock { <init>(...); }
+
+# view res/layout/status_bar_tracking.xml #generated:36
+-keep class com.android.systemui.statusbar.CloseDragHandle { <init>(...); }
+
+# view res/layout/status_bar.xml #generated:70
+-keep class com.android.systemui.statusbar.CmBatteryMiniIcon { <init>(...); }
+
+# view res/layout/status_bar.xml #generated:62
+-keep class com.android.systemui.statusbar.CmBatteryText { <init>(...); }
+
+# view res/layout/status_bar.xml #generated:54
+-keep class com.android.systemui.statusbar.CmSignalText { <init>(...); }
+
+# view res/layout/status_bar.xml #generated:23
+-keep class com.android.systemui.statusbar.CmStatusBarView { <init>(...); }
+
+# view res/layout/status_bar.xml #generated:204
+-keep class com.android.systemui.statusbar.DateView { <init>(...); }
+
+# view res/layout/status_bar_expanded.xml #generated:22
+-keep class com.android.systemui.statusbar.ExpandedView { <init>(...); }
+
+# view res/layout/status_bar.xml #generated:37
+-keep class com.android.systemui.statusbar.IconMerger { <init>(...); }
+
+# view res/layout/status_bar_latest_event.xml #generated:1
+-keep class com.android.systemui.statusbar.LatestItemContainer { <init>(...); }
+
+# view res/layout/status_bar_latest_event.xml #generated:7
+-keep class com.android.systemui.statusbar.LatestItemView { <init>(...); }
+
+# view res/layout/status_bar_expanded.xml #generated:150
+# view res/layout/status_bar_expanded.xml #generated:87
+-keep class com.android.systemui.statusbar.NotificationLinearLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.android.systemui.statusbar.StatusBarService { <init>(...); }
+
+# view res/layout/status_bar.xml #generated:183
+-keep class com.android.systemui.statusbar.TickerView { <init>(...); }
+
+# view res/layout/status_bar_tracking.xml #generated:18
+-keep class com.android.systemui.statusbar.TrackingView { <init>(...); }
+
+# view res/layout/status_bar_expanded.xml #generated:38
+-keep class com.android.systemui.statusbar.powerwidget.PowerWidget { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class com.android.systemui.usb.UsbAccessoryUriActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.android.systemui.usb.UsbConfirmActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.android.systemui.usb.UsbPermissionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.android.systemui.usb.UsbResolverActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.android.systemui.usb.UsbStorageActivity { <init>(...); }
+

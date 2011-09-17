@@ -1,0 +1,31 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_aacdec_intermediates/apply_tns.o: \
+ frameworks/base/media/libstagefright/codecs/aacdec/apply_tns.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_audio_type_defs.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/s_tns_frame_info.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/e_tns_const.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/s_tnsfilt.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/s_frameinfo.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/e_blockswitching.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/tns_inv_filter.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/tns_ar_filter.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/apply_tns.h
+ frameworks/base/media/libstagefright/codecs/aacdec/apply_tns.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_audio_type_defs.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/s_tns_frame_info.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/e_tns_const.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/s_tnsfilt.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/s_frameinfo.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/e_blockswitching.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/tns_inv_filter.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/tns_ar_filter.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/apply_tns.h :

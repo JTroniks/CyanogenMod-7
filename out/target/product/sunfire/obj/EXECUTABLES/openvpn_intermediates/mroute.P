@@ -1,0 +1,209 @@
+out/target/product/sunfire/obj/EXECUTABLES/openvpn_intermediates/mroute.o: \
+ external/openvpn/mroute.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/openvpn/syshead.h external/openvpn/config.h \
+ bionic/libc/include/sys/types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/sys/wait.h \
+ bionic/libc/include/sys/resource.h \
+ bionic/libc/kernel/common/linux/resource.h \
+ bionic/libc/kernel/common/linux/time.h \
+ bionic/libc/kernel/arch-arm/asm/resource.h \
+ bionic/libc/kernel/common/asm-generic/resource.h \
+ bionic/libc/kernel/common/linux/wait.h bionic/libc/include/signal.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/kernel/arch-arm/asm/signal.h \
+ bionic/libc/kernel/common/asm-generic/signal.h \
+ bionic/libc/kernel/arch-arm/asm/siginfo.h \
+ bionic/libc/kernel/common/asm-generic/siginfo.h \
+ bionic/libc/include/sys/time.h bionic/libc/include/time.h \
+ bionic/libc/include/sys/socket.h \
+ bionic/libc/kernel/common/linux/socket.h \
+ bionic/libc/kernel/arch-arm/asm/socket.h \
+ bionic/libc/kernel/arch-arm/asm/sockios.h \
+ bionic/libc/kernel/common/linux/sockios.h \
+ bionic/libc/kernel/common/linux/uio.h bionic/libc/include/sys/un.h \
+ bionic/libc/kernel/common/linux/un.h bionic/libc/include/sys/ioctl.h \
+ bionic/libc/kernel/common/linux/ioctl.h \
+ bionic/libc/kernel/arch-arm/asm/ioctl.h \
+ bionic/libc/kernel/common/asm-generic/ioctl.h \
+ bionic/libc/kernel/arch-arm/asm/ioctls.h \
+ bionic/libc/kernel/arch-arm/asm/termbits.h \
+ bionic/libc/include/sys/ioctl_compat.h bionic/libc/include/sys/stat.h \
+ bionic/libc/kernel/common/linux/stat.h \
+ bionic/libc/arch-arm/include/endian.h bionic/libc/include/sys/endian.h \
+ bionic/libc/include/fcntl.h bionic/libc/kernel/common/linux/fcntl.h \
+ bionic/libc/kernel/arch-arm/asm/fcntl.h \
+ bionic/libc/kernel/common/asm-generic/fcntl.h \
+ bionic/libc/include/unistd.h bionic/libc/include/sys/select.h \
+ bionic/libc/include/sys/sysconf.h \
+ bionic/libc/kernel/common/linux/capability.h \
+ bionic/libc/include/pathconf.h bionic/libc/include/sys/file.h \
+ bionic/libc/include/stdlib.h bionic/libc/include/alloca.h \
+ bionic/libc/include/strings.h bionic/libc/include/memory.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ bionic/libc/include/stdio.h bionic/libc/include/ctype.h \
+ bionic/libc/include/errno.h bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h \
+ bionic/libc/include/err.h bionic/libc/include/syslog.h \
+ bionic/libc/include/pwd.h bionic/libc/include/grp.h \
+ bionic/libc/include/dlfcn.h bionic/libc/include/netdb.h \
+ bionic/libc/include/netinet/in.h bionic/libc/kernel/common/linux/in.h \
+ bionic/libc/kernel/arch-arm/asm/byteorder.h \
+ bionic/libc/kernel/common/linux/byteorder/little_endian.h \
+ bionic/libc/kernel/common/linux/byteorder/swab.h \
+ bionic/libc/kernel/common/linux/byteorder/generic.h \
+ bionic/libc/kernel/common/linux/in6.h bionic/libc/include/netinet/in6.h \
+ bionic/libc/include/resolv.h bionic/libc/include/sys/param.h \
+ bionic/libc/kernel/common/linux/param.h \
+ bionic/libc/kernel/arch-arm/asm/param.h \
+ bionic/libc/include/arpa/nameser.h bionic/libc/include/sys/poll.h \
+ bionic/libc/include/poll.h bionic/libc/kernel/common/linux/poll.h \
+ bionic/libc/kernel/arch-arm/asm/poll.h bionic/libc/include/sys/epoll.h \
+ bionic/libc/include/arpa/inet.h bionic/libc/include/net/if.h \
+ bionic/libc/kernel/common/linux/if.h \
+ bionic/libc/kernel/common/linux/hdlc/ioctl.h \
+ bionic/libc/include/netinet/if_ether.h \
+ bionic/libc/kernel/common/linux/if_ether.h \
+ bionic/libc/kernel/common/linux/if_arp.h \
+ bionic/libc/kernel/common/linux/netdevice.h \
+ bionic/libc/kernel/common/linux/if_packet.h \
+ bionic/libc/include/net/ethertypes.h \
+ bionic/libc/kernel/common/linux/if_tun.h \
+ bionic/libc/include/netinet/ip.h bionic/libc/include/netinet/in_systm.h \
+ bionic/libc/kernel/common/linux/errqueue.h \
+ bionic/libc/include/netinet/tcp.h bionic/libc/kernel/common/linux/tcp.h \
+ bionic/libc/include/sys/mman.h bionic/libc/kernel/arch-arm/asm/mman.h \
+ bionic/libc/kernel/common/asm-generic/mman.h \
+ bionic/libc/kernel/arch-arm/asm/page.h external/openvpn/mroute.h \
+ external/openvpn/buffer.h external/openvpn/basic.h \
+ external/openvpn/thread.h external/openvpn/common.h \
+ external/openvpn/list.h external/openvpn/route.h external/openvpn/tun.h \
+ external/openvpn/error.h external/openvpn/errlevel.h \
+ external/openvpn/mtu.h external/openvpn/win32.h external/openvpn/event.h \
+ external/openvpn/sig.h external/openvpn/status.h \
+ external/openvpn/interval.h external/openvpn/otime.h \
+ external/openvpn/integer.h external/openvpn/perf.h \
+ external/openvpn/proto.h external/openvpn/misc.h \
+ external/openvpn/socket.h external/openvpn/proxy.h \
+ external/openvpn/socks.h external/openvpn/memdbg.h
+ external/openvpn/mroute.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/openvpn/syshead.h external/openvpn/config.h :
+ bionic/libc/include/sys/types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/sys/wait.h :
+ bionic/libc/include/sys/resource.h :
+ bionic/libc/kernel/common/linux/resource.h :
+ bionic/libc/kernel/common/linux/time.h :
+ bionic/libc/kernel/arch-arm/asm/resource.h :
+ bionic/libc/kernel/common/asm-generic/resource.h :
+ bionic/libc/kernel/common/linux/wait.h bionic/libc/include/signal.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/kernel/arch-arm/asm/signal.h :
+ bionic/libc/kernel/common/asm-generic/signal.h :
+ bionic/libc/kernel/arch-arm/asm/siginfo.h :
+ bionic/libc/kernel/common/asm-generic/siginfo.h :
+ bionic/libc/include/sys/time.h bionic/libc/include/time.h :
+ bionic/libc/include/sys/socket.h :
+ bionic/libc/kernel/common/linux/socket.h :
+ bionic/libc/kernel/arch-arm/asm/socket.h :
+ bionic/libc/kernel/arch-arm/asm/sockios.h :
+ bionic/libc/kernel/common/linux/sockios.h :
+ bionic/libc/kernel/common/linux/uio.h bionic/libc/include/sys/un.h :
+ bionic/libc/kernel/common/linux/un.h bionic/libc/include/sys/ioctl.h :
+ bionic/libc/kernel/common/linux/ioctl.h :
+ bionic/libc/kernel/arch-arm/asm/ioctl.h :
+ bionic/libc/kernel/common/asm-generic/ioctl.h :
+ bionic/libc/kernel/arch-arm/asm/ioctls.h :
+ bionic/libc/kernel/arch-arm/asm/termbits.h :
+ bionic/libc/include/sys/ioctl_compat.h bionic/libc/include/sys/stat.h :
+ bionic/libc/kernel/common/linux/stat.h :
+ bionic/libc/arch-arm/include/endian.h bionic/libc/include/sys/endian.h :
+ bionic/libc/include/fcntl.h bionic/libc/kernel/common/linux/fcntl.h :
+ bionic/libc/kernel/arch-arm/asm/fcntl.h :
+ bionic/libc/kernel/common/asm-generic/fcntl.h :
+ bionic/libc/include/unistd.h bionic/libc/include/sys/select.h :
+ bionic/libc/include/sys/sysconf.h :
+ bionic/libc/kernel/common/linux/capability.h :
+ bionic/libc/include/pathconf.h bionic/libc/include/sys/file.h :
+ bionic/libc/include/stdlib.h bionic/libc/include/alloca.h :
+ bionic/libc/include/strings.h bionic/libc/include/memory.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ bionic/libc/include/stdio.h bionic/libc/include/ctype.h :
+ bionic/libc/include/errno.h bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :
+ bionic/libc/include/err.h bionic/libc/include/syslog.h :
+ bionic/libc/include/pwd.h bionic/libc/include/grp.h :
+ bionic/libc/include/dlfcn.h bionic/libc/include/netdb.h :
+ bionic/libc/include/netinet/in.h bionic/libc/kernel/common/linux/in.h :
+ bionic/libc/kernel/arch-arm/asm/byteorder.h :
+ bionic/libc/kernel/common/linux/byteorder/little_endian.h :
+ bionic/libc/kernel/common/linux/byteorder/swab.h :
+ bionic/libc/kernel/common/linux/byteorder/generic.h :
+ bionic/libc/kernel/common/linux/in6.h bionic/libc/include/netinet/in6.h :
+ bionic/libc/include/resolv.h bionic/libc/include/sys/param.h :
+ bionic/libc/kernel/common/linux/param.h :
+ bionic/libc/kernel/arch-arm/asm/param.h :
+ bionic/libc/include/arpa/nameser.h bionic/libc/include/sys/poll.h :
+ bionic/libc/include/poll.h bionic/libc/kernel/common/linux/poll.h :
+ bionic/libc/kernel/arch-arm/asm/poll.h bionic/libc/include/sys/epoll.h :
+ bionic/libc/include/arpa/inet.h bionic/libc/include/net/if.h :
+ bionic/libc/kernel/common/linux/if.h :
+ bionic/libc/kernel/common/linux/hdlc/ioctl.h :
+ bionic/libc/include/netinet/if_ether.h :
+ bionic/libc/kernel/common/linux/if_ether.h :
+ bionic/libc/kernel/common/linux/if_arp.h :
+ bionic/libc/kernel/common/linux/netdevice.h :
+ bionic/libc/kernel/common/linux/if_packet.h :
+ bionic/libc/include/net/ethertypes.h :
+ bionic/libc/kernel/common/linux/if_tun.h :
+ bionic/libc/include/netinet/ip.h bionic/libc/include/netinet/in_systm.h :
+ bionic/libc/kernel/common/linux/errqueue.h :
+ bionic/libc/include/netinet/tcp.h bionic/libc/kernel/common/linux/tcp.h :
+ bionic/libc/include/sys/mman.h bionic/libc/kernel/arch-arm/asm/mman.h :
+ bionic/libc/kernel/common/asm-generic/mman.h :
+ bionic/libc/kernel/arch-arm/asm/page.h external/openvpn/mroute.h :
+ external/openvpn/buffer.h external/openvpn/basic.h :
+ external/openvpn/thread.h external/openvpn/common.h :
+ external/openvpn/list.h external/openvpn/route.h external/openvpn/tun.h :
+ external/openvpn/error.h external/openvpn/errlevel.h :
+ external/openvpn/mtu.h external/openvpn/win32.h external/openvpn/event.h :
+ external/openvpn/sig.h external/openvpn/status.h :
+ external/openvpn/interval.h external/openvpn/otime.h :
+ external/openvpn/integer.h external/openvpn/perf.h :
+ external/openvpn/proto.h external/openvpn/misc.h :
+ external/openvpn/socket.h external/openvpn/proxy.h :
+ external/openvpn/socks.h external/openvpn/memdbg.h :

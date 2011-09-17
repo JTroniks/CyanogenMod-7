@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libdvm_sv_intermediates/compiler/codegen/arm/armv7-a/CallingConvention.o: \
+ dalvik/vm/compiler/codegen/arm/armv7-a/CallingConvention.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ dalvik/vm/compiler/codegen/arm/armv7-a/CallingConvention.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

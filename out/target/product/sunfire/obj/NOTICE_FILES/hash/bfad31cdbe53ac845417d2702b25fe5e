@@ -1,0 +1,6 @@
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/lib/libc_common.a.txt
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/lib/libc_nomalloc.a.txt
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/lib/libc_malloc_debug_qemu.so.txt
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/lib/libc.a.txt
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/lib/libc.so.txt
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/lib/libc_malloc_debug_leak.so.txt

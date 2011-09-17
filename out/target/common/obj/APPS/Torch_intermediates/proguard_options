@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:6
+-keep class net.cactii.flash2.MainActivity { <init>(...); }
+
+# view res/layout/optionsview.xml #generated:14
+-keep class net.cactii.flash2.SeekBarPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class net.cactii.flash2.TorchService { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class net.cactii.flash2.TorchSwitch { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class net.cactii.flash2.TorchWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class net.cactii.flash2.WidgetOptionsActivity { <init>(...); }
+

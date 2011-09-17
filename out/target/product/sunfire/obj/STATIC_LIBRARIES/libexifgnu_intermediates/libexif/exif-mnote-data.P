@@ -1,0 +1,51 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libexifgnu_intermediates/./libexif/exif-mnote-data.o: \
+ external/libexif/./libexif/exif-mnote-data.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/libexif/config.h external/libexif/libexif/exif-mnote-data.h \
+ external/libexif/libexif/exif-log.h external/libexif/libexif/exif-mem.h \
+ external/libexif/libexif/exif-utils.h \
+ external/libexif/libexif/exif-byte-order.h \
+ external/libexif/libexif/exif-format.h \
+ external/libexif/libexif/_stdint.h bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ external/libexif/libexif/exif-mnote-data-priv.h \
+ bionic/libc/include/stdlib.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/include/alloca.h \
+ bionic/libc/include/strings.h bionic/libc/include/sys/types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h
+ external/libexif/./libexif/exif-mnote-data.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/libexif/config.h external/libexif/libexif/exif-mnote-data.h :
+ external/libexif/libexif/exif-log.h external/libexif/libexif/exif-mem.h :
+ external/libexif/libexif/exif-utils.h :
+ external/libexif/libexif/exif-byte-order.h :
+ external/libexif/libexif/exif-format.h :
+ external/libexif/libexif/_stdint.h bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ external/libexif/libexif/exif-mnote-data-priv.h :
+ bionic/libc/include/stdlib.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/include/alloca.h :
+ bionic/libc/include/strings.h bionic/libc/include/sys/types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h :

@@ -1,0 +1,57 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libicui18n_intermediates/cpdtrans.o: \
+ external/icu4c/i18n/cpdtrans.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/icu4c/i18n/../common/unicode/utypes.h \
+ external/icu4c/i18n/../common/unicode/umachine.h \
+ external/icu4c/i18n/../common/unicode/ptypes.h \
+ bionic/libc/include/sys/types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h \
+ external/icu4c/i18n/../common/unicode/platform.h \
+ bionic/libc/include/inttypes.h \
+ external/icu4c/i18n/../common/unicode/urename.h \
+ external/icu4c/i18n/../common/unicode/uvernum.h \
+ external/icu4c/i18n/../common/unicode/utf.h \
+ external/icu4c/i18n/../common/unicode/utf8.h \
+ external/icu4c/i18n/../common/unicode/utf16.h \
+ external/icu4c/i18n/../common/unicode/utf_old.h \
+ external/icu4c/i18n/../common/unicode/uversion.h \
+ external/icu4c/i18n/../common/unicode/uconfig.h
+ external/icu4c/i18n/cpdtrans.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/icu4c/i18n/../common/unicode/utypes.h :
+ external/icu4c/i18n/../common/unicode/umachine.h :
+ external/icu4c/i18n/../common/unicode/ptypes.h :
+ bionic/libc/include/sys/types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h :
+ external/icu4c/i18n/../common/unicode/platform.h :
+ bionic/libc/include/inttypes.h :
+ external/icu4c/i18n/../common/unicode/urename.h :
+ external/icu4c/i18n/../common/unicode/uvernum.h :
+ external/icu4c/i18n/../common/unicode/utf.h :
+ external/icu4c/i18n/../common/unicode/utf8.h :
+ external/icu4c/i18n/../common/unicode/utf16.h :
+ external/icu4c/i18n/../common/unicode/utf_old.h :
+ external/icu4c/i18n/../common/unicode/uversion.h :
+ external/icu4c/i18n/../common/unicode/uconfig.h :

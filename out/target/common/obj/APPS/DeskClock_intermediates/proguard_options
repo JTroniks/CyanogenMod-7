@@ -1,0 +1,57 @@
+# view AndroidManifest.xml #generated:136
+-keep class com.android.alarmclock.AnalogAppWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.android.deskclock.AlarmAlert { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.android.deskclock.AlarmAlertFullScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.android.deskclock.AlarmClock { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.android.deskclock.AlarmInitReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class com.android.deskclock.AlarmKlaxon { <init>(...); }
+
+# view res/xml/alarm_prefs.xml #generated:29
+-keep class com.android.deskclock.AlarmPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class com.android.deskclock.AlarmProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.android.deskclock.AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.android.deskclock.ColorPicker { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.android.deskclock.DeskClock { <init>(...); }
+
+# view res/layout/alarm_alert.xml #generated:48
+# view res/layout/alarm_clock.xml #generated:74
+# view res/layout/alarm_time.xml #generated:65
+# view res/layout/desk_clock_time_date.xml #generated:27
+-keep class com.android.deskclock.DigitalClock { <init>(...); }
+
+# view res/layout/alarm_time.xml #generated:31
+-keep class com.android.deskclock.DontPressWithParentLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.android.deskclock.HandleSetAlarm { <init>(...); }
+
+# view res/xml/alarm_prefs.xml #generated:43
+-keep class com.android.deskclock.IntentPreferenceScreen { <init>(...); }
+
+# view res/xml/alarm_prefs.xml #generated:25
+-keep class com.android.deskclock.RepeatPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.android.deskclock.SetAlarm { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.android.deskclock.SettingsActivity { <init>(...); }
+

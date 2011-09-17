@@ -1,0 +1,67 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/emulator-arm_intermediates/target-arm/op_helper.o: \
+ external/qemu/target-arm/op_helper.c external/qemu/target-arm/exec.h \
+ external/qemu/android/config/config.h \
+ external/qemu/android/config/linux-x86/config-host.h \
+ external/qemu/dyngen-exec.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h \
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h /usr/include/bits/wchar.h \
+ external/qemu/target-arm/cpu.h external/qemu/cpu-defs.h \
+ /usr/include/setjmp.h /usr/include/bits/setjmp.h \
+ /usr/include/bits/sigset.h /usr/include/bits/setjmp2.h \
+ /usr/include/inttypes.h /usr/include/signal.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/signum.h \
+ /usr/include/time.h /usr/include/bits/siginfo.h \
+ /usr/include/bits/sigaction.h /usr/include/bits/sigcontext.h \
+ /usr/include/bits/sigstack.h /usr/include/sys/ucontext.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/sigthread.h \
+ external/qemu/osdep.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ /usr/include/sys/time.h /usr/include/bits/time.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ external/qemu/qemu-queue.h external/qemu/targphys.h \
+ external/qemu/fpu/softfloat.h external/qemu/cpu-all.h \
+ external/qemu/qemu-common.h external/qemu/cpu-common.h \
+ external/qemu/bswap.h /usr/include/byteswap.h \
+ /usr/include/bits/byteswap.h external/qemu/ioport.h \
+ external/qemu/exec-all.h external/qemu/qemu-log.h \
+ external/qemu/qemu-lock.h external/qemu/softmmu_defs.h \
+ external/qemu/softmmu_header.h external/qemu/softmmu_exec.h \
+ external/qemu/target-arm/helpers.h external/qemu/def-helper.h \
+ external/qemu/softmmu_template.h external/qemu/memcheck/memcheck_api.h
+ external/qemu/target-arm/op_helper.c external/qemu/target-arm/exec.h :
+ external/qemu/android/config/config.h :
+ external/qemu/android/config/linux-x86/config-host.h :
+ external/qemu/dyngen-exec.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/features.h :
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h :
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+ /usr/include/gnu/stubs-32.h /usr/include/bits/wchar.h :
+ external/qemu/target-arm/cpu.h external/qemu/cpu-defs.h :
+ /usr/include/setjmp.h /usr/include/bits/setjmp.h :
+ /usr/include/bits/sigset.h /usr/include/bits/setjmp2.h :
+ /usr/include/inttypes.h /usr/include/signal.h /usr/include/bits/types.h :
+ /usr/include/bits/typesizes.h /usr/include/bits/signum.h :
+ /usr/include/time.h /usr/include/bits/siginfo.h :
+ /usr/include/bits/sigaction.h /usr/include/bits/sigcontext.h :
+ /usr/include/bits/sigstack.h /usr/include/sys/ucontext.h :
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/sigthread.h :
+ external/qemu/osdep.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ /usr/include/sys/time.h /usr/include/bits/time.h :
+ /usr/include/sys/select.h /usr/include/bits/select.h :
+ external/qemu/qemu-queue.h external/qemu/targphys.h :
+ external/qemu/fpu/softfloat.h external/qemu/cpu-all.h :
+ external/qemu/qemu-common.h external/qemu/cpu-common.h :
+ external/qemu/bswap.h /usr/include/byteswap.h :
+ /usr/include/bits/byteswap.h external/qemu/ioport.h :
+ external/qemu/exec-all.h external/qemu/qemu-log.h :
+ external/qemu/qemu-lock.h external/qemu/softmmu_defs.h :
+ external/qemu/softmmu_header.h external/qemu/softmmu_exec.h :
+ external/qemu/target-arm/helpers.h external/qemu/def-helper.h :
+ external/qemu/softmmu_template.h external/qemu/memcheck/memcheck_api.h :

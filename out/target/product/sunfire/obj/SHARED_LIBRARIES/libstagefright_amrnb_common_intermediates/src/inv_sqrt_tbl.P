@@ -1,0 +1,17 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libstagefright_amrnb_common_intermediates/src/inv_sqrt_tbl.o: \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/src/inv_sqrt_tbl.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/typedef.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/gsm_amr_typedefs.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h
+ frameworks/base/media/libstagefright/codecs/amrnb/common/src/inv_sqrt_tbl.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/typedef.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/gsm_amr_typedefs.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :

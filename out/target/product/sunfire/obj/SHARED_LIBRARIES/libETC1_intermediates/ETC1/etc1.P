@@ -1,0 +1,13 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libETC1_intermediates/ETC1/etc1.o: \
+ frameworks/base/opengl/libs/ETC1/etc1.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/opengl/include/ETC1/etc1.h bionic/libc/include/string.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/malloc.h
+ frameworks/base/opengl/libs/ETC1/etc1.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/opengl/include/ETC1/etc1.h bionic/libc/include/string.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/malloc.h :

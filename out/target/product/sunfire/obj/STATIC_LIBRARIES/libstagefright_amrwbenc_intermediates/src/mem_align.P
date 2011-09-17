@@ -1,0 +1,31 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_amrwbenc_intermediates/src/mem_align.o: \
+ frameworks/base/media/libstagefright/codecs/amrwbenc/src/mem_align.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/amrwbenc/inc/mem_align.h \
+ frameworks/base/media/libstagefright/codecs/common/include/voMem.h \
+ frameworks/base/media/libstagefright/codecs/common/include/voIndex.h \
+ frameworks/base/media/libstagefright/codecs/common/include/voType.h \
+ frameworks/base/media/libstagefright/codecs/amrwbenc/inc/typedef.h \
+ frameworks/base/media/libstagefright/codecs/amrwbenc/inc/typedefs.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/float.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h
+ frameworks/base/media/libstagefright/codecs/amrwbenc/src/mem_align.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/amrwbenc/inc/mem_align.h :
+ frameworks/base/media/libstagefright/codecs/common/include/voMem.h :
+ frameworks/base/media/libstagefright/codecs/common/include/voIndex.h :
+ frameworks/base/media/libstagefright/codecs/common/include/voType.h :
+ frameworks/base/media/libstagefright/codecs/amrwbenc/inc/typedef.h :
+ frameworks/base/media/libstagefright/codecs/amrwbenc/inc/typedefs.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/float.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h :

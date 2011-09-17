@@ -1,0 +1,12 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at frameworks/base/opengl/tests/gl2_jni/res/values/strings.xml:26 -->
+  <public type="string" name="gl2jni_activity" id="0x7f020000" />
+
+</resources>

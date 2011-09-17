@@ -1,0 +1,26 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/battery_waster.xml:0 -->
+  <public type="layout" name="battery_waster" id="0x7f020000" />
+
+  <!-- Declared at frameworks/base/tests/BatteryWaster/res/values/strings.xml:19 -->
+  <public type="string" name="waste_away" id="0x7f030000" />
+  <!-- Declared at frameworks/base/tests/BatteryWaster/res/values/strings.xml:21 -->
+  <public type="string" name="wake_away" id="0x7f030001" />
+
+  <!-- Declared at frameworks/base/tests/BatteryWaster/res/layout/battery_waster.xml:23 -->
+  <public type="id" name="checkbox" id="0x7f040000" />
+  <!-- Declared at frameworks/base/tests/BatteryWaster/res/layout/battery_waster.xml:34 -->
+  <public type="id" name="checkbox_wake" id="0x7f040001" />
+  <!-- Declared at frameworks/base/tests/BatteryWaster/res/layout/battery_waster.xml:45 -->
+  <public type="id" name="scroll" id="0x7f040002" />
+  <!-- Declared at frameworks/base/tests/BatteryWaster/res/layout/battery_waster.xml:50 -->
+  <public type="id" name="log" id="0x7f040003" />
+
+</resources>

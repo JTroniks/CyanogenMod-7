@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:37
+-keep class com.android.quake.DownloaderActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.android.quake.QuakeActivity { <init>(...); }
+

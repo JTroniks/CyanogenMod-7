@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libfdlibm_intermediates/e_atanh.o: \
+ external/fdlibm/e_atanh.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/fdlibm/fdlibm.h
+ external/fdlibm/e_atanh.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/fdlibm/fdlibm.h :

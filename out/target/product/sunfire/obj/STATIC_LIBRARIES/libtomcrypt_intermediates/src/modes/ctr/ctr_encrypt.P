@@ -1,0 +1,93 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libtomcrypt_intermediates/src/modes/ctr/ctr_encrypt.o: \
+ external/dropbear/libtomcrypt/src/modes/ctr/ctr_encrypt.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt.h \
+ bionic/libc/include/assert.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/stdio.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/include/stdlib.h \
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+ bionic/libc/include/memory.h bionic/libc/include/time.h \
+ bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h \
+ bionic/libc/kernel/arch-arm/asm/siginfo.h \
+ bionic/libc/kernel/common/asm-generic/siginfo.h \
+ bionic/libc/include/ctype.h bionic/libc/include/limits.h \
+ bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_custom.h \
+ external/dropbear/libtomcrypt/../options.h \
+ external/dropbear/libtomcrypt/../sysoptions.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_cfg.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_macros.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_cipher.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_hash.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_mac.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_prng.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_pk.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_math.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_misc.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_argchk.h \
+ bionic/libc/include/signal.h bionic/libc/kernel/arch-arm/asm/signal.h \
+ bionic/libc/kernel/common/asm-generic/signal.h \
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_pkcs.h
+ external/dropbear/libtomcrypt/src/modes/ctr/ctr_encrypt.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt.h :
+ bionic/libc/include/assert.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/stdio.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/include/stdlib.h :
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+ bionic/libc/include/memory.h bionic/libc/include/time.h :
+ bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h :
+ bionic/libc/kernel/arch-arm/asm/siginfo.h :
+ bionic/libc/kernel/common/asm-generic/siginfo.h :
+ bionic/libc/include/ctype.h bionic/libc/include/limits.h :
+ bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_custom.h :
+ external/dropbear/libtomcrypt/../options.h :
+ external/dropbear/libtomcrypt/../sysoptions.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_cfg.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_macros.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_cipher.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_hash.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_mac.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_prng.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_pk.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_math.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_misc.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_argchk.h :
+ bionic/libc/include/signal.h bionic/libc/kernel/arch-arm/asm/signal.h :
+ bionic/libc/kernel/common/asm-generic/signal.h :
+ external/dropbear/libtomcrypt/src/headers/tomcrypt_pkcs.h :

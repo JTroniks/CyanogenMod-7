@@ -1,0 +1,22 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/lat.xml:0 -->
+  <public type="layout" name="lat" id="0x7f020000" />
+
+  <!-- Declared at frameworks/base/tests/LargeAssetTest/res/values/strings.xml:19 -->
+  <public type="string" name="prompt" id="0x7f030000" />
+  <!-- Declared at frameworks/base/tests/LargeAssetTest/res/values/strings.xml:20 -->
+  <public type="string" name="button_text" id="0x7f030001" />
+
+  <!-- Declared at frameworks/base/tests/LargeAssetTest/res/layout/lat.xml:31 -->
+  <public type="id" name="result" id="0x7f040000" />
+  <!-- Declared at frameworks/base/tests/LargeAssetTest/res/layout/lat.xml:40 -->
+  <public type="id" name="validate" id="0x7f040001" />
+
+</resources>

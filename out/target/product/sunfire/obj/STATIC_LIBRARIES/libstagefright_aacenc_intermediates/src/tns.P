@@ -1,0 +1,43 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_aacenc_intermediates/src/tns.o: \
+ frameworks/base/media/libstagefright/codecs/aacenc/src/tns.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/basic_op.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedef.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/oper_32b.h \
+ bionic/libc/include/assert.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/aac_rom.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/config.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/psy_const.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/tns_param.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/tns.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedef.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/psy_const.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/tns.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/tns_param.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/psy_configuration.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/tns_func.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/psy_configuration.h
+ frameworks/base/media/libstagefright/codecs/aacenc/src/tns.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/basic_op.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedef.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/oper_32b.h :
+ bionic/libc/include/assert.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/aac_rom.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/config.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/psy_const.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/tns_param.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/tns.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedef.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/psy_const.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/tns.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/tns_param.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/psy_configuration.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/tns_func.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/psy_configuration.h :

@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/net/IConnectivityManager.java: \
+  frameworks/base/core/java/android/net/IConnectivityManager.aidl \
+  frameworks/base/core/java/android/net/NetworkInfo.aidl \
+

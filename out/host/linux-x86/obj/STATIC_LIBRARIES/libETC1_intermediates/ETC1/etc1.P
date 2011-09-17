@@ -1,0 +1,17 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libETC1_intermediates/ETC1/etc1.o: \
+ frameworks/base/opengl/libs/ETC1/etc1.cpp \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ frameworks/base/opengl/include/ETC1/etc1.h /usr/include/string.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/xlocale.h
+ frameworks/base/opengl/libs/ETC1/etc1.cpp :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ frameworks/base/opengl/include/ETC1/etc1.h /usr/include/string.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/xlocale.h :

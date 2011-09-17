@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libboot_board_dream_sapphire_combined_intermediates/keypad.o: \
+ device/htc/dream_sapphire/boot/keypad.c \
+ bootable/bootloader/legacy/include/boot/boot.h \
+ bootable/bootloader/legacy/include/boot/board.h \
+ bootable/bootloader/legacy/include/boot/gpio_keypad.h
+ device/htc/dream_sapphire/boot/keypad.c :
+ bootable/bootloader/legacy/include/boot/boot.h :
+ bootable/bootloader/legacy/include/boot/board.h :
+ bootable/bootloader/legacy/include/boot/gpio_keypad.h :

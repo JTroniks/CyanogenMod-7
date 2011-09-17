@@ -1,0 +1,25 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_aacdec_intermediates/getfill.o: \
+ frameworks/base/media/libstagefright/codecs/aacdec/getfill.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_audio_type_defs.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/s_bits.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/ibstream.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/getbits.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/e_rawbitstreamconst.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/getfill.h
+ frameworks/base/media/libstagefright/codecs/aacdec/getfill.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_audio_type_defs.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/s_bits.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/ibstream.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/getbits.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/e_rawbitstreamconst.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/getfill.h :

@@ -1,0 +1,13 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_amrwbenc_intermediates/src/stream.o: \
+ frameworks/base/media/libstagefright/codecs/amrwbenc/src/stream.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/amrwbenc/inc/stream.h \
+ frameworks/base/media/libstagefright/codecs/common/include/voMem.h \
+ frameworks/base/media/libstagefright/codecs/common/include/voIndex.h \
+ frameworks/base/media/libstagefright/codecs/common/include/voType.h
+ frameworks/base/media/libstagefright/codecs/amrwbenc/src/stream.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/amrwbenc/inc/stream.h :
+ frameworks/base/media/libstagefright/codecs/common/include/voMem.h :
+ frameworks/base/media/libstagefright/codecs/common/include/voIndex.h :
+ frameworks/base/media/libstagefright/codecs/common/include/voType.h :

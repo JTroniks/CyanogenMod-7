@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:33
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+

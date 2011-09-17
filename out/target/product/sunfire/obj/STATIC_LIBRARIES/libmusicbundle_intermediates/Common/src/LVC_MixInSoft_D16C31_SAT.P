@@ -1,0 +1,17 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/Common/src/LVC_MixInSoft_D16C31_SAT.o: \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_MixInSoft_D16C31_SAT.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer_Private.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/VectorArithmetic.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/ScalarArithmetic.h
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_MixInSoft_D16C31_SAT.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer_Private.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/VectorArithmetic.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/ScalarArithmetic.h :

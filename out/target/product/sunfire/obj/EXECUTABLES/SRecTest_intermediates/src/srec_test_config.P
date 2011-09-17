@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/EXECUTABLES/SRecTest_intermediates/src/srec_test_config.o: \
+ external/srec/srec/test/SRecTest/src/srec_test_config.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/srec/srec/test/SRecTest/src/srec_test_config.h
+ external/srec/srec/test/SRecTest/src/srec_test_config.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/srec/srec/test/SRecTest/src/srec_test_config.h :

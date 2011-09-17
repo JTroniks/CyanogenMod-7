@@ -1,0 +1,30 @@
+# view AndroidManifest.xml #generated:64
+-keep class com.android.providers.calendar.CalendarAppWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.android.providers.calendar.CalendarAppWidgetService { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.android.providers.calendar.CalendarContentProviderTests { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.android.providers.calendar.CalendarDebug { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class com.android.providers.calendar.CalendarDebugReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.android.providers.calendar.CalendarProvider2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.android.providers.calendar.CalendarReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.android.providers.calendar.CalendarUpgradeReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.android.providers.calendar.EmptyService { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.android.providers.calendar.TimeChangeReceiver { <init>(...); }
+

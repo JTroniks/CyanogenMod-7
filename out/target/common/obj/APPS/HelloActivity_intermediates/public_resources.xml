@@ -1,0 +1,18 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/hello_activity.xml:0 -->
+  <public type="layout" name="hello_activity" id="0x7f020000" />
+
+  <!-- Declared at development/samples/HelloActivity/res/values/strings.xml:19 -->
+  <public type="string" name="hello_activity_text_text" id="0x7f030000" />
+
+  <!-- Declared at development/samples/HelloActivity/res/layout/hello_activity.xml:17 -->
+  <public type="id" name="text" id="0x7f040000" />
+
+</resources>

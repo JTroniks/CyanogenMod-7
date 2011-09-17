@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.android.quicksearchbox.tests.spammy.SpammySuggestionLauncher { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.android.quicksearchbox.tests.spammy.SpammySuggestionProvider { <init>(...); }
+

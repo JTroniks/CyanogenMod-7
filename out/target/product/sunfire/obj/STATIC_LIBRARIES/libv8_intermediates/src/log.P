@@ -1,0 +1,143 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libv8_intermediates/src/log.o: \
+ external/v8/src/log.cc \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ external/v8/src/v8.h external/v8/src/../include/v8.h \
+ external/v8/src/../include/v8stdint.h bionic/libc/include/stdio.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h external/v8/src/v8globals.h \
+ external/v8/src/globals.h external/v8/src/v8checks.h \
+ external/v8/src/checks.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h external/v8/src/allocation.h \
+ external/v8/src/v8utils.h external/v8/src/utils.h \
+ bionic/libc/include/stdlib.h bionic/libc/include/alloca.h \
+ bionic/libc/include/strings.h bionic/libc/include/memory.h \
+ external/v8/src/flags.h external/v8/src/flag-definitions.h \
+ external/v8/src/objects-inl.h external/v8/src/objects.h \
+ external/v8/src/builtins.h external/v8/src/smart-pointer.h \
+ external/v8/src/unicode-inl.h external/v8/src/unicode.h \
+ external/v8/src/arm/constants-arm.h external/v8/src/contexts.h \
+ external/v8/src/heap.h bionic/libm/include/math.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h external/v8/src/spaces.h \
+ external/v8/src/list-inl.h external/v8/src/list.h external/v8/src/log.h \
+ external/v8/src/platform.h external/v8/src/log-utils.h \
+ external/v8/src/splay-tree-inl.h external/v8/src/splay-tree.h \
+ external/v8/src/v8-counters.h external/v8/src/counters.h \
+ external/v8/src/conversions-inl.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/float.h \
+ external/v8/src/conversions.h external/v8/src/memory.h \
+ external/v8/src/property.h external/v8/src/spaces-inl.h \
+ external/v8/src/heap-inl.h external/v8/src/log-inl.h \
+ external/v8/src/cpu-profiler.h external/v8/src/circular-queue.h \
+ external/v8/src/unbound-queue.h external/v8/src/cpu-profiler-inl.h \
+ external/v8/src/circular-queue-inl.h \
+ external/v8/src/profile-generator-inl.h \
+ external/v8/src/profile-generator.h external/v8/src/hashmap.h \
+ external/v8/src/../include/v8-profiler.h external/v8/src/../include/v8.h \
+ external/v8/src/unbound-queue-inl.h external/v8/src/handles-inl.h \
+ external/v8/src/apiutils.h external/v8/src/handles.h \
+ external/v8/src/api.h external/v8/src/factory.h \
+ external/v8/src/vm-state-inl.h external/v8/src/vm-state.h \
+ external/v8/src/top.h external/v8/src/frames-inl.h \
+ external/v8/src/frames.h external/v8/src/arm/frames-arm.h \
+ external/v8/src/simulator.h external/v8/src/arm/simulator-arm.h \
+ external/v8/src/allocation.h external/v8/src/bootstrapper.h \
+ external/v8/src/code-stubs.h external/v8/src/macro-assembler.h \
+ external/v8/src/assembler.h external/v8/src/runtime.h \
+ external/v8/src/token.h external/v8/src/arm/assembler-arm.h \
+ external/v8/src/assembler.h external/v8/src/serialize.h \
+ external/v8/src/arm/assembler-arm-inl.h \
+ external/v8/src/arm/assembler-arm.h external/v8/src/cpu.h \
+ external/v8/src/debug.h external/v8/src/debug-agent.h \
+ external/v8/src/../include/v8-debug.h external/v8/src/execution.h \
+ external/v8/src/string-stream.h external/v8/src/v8threads.h \
+ external/v8/src/code.h external/v8/src/arm/macro-assembler-arm.h \
+ external/v8/src/arm/code-stubs-arm.h external/v8/src/ic-inl.h \
+ external/v8/src/ic.h external/v8/src/debug.h \
+ external/v8/src/global-handles.h external/v8/src/serialize.h
+ external/v8/src/log.cc :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ external/v8/src/v8.h external/v8/src/../include/v8.h :
+ external/v8/src/../include/v8stdint.h bionic/libc/include/stdio.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h external/v8/src/v8globals.h :
+ external/v8/src/globals.h external/v8/src/v8checks.h :
+ external/v8/src/checks.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h external/v8/src/allocation.h :
+ external/v8/src/v8utils.h external/v8/src/utils.h :
+ bionic/libc/include/stdlib.h bionic/libc/include/alloca.h :
+ bionic/libc/include/strings.h bionic/libc/include/memory.h :
+ external/v8/src/flags.h external/v8/src/flag-definitions.h :
+ external/v8/src/objects-inl.h external/v8/src/objects.h :
+ external/v8/src/builtins.h external/v8/src/smart-pointer.h :
+ external/v8/src/unicode-inl.h external/v8/src/unicode.h :
+ external/v8/src/arm/constants-arm.h external/v8/src/contexts.h :
+ external/v8/src/heap.h bionic/libm/include/math.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h external/v8/src/spaces.h :
+ external/v8/src/list-inl.h external/v8/src/list.h external/v8/src/log.h :
+ external/v8/src/platform.h external/v8/src/log-utils.h :
+ external/v8/src/splay-tree-inl.h external/v8/src/splay-tree.h :
+ external/v8/src/v8-counters.h external/v8/src/counters.h :
+ external/v8/src/conversions-inl.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/float.h :
+ external/v8/src/conversions.h external/v8/src/memory.h :
+ external/v8/src/property.h external/v8/src/spaces-inl.h :
+ external/v8/src/heap-inl.h external/v8/src/log-inl.h :
+ external/v8/src/cpu-profiler.h external/v8/src/circular-queue.h :
+ external/v8/src/unbound-queue.h external/v8/src/cpu-profiler-inl.h :
+ external/v8/src/circular-queue-inl.h :
+ external/v8/src/profile-generator-inl.h :
+ external/v8/src/profile-generator.h external/v8/src/hashmap.h :
+ external/v8/src/../include/v8-profiler.h external/v8/src/../include/v8.h :
+ external/v8/src/unbound-queue-inl.h external/v8/src/handles-inl.h :
+ external/v8/src/apiutils.h external/v8/src/handles.h :
+ external/v8/src/api.h external/v8/src/factory.h :
+ external/v8/src/vm-state-inl.h external/v8/src/vm-state.h :
+ external/v8/src/top.h external/v8/src/frames-inl.h :
+ external/v8/src/frames.h external/v8/src/arm/frames-arm.h :
+ external/v8/src/simulator.h external/v8/src/arm/simulator-arm.h :
+ external/v8/src/allocation.h external/v8/src/bootstrapper.h :
+ external/v8/src/code-stubs.h external/v8/src/macro-assembler.h :
+ external/v8/src/assembler.h external/v8/src/runtime.h :
+ external/v8/src/token.h external/v8/src/arm/assembler-arm.h :
+ external/v8/src/assembler.h external/v8/src/serialize.h :
+ external/v8/src/arm/assembler-arm-inl.h :
+ external/v8/src/arm/assembler-arm.h external/v8/src/cpu.h :
+ external/v8/src/debug.h external/v8/src/debug-agent.h :
+ external/v8/src/../include/v8-debug.h external/v8/src/execution.h :
+ external/v8/src/string-stream.h external/v8/src/v8threads.h :
+ external/v8/src/code.h external/v8/src/arm/macro-assembler-arm.h :
+ external/v8/src/arm/code-stubs-arm.h external/v8/src/ic-inl.h :
+ external/v8/src/ic.h external/v8/src/debug.h :
+ external/v8/src/global-handles.h external/v8/src/serialize.h :

@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:9
+-keep class com.android.buildwidget.BuildWidget { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.android.buildwidget.BuildWidget$UpdateService { <init>(...); }
+

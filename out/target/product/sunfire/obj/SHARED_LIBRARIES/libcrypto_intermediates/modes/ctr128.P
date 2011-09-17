@@ -1,0 +1,15 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libcrypto_intermediates/modes/ctr128.o: \
+ external/openssl/crypto/modes/ctr128.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/openssl/include/openssl/modes.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/malloc.h \
+ bionic/libc/include/assert.h
+ external/openssl/crypto/modes/ctr128.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/openssl/include/openssl/modes.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/malloc.h :
+ bionic/libc/include/assert.h :

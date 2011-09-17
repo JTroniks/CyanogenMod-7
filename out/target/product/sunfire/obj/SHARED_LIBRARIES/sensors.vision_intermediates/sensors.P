@@ -1,0 +1,67 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/sensors.vision_intermediates/sensors.o: \
+ device/htc/vision/libsensors/sensors.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ hardware/libhardware/include/hardware/sensors.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/sys/types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h \
+ hardware/libhardware/include/hardware/hardware.h \
+ system/core/include/cutils/native_handle.h \
+ hardware/libhardware/include/hardware/sensors_deprecated.h \
+ device/htc/vision/libsensors/nusensors.h bionic/libc/include/errno.h \
+ bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h \
+ bionic/libc/kernel/common/linux/input.h bionic/libc/include/sys/time.h \
+ bionic/libc/kernel/common/linux/time.h bionic/libc/include/sys/ioctl.h \
+ bionic/libc/kernel/common/linux/ioctl.h \
+ bionic/libc/kernel/arch-arm/asm/ioctl.h \
+ bionic/libc/kernel/common/asm-generic/ioctl.h \
+ bionic/libc/kernel/arch-arm/asm/ioctls.h \
+ bionic/libc/kernel/arch-arm/asm/termbits.h \
+ bionic/libc/include/sys/ioctl_compat.h
+ device/htc/vision/libsensors/sensors.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ hardware/libhardware/include/hardware/sensors.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/sys/types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h :
+ hardware/libhardware/include/hardware/hardware.h :
+ system/core/include/cutils/native_handle.h :
+ hardware/libhardware/include/hardware/sensors_deprecated.h :
+ device/htc/vision/libsensors/nusensors.h bionic/libc/include/errno.h :
+ bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :
+ bionic/libc/kernel/common/linux/input.h bionic/libc/include/sys/time.h :
+ bionic/libc/kernel/common/linux/time.h bionic/libc/include/sys/ioctl.h :
+ bionic/libc/kernel/common/linux/ioctl.h :
+ bionic/libc/kernel/arch-arm/asm/ioctl.h :
+ bionic/libc/kernel/common/asm-generic/ioctl.h :
+ bionic/libc/kernel/arch-arm/asm/ioctls.h :
+ bionic/libc/kernel/arch-arm/asm/termbits.h :
+ bionic/libc/include/sys/ioctl_compat.h :

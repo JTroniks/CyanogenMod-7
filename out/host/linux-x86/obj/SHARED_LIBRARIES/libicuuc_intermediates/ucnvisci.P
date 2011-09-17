@@ -1,0 +1,91 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libicuuc_intermediates/ucnvisci.o: \
+ external/icu4c/common/ucnvisci.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/icu4c/common/unicode/utypes.h \
+ external/icu4c/common/unicode/umachine.h \
+ external/icu4c/common/unicode/ptypes.h /usr/include/sys/types.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
+ external/icu4c/common/unicode/platform.h /usr/include/inttypes.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ external/icu4c/common/unicode/urename.h \
+ external/icu4c/common/unicode/uvernum.h \
+ external/icu4c/common/unicode/utf.h \
+ external/icu4c/common/unicode/utypes.h \
+ external/icu4c/common/unicode/utf8.h \
+ external/icu4c/common/unicode/utf16.h \
+ external/icu4c/common/unicode/utf_old.h \
+ external/icu4c/common/unicode/uversion.h \
+ external/icu4c/common/unicode/uconfig.h external/icu4c/common/cmemory.h \
+ external/icu4c/common/unicode/localpointer.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/stdlib.h \
+ external/icu4c/common/ucnv_bld.h external/icu4c/common/unicode/ucnv.h \
+ external/icu4c/common/unicode/ucnv_err.h \
+ external/icu4c/common/unicode/uenum.h \
+ external/icu4c/common/unicode/localpointer.h \
+ external/icu4c/common/unicode/ucnv_err.h \
+ external/icu4c/common/ucnv_cnv.h external/icu4c/common/unicode/uset.h \
+ external/icu4c/common/unicode/uchar.h external/icu4c/common/uset_imp.h \
+ external/icu4c/common/ucnvmbcs.h external/icu4c/common/ucnv_ext.h \
+ external/icu4c/common/udataswp.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ external/icu4c/common/unicode/ucnv_cb.h \
+ external/icu4c/common/unicode/ucnv.h external/icu4c/common/cstring.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/alloca.h /usr/include/ctype.h
+ external/icu4c/common/ucnvisci.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/icu4c/common/unicode/utypes.h :
+ external/icu4c/common/unicode/umachine.h :
+ external/icu4c/common/unicode/ptypes.h /usr/include/sys/types.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/time.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/endian.h /usr/include/bits/endian.h :
+ /usr/include/bits/byteswap.h /usr/include/sys/select.h :
+ /usr/include/bits/select.h /usr/include/bits/sigset.h :
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h :
+ /usr/include/bits/pthreadtypes.h :
+ external/icu4c/common/unicode/platform.h /usr/include/inttypes.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/bits/wchar.h :
+ external/icu4c/common/unicode/urename.h :
+ external/icu4c/common/unicode/uvernum.h :
+ external/icu4c/common/unicode/utf.h :
+ external/icu4c/common/unicode/utypes.h :
+ external/icu4c/common/unicode/utf8.h :
+ external/icu4c/common/unicode/utf16.h :
+ external/icu4c/common/unicode/utf_old.h :
+ external/icu4c/common/unicode/uversion.h :
+ external/icu4c/common/unicode/uconfig.h external/icu4c/common/cmemory.h :
+ external/icu4c/common/unicode/localpointer.h /usr/include/string.h :
+ /usr/include/xlocale.h /usr/include/bits/string.h :
+ /usr/include/bits/string2.h /usr/include/stdlib.h :
+ external/icu4c/common/ucnv_bld.h external/icu4c/common/unicode/ucnv.h :
+ external/icu4c/common/unicode/ucnv_err.h :
+ external/icu4c/common/unicode/uenum.h :
+ external/icu4c/common/unicode/localpointer.h :
+ external/icu4c/common/unicode/ucnv_err.h :
+ external/icu4c/common/ucnv_cnv.h external/icu4c/common/unicode/uset.h :
+ external/icu4c/common/unicode/uchar.h external/icu4c/common/uset_imp.h :
+ external/icu4c/common/ucnvmbcs.h external/icu4c/common/ucnv_ext.h :
+ external/icu4c/common/udataswp.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ external/icu4c/common/unicode/ucnv_cb.h :
+ external/icu4c/common/unicode/ucnv.h external/icu4c/common/cstring.h :
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h :
+ /usr/include/alloca.h /usr/include/ctype.h :

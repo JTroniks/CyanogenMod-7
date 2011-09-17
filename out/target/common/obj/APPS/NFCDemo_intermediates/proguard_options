@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:38
+-keep class com.example.android.nfc.TagViewer { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.example.android.nfc.simulator.FakeTagsActivity { <init>(...); }
+

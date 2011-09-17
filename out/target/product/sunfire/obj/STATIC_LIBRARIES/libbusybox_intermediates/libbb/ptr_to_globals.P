@@ -1,0 +1,17 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libbusybox_intermediates/libbb/ptr_to_globals.o: \
+ external/busybox/libbb/ptr_to_globals.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/busybox/include-minimal/autoconf.h bionic/libc/include/errno.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h
+ external/busybox/libbb/ptr_to_globals.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/busybox/include-minimal/autoconf.h bionic/libc/include/errno.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :

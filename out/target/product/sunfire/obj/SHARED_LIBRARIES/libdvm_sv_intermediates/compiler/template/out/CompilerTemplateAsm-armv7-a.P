@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libdvm_sv_intermediates/compiler/template/out/CompilerTemplateAsm-armv7-a.o: \
+ dalvik/vm/compiler/template/out/CompilerTemplateAsm-armv7-a.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ dalvik/vm/compiler/template/out/../../../mterp/common/asm-constants.h
+ dalvik/vm/compiler/template/out/CompilerTemplateAsm-armv7-a.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ dalvik/vm/compiler/template/out/../../../mterp/common/asm-constants.h :

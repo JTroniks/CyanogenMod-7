@@ -1,0 +1,121 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/asteroid01.png:0 -->
+  <public type="drawable" name="asteroid01" id="0x7f020000" />
+  <!-- Declared at res/drawable/asteroid02.png:0 -->
+  <public type="drawable" name="asteroid02" id="0x7f020001" />
+  <!-- Declared at res/drawable/asteroid03.png:0 -->
+  <public type="drawable" name="asteroid03" id="0x7f020002" />
+  <!-- Declared at res/drawable/asteroid04.png:0 -->
+  <public type="drawable" name="asteroid04" id="0x7f020003" />
+  <!-- Declared at res/drawable/asteroid05.png:0 -->
+  <public type="drawable" name="asteroid05" id="0x7f020004" />
+  <!-- Declared at res/drawable/asteroid06.png:0 -->
+  <public type="drawable" name="asteroid06" id="0x7f020005" />
+  <!-- Declared at res/drawable/asteroid07.png:0 -->
+  <public type="drawable" name="asteroid07" id="0x7f020006" />
+  <!-- Declared at res/drawable/asteroid08.png:0 -->
+  <public type="drawable" name="asteroid08" id="0x7f020007" />
+  <!-- Declared at res/drawable/asteroid09.png:0 -->
+  <public type="drawable" name="asteroid09" id="0x7f020008" />
+  <!-- Declared at res/drawable/asteroid10.png:0 -->
+  <public type="drawable" name="asteroid10" id="0x7f020009" />
+  <!-- Declared at res/drawable/asteroid11.png:0 -->
+  <public type="drawable" name="asteroid11" id="0x7f02000a" />
+  <!-- Declared at res/drawable/asteroid12.png:0 -->
+  <public type="drawable" name="asteroid12" id="0x7f02000b" />
+  <!-- Declared at res/drawable/asteroid_explode1.png:0 -->
+  <public type="drawable" name="asteroid_explode1" id="0x7f02000c" />
+  <!-- Declared at res/drawable/asteroid_explode2.png:0 -->
+  <public type="drawable" name="asteroid_explode2" id="0x7f02000d" />
+  <!-- Declared at res/drawable/asteroid_explode3.png:0 -->
+  <public type="drawable" name="asteroid_explode3" id="0x7f02000e" />
+  <!-- Declared at res/drawable/asteroid_explode4.png:0 -->
+  <public type="drawable" name="asteroid_explode4" id="0x7f02000f" />
+  <!-- Declared at res/drawable/background_a.png:0 -->
+  <public type="drawable" name="background_a" id="0x7f020010" />
+  <!-- Declared at res/drawable/background_b.png:0 -->
+  <public type="drawable" name="background_b" id="0x7f020011" />
+  <!-- Declared at res/drawable/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020012" />
+  <!-- Declared at res/drawable/int_timer.png:0 -->
+  <public type="drawable" name="int_timer" id="0x7f020013" />
+  <!-- Declared at res/drawable/intbeam_1.png:0 -->
+  <public type="drawable" name="intbeam_1" id="0x7f020014" />
+  <!-- Declared at res/drawable/intbeam_2.png:0 -->
+  <public type="drawable" name="intbeam_2" id="0x7f020015" />
+  <!-- Declared at res/drawable/intbeam_3.png:0 -->
+  <public type="drawable" name="intbeam_3" id="0x7f020016" />
+  <!-- Declared at res/drawable/intbeam_4.png:0 -->
+  <public type="drawable" name="intbeam_4" id="0x7f020017" />
+  <!-- Declared at res/drawable/laser.png:0 -->
+  <public type="drawable" name="laser" id="0x7f020018" />
+  <!-- Declared at res/drawable/ship2_1.png:0 -->
+  <public type="drawable" name="ship2_1" id="0x7f020019" />
+  <!-- Declared at res/drawable/ship2_2.png:0 -->
+  <public type="drawable" name="ship2_2" id="0x7f02001a" />
+  <!-- Declared at res/drawable/ship2_3.png:0 -->
+  <public type="drawable" name="ship2_3" id="0x7f02001b" />
+  <!-- Declared at res/drawable/ship2_4.png:0 -->
+  <public type="drawable" name="ship2_4" id="0x7f02001c" />
+  <!-- Declared at res/drawable/ship2_hit_1.png:0 -->
+  <public type="drawable" name="ship2_hit_1" id="0x7f02001d" />
+  <!-- Declared at res/drawable/ship2_hit_2.png:0 -->
+  <public type="drawable" name="ship2_hit_2" id="0x7f02001e" />
+  <!-- Declared at res/drawable/ship2_hit_3.png:0 -->
+  <public type="drawable" name="ship2_hit_3" id="0x7f02001f" />
+  <!-- Declared at res/drawable/ship2_hit_4.png:0 -->
+  <public type="drawable" name="ship2_hit_4" id="0x7f020020" />
+  <!-- Declared at res/drawable/title_bg_hori.png:0 -->
+  <public type="drawable" name="title_bg_hori" id="0x7f020021" />
+  <!-- Declared at res/drawable/title_hori.png:0 -->
+  <public type="drawable" name="title_hori" id="0x7f020022" />
+
+  <!-- Declared at res/layout/main.xml:0 -->
+  <public type="layout" name="main" id="0x7f030000" />
+
+  <!-- Declared at res/raw/level1.jet:0 -->
+  <public type="raw" name="level1" id="0x7f040000" />
+
+  <!-- Declared at development/samples/JetBoy/res/values/strings.xml:3 -->
+  <public type="string" name="app_name" id="0x7f050000" />
+  <!-- Declared at development/samples/JetBoy/res/values/strings.xml:4 -->
+  <public type="string" name="start" id="0x7f050001" />
+  <!-- Declared at development/samples/JetBoy/res/values/strings.xml:5 -->
+  <public type="string" name="retry" id="0x7f050002" />
+  <!-- Declared at development/samples/JetBoy/res/values/strings.xml:6 -->
+  <public type="string" name="restart" id="0x7f050003" />
+  <!-- Declared at development/samples/JetBoy/res/values/strings.xml:7 -->
+  <public type="string" name="helpText" id="0x7f050004" />
+  <!-- Declared at development/samples/JetBoy/res/values/strings.xml:8 -->
+  <public type="string" name="winText" id="0x7f050005" />
+  <!-- Declared at development/samples/JetBoy/res/values/strings.xml:9 -->
+  <public type="string" name="loseText" id="0x7f050006" />
+  <!-- Declared at development/samples/JetBoy/res/values/strings.xml:10 -->
+  <public type="string" name="timer" id="0x7f050007" />
+
+  <!-- Declared at development/samples/JetBoy/res/values/styles.xml:24 -->
+  <public type="style" name="ButtonText" id="0x7f060000" />
+  <!-- Declared at development/samples/JetBoy/res/values/styles.xml:28 -->
+  <public type="style" name="helpText" id="0x7f060001" />
+  <!-- Declared at development/samples/JetBoy/res/values/styles.xml:33 -->
+  <public type="style" name="timerText" id="0x7f060002" />
+
+  <!-- Declared at development/samples/JetBoy/res/layout/main.xml:6 -->
+  <public type="id" name="JetBoyView" id="0x7f070000" />
+  <!-- Declared at development/samples/JetBoy/res/layout/main.xml:10 -->
+  <public type="id" name="text" id="0x7f070001" />
+  <!-- Declared at development/samples/JetBoy/res/layout/main.xml:15 -->
+  <public type="id" name="Button01" id="0x7f070002" />
+  <!-- Declared at development/samples/JetBoy/res/layout/main.xml:20 -->
+  <public type="id" name="Button02" id="0x7f070003" />
+  <!-- Declared at development/samples/JetBoy/res/layout/main.xml:26 -->
+  <public type="id" name="timer" id="0x7f070004" />
+
+</resources>

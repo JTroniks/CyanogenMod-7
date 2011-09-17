@@ -1,0 +1,55 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/raw/sound_ringer_normal.ogg:0 -->
+  <public type="raw" name="sound_ringer_normal" id="0x7f020000" />
+  <!-- Declared at res/raw/sound_ringer_silent.ogg:0 -->
+  <public type="raw" name="sound_ringer_silent" id="0x7f020001" />
+  <!-- Declared at res/raw/sound_ringer_vibrate.ogg:0 -->
+  <public type="raw" name="sound_ringer_vibrate" id="0x7f020002" />
+  <!-- Declared at res/raw/sound_screen_off.ogg:0 -->
+  <public type="raw" name="sound_screen_off" id="0x7f020003" />
+  <!-- Declared at res/raw/sound_screen_on.ogg:0 -->
+  <public type="raw" name="sound_screen_on" id="0x7f020004" />
+  <!-- Declared at res/raw/sound_view_clicked.ogg:0 -->
+  <public type="raw" name="sound_view_clicked" id="0x7f020005" />
+  <!-- Declared at res/raw/sound_view_focused_or_selected.ogg:0 -->
+  <public type="raw" name="sound_view_focused_or_selected" id="0x7f020006" />
+  <!-- Declared at res/raw/sound_window_state_changed.ogg:0 -->
+  <public type="raw" name="sound_window_state_changed" id="0x7f020007" />
+
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:7 -->
+  <public type="string" name="clockback_setup_title" id="0x7f030000" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:10 -->
+  <public type="string" name="value_increase_hours" id="0x7f030001" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:13 -->
+  <public type="string" name="value_increase_minutes" id="0x7f030002" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:16 -->
+  <public type="string" name="value_decrease_hours" id="0x7f030003" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:19 -->
+  <public type="string" name="value_decrease_minutes" id="0x7f030004" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:22 -->
+  <public type="string" name="value_hour" id="0x7f030005" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:25 -->
+  <public type="string" name="value_hours" id="0x7f030006" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:28 -->
+  <public type="string" name="value_minute" id="0x7f030007" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:31 -->
+  <public type="string" name="value_minutes" id="0x7f030008" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:34 -->
+  <public type="string" name="value_ringer_audible" id="0x7f030009" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:37 -->
+  <public type="string" name="value_ringer_vibrate" id="0x7f03000a" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:40 -->
+  <public type="string" name="value_ringer_silent" id="0x7f03000b" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:45 -->
+  <public type="string" name="template_screen_on" id="0x7f03000c" />
+  <!-- Declared at development/samples/AccessibilityService/res/values/strings.xml:48 -->
+  <public type="string" name="template_screen_off" id="0x7f03000d" />
+
+</resources>

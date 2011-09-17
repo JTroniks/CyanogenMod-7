@@ -1,0 +1,53 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-ca/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-da/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-fa/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-ja/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-nb/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-de/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-bg/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-th/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-fi/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-vi/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-sk/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-uk/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-el/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-nl/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-pl/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-sl/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-tl/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-rm/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-in/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-ko/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-ro/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-ar/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-fr/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-hr/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-sr/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-tr/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-cs/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-es/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-it/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-lt/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-pt/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-hu/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-ru/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-lv/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-sv/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-iw/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-en-rGB/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-zh-rCN/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-es-rUS/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-pt-rPT/strings.xml:23 -->
+  <!-- Declared at frameworks/base/packages/DefaultContainerService/res/values-zh-rTW/strings.xml:23 -->
+  <public type="string" name="service_name" id="0x7f020000" />
+
+</resources>

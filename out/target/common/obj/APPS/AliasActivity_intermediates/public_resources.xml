@@ -1,0 +1,15 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/xml/alias.xml:0 -->
+  <public type="xml" name="alias" id="0x7f020000" />
+
+  <!-- Declared at development/samples/AliasActivity/res/values/strings.xml:18 -->
+  <public type="string" name="app_label" id="0x7f030000" />
+
+</resources>

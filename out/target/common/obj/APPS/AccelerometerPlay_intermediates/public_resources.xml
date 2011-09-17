@@ -1,0 +1,24 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-hdpi/ball.png:0 -->
+  <public type="drawable" name="ball" id="0x7f020000" />
+  <!-- Declared at res/drawable-ldpi/icon.png:0 -->
+  <!-- Declared at res/drawable-mdpi/icon.png:0 -->
+  <!-- Declared at res/drawable-hdpi/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020001" />
+  <!-- Declared at res/drawable-hdpi/wood.jpg:0 -->
+  <public type="drawable" name="wood" id="0x7f020002" />
+
+  <!-- Declared at res/layout/main.xml:0 -->
+  <public type="layout" name="main" id="0x7f030000" />
+
+  <!-- Declared at development/samples/AccelerometerPlay/res/values/strings.xml:18 -->
+  <public type="string" name="app_name" id="0x7f040000" />
+
+</resources>

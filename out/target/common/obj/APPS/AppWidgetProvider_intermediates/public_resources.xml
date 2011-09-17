@@ -1,0 +1,29 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/test_appwidget.xml:0 -->
+  <public type="layout" name="test_appwidget" id="0x7f020000" />
+  <!-- Declared at res/layout/test_appwidget2.xml:0 -->
+  <public type="layout" name="test_appwidget2" id="0x7f020001" />
+
+  <!-- Declared at res/xml/appwidget_info.xml:0 -->
+  <public type="xml" name="appwidget_info" id="0x7f030000" />
+
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetProviderTest/res/values/strings.xml:18 -->
+  <public type="string" name="appwidget_view_title" id="0x7f040000" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetProviderTest/res/values/strings.xml:19 -->
+  <public type="string" name="add_appwidget" id="0x7f040001" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetProviderTest/res/values/strings.xml:20 -->
+  <public type="string" name="oh_hai" id="0x7f040002" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetProviderTest/res/values/strings.xml:21 -->
+  <public type="string" name="delete_appwidget" id="0x7f040003" />
+
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetProviderTest/res/layout/test_appwidget.xml:17 -->
+  <public type="id" name="oh_hai_text" id="0x7f050000" />
+
+</resources>

@@ -1,0 +1,11 @@
+out/host/linux-x86/obj/EXECUTABLES/bison_intermediates/lib/quote.o: \
+ external/bison/lib/quote.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/bison/config.h external/bison/lib/quotearg.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ external/bison/lib/quote.h
+ external/bison/lib/quote.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/bison/config.h external/bison/lib/quotearg.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ external/bison/lib/quote.h :

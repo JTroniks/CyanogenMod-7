@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:27
+-keep class com.example.android.contactmanager.ContactAdder { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.example.android.contactmanager.ContactManager { <init>(...); }
+

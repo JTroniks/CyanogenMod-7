@@ -1,0 +1,103 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libdrm1_intermediates/src/objmng/drm_api.o: \
+ frameworks/base/media/libdrm/mobile1/src/objmng/drm_api.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libdrm/mobile1/include/objmng/svc_drm.h \
+ frameworks/base/media/libdrm/mobile1/include/drm_common_types.h \
+ bionic/libc/include/assert.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/ctype.h \
+ bionic/libc/include/stdlib.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/string.h bionic/libc/include/malloc.h \
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h system/core/include/cutils/memory.h \
+ bionic/libc/include/stdio.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ frameworks/base/media/libdrm/mobile1/include/objmng/drm_inner.h \
+ frameworks/base/media/libdrm/mobile1/include/parser/parser_dm.h \
+ frameworks/base/media/libdrm/mobile1/include/parser/parser_dcf.h \
+ frameworks/base/media/libdrm/mobile1/include/parser/parser_rel.h \
+ frameworks/base/media/libdrm/mobile1/include/objmng/drm_rights_manager.h \
+ external/openssl/include/openssl/aes.h \
+ external/openssl/include/openssl/opensslconf.h \
+ frameworks/base/media/libdrm/mobile1/include/objmng/drm_time.h \
+ bionic/libc/include/time.h bionic/libc/include/sys/time.h \
+ bionic/libc/kernel/common/linux/time.h \
+ bionic/libc/kernel/arch-arm/asm/siginfo.h \
+ bionic/libc/kernel/common/asm-generic/siginfo.h \
+ frameworks/base/media/libdrm/mobile1/include/objmng/drm_decoder.h \
+ system/core/include/cutils/log.h bionic/libc/include/unistd.h \
+ bionic/libc/include/sys/select.h bionic/libc/include/signal.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/kernel/arch-arm/asm/signal.h \
+ bionic/libc/kernel/common/asm-generic/signal.h \
+ bionic/libc/include/sys/sysconf.h \
+ bionic/libc/kernel/common/linux/capability.h \
+ bionic/libc/include/pathconf.h bionic/libc/include/pthread.h \
+ bionic/libc/include/sched.h system/core/include/cutils/uio.h \
+ bionic/libc/include/sys/uio.h bionic/libc/kernel/common/linux/uio.h \
+ system/core/include/cutils/logd.h system/core/include/android/log.h
+ frameworks/base/media/libdrm/mobile1/src/objmng/drm_api.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libdrm/mobile1/include/objmng/svc_drm.h :
+ frameworks/base/media/libdrm/mobile1/include/drm_common_types.h :
+ bionic/libc/include/assert.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/ctype.h :
+ bionic/libc/include/stdlib.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/string.h bionic/libc/include/malloc.h :
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h system/core/include/cutils/memory.h :
+ bionic/libc/include/stdio.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ frameworks/base/media/libdrm/mobile1/include/objmng/drm_inner.h :
+ frameworks/base/media/libdrm/mobile1/include/parser/parser_dm.h :
+ frameworks/base/media/libdrm/mobile1/include/parser/parser_dcf.h :
+ frameworks/base/media/libdrm/mobile1/include/parser/parser_rel.h :
+ frameworks/base/media/libdrm/mobile1/include/objmng/drm_rights_manager.h :
+ external/openssl/include/openssl/aes.h :
+ external/openssl/include/openssl/opensslconf.h :
+ frameworks/base/media/libdrm/mobile1/include/objmng/drm_time.h :
+ bionic/libc/include/time.h bionic/libc/include/sys/time.h :
+ bionic/libc/kernel/common/linux/time.h :
+ bionic/libc/kernel/arch-arm/asm/siginfo.h :
+ bionic/libc/kernel/common/asm-generic/siginfo.h :
+ frameworks/base/media/libdrm/mobile1/include/objmng/drm_decoder.h :
+ system/core/include/cutils/log.h bionic/libc/include/unistd.h :
+ bionic/libc/include/sys/select.h bionic/libc/include/signal.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/kernel/arch-arm/asm/signal.h :
+ bionic/libc/kernel/common/asm-generic/signal.h :
+ bionic/libc/include/sys/sysconf.h :
+ bionic/libc/kernel/common/linux/capability.h :
+ bionic/libc/include/pathconf.h bionic/libc/include/pthread.h :
+ bionic/libc/include/sched.h system/core/include/cutils/uio.h :
+ bionic/libc/include/sys/uio.h bionic/libc/kernel/common/linux/uio.h :
+ system/core/include/cutils/logd.h system/core/include/android/log.h :

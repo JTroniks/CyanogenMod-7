@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:10
+-keep class com.android.fontlab.BackgroundPicker { <init>(...); }
+
+# view AndroidManifest.xml #generated:3
+-keep class com.android.fontlab.FontLab { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class com.android.fontlab.FontPicker { <init>(...); }
+

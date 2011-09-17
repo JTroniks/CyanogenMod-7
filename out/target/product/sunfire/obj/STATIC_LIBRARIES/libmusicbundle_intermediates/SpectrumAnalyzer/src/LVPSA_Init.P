@@ -1,0 +1,21 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/SpectrumAnalyzer/src/LVPSA_Init.o: \
+ frameworks/base/media/libeffects/lvm/lib/SpectrumAnalyzer/src/LVPSA_Init.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/SpectrumAnalyzer/lib/LVPSA.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/SpectrumAnalyzer/src/LVPSA_Private.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/BIQUAD.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/SpectrumAnalyzer/src/LVPSA_QPD.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Macros.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/InstAlloc.h
+ frameworks/base/media/libeffects/lvm/lib/SpectrumAnalyzer/src/LVPSA_Init.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/SpectrumAnalyzer/lib/LVPSA.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/SpectrumAnalyzer/src/LVPSA_Private.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/BIQUAD.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/SpectrumAnalyzer/src/LVPSA_QPD.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Macros.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/InstAlloc.h :

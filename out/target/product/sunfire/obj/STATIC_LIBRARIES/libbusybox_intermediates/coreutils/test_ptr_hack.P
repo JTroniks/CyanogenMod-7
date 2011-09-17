@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libbusybox_intermediates/coreutils/test_ptr_hack.o: \
+ external/busybox/coreutils/test_ptr_hack.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/busybox/include-minimal/autoconf.h
+ external/busybox/coreutils/test_ptr_hack.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/busybox/include-minimal/autoconf.h :

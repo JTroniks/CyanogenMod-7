@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libjpeg_intermediates/armv6_idct.o: \
+ external/jpeg/armv6_idct.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/arch-arm/include/machine/cpu-features.h
+ external/jpeg/armv6_idct.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/arch-arm/include/machine/cpu-features.h :

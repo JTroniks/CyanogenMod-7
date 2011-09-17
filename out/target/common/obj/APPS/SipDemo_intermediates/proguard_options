@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:31
+-keep class com.example.android.sip.IncomingCallReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.example.android.sip.SipSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.example.android.sip.WalkieTalkieActivity { <init>(...); }
+

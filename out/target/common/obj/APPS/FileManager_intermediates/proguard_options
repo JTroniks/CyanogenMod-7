@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:113
+-keep class org.openintents.cmfilemanager.EulaActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class org.openintents.cmfilemanager.FileManagerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:110
+-keep class org.openintents.cmfilemanager.FileManagerProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class org.openintents.cmfilemanager.NewVersionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class org.openintents.cmfilemanager.PreferenceActivity { <init>(...); }
+

@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libskia_intermediates/src/opts/S32_Opaque_D32_nofilter_DX_gether_arm.o: \
+ external/skia/src/opts/S32_Opaque_D32_nofilter_DX_gether_arm.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/skia/src/opts/S32_Opaque_D32_nofilter_DX_gether_arm.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

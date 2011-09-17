@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:17
+-keep class com.android.statusbartest.NotificationTestList { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.android.statusbartest.PowerTest { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class com.android.statusbartest.StatusBarTest { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.android.statusbartest.TestAlertActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.android.statusbartest.ToastTest { <init>(...); }
+

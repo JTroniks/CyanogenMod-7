@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:37
+-keep class com.example.android.backuprestore.BackupRestoreActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.example.android.backuprestore.ExampleAgent { <init>(...); }
+

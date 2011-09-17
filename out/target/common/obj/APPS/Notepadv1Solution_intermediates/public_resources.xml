@@ -1,0 +1,27 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020000" />
+
+  <!-- Declared at res/layout/notepad_list.xml:0 -->
+  <public type="layout" name="notepad_list" id="0x7f030000" />
+  <!-- Declared at res/layout/notes_row.xml:0 -->
+  <public type="layout" name="notes_row" id="0x7f030001" />
+
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv1Solution/res/values/strings.xml:3 -->
+  <public type="string" name="app_name" id="0x7f040000" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv1Solution/res/values/strings.xml:4 -->
+  <public type="string" name="no_notes" id="0x7f040001" />
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv1Solution/res/values/strings.xml:5 -->
+  <public type="string" name="menu_insert" id="0x7f040002" />
+
+  <!-- Declared at development/tutorials/NotepadCodeLab/Notepadv1Solution/res/layout/notes_row.xml:2 -->
+  <public type="id" name="text1" id="0x7f050000" />
+
+</resources>

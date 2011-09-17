@@ -1,0 +1,3 @@
+out/host/linux-x86/obj/EXECUTABLES/emulator_intermediates/gdbstub-xml.o: \
+ out/host/linux-x86/obj/EXECUTABLES/emulator_intermediates/gdbstub-xml.c
+ out/host/linux-x86/obj/EXECUTABLES/emulator_intermediates/gdbstub-xml.c :

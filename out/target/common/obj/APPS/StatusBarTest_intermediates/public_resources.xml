@@ -1,0 +1,59 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/app_gmail.png:0 -->
+  <public type="drawable" name="app_gmail" id="0x7f020000" />
+  <!-- Declared at res/drawable/app_phone.png:0 -->
+  <public type="drawable" name="app_phone" id="0x7f020001" />
+  <!-- Declared at res/drawable/ic_statusbar_chat.png:0 -->
+  <public type="drawable" name="ic_statusbar_chat" id="0x7f020002" />
+  <!-- Declared at res/drawable/ic_statusbar_email.png:0 -->
+  <public type="drawable" name="ic_statusbar_email" id="0x7f020003" />
+  <!-- Declared at res/drawable/ic_statusbar_missedcall.png:0 -->
+  <public type="drawable" name="ic_statusbar_missedcall" id="0x7f020004" />
+  <!-- Declared at res/drawable/icon1.png:0 -->
+  <public type="drawable" name="icon1" id="0x7f020005" />
+  <!-- Declared at res/drawable/icon2.png:0 -->
+  <public type="drawable" name="icon2" id="0x7f020006" />
+  <!-- Declared at res/drawable/icon3.png:0 -->
+  <public type="drawable" name="icon3" id="0x7f020007" />
+  <!-- Declared at res/drawable/icon4.png:0 -->
+  <public type="drawable" name="icon4" id="0x7f020008" />
+  <!-- Declared at res/drawable-mdpi/stat_sys_phone.png:0 -->
+  <!-- Declared at res/drawable-hdpi/stat_sys_phone.png:0 -->
+  <public type="drawable" name="stat_sys_phone" id="0x7f020009" />
+
+  <!-- Declared at res/layout/chrono_notification.xml:0 -->
+  <public type="layout" name="chrono_notification" id="0x7f030000" />
+  <!-- Declared at res/layout/test_alert.xml:0 -->
+  <public type="layout" name="test_alert" id="0x7f030001" />
+
+  <!-- Declared at res/raw/ringer.mp3:0 -->
+  <public type="raw" name="ringer" id="0x7f040000" />
+
+  <!-- Declared at frameworks/base/tests/StatusBar/res/values/strings.xml:18 -->
+  <public type="string" name="mainLabel" id="0x7f050000" />
+  <!-- Declared at frameworks/base/tests/StatusBar/res/values/strings.xml:19 -->
+  <public type="string" name="back" id="0x7f050001" />
+  <!-- Declared at frameworks/base/tests/StatusBar/res/values/strings.xml:20 -->
+  <public type="string" name="clear" id="0x7f050002" />
+
+  <!-- Declared at frameworks/base/tests/StatusBar/res/layout/chrono_notification.xml:14 -->
+  <public type="id" name="icon" id="0x7f060000" />
+  <!-- Declared at frameworks/base/tests/StatusBar/res/layout/chrono_notification.xml:22 -->
+  <public type="id" name="time" id="0x7f060001" />
+  <!-- Declared at frameworks/base/tests/StatusBar/res/layout/chrono_notification.xml:30 -->
+  <public type="id" name="appName" id="0x7f060002" />
+  <!-- Declared at frameworks/base/tests/StatusBar/res/layout/test_alert.xml:16 -->
+  <public type="id" name="alertTitle" id="0x7f060003" />
+  <!-- Declared at frameworks/base/tests/StatusBar/res/layout/test_alert.xml:30 -->
+  <public type="id" name="snooze" id="0x7f060004" />
+  <!-- Declared at frameworks/base/tests/StatusBar/res/layout/test_alert.xml:45 -->
+  <public type="id" name="dismiss" id="0x7f060005" />
+
+</resources>

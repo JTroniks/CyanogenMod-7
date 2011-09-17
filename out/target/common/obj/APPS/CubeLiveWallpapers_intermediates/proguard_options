@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:33
+-keep class com.example.android.livecubes.cube1.CubeWallpaper1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.example.android.livecubes.cube2.CubeWallpaper2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.example.android.livecubes.cube2.CubeWallpaper2Settings { <init>(...); }
+

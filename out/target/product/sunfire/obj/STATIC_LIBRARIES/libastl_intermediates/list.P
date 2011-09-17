@@ -1,0 +1,29 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libastl_intermediates/list.o: \
+ external/astl/src/list.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/astl/include/list bionic/libstdc++/include/cstddef \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ external/astl/include/iterator external/astl/include/type_traits.h \
+ external/astl/include/limits bionic/libc/include/limits.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h external/astl/include/algorithm \
+ bionic/libstdc++/include/cstring bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h
+ external/astl/src/list.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/astl/include/list bionic/libstdc++/include/cstddef :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ external/astl/include/iterator external/astl/include/type_traits.h :
+ external/astl/include/limits bionic/libc/include/limits.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h external/astl/include/algorithm :
+ bionic/libstdc++/include/cstring bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h :

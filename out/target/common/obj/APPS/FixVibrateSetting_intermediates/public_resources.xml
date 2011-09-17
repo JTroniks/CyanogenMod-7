@@ -1,0 +1,38 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/stat_sys_warning.png:0 -->
+  <!-- Declared at res/drawable-hdpi/stat_sys_warning.png:0 -->
+  <public type="drawable" name="stat_sys_warning" id="0x7f020000" />
+
+  <!-- Declared at res/layout/fix_vibrate.xml:0 -->
+  <public type="layout" name="fix_vibrate" id="0x7f030000" />
+
+  <!-- Declared at frameworks/base/tests/FixVibrateSetting/res/values/strings.xml:18 -->
+  <public type="string" name="app_label" id="0x7f040000" />
+  <!-- Declared at frameworks/base/tests/FixVibrateSetting/res/values/strings.xml:19 -->
+  <public type="string" name="title" id="0x7f040001" />
+  <!-- Declared at frameworks/base/tests/FixVibrateSetting/res/values/strings.xml:20 -->
+  <public type="string" name="current_setting" id="0x7f040002" />
+  <!-- Declared at frameworks/base/tests/FixVibrateSetting/res/values/strings.xml:21 -->
+  <public type="string" name="fix" id="0x7f040003" />
+  <!-- Declared at frameworks/base/tests/FixVibrateSetting/res/values/strings.xml:22 -->
+  <public type="string" name="unfix" id="0x7f040004" />
+  <!-- Declared at frameworks/base/tests/FixVibrateSetting/res/values/strings.xml:23 -->
+  <public type="string" name="test" id="0x7f040005" />
+
+  <!-- Declared at frameworks/base/tests/FixVibrateSetting/res/layout/fix_vibrate.xml:7 -->
+  <public type="id" name="current_setting" id="0x7f050000" />
+  <!-- Declared at frameworks/base/tests/FixVibrateSetting/res/layout/fix_vibrate.xml:25 -->
+  <public type="id" name="fix" id="0x7f050001" />
+  <!-- Declared at frameworks/base/tests/FixVibrateSetting/res/layout/fix_vibrate.xml:31 -->
+  <public type="id" name="unfix" id="0x7f050002" />
+  <!-- Declared at frameworks/base/tests/FixVibrateSetting/res/layout/fix_vibrate.xml:38 -->
+  <public type="id" name="test" id="0x7f050003" />
+
+</resources>

@@ -1,0 +1,66 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/app_lunar_lander.png:0 -->
+  <public type="drawable" name="app_lunar_lander" id="0x7f020000" />
+  <!-- Declared at res/drawable-port/earthrise.png:0 -->
+  <!-- Declared at res/drawable-land/earthrise.png:0 -->
+  <public type="drawable" name="earthrise" id="0x7f020001" />
+  <!-- Declared at res/drawable/lander_crashed.png:0 -->
+  <public type="drawable" name="lander_crashed" id="0x7f020002" />
+  <!-- Declared at res/drawable/lander_firing.png:0 -->
+  <public type="drawable" name="lander_firing" id="0x7f020003" />
+  <!-- Declared at res/drawable/lander_plain.png:0 -->
+  <public type="drawable" name="lander_plain" id="0x7f020004" />
+
+  <!-- Declared at res/layout/lunar_layout.xml:0 -->
+  <public type="layout" name="lunar_layout" id="0x7f030000" />
+
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:18 -->
+  <public type="string" name="app_name" id="0x7f040000" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:20 -->
+  <public type="string" name="menu_start" id="0x7f040001" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:21 -->
+  <public type="string" name="menu_stop" id="0x7f040002" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:22 -->
+  <public type="string" name="menu_pause" id="0x7f040003" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:23 -->
+  <public type="string" name="menu_resume" id="0x7f040004" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:24 -->
+  <public type="string" name="menu_easy" id="0x7f040005" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:25 -->
+  <public type="string" name="menu_medium" id="0x7f040006" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:26 -->
+  <public type="string" name="menu_hard" id="0x7f040007" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:28 -->
+  <public type="string" name="mode_ready" id="0x7f040008" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:29 -->
+  <public type="string" name="mode_pause" id="0x7f040009" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:30 -->
+  <public type="string" name="mode_lose" id="0x7f04000a" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:31 -->
+  <public type="string" name="mode_win_prefix" id="0x7f04000b" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:32 -->
+  <public type="string" name="mode_win_suffix" id="0x7f04000c" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:34 -->
+  <public type="string" name="message_stopped" id="0x7f04000d" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:35 -->
+  <public type="string" name="message_off_pad" id="0x7f04000e" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:36 -->
+  <public type="string" name="message_too_fast" id="0x7f04000f" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:37 -->
+  <public type="string" name="message_bad_angle" id="0x7f040010" />
+  <!-- Declared at development/samples/LunarLander/res/values/strings.xml:39 -->
+  <public type="string" name="lunar_layout_text_text" id="0x7f040011" />
+
+  <!-- Declared at development/samples/LunarLander/res/layout/lunar_layout.xml:21 -->
+  <public type="id" name="lunar" id="0x7f050000" />
+  <!-- Declared at development/samples/LunarLander/res/layout/lunar_layout.xml:29 -->
+  <public type="id" name="text" id="0x7f050001" />
+
+</resources>

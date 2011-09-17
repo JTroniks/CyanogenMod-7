@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libGLES_android_intermediates/iterators.o: \
+ frameworks/base/opengl/libagl/iterators.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ frameworks/base/opengl/libagl/iterators.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

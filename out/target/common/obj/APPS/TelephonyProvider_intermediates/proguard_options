@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:38
+-keep class com.android.providers.telephony.MmsProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.android.providers.telephony.MmsSmsProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.android.providers.telephony.SmsProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.android.providers.telephony.TelephonyProvider { <init>(...); }
+

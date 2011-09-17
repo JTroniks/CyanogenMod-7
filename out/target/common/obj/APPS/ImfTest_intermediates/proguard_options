@@ -1,0 +1,51 @@
+# view AndroidManifest.xml #generated:128
+-keep class com.android.imftest.samples.AutoCompleteTextViewActivityLandscape { <init>(...); }
+
+# view AndroidManifest.xml #generated:120
+-keep class com.android.imftest.samples.AutoCompleteTextViewActivityPortrait { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.android.imftest.samples.BigEditTextActivityNonScrollablePanScan { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.android.imftest.samples.BigEditTextActivityNonScrollableResize { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.android.imftest.samples.BigEditTextActivityScrollablePanScan { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.android.imftest.samples.BigEditTextActivityScrollableResize { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.android.imftest.samples.BottomEditTextActivityPanScan { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.android.imftest.samples.BottomEditTextActivityResize { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.android.imftest.samples.ButtonActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:136
+-keep class com.android.imftest.samples.DialogActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.android.imftest.samples.EditTextActivityDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:8
+-keep class com.android.imftest.samples.InputTypeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.android.imftest.samples.ManyEditTextActivityNoScrollPanScan { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class com.android.imftest.samples.ManyEditTextActivityScrollPanScan { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.android.imftest.samples.ManyEditTextActivityScrollResize { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.android.imftest.samples.OneEditTextActivityNotSelected { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.android.imftest.samples.OneEditTextActivitySelected { <init>(...); }
+

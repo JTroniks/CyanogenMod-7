@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:20
+-keep class com.cyanogenmod.CMWallpapers.NoWallpaper { <init>(...); }
+
+# view AndroidManifest.xml #generated:8
+-keep class com.cyanogenmod.CMWallpapers.wallpaper { <init>(...); }
+

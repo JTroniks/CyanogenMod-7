@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libpng_intermediates/pngvcrd.o: \
+ external/libpng/pngvcrd.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/libpng/pngvcrd.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

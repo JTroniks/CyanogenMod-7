@@ -1,0 +1,73 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libclearsilver-jni_intermediates/j_neo_util.o: \
+ external/clearsilver/java-jni/j_neo_util.c /usr/include/string.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/xlocale.h dalvik/libnativehelper/include/nativehelper/jni.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ out/host/linux-x86/obj/SHARED_LIBRARIES/libclearsilver-jni_intermediates/org_clearsilver_HDF.h \
+ external/clearsilver/java-jni/../cs_config.h \
+ external/clearsilver/java-jni/../util/neo_err.h \
+ external/clearsilver/java-jni/../util/neo_misc.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/types.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/alloca.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/limits.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h \
+ external/clearsilver/java-jni/../util/neo_str.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ external/clearsilver/java-jni/../util/ulist.h \
+ external/clearsilver/java-jni/../util/neo_hdf.h \
+ external/clearsilver/java-jni/../util/neo_hash.h \
+ external/clearsilver/java-jni/../cgi/cgi.h \
+ external/clearsilver/java-jni/../cs/cs.h \
+ external/clearsilver/java-jni/../cgi/cgiwrap.h \
+ external/clearsilver/java-jni/../cgi/date.h \
+ external/clearsilver/java-jni/../cgi/html.h \
+ external/clearsilver/java-jni/j_neo_util.h
+ external/clearsilver/java-jni/j_neo_util.c /usr/include/string.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/xlocale.h dalvik/libnativehelper/include/nativehelper/jni.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ out/host/linux-x86/obj/SHARED_LIBRARIES/libclearsilver-jni_intermediates/org_clearsilver_HDF.h :
+ external/clearsilver/java-jni/../cs_config.h :
+ external/clearsilver/java-jni/../util/neo_err.h :
+ external/clearsilver/java-jni/../util/neo_misc.h /usr/include/stdlib.h :
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h :
+ /usr/include/endian.h /usr/include/bits/endian.h :
+ /usr/include/bits/byteswap.h /usr/include/sys/types.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h :
+ /usr/include/bits/sigset.h /usr/include/bits/time.h :
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h :
+ /usr/include/alloca.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/limits.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/syslimits.h :
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h :
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h :
+ /usr/include/bits/posix2_lim.h :
+ external/clearsilver/java-jni/../util/neo_str.h /usr/include/stdio.h :
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h :
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h :
+ external/clearsilver/java-jni/../util/ulist.h :
+ external/clearsilver/java-jni/../util/neo_hdf.h :
+ external/clearsilver/java-jni/../util/neo_hash.h :
+ external/clearsilver/java-jni/../cgi/cgi.h :
+ external/clearsilver/java-jni/../cs/cs.h :
+ external/clearsilver/java-jni/../cgi/cgiwrap.h :
+ external/clearsilver/java-jni/../cgi/date.h :
+ external/clearsilver/java-jni/../cgi/html.h :
+ external/clearsilver/java-jni/j_neo_util.h :

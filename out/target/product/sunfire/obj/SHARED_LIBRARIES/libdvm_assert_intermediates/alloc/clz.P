@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libdvm_assert_intermediates/alloc/clz.o: \
+ dalvik/vm/alloc/clz.c system/core/include/arch/linux-arm/AndroidConfig.h \
+ dalvik/vm/alloc/clz.h \
+ bionic/libc/arch-arm/include/machine/cpu-features.h
+ dalvik/vm/alloc/clz.c system/core/include/arch/linux-arm/AndroidConfig.h :
+ dalvik/vm/alloc/clz.h :
+ bionic/libc/arch-arm/include/machine/cpu-features.h :

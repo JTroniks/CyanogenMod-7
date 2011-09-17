@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:58
+-keep class com.android.providers.downloads.DownloadProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.android.providers.downloads.DownloadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class com.android.providers.downloads.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.android.providers.downloads.SizeLimitActivity { <init>(...); }
+

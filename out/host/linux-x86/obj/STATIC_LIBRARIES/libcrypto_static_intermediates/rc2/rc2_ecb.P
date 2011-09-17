@@ -1,0 +1,13 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libcrypto_static_intermediates/rc2/rc2_ecb.o: \
+ external/openssl/crypto/rc2/rc2_ecb.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/openssl/include/openssl/rc2.h \
+ external/openssl/include/openssl/opensslconf.h \
+ external/openssl/crypto/rc2/rc2_locl.h \
+ external/openssl/include/openssl/opensslv.h
+ external/openssl/crypto/rc2/rc2_ecb.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/openssl/include/openssl/rc2.h :
+ external/openssl/include/openssl/opensslconf.h :
+ external/openssl/crypto/rc2/rc2_locl.h :
+ external/openssl/include/openssl/opensslv.h :

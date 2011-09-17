@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/EXECUTABLES/oprofiled_intermediates/opd_perfmon.o: \
+ external/oprofile/daemon/opd_perfmon.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/oprofile/daemon/opd_perfmon.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

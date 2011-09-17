@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:9
+-keep class de.dawitz.aicbootfix.AicBootFix { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class de.dawitz.aicbootfix.BootCompletedReceiver { <init>(...); }
+

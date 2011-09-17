@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:11
+-keep class com.motorola.usb.UsbErrorActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class com.motorola.usb.UsbModeSelectionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.motorola.usb.UsbReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.motorola.usb.UsbService { <init>(...); }
+

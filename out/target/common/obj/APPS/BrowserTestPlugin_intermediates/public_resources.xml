@@ -1,0 +1,12 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/browser_test_plugin.png:0 -->
+  <public type="drawable" name="browser_test_plugin" id="0x7f020000" />
+
+</resources>

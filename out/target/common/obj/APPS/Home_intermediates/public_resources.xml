@@ -1,0 +1,161 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at development/samples/Home/res/values/attrs.xml:21 -->
+  <public type="attr" name="stackOrientation" id="0x7f010000" />
+  <!-- Declared at development/samples/Home/res/values/attrs.xml:25 -->
+  <public type="attr" name="marginLeft" id="0x7f010001" />
+  <!-- Declared at development/samples/Home/res/values/attrs.xml:26 -->
+  <public type="attr" name="marginTop" id="0x7f010002" />
+  <!-- Declared at development/samples/Home/res/values/attrs.xml:27 -->
+  <public type="attr" name="marginRight" id="0x7f010003" />
+  <!-- Declared at development/samples/Home/res/values/attrs.xml:28 -->
+  <public type="attr" name="marginBottom" id="0x7f010004" />
+
+  <!-- Declared at res/drawable/all_applications.xml:0 -->
+  <public type="drawable" name="all_applications" id="0x7f020000" />
+  <!-- Declared at res/drawable/all_applications_background.xml:0 -->
+  <public type="drawable" name="all_applications_background" id="0x7f020001" />
+  <!-- Declared at res/drawable/all_applications_button_background.xml:0 -->
+  <public type="drawable" name="all_applications_button_background" id="0x7f020002" />
+  <!-- Declared at res/drawable-mdpi/all_applications_label_background.9.png:0 -->
+  <!-- Declared at res/drawable-hdpi/all_applications_label_background.9.png:0 -->
+  <public type="drawable" name="all_applications_label_background" id="0x7f020003" />
+  <!-- Declared at res/drawable-mdpi/application_background.9.png:0 -->
+  <!-- Declared at res/drawable-hdpi/application_background.9.png:0 -->
+  <public type="drawable" name="application_background" id="0x7f020004" />
+  <!-- Declared at res/drawable-mdpi/application_background_static.png:0 -->
+  <!-- Declared at res/drawable-hdpi/application_background_static.png:0 -->
+  <public type="drawable" name="application_background_static" id="0x7f020005" />
+  <!-- Declared at res/drawable-port/bg_android.jpg:0 -->
+  <!-- Declared at res/drawable-land/bg_android.jpg:0 -->
+  <public type="drawable" name="bg_android" id="0x7f020006" />
+  <!-- Declared at res/drawable-port/bg_android_icon.jpg:0 -->
+  <!-- Declared at res/drawable-land/bg_android_icon.jpg:0 -->
+  <public type="drawable" name="bg_android_icon" id="0x7f020007" />
+  <!-- Declared at res/drawable-port/bg_sunrise.jpg:0 -->
+  <!-- Declared at res/drawable-land/bg_sunrise.jpg:0 -->
+  <public type="drawable" name="bg_sunrise" id="0x7f020008" />
+  <!-- Declared at res/drawable-port/bg_sunrise_icon.jpg:0 -->
+  <!-- Declared at res/drawable-land/bg_sunrise_icon.jpg:0 -->
+  <public type="drawable" name="bg_sunrise_icon" id="0x7f020009" />
+  <!-- Declared at res/drawable-port/bg_sunset.jpg:0 -->
+  <!-- Declared at res/drawable-land/bg_sunset.jpg:0 -->
+  <public type="drawable" name="bg_sunset" id="0x7f02000a" />
+  <!-- Declared at res/drawable-port/bg_sunset_icon.jpg:0 -->
+  <!-- Declared at res/drawable-land/bg_sunset_icon.jpg:0 -->
+  <public type="drawable" name="bg_sunset_icon" id="0x7f02000b" />
+  <!-- Declared at res/drawable/favorite_background.xml:0 -->
+  <public type="drawable" name="favorite_background" id="0x7f02000c" />
+  <!-- Declared at res/drawable-mdpi/focused_application_background_static.png:0 -->
+  <!-- Declared at res/drawable-hdpi/focused_application_background_static.png:0 -->
+  <public type="drawable" name="focused_application_background_static" id="0x7f02000d" />
+  <!-- Declared at res/drawable/grid_selector.xml:0 -->
+  <public type="drawable" name="grid_selector" id="0x7f02000e" />
+  <!-- Declared at res/drawable-mdpi/hide_all_applications.png:0 -->
+  <!-- Declared at res/drawable-hdpi/hide_all_applications.png:0 -->
+  <public type="drawable" name="hide_all_applications" id="0x7f02000f" />
+  <!-- Declared at res/drawable-mdpi/ic_launcher_allhide.png:0 -->
+  <!-- Declared at res/drawable-hdpi/ic_launcher_allhide.png:0 -->
+  <public type="drawable" name="ic_launcher_allhide" id="0x7f020010" />
+  <!-- Declared at res/drawable-mdpi/ic_launcher_allshow.png:0 -->
+  <!-- Declared at res/drawable-hdpi/ic_launcher_allshow.png:0 -->
+  <public type="drawable" name="ic_launcher_allshow" id="0x7f020011" />
+  <!-- Declared at res/drawable-mdpi/ic_launcher_home.png:0 -->
+  <!-- Declared at res/drawable-hdpi/ic_launcher_home.png:0 -->
+  <public type="drawable" name="ic_launcher_home" id="0x7f020012" />
+  <!-- Declared at res/drawable-mdpi/pressed_application_background_static.png:0 -->
+  <!-- Declared at res/drawable-hdpi/pressed_application_background_static.png:0 -->
+  <public type="drawable" name="pressed_application_background_static" id="0x7f020013" />
+  <!-- Declared at res/drawable-mdpi/show_all_applications.png:0 -->
+  <!-- Declared at res/drawable-hdpi/show_all_applications.png:0 -->
+  <public type="drawable" name="show_all_applications" id="0x7f020014" />
+
+  <!-- Declared at res/layout/all_applications_button.xml:0 -->
+  <public type="layout" name="all_applications_button" id="0x7f030000" />
+  <!-- Declared at res/layout/application.xml:0 -->
+  <public type="layout" name="application" id="0x7f030001" />
+  <!-- Declared at res/layout/favorite.xml:0 -->
+  <public type="layout" name="favorite" id="0x7f030002" />
+  <!-- Declared at res/layout-port/home.xml:0 -->
+  <!-- Declared at res/layout-land/home.xml:0 -->
+  <public type="layout" name="home" id="0x7f030003" />
+  <!-- Declared at res/layout/wallpaper.xml:0 -->
+  <public type="layout" name="wallpaper" id="0x7f030004" />
+
+  <!-- Declared at res/anim/fade_in.xml:0 -->
+  <public type="anim" name="fade_in" id="0x7f040000" />
+  <!-- Declared at res/anim/fade_out.xml:0 -->
+  <public type="anim" name="fade_out" id="0x7f040001" />
+  <!-- Declared at res/anim/grid_entry.xml:0 -->
+  <public type="anim" name="grid_entry" id="0x7f040002" />
+  <!-- Declared at res/anim/grid_exit.xml:0 -->
+  <public type="anim" name="grid_exit" id="0x7f040003" />
+  <!-- Declared at res/anim/hide_applications.xml:0 -->
+  <public type="anim" name="hide_applications" id="0x7f040004" />
+  <!-- Declared at res/anim/show_applications.xml:0 -->
+  <public type="anim" name="show_applications" id="0x7f040005" />
+
+  <!-- Declared at development/samples/Home/res/values/attrs.xml:22 -->
+  <public type="id" name="horizontal" id="0x7f050000" />
+  <!-- Declared at development/samples/Home/res/values/attrs.xml:23 -->
+  <public type="id" name="vertical" id="0x7f050001" />
+  <!-- Declared at development/samples/Home/res/layout/all_applications_button.xml:17 -->
+  <public type="id" name="show_all_apps" id="0x7f050002" />
+  <!-- Declared at development/samples/Home/res/layout/all_applications_button.xml:27 -->
+  <public type="id" name="show_all_apps_check" id="0x7f050003" />
+  <!-- Declared at development/samples/Home/res/layout/application.xml:17 -->
+  <public type="id" name="label" id="0x7f050004" />
+  <!-- Declared at development/samples/Home/res/layout-land/home.xml:24 -->
+  <public type="id" name="all_apps" id="0x7f050005" />
+  <!-- Declared at development/samples/Home/res/layout-land/home.xml:41 -->
+  <public type="id" name="faves_and_recents" id="0x7f050006" />
+  <!-- Declared at development/samples/Home/res/layout/wallpaper.xml:35 -->
+  <public type="id" name="gallery" id="0x7f050007" />
+
+  <!-- Declared at development/samples/Home/res/values/strings.xml:19 -->
+  <!-- Declared at development/samples/Home/res/values-cs/strings.xml:4 -->
+  <!-- Declared at development/samples/Home/res/values-de-rDE/strings.xml:4 -->
+  <!-- Declared at development/samples/Home/res/values-nl-rNL/strings.xml:4 -->
+  <!-- Declared at development/samples/Home/res/values-es-rUS/strings.xml:4 -->
+  <public type="string" name="home_title" id="0x7f060000" />
+  <!-- Declared at development/samples/Home/res/values/strings.xml:20 -->
+  <!-- Declared at development/samples/Home/res/values-cs/strings.xml:5 -->
+  <!-- Declared at development/samples/Home/res/values-de-rDE/strings.xml:5 -->
+  <!-- Declared at development/samples/Home/res/values-nl-rNL/strings.xml:5 -->
+  <!-- Declared at development/samples/Home/res/values-es-rUS/strings.xml:5 -->
+  <public type="string" name="show_all_apps" id="0x7f060001" />
+  <!-- Declared at development/samples/Home/res/values/strings.xml:23 -->
+  <!-- Declared at development/samples/Home/res/values-cs/strings.xml:6 -->
+  <!-- Declared at development/samples/Home/res/values-de-rDE/strings.xml:6 -->
+  <!-- Declared at development/samples/Home/res/values-nl-rNL/strings.xml:6 -->
+  <!-- Declared at development/samples/Home/res/values-es-rUS/strings.xml:6 -->
+  <public type="string" name="menu_wallpaper" id="0x7f060002" />
+  <!-- Declared at development/samples/Home/res/values/strings.xml:24 -->
+  <!-- Declared at development/samples/Home/res/values-cs/strings.xml:7 -->
+  <!-- Declared at development/samples/Home/res/values-de-rDE/strings.xml:7 -->
+  <!-- Declared at development/samples/Home/res/values-nl-rNL/strings.xml:7 -->
+  <!-- Declared at development/samples/Home/res/values-es-rUS/strings.xml:7 -->
+  <public type="string" name="menu_search" id="0x7f060003" />
+  <!-- Declared at development/samples/Home/res/values/strings.xml:25 -->
+  <public type="string" name="menu_settings" id="0x7f060004" />
+  <!-- Declared at development/samples/Home/res/values/strings.xml:28 -->
+  <!-- Declared at development/samples/Home/res/values-land/strings.xml:19 -->
+  <!-- Declared at development/samples/Home/res/values-cs/strings.xml:10 -->
+  <!-- Declared at development/samples/Home/res/values-de-rDE/strings.xml:10 -->
+  <!-- Declared at development/samples/Home/res/values-nl-rNL/strings.xml:10 -->
+  <!-- Declared at development/samples/Home/res/values-es-rUS/strings.xml:10 -->
+  <public type="string" name="wallpaper_instructions" id="0x7f060005" />
+
+  <!-- Declared at development/samples/Home/res/values/styles.xml:4 -->
+  <public type="style" name="Theme" id="0x7f070000" />
+
+  <!-- Declared at res/color/bright_text_dark_focused.xml:0 -->
+  <public type="color" name="bright_text_dark_focused" id="0x7f080000" />
+
+</resources>

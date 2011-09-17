@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libpixelflinger_intermediates/col32cb16blend.o: \
+ system/core/libpixelflinger/col32cb16blend.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ system/core/libpixelflinger/col32cb16blend.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

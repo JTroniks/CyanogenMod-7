@@ -1,0 +1,127 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/complex_layout.xml:0 -->
+  <public type="layout" name="complex_layout" id="0x7f020000" />
+  <!-- Declared at res/layout/simple_layout.xml:0 -->
+  <public type="layout" name="simple_layout" id="0x7f020001" />
+
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:25 -->
+  <public type="color" name="gray0" id="0x7f030000" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:26 -->
+  <public type="color" name="gray1" id="0x7f030001" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:27 -->
+  <public type="color" name="gray2" id="0x7f030002" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:28 -->
+  <public type="color" name="gray3" id="0x7f030003" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:29 -->
+  <public type="color" name="gray4" id="0x7f030004" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:30 -->
+  <public type="color" name="gray5" id="0x7f030005" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:31 -->
+  <public type="color" name="gray6" id="0x7f030006" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:32 -->
+  <public type="color" name="gray7" id="0x7f030007" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:33 -->
+  <public type="color" name="gray8" id="0x7f030008" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:34 -->
+  <public type="color" name="gray9" id="0x7f030009" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:35 -->
+  <public type="color" name="grayA" id="0x7f03000a" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:36 -->
+  <public type="color" name="grayB" id="0x7f03000b" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:37 -->
+  <public type="color" name="grayC" id="0x7f03000c" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:38 -->
+  <public type="color" name="grayD" id="0x7f03000d" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:39 -->
+  <public type="color" name="grayE" id="0x7f03000e" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:40 -->
+  <public type="color" name="grayF" id="0x7f03000f" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:41 -->
+  <public type="color" name="red" id="0x7f030010" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:42 -->
+  <public type="color" name="green" id="0x7f030011" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:43 -->
+  <public type="color" name="blue" id="0x7f030012" />
+  <!-- Declared at development/apps/launchperf/res/values/colors.xml:44 -->
+  <public type="color" name="replay_background" id="0x7f030013" />
+
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:25 -->
+  <public type="string" name="test_word" id="0x7f040000" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:26 -->
+  <public type="string" name="test_sentence" id="0x7f040001" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:27 -->
+  <public type="string" name="test_short_paragraph" id="0x7f040002" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:28 -->
+  <public type="string" name="test_long_paragraph" id="0x7f040003" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:29 -->
+  <public type="string" name="header_absolute" id="0x7f040004" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:31 -->
+  <public type="string" name="header_relative" id="0x7f040005" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:32 -->
+  <public type="string" name="header_linear" id="0x7f040006" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:34 -->
+  <public type="string" name="relative_button1" id="0x7f040007" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:35 -->
+  <public type="string" name="relative_button2" id="0x7f040008" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:36 -->
+  <public type="string" name="relative_button3" id="0x7f040009" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:37 -->
+  <public type="string" name="relative_button4" id="0x7f04000a" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:38 -->
+  <public type="string" name="relative_button5" id="0x7f04000b" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:39 -->
+  <public type="string" name="relative_button6" id="0x7f04000c" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:40 -->
+  <public type="string" name="relative_button7" id="0x7f04000d" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:41 -->
+  <public type="string" name="relative_button8" id="0x7f04000e" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:42 -->
+  <public type="string" name="response" id="0x7f04000f" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:43 -->
+  <public type="string" name="ok" id="0x7f040010" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:44 -->
+  <public type="string" name="cancel" id="0x7f040011" />
+  <!-- Declared at development/apps/launchperf/res/values/strings.xml:45 -->
+  <public type="string" name="text" id="0x7f040012" />
+
+  <!-- Declared at development/apps/launchperf/res/layout/complex_layout.xml:186 -->
+  <public type="id" name="relative_button1" id="0x7f050000" />
+  <!-- Declared at development/apps/launchperf/res/layout/complex_layout.xml:190 -->
+  <public type="id" name="relative_button2" id="0x7f050001" />
+  <!-- Declared at development/apps/launchperf/res/layout/complex_layout.xml:195 -->
+  <public type="id" name="relative_button3" id="0x7f050002" />
+  <!-- Declared at development/apps/launchperf/res/layout/complex_layout.xml:200 -->
+  <public type="id" name="relative_button4" id="0x7f050003" />
+  <!-- Declared at development/apps/launchperf/res/layout/complex_layout.xml:206 -->
+  <public type="id" name="relative_text" id="0x7f050004" />
+  <!-- Declared at development/apps/launchperf/res/layout/complex_layout.xml:213 -->
+  <public type="id" name="relative_button5" id="0x7f050005" />
+  <!-- Declared at development/apps/launchperf/res/layout/complex_layout.xml:219 -->
+  <public type="id" name="relative_button6" id="0x7f050006" />
+  <!-- Declared at development/apps/launchperf/res/layout/complex_layout.xml:225 -->
+  <public type="id" name="relative_button7" id="0x7f050007" />
+  <!-- Declared at development/apps/launchperf/res/layout/complex_layout.xml:231 -->
+  <public type="id" name="relative_button8" id="0x7f050008" />
+  <!-- Declared at development/apps/launchperf/res/layout/simple_layout.xml:38 -->
+  <public type="id" name="replay_pane" id="0x7f050009" />
+  <!-- Declared at development/apps/launchperf/res/layout/simple_layout.xml:44 -->
+  <public type="id" name="instructions" id="0x7f05000a" />
+  <!-- Declared at development/apps/launchperf/res/layout/simple_layout.xml:49 -->
+  <public type="id" name="entry" id="0x7f05000b" />
+  <!-- Declared at development/apps/launchperf/res/layout/simple_layout.xml:54 -->
+  <public type="id" name="ok" id="0x7f05000c" />
+  <!-- Declared at development/apps/launchperf/res/layout/simple_layout.xml:61 -->
+  <public type="id" name="cancel" id="0x7f05000d" />
+  <!-- Declared at development/apps/launchperf/res/layout/simple_layout.xml:70 -->
+  <public type="id" name="scroll_pane" id="0x7f05000e" />
+  <!-- Declared at development/apps/launchperf/res/layout/simple_layout.xml:75 -->
+  <public type="id" name="text_field" id="0x7f05000f" />
+
+</resources>

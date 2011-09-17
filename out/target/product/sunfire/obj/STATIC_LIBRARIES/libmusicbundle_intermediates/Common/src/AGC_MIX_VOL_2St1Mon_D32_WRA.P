@@ -1,0 +1,11 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/Common/src/AGC_MIX_VOL_2St1Mon_D32_WRA.o: \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/AGC_MIX_VOL_2St1Mon_D32_WRA.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/AGC.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/ScalarArithmetic.h
+ frameworks/base/media/libeffects/lvm/lib/Common/src/AGC_MIX_VOL_2St1Mon_D32_WRA.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/AGC.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/ScalarArithmetic.h :

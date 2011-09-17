@@ -1,0 +1,11 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libcrypto_intermediates/rc2/rc2_cbc.o: \
+ external/openssl/crypto/rc2/rc2_cbc.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/openssl/include/openssl/rc2.h \
+ external/openssl/include/openssl/opensslconf.h \
+ external/openssl/crypto/rc2/rc2_locl.h
+ external/openssl/crypto/rc2/rc2_cbc.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/openssl/include/openssl/rc2.h :
+ external/openssl/include/openssl/opensslconf.h :
+ external/openssl/crypto/rc2/rc2_locl.h :

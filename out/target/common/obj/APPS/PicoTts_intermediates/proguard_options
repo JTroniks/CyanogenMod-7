@@ -1,0 +1,24 @@
+# view AndroidManifest.xml #generated:42
+-keep class com.svox.pico.CheckVoiceData { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.svox.pico.DownloadVoiceData { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.svox.pico.EngineSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.svox.pico.GetSampleText { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.svox.pico.LangPackUninstaller { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.svox.pico.Pico { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.svox.pico.VoiceDataInstallerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.svox.pico.providers.SettingsProvider { <init>(...); }
+

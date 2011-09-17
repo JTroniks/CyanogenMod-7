@@ -1,0 +1,132 @@
+# view AndroidManifest.xml #generated:1354
+-keep class android.accounts.ChooseAccountActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1359
+-keep class android.accounts.GrantCredentialsPermissionActivity { <init>(...); }
+
+# view res/layout/search_bar.xml #generated:67
+-keep class android.app.SearchDialog$SearchAutoComplete { <init>(...); }
+
+# view res/layout/search_bar.xml #generated:20
+-keep class android.app.SearchDialog$SearchBar { <init>(...); }
+
+# view res/layout/keyguard_screen_tab_unlock.xml #generated:24
+# view res/layout/keyguard_screen_tab_unlock_land.xml #generated:24
+# view res/layout/list_gestures_overlay.xml #generated:17
+-keep class android.gesture.GestureOverlayView { <init>(...); }
+
+# view res/layout/input_method_extract_view.xml #generated:47
+-keep class android.inputmethodservice.ExtractButton { <init>(...); }
+
+# view res/layout/input_method_extract_view.xml #generated:25
+-keep class android.inputmethodservice.ExtractEditText { <init>(...); }
+
+# view res/layout/keyboard_popup_keyboard.xml #generated:28
+-keep class android.inputmethodservice.KeyboardView { <init>(...); }
+
+# view res/layout/status_bar_latest_event_content.xml #generated:47
+-keep class android.widget.DateTimeView { <init>(...); }
+
+# view res/layout/contact_header.xml #generated:25
+-keep class android.widget.QuickContactBadge { <init>(...); }
+
+# view res/layout/select_dialog.xml #generated:26
+-keep class com.android.internal.app.AlertController$RecycleListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:1321
+-keep class com.android.internal.app.ChooserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1340
+-keep class com.android.internal.app.DisableCarModeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1331
+-keep class com.android.internal.app.HeavyWeightSwitcherActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1372
+-keep class com.android.internal.app.NetInitiatedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1337
+-keep class com.android.internal.app.PlatLogoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1344
+-keep class com.android.internal.app.RingtonePickerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1421
+-keep class com.android.internal.os.storage.ExternalStorageFormatter { <init>(...); }
+
+# view res/layout/recent_apps_dialog.xml #generated:20
+# view res/layout/recent_apps_dialog_12.xml #generated:20
+# view res/layout/recent_apps_dialog_15.xml #generated:20
+-keep class com.android.internal.policy.impl.RecentApplicationsBackground { <init>(...); }
+
+# view AndroidManifest.xml #generated:1386
+-keep class com.android.internal.service.wallpaper.ImageWallpaper { <init>(...); }
+
+# view res/layout/expanded_menu_layout.xml #generated:17
+-keep class com.android.internal.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/icon_menu_item_layout.xml #generated:17
+-keep class com.android.internal.view.menu.IconMenuItemView { <init>(...); }
+
+# view res/layout-land/icon_menu_layout.xml #generated:17
+# view res/layout-port/icon_menu_layout.xml #generated:17
+-keep class com.android.internal.view.menu.IconMenuView { <init>(...); }
+
+# view res/layout/list_menu_item_layout.xml #generated:17
+-keep class com.android.internal.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/alert_dialog.xml #generated:55
+-keep class com.android.internal.widget.DialogTitle { <init>(...); }
+
+# view res/layout/keyguard_screen_tab_unlock.xml #generated:70
+# view res/layout/keyguard_screen_tab_unlock_land.xml #generated:73
+# view res/layout/keyguard_screen_unlock_landscape.xml #generated:62
+# view res/layout/keyguard_screen_unlock_portrait.xml #generated:52
+-keep class com.android.internal.widget.DigitalClock { <init>(...); }
+
+# view res/layout/keyguard_screen_unlock_landscape.xml #generated:24
+# view res/layout/keyguard_screen_unlock_portrait.xml #generated:23
+-keep class com.android.internal.widget.LinearLayoutWithDefaultTouchRecepient { <init>(...); }
+
+# view res/layout/keyguard_screen_unlock_landscape.xml #generated:203
+# view res/layout/keyguard_screen_unlock_portrait.xml #generated:162
+-keep class com.android.internal.widget.LockPatternView { <init>(...); }
+
+# view res/layout/keyguard_screen_password_landscape.xml #generated:65
+# view res/layout/keyguard_screen_password_portrait.xml #generated:74
+-keep class com.android.internal.widget.PasswordEntryKeyboardView { <init>(...); }
+
+# view res/layout/keyguard_screen_tab_unlock.xml #generated:195
+# view res/layout/keyguard_screen_tab_unlock_land.xml #generated:254
+-keep class com.android.internal.widget.RotarySelector { <init>(...); }
+
+# view res/layout/keyguard_screen_tab_unlock.xml #generated:177
+# view res/layout/keyguard_screen_tab_unlock.xml #generated:186
+# view res/layout/keyguard_screen_tab_unlock_land.xml #generated:239
+# view res/layout/keyguard_screen_tab_unlock_land.xml #generated:246
+-keep class com.android.internal.widget.SlidingTab { <init>(...); }
+
+# view res/layout/alert_dialog.xml #generated:21
+-keep class com.android.internal.widget.WeightedLinearLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:1409
+-keep class com.android.server.AppsLaunchFailureReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1390
+-keep class com.android.server.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1383
+-keep class com.android.server.LoadAverageService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1396
+-keep class com.android.server.MasterClearReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1364
+-keep class com.android.server.ShutdownActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1313
+-keep class com.android.server.SystemBackupAgent { <init>(...); }
+
+# view AndroidManifest.xml #generated:1377
+-keep class com.android.server.usb.UsbResolverActivity { <init>(...); }
+

@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libsvoxpico_intermediates/picodbg.o: \
+ external/svox/pico/lib/picodbg.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/svox/pico/lib/picodbg.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

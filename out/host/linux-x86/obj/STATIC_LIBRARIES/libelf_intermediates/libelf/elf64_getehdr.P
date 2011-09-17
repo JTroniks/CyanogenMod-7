@@ -1,0 +1,45 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libelf_intermediates/libelf/elf64_getehdr.o: \
+ external/elfutils/libelf/elf64_getehdr.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/elfutils/config-compat-linux.h /usr/include/byteswap.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/wordsize.h \
+ /usr/include/endian.h /usr/include/features.h \
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/include/bits/endian.h /usr/include/libintl.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/locale.h /usr/include/bits/locale.h /usr/include/xlocale.h \
+ external/elfutils/config.h external/elfutils/libelf/elf32_getehdr.c \
+ external/elfutils/libelf/libelf.h /usr/include/sys/types.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ external/elfutils/libelf/elf.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ external/elfutils/libelf/libelfP.h /usr/include/ar.h \
+ external/elfutils/libelf/gelf.h external/elfutils/libelf/exttypes.h \
+ external/elfutils/libelf/abstract.h
+ external/elfutils/libelf/elf64_getehdr.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/elfutils/config-compat-linux.h /usr/include/byteswap.h :
+ /usr/include/bits/byteswap.h /usr/include/bits/wordsize.h :
+ /usr/include/endian.h /usr/include/features.h :
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/include/bits/endian.h /usr/include/libintl.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/locale.h /usr/include/bits/locale.h /usr/include/xlocale.h :
+ external/elfutils/config.h external/elfutils/libelf/elf32_getehdr.c :
+ external/elfutils/libelf/libelf.h /usr/include/sys/types.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h :
+ /usr/include/bits/sigset.h /usr/include/bits/time.h :
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h :
+ external/elfutils/libelf/elf.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/bits/wchar.h :
+ external/elfutils/libelf/libelfP.h /usr/include/ar.h :
+ external/elfutils/libelf/gelf.h external/elfutils/libelf/exttypes.h :
+ external/elfutils/libelf/abstract.h :

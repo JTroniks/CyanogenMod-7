@@ -1,0 +1,15 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/Eq/src/LVEQNB_Tables.o: \
+ frameworks/base/media/libeffects/lvm/lib/Eq/src/LVEQNB_Tables.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/Eq/lib/LVEQNB.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Common.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Eq/src/LVEQNB_Coeffs.h
+ frameworks/base/media/libeffects/lvm/lib/Eq/src/LVEQNB_Tables.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/Eq/lib/LVEQNB.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Common.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Eq/src/LVEQNB_Coeffs.h :

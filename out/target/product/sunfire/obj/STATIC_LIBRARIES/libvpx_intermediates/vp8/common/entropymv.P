@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libvpx_intermediates/vp8/common/entropymv.o: \
+ external/libvpx/vp8/common/entropymv.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/libvpx/vp8/common/entropymv.h \
+ external/libvpx/vp8/common/treecoder.h
+ external/libvpx/vp8/common/entropymv.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/libvpx/vp8/common/entropymv.h :
+ external/libvpx/vp8/common/treecoder.h :

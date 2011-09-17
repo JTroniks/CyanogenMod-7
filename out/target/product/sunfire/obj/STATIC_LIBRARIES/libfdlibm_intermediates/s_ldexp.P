@@ -1,0 +1,17 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libfdlibm_intermediates/s_ldexp.o: \
+ external/fdlibm/s_ldexp.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/fdlibm/fdlibm.h bionic/libc/include/errno.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h
+ external/fdlibm/s_ldexp.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/fdlibm/fdlibm.h bionic/libc/include/errno.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :

@@ -1,0 +1,19 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/gadgets_clock_mp3.png:0 -->
+  <public type="drawable" name="gadgets_clock_mp3" id="0x7f020000" />
+  <!-- Declared at res/drawable/test_pattern.png:0 -->
+  <public type="drawable" name="test_pattern" id="0x7f020001" />
+
+  <!-- Declared at res/raw/fountain.c:0 -->
+  <public type="raw" name="fountain" id="0x7f030000" />
+  <!-- Declared at res/raw/fountain2.rs:0 -->
+  <public type="raw" name="fountain2" id="0x7f030001" />
+
+</resources>

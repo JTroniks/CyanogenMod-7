@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libstagefright_intermediates/MediaDefs.o: \
+ frameworks/base/media/libstagefright/MediaDefs.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/include/media/stagefright/MediaDefs.h
+ frameworks/base/media/libstagefright/MediaDefs.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/include/media/stagefright/MediaDefs.h :

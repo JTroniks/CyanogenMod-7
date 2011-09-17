@@ -1,0 +1,165 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libdvm_sv_intermediates/UtfString.o: \
+ dalvik/vm/UtfString.c system/core/include/arch/linux-arm/AndroidConfig.h \
+ dalvik/vm/Dalvik.h bionic/libc/include/pthread.h \
+ bionic/libc/include/time.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/time.h \
+ bionic/libc/include/sys/types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h \
+ bionic/libc/kernel/common/linux/time.h \
+ bionic/libc/kernel/arch-arm/asm/siginfo.h \
+ bionic/libc/kernel/common/asm-generic/siginfo.h \
+ bionic/libc/include/signal.h bionic/libc/include/limits.h \
+ bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/kernel/arch-arm/asm/signal.h \
+ bionic/libc/kernel/common/asm-generic/signal.h \
+ bionic/libc/include/sched.h dalvik/vm/Common.h \
+ bionic/libc/include/stdio.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ bionic/libc/include/assert.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdbool.h \
+ bionic/libc/arch-arm/include/endian.h bionic/libc/include/sys/endian.h \
+ frameworks/base/include/utils/Log.h system/core/include/cutils/log.h \
+ bionic/libc/include/unistd.h bionic/libc/include/sys/select.h \
+ bionic/libc/include/sys/sysconf.h \
+ bionic/libc/kernel/common/linux/capability.h \
+ bionic/libc/include/pathconf.h system/core/include/cutils/uio.h \
+ bionic/libc/include/sys/uio.h bionic/libc/kernel/common/linux/uio.h \
+ system/core/include/cutils/logd.h system/core/include/android/log.h \
+ dalvik/vm/Inlines.h dalvik/vm/Misc.h dalvik/vm/Bits.h \
+ bionic/libc/include/stdlib.h bionic/libc/include/alloca.h \
+ bionic/libc/include/strings.h bionic/libc/include/memory.h \
+ dalvik/libdex/SysUtil.h dalvik/libdex/DexFile.h dalvik/vm/Common.h \
+ dalvik/libdex/DexProto.h dalvik/libdex/DexFile.h \
+ dalvik/libdex/ZipArchive.h dalvik/libdex/SysUtil.h dalvik/vm/DvmDex.h \
+ dalvik/vm/RawDexFile.h dalvik/vm/Sync.h dalvik/vm/oo/Object.h \
+ dalvik/vm/Atomic.h system/core/include/cutils/atomic.h \
+ system/core/include/cutils/atomic-inline.h \
+ system/core/include/cutils/atomic-arm.h \
+ bionic/libc/arch-arm/include/machine/cpu-features.h dalvik/vm/Native.h \
+ dalvik/vm/native/InternalNative.h dalvik/vm/DalvikVersion.h \
+ dalvik/vm/Debugger.h dalvik/vm/jdwp/Jdwp.h \
+ dalvik/vm/jdwp/JdwpConstants.h dalvik/vm/jdwp/ExpandBuf.h \
+ dalvik/vm/Common.h dalvik/vm/Bits.h dalvik/vm/Profile.h \
+ dalvik/vm/UtfString.h dalvik/vm/Intern.h dalvik/vm/ReferenceTable.h \
+ dalvik/vm/IndirectRefTable.h dalvik/vm/AtomicCache.h dalvik/vm/Thread.h \
+ dalvik/libnativehelper/include/nativehelper/jni.h \
+ bionic/libc/include/errno.h bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h \
+ system/core/include/cutils/sched_policy.h dalvik/vm/Ddm.h \
+ dalvik/vm/Hash.h dalvik/vm/interp/Stack.h dalvik/vm/oo/Class.h \
+ dalvik/vm/oo/Resolve.h dalvik/vm/oo/Array.h dalvik/vm/Exception.h \
+ dalvik/vm/alloc/Alloc.h dalvik/vm/alloc/CardTable.h \
+ dalvik/vm/alloc/HeapDebug.h dalvik/vm/alloc/HeapWorker.h \
+ dalvik/vm/alloc/GC.h dalvik/vm/hprof/Hprof.h dalvik/vm/Dalvik.h \
+ dalvik/vm/alloc/WriteBarrier.h dalvik/vm/oo/AccessCheck.h \
+ dalvik/vm/JarFile.h dalvik/vm/Properties.h dalvik/vm/SignalCatcher.h \
+ dalvik/vm/StdioConverter.h dalvik/vm/JniInternal.h \
+ dalvik/vm/LinearAlloc.h dalvik/vm/analysis/DexVerify.h \
+ dalvik/vm/analysis/DexPrepare.h dalvik/vm/analysis/RegisterMap.h \
+ dalvik/vm/analysis/VerifySubs.h dalvik/vm/analysis/CodeVerify.h \
+ dalvik/vm/Init.h dalvik/libdex/OpCode.h dalvik/libdex/InstrUtils.h \
+ dalvik/libdex/OpCode.h dalvik/vm/AllocTracker.h dalvik/vm/PointerSet.h \
+ dalvik/vm/compiler/Compiler.h dalvik/vm/Thread.h \
+ bionic/libc/include/setjmp.h \
+ bionic/libc/arch-arm/include/machine/setjmp.h dalvik/vm/Globals.h \
+ dalvik/vm/reflect/Reflect.h dalvik/vm/oo/TypeCheck.h dalvik/vm/Atomic.h \
+ dalvik/vm/interp/Interp.h dalvik/vm/InlineNative.h \
+ dalvik/vm/oo/ObjectInlines.h
+ dalvik/vm/UtfString.c system/core/include/arch/linux-arm/AndroidConfig.h :
+ dalvik/vm/Dalvik.h bionic/libc/include/pthread.h :
+ bionic/libc/include/time.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/time.h :
+ bionic/libc/include/sys/types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h :
+ bionic/libc/kernel/common/linux/time.h :
+ bionic/libc/kernel/arch-arm/asm/siginfo.h :
+ bionic/libc/kernel/common/asm-generic/siginfo.h :
+ bionic/libc/include/signal.h bionic/libc/include/limits.h :
+ bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/kernel/arch-arm/asm/signal.h :
+ bionic/libc/kernel/common/asm-generic/signal.h :
+ bionic/libc/include/sched.h dalvik/vm/Common.h :
+ bionic/libc/include/stdio.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ bionic/libc/include/assert.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdbool.h :
+ bionic/libc/arch-arm/include/endian.h bionic/libc/include/sys/endian.h :
+ frameworks/base/include/utils/Log.h system/core/include/cutils/log.h :
+ bionic/libc/include/unistd.h bionic/libc/include/sys/select.h :
+ bionic/libc/include/sys/sysconf.h :
+ bionic/libc/kernel/common/linux/capability.h :
+ bionic/libc/include/pathconf.h system/core/include/cutils/uio.h :
+ bionic/libc/include/sys/uio.h bionic/libc/kernel/common/linux/uio.h :
+ system/core/include/cutils/logd.h system/core/include/android/log.h :
+ dalvik/vm/Inlines.h dalvik/vm/Misc.h dalvik/vm/Bits.h :
+ bionic/libc/include/stdlib.h bionic/libc/include/alloca.h :
+ bionic/libc/include/strings.h bionic/libc/include/memory.h :
+ dalvik/libdex/SysUtil.h dalvik/libdex/DexFile.h dalvik/vm/Common.h :
+ dalvik/libdex/DexProto.h dalvik/libdex/DexFile.h :
+ dalvik/libdex/ZipArchive.h dalvik/libdex/SysUtil.h dalvik/vm/DvmDex.h :
+ dalvik/vm/RawDexFile.h dalvik/vm/Sync.h dalvik/vm/oo/Object.h :
+ dalvik/vm/Atomic.h system/core/include/cutils/atomic.h :
+ system/core/include/cutils/atomic-inline.h :
+ system/core/include/cutils/atomic-arm.h :
+ bionic/libc/arch-arm/include/machine/cpu-features.h dalvik/vm/Native.h :
+ dalvik/vm/native/InternalNative.h dalvik/vm/DalvikVersion.h :
+ dalvik/vm/Debugger.h dalvik/vm/jdwp/Jdwp.h :
+ dalvik/vm/jdwp/JdwpConstants.h dalvik/vm/jdwp/ExpandBuf.h :
+ dalvik/vm/Common.h dalvik/vm/Bits.h dalvik/vm/Profile.h :
+ dalvik/vm/UtfString.h dalvik/vm/Intern.h dalvik/vm/ReferenceTable.h :
+ dalvik/vm/IndirectRefTable.h dalvik/vm/AtomicCache.h dalvik/vm/Thread.h :
+ dalvik/libnativehelper/include/nativehelper/jni.h :
+ bionic/libc/include/errno.h bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :
+ system/core/include/cutils/sched_policy.h dalvik/vm/Ddm.h :
+ dalvik/vm/Hash.h dalvik/vm/interp/Stack.h dalvik/vm/oo/Class.h :
+ dalvik/vm/oo/Resolve.h dalvik/vm/oo/Array.h dalvik/vm/Exception.h :
+ dalvik/vm/alloc/Alloc.h dalvik/vm/alloc/CardTable.h :
+ dalvik/vm/alloc/HeapDebug.h dalvik/vm/alloc/HeapWorker.h :
+ dalvik/vm/alloc/GC.h dalvik/vm/hprof/Hprof.h dalvik/vm/Dalvik.h :
+ dalvik/vm/alloc/WriteBarrier.h dalvik/vm/oo/AccessCheck.h :
+ dalvik/vm/JarFile.h dalvik/vm/Properties.h dalvik/vm/SignalCatcher.h :
+ dalvik/vm/StdioConverter.h dalvik/vm/JniInternal.h :
+ dalvik/vm/LinearAlloc.h dalvik/vm/analysis/DexVerify.h :
+ dalvik/vm/analysis/DexPrepare.h dalvik/vm/analysis/RegisterMap.h :
+ dalvik/vm/analysis/VerifySubs.h dalvik/vm/analysis/CodeVerify.h :
+ dalvik/vm/Init.h dalvik/libdex/OpCode.h dalvik/libdex/InstrUtils.h :
+ dalvik/libdex/OpCode.h dalvik/vm/AllocTracker.h dalvik/vm/PointerSet.h :
+ dalvik/vm/compiler/Compiler.h dalvik/vm/Thread.h :
+ bionic/libc/include/setjmp.h :
+ bionic/libc/arch-arm/include/machine/setjmp.h dalvik/vm/Globals.h :
+ dalvik/vm/reflect/Reflect.h dalvik/vm/oo/TypeCheck.h dalvik/vm/Atomic.h :
+ dalvik/vm/interp/Interp.h dalvik/vm/InlineNative.h :
+ dalvik/vm/oo/ObjectInlines.h :

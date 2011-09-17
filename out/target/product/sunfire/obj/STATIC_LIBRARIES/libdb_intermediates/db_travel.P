@@ -1,0 +1,15 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libdb_intermediates/db_travel.o: \
+ external/oprofile/libdb/db_travel.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/oprofile/libdb/odb.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ external/oprofile/libdb/../libutil/op_list.h
+ external/oprofile/libdb/db_travel.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/oprofile/libdb/odb.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ external/oprofile/libdb/../libutil/op_list.h :

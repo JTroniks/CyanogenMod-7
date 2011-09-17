@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:38
+-keep class com.android.providers.contacts.CallLogProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.android.providers.contacts.ContactsProvider2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.android.providers.contacts.ContactsUpgradeReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.android.providers.contacts.SocialProvider { <init>(...); }
+

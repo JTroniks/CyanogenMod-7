@@ -1,0 +1,86 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/ic_gesturebuilder.png:0 -->
+  <!-- Declared at res/drawable-hdpi/ic_gesturebuilder.png:0 -->
+  <public type="drawable" name="ic_gesturebuilder" id="0x7f020000" />
+
+  <!-- Declared at res/layout/create_gesture.xml:0 -->
+  <public type="layout" name="create_gesture" id="0x7f030000" />
+  <!-- Declared at res/layout/dialog_rename.xml:0 -->
+  <public type="layout" name="dialog_rename" id="0x7f030001" />
+  <!-- Declared at res/layout/gestures_item.xml:0 -->
+  <public type="layout" name="gestures_item" id="0x7f030002" />
+  <!-- Declared at res/layout/gestures_list.xml:0 -->
+  <public type="layout" name="gestures_list" id="0x7f030003" />
+
+  <!-- Declared at development/apps/GestureBuilder/res/values/colors.xml:21 -->
+  <public type="color" name="gesture_color" id="0x7f040000" />
+
+  <!-- Declared at development/apps/GestureBuilder/res/values/dimens.xml:18 -->
+  <public type="dimen" name="gesture_thumbnail_inset" id="0x7f050000" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/dimens.xml:19 -->
+  <public type="dimen" name="gesture_thumbnail_size" id="0x7f050001" />
+
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:24 -->
+  <public type="string" name="application_name" id="0x7f060000" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:26 -->
+  <public type="string" name="label_create_gesture" id="0x7f060001" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:31 -->
+  <public type="string" name="button_add" id="0x7f060002" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:33 -->
+  <public type="string" name="button_reload" id="0x7f060003" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:35 -->
+  <public type="string" name="button_discard" id="0x7f060004" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:37 -->
+  <public type="string" name="button_done" id="0x7f060005" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:42 -->
+  <public type="string" name="prompt_gesture_name" id="0x7f060006" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:44 -->
+  <public type="string" name="error_missing_name" id="0x7f060007" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:46 -->
+  <public type="string" name="save_success" id="0x7f060008" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:48 -->
+  <public type="string" name="rename_action" id="0x7f060009" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:50 -->
+  <public type="string" name="cancel_action" id="0x7f06000a" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:52 -->
+  <public type="string" name="gestures_loading" id="0x7f06000b" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:54 -->
+  <public type="string" name="gestures_empty" id="0x7f06000c" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:56 -->
+  <public type="string" name="gestures_activity" id="0x7f06000d" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:58 -->
+  <public type="string" name="gestures_rename" id="0x7f06000e" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:60 -->
+  <public type="string" name="gestures_delete" id="0x7f06000f" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:62 -->
+  <public type="string" name="gestures_delete_success" id="0x7f060010" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:64 -->
+  <public type="string" name="gestures_rename_title" id="0x7f060011" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:66 -->
+  <public type="string" name="gestures_rename_label" id="0x7f060012" />
+  <!-- Declared at development/apps/GestureBuilder/res/values/strings.xml:68 -->
+  <public type="string" name="gestures_error_loading" id="0x7f060013" />
+
+  <!-- Declared at development/apps/GestureBuilder/res/layout/create_gesture.xml:39 -->
+  <public type="id" name="gesture_name" id="0x7f070000" />
+  <!-- Declared at development/apps/GestureBuilder/res/layout/create_gesture.xml:50 -->
+  <public type="id" name="gestures_overlay" id="0x7f070001" />
+  <!-- Declared at development/apps/GestureBuilder/res/layout/create_gesture.xml:66 -->
+  <public type="id" name="done" id="0x7f070002" />
+  <!-- Declared at development/apps/GestureBuilder/res/layout/dialog_rename.xml:23 -->
+  <public type="id" name="label" id="0x7f070003" />
+  <!-- Declared at development/apps/GestureBuilder/res/layout/dialog_rename.xml:31 -->
+  <public type="id" name="name" id="0x7f070004" />
+  <!-- Declared at development/apps/GestureBuilder/res/layout/gestures_list.xml:50 -->
+  <public type="id" name="addButton" id="0x7f070005" />
+  <!-- Declared at development/apps/GestureBuilder/res/layout/gestures_list.xml:61 -->
+  <public type="id" name="reloadButton" id="0x7f070006" />
+
+</resources>

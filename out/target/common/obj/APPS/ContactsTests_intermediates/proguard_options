@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:25
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.android.contacts.ContactsLaunchPerformance { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.android.contacts.DialerLaunchPerformance { <init>(...); }
+

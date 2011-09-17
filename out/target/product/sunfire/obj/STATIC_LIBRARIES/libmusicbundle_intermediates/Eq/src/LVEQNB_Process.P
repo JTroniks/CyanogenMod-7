@@ -1,0 +1,21 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/Eq/src/LVEQNB_Process.o: \
+ frameworks/base/media/libeffects/lvm/lib/Eq/src/LVEQNB_Process.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/Eq/lib/LVEQNB.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Common.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Eq/src/LVEQNB_Private.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/BIQUAD.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/VectorArithmetic.h
+ frameworks/base/media/libeffects/lvm/lib/Eq/src/LVEQNB_Process.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/Eq/lib/LVEQNB.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Common.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Eq/src/LVEQNB_Private.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/BIQUAD.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/VectorArithmetic.h :

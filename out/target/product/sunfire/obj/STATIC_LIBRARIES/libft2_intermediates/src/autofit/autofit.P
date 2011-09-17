@@ -1,0 +1,151 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libft2_intermediates/src/autofit/autofit.o: \
+ external/freetype/src/autofit/autofit.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/freetype/include/ft2build.h \
+ external/freetype/include/freetype/config/ftheader.h \
+ external/freetype/include/freetype/internal/internal.h \
+ external/freetype/src/autofit/afpic.c \
+ external/freetype/include/freetype/freetype.h \
+ external/freetype/include/freetype/config/ftconfig.h \
+ external/freetype/include/freetype/config/ftoption.h \
+ external/freetype/include/freetype/config/ftstdlib.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/include/stdio.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/stdlib.h \
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+ bionic/libc/include/memory.h bionic/libc/include/setjmp.h \
+ bionic/libc/arch-arm/include/machine/setjmp.h \
+ external/freetype/include/freetype/fterrors.h \
+ external/freetype/include/freetype/ftmoderr.h \
+ external/freetype/include/freetype/fterrdef.h \
+ external/freetype/include/freetype/fttypes.h \
+ external/freetype/include/freetype/ftsystem.h \
+ external/freetype/include/freetype/ftimage.h \
+ external/freetype/include/freetype/internal/ftobjs.h \
+ external/freetype/include/freetype/ftrender.h \
+ external/freetype/include/freetype/ftmodapi.h \
+ external/freetype/include/freetype/ftglyph.h \
+ external/freetype/include/freetype/ftsizes.h \
+ external/freetype/include/freetype/ftlcdfil.h \
+ external/freetype/include/freetype/internal/ftmemory.h \
+ external/freetype/include/freetype/internal/ftgloadr.h \
+ external/freetype/include/freetype/internal/ftdriver.h \
+ external/freetype/include/freetype/internal/autohint.h \
+ external/freetype/include/freetype/internal/ftserv.h \
+ external/freetype/include/freetype/internal/ftpic.h \
+ external/freetype/src/autofit/afpic.h \
+ external/freetype/src/autofit/afangles.c \
+ external/freetype/src/autofit/aftypes.h \
+ external/freetype/include/freetype/ftoutln.h \
+ external/freetype/include/freetype/internal/ftdebug.h \
+ external/freetype/src/autofit/afglobal.c \
+ external/freetype/src/autofit/afglobal.h \
+ external/freetype/src/autofit/afdummy.h \
+ external/freetype/src/autofit/aflatin.h \
+ external/freetype/src/autofit/afhints.h \
+ external/freetype/src/autofit/afcjk.h \
+ external/freetype/src/autofit/afindic.h \
+ external/freetype/src/autofit/aferrors.h \
+ external/freetype/src/autofit/afhints.c \
+ external/freetype/include/freetype/internal/ftcalc.h \
+ external/freetype/src/autofit/afdummy.c \
+ external/freetype/src/autofit/aflatin.c \
+ external/freetype/include/freetype/ftadvanc.h \
+ external/freetype/src/autofit/afcjk.c \
+ external/freetype/src/autofit/afindic.c \
+ external/freetype/src/autofit/afloader.c \
+ external/freetype/src/autofit/afloader.h \
+ external/freetype/src/autofit/afmodule.c \
+ external/freetype/src/autofit/afmodule.h
+ external/freetype/src/autofit/autofit.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/freetype/include/ft2build.h :
+ external/freetype/include/freetype/config/ftheader.h :
+ external/freetype/include/freetype/internal/internal.h :
+ external/freetype/src/autofit/afpic.c :
+ external/freetype/include/freetype/freetype.h :
+ external/freetype/include/freetype/config/ftconfig.h :
+ external/freetype/include/freetype/config/ftoption.h :
+ external/freetype/include/freetype/config/ftstdlib.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/include/stdio.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/stdlib.h :
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+ bionic/libc/include/memory.h bionic/libc/include/setjmp.h :
+ bionic/libc/arch-arm/include/machine/setjmp.h :
+ external/freetype/include/freetype/fterrors.h :
+ external/freetype/include/freetype/ftmoderr.h :
+ external/freetype/include/freetype/fterrdef.h :
+ external/freetype/include/freetype/fttypes.h :
+ external/freetype/include/freetype/ftsystem.h :
+ external/freetype/include/freetype/ftimage.h :
+ external/freetype/include/freetype/internal/ftobjs.h :
+ external/freetype/include/freetype/ftrender.h :
+ external/freetype/include/freetype/ftmodapi.h :
+ external/freetype/include/freetype/ftglyph.h :
+ external/freetype/include/freetype/ftsizes.h :
+ external/freetype/include/freetype/ftlcdfil.h :
+ external/freetype/include/freetype/internal/ftmemory.h :
+ external/freetype/include/freetype/internal/ftgloadr.h :
+ external/freetype/include/freetype/internal/ftdriver.h :
+ external/freetype/include/freetype/internal/autohint.h :
+ external/freetype/include/freetype/internal/ftserv.h :
+ external/freetype/include/freetype/internal/ftpic.h :
+ external/freetype/src/autofit/afpic.h :
+ external/freetype/src/autofit/afangles.c :
+ external/freetype/src/autofit/aftypes.h :
+ external/freetype/include/freetype/ftoutln.h :
+ external/freetype/include/freetype/internal/ftdebug.h :
+ external/freetype/src/autofit/afglobal.c :
+ external/freetype/src/autofit/afglobal.h :
+ external/freetype/src/autofit/afdummy.h :
+ external/freetype/src/autofit/aflatin.h :
+ external/freetype/src/autofit/afhints.h :
+ external/freetype/src/autofit/afcjk.h :
+ external/freetype/src/autofit/afindic.h :
+ external/freetype/src/autofit/aferrors.h :
+ external/freetype/src/autofit/afhints.c :
+ external/freetype/include/freetype/internal/ftcalc.h :
+ external/freetype/src/autofit/afdummy.c :
+ external/freetype/src/autofit/aflatin.c :
+ external/freetype/include/freetype/ftadvanc.h :
+ external/freetype/src/autofit/afcjk.c :
+ external/freetype/src/autofit/afindic.c :
+ external/freetype/src/autofit/afloader.c :
+ external/freetype/src/autofit/afloader.h :
+ external/freetype/src/autofit/afmodule.c :
+ external/freetype/src/autofit/afmodule.h :

@@ -1,0 +1,23 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libstlport_intermediates/src/cxa.o: \
+ external/stlport/src/cxa.c external/stlport/src/stlport_prefix.h \
+ external/stlport/stlport/stl/config/features.h \
+ external/stlport/stlport/stl/_stlport_version.h \
+ external/stlport/stlport/stl/config/user_config.h \
+ external/stlport/stlport/stl/config/compat.h \
+ external/stlport/stlport/stl/config/host.h \
+ external/stlport/stlport/stl/config/_system.h \
+ external/stlport/stlport/stl/config/_android.h \
+ external/stlport/stlport/stl/config/_gcc.h \
+ external/stlport/stlport/stl/config/stl_confix.h \
+ external/stlport/stlport/stl/config/_native_headers.h
+ external/stlport/src/cxa.c external/stlport/src/stlport_prefix.h :
+ external/stlport/stlport/stl/config/features.h :
+ external/stlport/stlport/stl/_stlport_version.h :
+ external/stlport/stlport/stl/config/user_config.h :
+ external/stlport/stlport/stl/config/compat.h :
+ external/stlport/stlport/stl/config/host.h :
+ external/stlport/stlport/stl/config/_system.h :
+ external/stlport/stlport/stl/config/_android.h :
+ external/stlport/stlport/stl/config/_gcc.h :
+ external/stlport/stlport/stl/config/stl_confix.h :
+ external/stlport/stlport/stl/config/_native_headers.h :

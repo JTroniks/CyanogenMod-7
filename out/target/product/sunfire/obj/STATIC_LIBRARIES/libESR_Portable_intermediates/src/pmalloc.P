@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libESR_Portable_intermediates/src/pmalloc.o: \
+ external/srec/portable/src/pmalloc.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/srec/portable/src/pmalloc.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

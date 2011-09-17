@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libfdlibm_intermediates/k_tan.o: \
+ external/fdlibm/k_tan.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/fdlibm/fdlibm.h
+ external/fdlibm/k_tan.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/fdlibm/fdlibm.h :

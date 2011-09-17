@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:5
+-keep class com.android.providers.settings.SettingsBackupAgent { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.android.providers.settings.SettingsProvider { <init>(...); }
+

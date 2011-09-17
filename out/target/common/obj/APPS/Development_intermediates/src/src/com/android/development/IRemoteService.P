@@ -1,0 +1,3 @@
+out/target/common/obj/APPS/Development_intermediates/src/src/com/android/development/IRemoteService.java: \
+  development/apps/Development/src/com/android/development/IRemoteService.aidl 
+

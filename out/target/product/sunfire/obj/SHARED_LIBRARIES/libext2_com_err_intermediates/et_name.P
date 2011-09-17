@@ -1,0 +1,25 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libext2_com_err_intermediates/et_name.o: \
+ external/e2fsprogs/lib/et/et_name.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/e2fsprogs/lib/et/com_err.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ external/e2fsprogs/lib/et/error_table.h \
+ external/e2fsprogs/lib/et/internal.h bionic/libc/include/errno.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h
+ external/e2fsprogs/lib/et/et_name.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/e2fsprogs/lib/et/com_err.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ external/e2fsprogs/lib/et/error_table.h :
+ external/e2fsprogs/lib/et/internal.h bionic/libc/include/errno.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :

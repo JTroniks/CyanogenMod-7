@@ -1,0 +1,40 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at packages/apps/GanOptimizer/res/values/strings.xml:17 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-da/strings.xml:17 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-de/strings.xml:17 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-nl/strings.xml:17 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-es/strings.xml:17 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-it/strings.xml:17 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-pt/strings.xml:3 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-sv/strings.xml:17 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-zh-rTW/strings.xml:17 -->
+  <public type="string" name="app_name" id="0x7f020000" />
+  <!-- Declared at packages/apps/GanOptimizer/res/values/strings.xml:18 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-da/strings.xml:18 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-de/strings.xml:18 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-nl/strings.xml:18 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-es/strings.xml:18 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-it/strings.xml:18 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-pt/strings.xml:4 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-sv/strings.xml:18 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-zh-rTW/strings.xml:18 -->
+  <public type="string" name="notificationTitle" id="0x7f020001" />
+  <!-- Declared at packages/apps/GanOptimizer/res/values/strings.xml:19 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-da/strings.xml:19 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-de/strings.xml:19 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-nl/strings.xml:19 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-es/strings.xml:19 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-it/strings.xml:19 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-pt/strings.xml:5 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-sv/strings.xml:19 -->
+  <!-- Declared at packages/apps/GanOptimizer/res/values-zh-rTW/strings.xml:19 -->
+  <public type="string" name="notificationText" id="0x7f020002" />
+
+</resources>

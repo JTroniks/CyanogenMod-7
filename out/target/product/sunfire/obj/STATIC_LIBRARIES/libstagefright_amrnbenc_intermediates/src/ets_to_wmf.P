@@ -1,0 +1,25 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_amrnbenc_intermediates/src/ets_to_wmf.o: \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/src/ets_to_wmf.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/src/ets_to_wmf.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/frame_type_3gpp.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/typedef.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/gsm_amr_typedefs.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/bitreorder_tab.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/typedef.h
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/src/ets_to_wmf.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/src/ets_to_wmf.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/frame_type_3gpp.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/typedef.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/gsm_amr_typedefs.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/bitreorder_tab.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/typedef.h :

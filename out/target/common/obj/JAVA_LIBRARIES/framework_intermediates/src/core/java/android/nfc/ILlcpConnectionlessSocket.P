@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/nfc/ILlcpConnectionlessSocket.java: \
+  frameworks/base/core/java/android/nfc/ILlcpConnectionlessSocket.aidl \
+  frameworks/base/core/java/android/nfc/LlcpPacket.aidl 
+

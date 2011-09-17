@@ -1,0 +1,6 @@
+# view res/layout/input.xml #generated:21
+-keep class com.example.android.softkeyboard.LatinKeyboardView { <init>(...); }
+
+# view AndroidManifest.xml #generated:4
+-keep class com.example.android.softkeyboard.SoftKeyboard { <init>(...); }
+

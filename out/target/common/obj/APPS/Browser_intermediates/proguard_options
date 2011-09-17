@@ -1,0 +1,66 @@
+# view res/layout/tab_view.xml #generated:64
+-keep class com.android.browser.ActiveTabsPage$CloseHolder { <init>(...); }
+
+# view AndroidManifest.xml #generated:179
+-keep class com.android.browser.AddBookmarkPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:166
+-keep class com.android.browser.BookmarkSearch { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.android.browser.Browser { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.android.browser.BrowserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.android.browser.BrowserBackupAgent { <init>(...); }
+
+# view AndroidManifest.xml #generated:134
+-keep class com.android.browser.BrowserBookmarksPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+-keep class com.android.browser.BrowserDownloadPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:158
+-keep class com.android.browser.BrowserHistoryPage { <init>(...); }
+
+# view res/xml/browser_preferences.xml #generated:105
+-keep class com.android.browser.BrowserHomepagePreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:154
+-keep class com.android.browser.BrowserPreferencesPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.android.browser.BrowserProvider { <init>(...); }
+
+# view res/xml/browser_preferences.xml #generated:122
+# view res/xml/browser_preferences.xml #generated:130
+# view res/xml/browser_preferences.xml #generated:144
+# view res/xml/browser_preferences.xml #generated:158
+# view res/xml/browser_preferences.xml #generated:172
+# view res/xml/browser_preferences.xml #generated:192
+# view res/xml/browser_preferences.xml #generated:230
+-keep class com.android.browser.BrowserYesNoPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class com.android.browser.CombinedBookmarkHistoryActivity { <init>(...); }
+
+# view res/layout/error_console.xml #generated:36
+-keep class com.android.browser.ErrorConsoleView$ErrorConsoleListView { <init>(...); }
+
+# view res/layout/geolocation_permissions_prompt.xml #generated:19
+-keep class com.android.browser.GeolocationPermissionsPrompt { <init>(...); }
+
+# view AndroidManifest.xml #generated:213
+-keep class com.android.browser.OpenDownloadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:207
+-keep class com.android.browser.RlzReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:162
+-keep class com.android.browser.WebsiteSettingsActivity { <init>(...); }
+
+# view res/xml/browser_preferences.xml #generated:218
+-keep class com.android.browser.search.SearchEnginePreference { <init>(...); }
+

@@ -1,0 +1,33 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/test128x96.png:0 -->
+  <public type="drawable" name="test128x96" id="0x7f020000" />
+  <!-- Declared at res/drawable/test16x12.png:0 -->
+  <public type="drawable" name="test16x12" id="0x7f020001" />
+  <!-- Declared at res/drawable/test256x192.png:0 -->
+  <public type="drawable" name="test256x192" id="0x7f020002" />
+  <!-- Declared at res/drawable/test320x240.png:0 -->
+  <public type="drawable" name="test320x240" id="0x7f020003" />
+  <!-- Declared at res/drawable/test32x24.png:0 -->
+  <public type="drawable" name="test32x24" id="0x7f020004" />
+  <!-- Declared at res/drawable/test64x48.png:0 -->
+  <public type="drawable" name="test64x48" id="0x7f020005" />
+
+  <!-- Declared at frameworks/base/graphics/tests/graphicstests/res/values/colors.xml:20 -->
+  <public type="color" name="testcolor1" id="0x7f030000" />
+  <!-- Declared at frameworks/base/graphics/tests/graphicstests/res/values/colors.xml:21 -->
+  <public type="color" name="testcolor2" id="0x7f030001" />
+  <!-- Declared at frameworks/base/graphics/tests/graphicstests/res/values/colors.xml:22 -->
+  <public type="color" name="failColor" id="0x7f030002" />
+  <!-- Declared at res/color/color1.xml:0 -->
+  <public type="color" name="color1" id="0x7f030003" />
+  <!-- Declared at res/color/color_no_default.xml:0 -->
+  <public type="color" name="color_no_default" id="0x7f030004" />
+
+</resources>

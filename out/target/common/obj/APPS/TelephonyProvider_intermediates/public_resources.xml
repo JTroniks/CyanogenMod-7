@@ -1,0 +1,57 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/ic_launcher_phone.png:0 -->
+  <!-- Declared at res/drawable-hdpi/ic_launcher_phone.png:0 -->
+  <public type="drawable" name="ic_launcher_phone" id="0x7f020000" />
+
+  <!-- Declared at packages/providers/TelephonyProvider/res/values/strings.xml:20 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-ca/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-da/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-fa/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-ja/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-nb/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-de/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-bg/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-th/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-fi/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-vi/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-sk/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-uk/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-el/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-nl/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-pl/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-sl/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-tl/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-rm/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-in/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-ko/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-ro/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-ar/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-fr/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-hr/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-sr/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-tr/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-cs/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-es/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-it/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-lt/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-pt/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-hu/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-ru/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-lv/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-sv/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-iw/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-en-rGB/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-zh-rCN/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-es-rUS/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-pt-rPT/strings.xml:19 -->
+  <!-- Declared at packages/providers/TelephonyProvider/res/values-zh-rTW/strings.xml:19 -->
+  <public type="string" name="app_label" id="0x7f030000" />
+
+</resources>

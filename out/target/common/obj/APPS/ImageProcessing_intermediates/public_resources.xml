@@ -1,0 +1,25 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-hdpi/data.jpg:0 -->
+  <public type="drawable" name="data" id="0x7f020000" />
+
+  <!-- Declared at res/layout/main.xml:0 -->
+  <public type="layout" name="main" id="0x7f030000" />
+
+  <!-- Declared at res/raw/threshold.rs:0 -->
+  <public type="raw" name="threshold" id="0x7f040000" />
+
+  <!-- Declared at frameworks/base/libs/rs/java/ImageProcessing/res/layout/main.xml:19 -->
+  <public type="id" name="surface" id="0x7f050000" />
+  <!-- Declared at frameworks/base/libs/rs/java/ImageProcessing/res/layout/main.xml:24 -->
+  <public type="id" name="display" id="0x7f050001" />
+  <!-- Declared at frameworks/base/libs/rs/java/ImageProcessing/res/layout/main.xml:29 -->
+  <public type="id" name="threshold" id="0x7f050002" />
+
+</resources>

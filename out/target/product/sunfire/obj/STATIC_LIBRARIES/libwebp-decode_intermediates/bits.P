@@ -1,0 +1,23 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libwebp-decode_intermediates/bits.o: \
+ external/webp/src/dec/bits.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/webp/src/dec/bits.h bionic/libc/include/assert.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ external/webp/src/dec/../../include/webp/decode_vp8.h \
+ external/webp/src/dec/../../include/webp/decode.h \
+ external/webp/src/dec/../../include/webp/types.h \
+ bionic/libc/include/inttypes.h bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h
+ external/webp/src/dec/bits.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/webp/src/dec/bits.h bionic/libc/include/assert.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ external/webp/src/dec/../../include/webp/decode_vp8.h :
+ external/webp/src/dec/../../include/webp/decode.h :
+ external/webp/src/dec/../../include/webp/types.h :
+ bionic/libc/include/inttypes.h bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :

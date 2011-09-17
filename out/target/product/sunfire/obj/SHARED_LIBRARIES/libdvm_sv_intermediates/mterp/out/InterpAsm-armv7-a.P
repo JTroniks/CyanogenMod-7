@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libdvm_sv_intermediates/mterp/out/InterpAsm-armv7-a.o: \
+ dalvik/vm/mterp/out/InterpAsm-armv7-a.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ dalvik/vm/mterp/out/../common/asm-constants.h \
+ dalvik/vm/mterp/out/../common/jit-config.h
+ dalvik/vm/mterp/out/InterpAsm-armv7-a.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ dalvik/vm/mterp/out/../common/asm-constants.h :
+ dalvik/vm/mterp/out/../common/jit-config.h :

@@ -1,0 +1,93 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libSR_Nametag_intermediates/src/Nametags.o: \
+ external/srec/srec/Nametag/src/Nametags.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/srec/portable/include/plog.h \
+ external/srec/portable/include/ESR_ReturnCode.h \
+ external/srec/portable/include/PortPrefix.h \
+ external/srec/portable/include/PortExport.h \
+ external/srec/portable/include/ptypes.h /usr/include/string.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/xlocale.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/stdlib.h /usr/include/ctype.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/limits.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/time.h \
+ /usr/include/bits/time.h /usr/include/errno.h /usr/include/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /usr/include/pthread.h /usr/include/sched.h /usr/include/bits/sched.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h \
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/confname.h \
+ /usr/include/getopt.h external/srec/portable/include/pstdio.h \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h external/srec/portable/include/PFile.h \
+ external/srec/portable/include/passert.h /usr/include/assert.h \
+ external/srec/portable/include/PFileSystem.h \
+ external/srec/srec/Nametag/include/SR_Nametags.h \
+ external/srec/srec/Nametag/include/SR_NametagsPrefix.h \
+ external/srec/portable/include/PortExport.h \
+ external/srec/portable/include/ptypes.h \
+ external/srec/portable/include/pstdio.h \
+ external/srec/srec/Nametag/include/SR_NametagDefs.h \
+ external/srec/srec/Nametag/include/SR_NametagPrefix.h \
+ external/srec/shared/include/ESR_Locale.h \
+ external/srec/shared/include/ESR_SharedPrefix.h \
+ external/srec/portable/include/ESR_ReturnCode.h
+ external/srec/srec/Nametag/src/Nametags.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/srec/portable/include/plog.h :
+ external/srec/portable/include/ESR_ReturnCode.h :
+ external/srec/portable/include/PortPrefix.h :
+ external/srec/portable/include/PortExport.h :
+ external/srec/portable/include/ptypes.h /usr/include/string.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/xlocale.h /usr/include/bits/string.h :
+ /usr/include/bits/string2.h /usr/include/endian.h :
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/stdlib.h /usr/include/ctype.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/limits.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/syslimits.h :
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h :
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h :
+ /usr/include/bits/posix2_lim.h /usr/include/time.h :
+ /usr/include/bits/time.h /usr/include/errno.h /usr/include/bits/errno.h :
+ /usr/include/linux/errno.h /usr/include/asm/errno.h :
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h :
+ /usr/include/pthread.h /usr/include/sched.h /usr/include/bits/sched.h :
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/setjmp.h :
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h :
+ /usr/include/bits/environments.h /usr/include/bits/confname.h :
+ /usr/include/getopt.h external/srec/portable/include/pstdio.h :
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h :
+ /usr/include/wchar.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h :
+ /usr/include/bits/stdio.h external/srec/portable/include/PFile.h :
+ external/srec/portable/include/passert.h /usr/include/assert.h :
+ external/srec/portable/include/PFileSystem.h :
+ external/srec/srec/Nametag/include/SR_Nametags.h :
+ external/srec/srec/Nametag/include/SR_NametagsPrefix.h :
+ external/srec/portable/include/PortExport.h :
+ external/srec/portable/include/ptypes.h :
+ external/srec/portable/include/pstdio.h :
+ external/srec/srec/Nametag/include/SR_NametagDefs.h :
+ external/srec/srec/Nametag/include/SR_NametagPrefix.h :
+ external/srec/shared/include/ESR_Locale.h :
+ external/srec/shared/include/ESR_SharedPrefix.h :
+ external/srec/portable/include/ESR_ReturnCode.h :

@@ -1,0 +1,5 @@
+out/host/linux-x86/obj/EXECUTABLES/emulator_intermediates/android/keycode.o: \
+ external/qemu/android/keycode.c external/qemu/android/keycode.h \
+ external/qemu/linux_keycodes.h
+ external/qemu/android/keycode.c external/qemu/android/keycode.h :
+ external/qemu/linux_keycodes.h :

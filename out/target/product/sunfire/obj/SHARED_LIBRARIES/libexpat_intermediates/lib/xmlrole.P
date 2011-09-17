@@ -1,0 +1,13 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libexpat_intermediates/lib/xmlrole.o: \
+ external/expat/lib/xmlrole.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ external/expat/expat_config.h external/expat/lib/expat_external.h \
+ external/expat/lib/internal.h external/expat/lib/xmlrole.h \
+ external/expat/lib/xmltok.h external/expat/lib/ascii.h
+ external/expat/lib/xmlrole.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ external/expat/expat_config.h external/expat/lib/expat_external.h :
+ external/expat/lib/internal.h external/expat/lib/xmlrole.h :
+ external/expat/lib/xmltok.h external/expat/lib/ascii.h :

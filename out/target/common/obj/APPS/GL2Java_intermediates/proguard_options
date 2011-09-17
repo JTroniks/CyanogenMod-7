@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:26
+-keep class com.android.gl2java.GL2JavaActivity { <init>(...); }
+

@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:28
+-keep class com.google.android.test.dpi.DpiTestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.google.android.test.dpi.DpiTestNoCompatActivity { <init>(...); }
+

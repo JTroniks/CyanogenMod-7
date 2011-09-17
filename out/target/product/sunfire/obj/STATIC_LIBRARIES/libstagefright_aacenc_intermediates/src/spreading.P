@@ -1,0 +1,17 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_aacenc_intermediates/src/spreading.o: \
+ frameworks/base/media/libstagefright/codecs/aacenc/src/spreading.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/basic_op.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedef.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/oper_32b.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/spreading.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h
+ frameworks/base/media/libstagefright/codecs/aacenc/src/spreading.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/basic_op.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedef.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/oper_32b.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/spreading.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h :

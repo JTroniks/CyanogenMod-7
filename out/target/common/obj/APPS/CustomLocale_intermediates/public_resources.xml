@@ -1,0 +1,70 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/icon.png:0 -->
+  <!-- Declared at res/drawable-hdpi/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020000" />
+
+  <!-- Declared at res/layout/list_item.xml:0 -->
+  <public type="layout" name="list_item" id="0x7f030000" />
+  <!-- Declared at res/layout/main.xml:0 -->
+  <public type="layout" name="main" id="0x7f030001" />
+  <!-- Declared at res/layout/new_locale.xml:0 -->
+  <public type="layout" name="new_locale" id="0x7f030002" />
+
+  <!-- Declared at development/apps/CustomLocale/res/values/colors.xml:17 -->
+  <public type="color" name="header_background" id="0x7f040000" />
+
+  <!-- Declared at development/apps/CustomLocale/res/values/strings.xml:17 -->
+  <!-- Declared at development/apps/CustomLocale/res/values-fr/strings.xml:17 -->
+  <public type="string" name="app_name" id="0x7f050000" />
+  <!-- Declared at development/apps/CustomLocale/res/values/strings.xml:18 -->
+  <public type="string" name="locale_default" id="0x7f050001" />
+  <!-- Declared at development/apps/CustomLocale/res/values/strings.xml:19 -->
+  <!-- Declared at development/apps/CustomLocale/res/values-fr/strings.xml:18 -->
+  <public type="string" name="add_new_locale_button" id="0x7f050002" />
+  <!-- Declared at development/apps/CustomLocale/res/values/strings.xml:20 -->
+  <!-- Declared at development/apps/CustomLocale/res/values-fr/strings.xml:19 -->
+  <public type="string" name="new_locale_label" id="0x7f050003" />
+  <!-- Declared at development/apps/CustomLocale/res/values/strings.xml:21 -->
+  <!-- Declared at development/apps/CustomLocale/res/values-fr/strings.xml:20 -->
+  <public type="string" name="add_button" id="0x7f050004" />
+  <!-- Declared at development/apps/CustomLocale/res/values/strings.xml:22 -->
+  <!-- Declared at development/apps/CustomLocale/res/values-fr/strings.xml:21 -->
+  <public type="string" name="no_data_label" id="0x7f050005" />
+  <!-- Declared at development/apps/CustomLocale/res/values/strings.xml:23 -->
+  <!-- Declared at development/apps/CustomLocale/res/values-fr/strings.xml:22 -->
+  <public type="string" name="header_current_locale" id="0x7f050006" />
+  <!-- Declared at development/apps/CustomLocale/res/values/strings.xml:24 -->
+  <!-- Declared at development/apps/CustomLocale/res/values-fr/strings.xml:23 -->
+  <public type="string" name="header_locale_list" id="0x7f050007" />
+  <!-- Declared at development/apps/CustomLocale/res/values/strings.xml:25 -->
+  <!-- Declared at development/apps/CustomLocale/res/values-fr/strings.xml:24 -->
+  <public type="string" name="add_select_button" id="0x7f050008" />
+
+  <!-- Declared at development/apps/CustomLocale/res/values/styles.xml:17 -->
+  <public type="style" name="TextAppearance" id="0x7f060000" />
+  <!-- Declared at development/apps/CustomLocale/res/values/styles.xml:20 -->
+  <public type="style" name="TextAppearance.header" id="0x7f060001" />
+
+  <!-- Declared at development/apps/CustomLocale/res/layout/list_item.xml:21 -->
+  <public type="id" name="locale_code" id="0x7f070000" />
+  <!-- Declared at development/apps/CustomLocale/res/layout/list_item.xml:28 -->
+  <public type="id" name="locale_name" id="0x7f070001" />
+  <!-- Declared at development/apps/CustomLocale/res/layout/main.xml:29 -->
+  <public type="id" name="current_locale" id="0x7f070002" />
+  <!-- Declared at development/apps/CustomLocale/res/layout/main.xml:54 -->
+  <public type="id" name="new_locale" id="0x7f070003" />
+  <!-- Declared at development/apps/CustomLocale/res/layout/new_locale.xml:27 -->
+  <public type="id" name="value" id="0x7f070004" />
+  <!-- Declared at development/apps/CustomLocale/res/layout/new_locale.xml:36 -->
+  <public type="id" name="add" id="0x7f070005" />
+  <!-- Declared at development/apps/CustomLocale/res/layout/new_locale.xml:42 -->
+  <public type="id" name="add_and_select" id="0x7f070006" />
+
+</resources>

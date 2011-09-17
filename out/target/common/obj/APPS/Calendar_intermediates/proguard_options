@@ -1,0 +1,54 @@
+# view AndroidManifest.xml #generated:69
+-keep class com.android.calendar.AgendaActivity { <init>(...); }
+
+# view res/layout/agenda_item.xml #generated:17
+-keep class com.android.calendar.AgendaItemView { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.android.calendar.AlertActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.android.calendar.AlertReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.android.calendar.AlertService { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.android.calendar.CalendarApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.android.calendar.CalendarPreferenceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.android.calendar.CalendarTests { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.android.calendar.DayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.android.calendar.DismissAllAlarmsService { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.android.calendar.EditEvent { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.android.calendar.EventInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.android.calendar.GoogleCalendarUriIntentFilter { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.android.calendar.LaunchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.android.calendar.MonthActivity { <init>(...); }
+
+# view res/layout/calendar_item.xml #generated:34
+-keep class com.android.calendar.MultiStateButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:110
+-keep class com.android.calendar.SelectCalendarsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.android.calendar.WeekActivity { <init>(...); }
+

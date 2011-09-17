@@ -1,0 +1,17 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/librtp_jni_intermediates/AudioCodec.o: \
+ frameworks/base/voip/jni/rtp/AudioCodec.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/malloc.h frameworks/base/voip/jni/rtp/AudioCodec.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h
+ frameworks/base/voip/jni/rtp/AudioCodec.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/malloc.h frameworks/base/voip/jni/rtp/AudioCodec.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :

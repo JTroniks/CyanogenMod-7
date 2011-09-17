@@ -1,0 +1,3 @@
+out/host/linux-x86/obj/EXECUTABLES/emulator_intermediates/d3des.o: \
+ external/qemu/d3des.c external/qemu/d3des.h
+ external/qemu/d3des.c external/qemu/d3des.h :

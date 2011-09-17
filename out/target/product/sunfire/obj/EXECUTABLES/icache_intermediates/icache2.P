@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/EXECUTABLES/icache_intermediates/icache2.o: \
+ system/extras/tests/icachetest/icache2.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ system/extras/tests/icachetest/icache2.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

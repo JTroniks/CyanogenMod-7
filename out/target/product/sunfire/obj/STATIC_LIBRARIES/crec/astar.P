@@ -1,0 +1,173 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libSR_Core_intermediates/../crec/astar.o: \
+ external/srec/srec/ca/../crec/astar.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/srec/portable/include/pstdio.h bionic/libc/include/stdio.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h \
+ external/srec/portable/include/PortPrefix.h \
+ external/srec/portable/include/PortExport.h \
+ external/srec/portable/include/ptypes.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/include/ctype.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/time.h \
+ bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h \
+ bionic/libc/kernel/arch-arm/asm/siginfo.h \
+ bionic/libc/kernel/common/asm-generic/siginfo.h \
+ bionic/libc/include/errno.h bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h \
+ bionic/libc/include/pthread.h bionic/libc/include/signal.h \
+ bionic/libc/kernel/arch-arm/asm/signal.h \
+ bionic/libc/kernel/common/asm-generic/signal.h \
+ bionic/libc/include/sched.h bionic/libc/include/unistd.h \
+ bionic/libc/include/sys/select.h bionic/libc/include/sys/sysconf.h \
+ bionic/libc/kernel/common/linux/capability.h \
+ bionic/libc/include/pathconf.h \
+ external/srec/portable/include/ESR_ReturnCode.h \
+ external/srec/portable/include/pstdio.h \
+ external/srec/portable/include/PFile.h \
+ external/srec/portable/include/passert.h bionic/libc/include/assert.h \
+ external/srec/srec/include/srec_sizes.h \
+ external/srec/srec/include/search_network.h \
+ external/srec/srec/include/srec_sizes.h \
+ external/srec/srec/include/srec.h external/srec/srec/include/swimodel.h \
+ external/srec/srec/include/hmm_type.h bionic/libm/include/math.h \
+ external/srec/srec/include/all_defs.h \
+ external/srec/portable/include/ptypes.h \
+ external/srec/srec/include/setting.h \
+ external/srec/srec/include/buildopt.h \
+ external/srec/srec/include/pre_desc.h \
+ external/srec/srec/include/specnorm.h \
+ external/srec/srec/include/duk_io.h external/srec/srec/include/duk_err.h \
+ external/srec/portable/include/PortExport.h \
+ external/srec/srec/include/hmm_desc.h \
+ external/srec/srec/include/creccons.h external/srec/srec/include/sizes.h \
+ external/srec/srec/include/utteranc.h \
+ external/srec/srec/include/fpi_tgt.h bionic/libc/include/stdlib.h \
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+ bionic/libc/include/memory.h external/srec/srec/include/voicing.h \
+ external/srec/srec/include/channorm.h \
+ external/srec/srec/include/swicms.h \
+ external/srec/srec/include/fronttyp.h \
+ external/srec/srec/include/hmmlib.h \
+ external/srec/shared/include/ESR_Locale.h \
+ external/srec/shared/include/ESR_SharedPrefix.h \
+ external/srec/srec/include/search_network.h \
+ external/srec/srec/include/srec_context.h \
+ external/srec/srec/include/srec_arb.h external/srec/srec/include/astar.h \
+ external/srec/srec/include/portable.h \
+ external/srec/portable/include/pmemory.h \
+ external/srec/portable/include/PFileSystem.h \
+ external/srec/portable/include/plog.h \
+ external/srec/portable/include/passert.h \
+ external/srec/portable/include/PFileSystem.h \
+ external/srec/portable/include/phashtable.h \
+ external/srec/srec/include/srec_eosd.h \
+ external/srec/srec/include/srec_context.h \
+ external/srec/srec/include/word_lattice.h \
+ external/srec/srec/include/srec.h external/srec/srec/include/portable.h \
+ external/srec/srec/ca/../crec/srec_stats.h \
+ external/srec/srec/include/astar.h \
+ external/srec/srec/ca/../crec/astar_pphash.h
+ external/srec/srec/ca/../crec/astar.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/srec/portable/include/pstdio.h bionic/libc/include/stdio.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h :
+ external/srec/portable/include/PortPrefix.h :
+ external/srec/portable/include/PortExport.h :
+ external/srec/portable/include/ptypes.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/include/ctype.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/time.h :
+ bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h :
+ bionic/libc/kernel/arch-arm/asm/siginfo.h :
+ bionic/libc/kernel/common/asm-generic/siginfo.h :
+ bionic/libc/include/errno.h bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :
+ bionic/libc/include/pthread.h bionic/libc/include/signal.h :
+ bionic/libc/kernel/arch-arm/asm/signal.h :
+ bionic/libc/kernel/common/asm-generic/signal.h :
+ bionic/libc/include/sched.h bionic/libc/include/unistd.h :
+ bionic/libc/include/sys/select.h bionic/libc/include/sys/sysconf.h :
+ bionic/libc/kernel/common/linux/capability.h :
+ bionic/libc/include/pathconf.h :
+ external/srec/portable/include/ESR_ReturnCode.h :
+ external/srec/portable/include/pstdio.h :
+ external/srec/portable/include/PFile.h :
+ external/srec/portable/include/passert.h bionic/libc/include/assert.h :
+ external/srec/srec/include/srec_sizes.h :
+ external/srec/srec/include/search_network.h :
+ external/srec/srec/include/srec_sizes.h :
+ external/srec/srec/include/srec.h external/srec/srec/include/swimodel.h :
+ external/srec/srec/include/hmm_type.h bionic/libm/include/math.h :
+ external/srec/srec/include/all_defs.h :
+ external/srec/portable/include/ptypes.h :
+ external/srec/srec/include/setting.h :
+ external/srec/srec/include/buildopt.h :
+ external/srec/srec/include/pre_desc.h :
+ external/srec/srec/include/specnorm.h :
+ external/srec/srec/include/duk_io.h external/srec/srec/include/duk_err.h :
+ external/srec/portable/include/PortExport.h :
+ external/srec/srec/include/hmm_desc.h :
+ external/srec/srec/include/creccons.h external/srec/srec/include/sizes.h :
+ external/srec/srec/include/utteranc.h :
+ external/srec/srec/include/fpi_tgt.h bionic/libc/include/stdlib.h :
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+ bionic/libc/include/memory.h external/srec/srec/include/voicing.h :
+ external/srec/srec/include/channorm.h :
+ external/srec/srec/include/swicms.h :
+ external/srec/srec/include/fronttyp.h :
+ external/srec/srec/include/hmmlib.h :
+ external/srec/shared/include/ESR_Locale.h :
+ external/srec/shared/include/ESR_SharedPrefix.h :
+ external/srec/srec/include/search_network.h :
+ external/srec/srec/include/srec_context.h :
+ external/srec/srec/include/srec_arb.h external/srec/srec/include/astar.h :
+ external/srec/srec/include/portable.h :
+ external/srec/portable/include/pmemory.h :
+ external/srec/portable/include/PFileSystem.h :
+ external/srec/portable/include/plog.h :
+ external/srec/portable/include/passert.h :
+ external/srec/portable/include/PFileSystem.h :
+ external/srec/portable/include/phashtable.h :
+ external/srec/srec/include/srec_eosd.h :
+ external/srec/srec/include/srec_context.h :
+ external/srec/srec/include/word_lattice.h :
+ external/srec/srec/include/srec.h external/srec/srec/include/portable.h :
+ external/srec/srec/ca/../crec/srec_stats.h :
+ external/srec/srec/include/astar.h :
+ external/srec/srec/ca/../crec/astar_pphash.h :

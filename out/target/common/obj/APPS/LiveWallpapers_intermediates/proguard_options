@@ -1,0 +1,30 @@
+# view AndroidManifest.xml #generated:59
+-keep class com.android.wallpaper.fall.Fall { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.android.wallpaper.fall.FallWallpaper { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.android.wallpaper.galaxy.Galaxy { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.android.wallpaper.galaxy.GalaxyWallpaper { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.android.wallpaper.grass.Grass { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.android.wallpaper.grass.GrassWallpaper { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.android.wallpaper.nexus.NexusSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.android.wallpaper.nexus.NexusWallpaper { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class com.android.wallpaper.polarclock.PolarClockSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:125
+-keep class com.android.wallpaper.polarclock.PolarClockWallpaper { <init>(...); }
+

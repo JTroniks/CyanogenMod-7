@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/EXECUTABLES/linker_intermediates/arch/arm/begin.o: \
+ bionic/linker/arch/arm/begin.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ bionic/linker/arch/arm/begin.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

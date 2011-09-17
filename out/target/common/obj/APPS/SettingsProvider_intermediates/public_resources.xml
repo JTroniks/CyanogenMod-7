@@ -1,0 +1,141 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/ic_launcher_settings.png:0 -->
+  <!-- Declared at res/drawable-hdpi/ic_launcher_settings.png:0 -->
+  <public type="drawable" name="ic_launcher_settings" id="0x7f020000" />
+
+  <!-- Declared at res/xml/bookmarks.xml:0 -->
+  <public type="xml" name="bookmarks" id="0x7f030000" />
+
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:20 -->
+  <public type="bool" name="def_dim_screen" id="0x7f040000" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:22 -->
+  <public type="bool" name="def_airplane_mode_on" id="0x7f040001" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:26 -->
+  <public type="bool" name="def_auto_time" id="0x7f040002" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:27 -->
+  <public type="bool" name="def_accelerometer_rotation" id="0x7f040003" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:30 -->
+  <public type="bool" name="def_screen_brightness_automatic_mode" id="0x7f040004" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:33 -->
+  <public type="bool" name="def_haptic_feedback" id="0x7f040005" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:35 -->
+  <public type="bool" name="def_bluetooth_on" id="0x7f040006" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:36 -->
+  <public type="bool" name="def_install_non_market_apps" id="0x7f040007" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:42 -->
+  <public type="bool" name="assisted_gps_enabled" id="0x7f040008" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:45 -->
+  <public type="bool" name="def_usb_mass_storage_enabled" id="0x7f040009" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:46 -->
+  <public type="bool" name="def_wifi_on" id="0x7f04000a" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:47 -->
+  <public type="bool" name="def_networks_available_notification_on" id="0x7f04000b" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:49 -->
+  <public type="bool" name="def_backup_enabled" id="0x7f04000c" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:54 -->
+  <public type="bool" name="def_notification_pulse" id="0x7f04000d" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:56 -->
+  <public type="bool" name="def_mount_play_notification_snd" id="0x7f04000e" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:57 -->
+  <public type="bool" name="def_mount_ums_autostart" id="0x7f04000f" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:58 -->
+  <public type="bool" name="def_mount_ums_prompt" id="0x7f040010" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:59 -->
+  <public type="bool" name="def_mount_ums_notify_enabled" id="0x7f040011" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:74 -->
+  <public type="bool" name="def_notifications_use_ring_volume" id="0x7f040012" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:77 -->
+  <public type="bool" name="def_vibrate_in_silent" id="0x7f040013" />
+
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:21 -->
+  <public type="integer" name="def_screen_off_timeout" id="0x7f050000" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:29 -->
+  <public type="integer" name="def_screen_brightness" id="0x7f050001" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:44 -->
+  <public type="integer" name="def_network_preference" id="0x7f050002" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:62 -->
+  <public type="integer" name="def_power_sounds_enabled" id="0x7f050003" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:64 -->
+  <public type="integer" name="def_dock_sounds_enabled" id="0x7f050004" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:69 -->
+  <public type="integer" name="def_lockscreen_sounds_enabled" id="0x7f050005" />
+
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:24 -->
+  <public type="string" name="def_airplane_mode_radios" id="0x7f060000" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:25 -->
+  <public type="string" name="airplane_mode_toggleable_radios" id="0x7f060001" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:41 -->
+  <public type="string" name="def_location_providers_allowed" id="0x7f060002" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:50 -->
+  <public type="string" name="def_backup_transport" id="0x7f060003" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:63 -->
+  <public type="string" name="def_low_battery_sound" id="0x7f060004" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:65 -->
+  <public type="string" name="def_desk_dock_sound" id="0x7f060005" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:66 -->
+  <public type="string" name="def_desk_undock_sound" id="0x7f060006" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:67 -->
+  <public type="string" name="def_car_dock_sound" id="0x7f060007" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:68 -->
+  <public type="string" name="def_car_undock_sound" id="0x7f060008" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:70 -->
+  <public type="string" name="def_lock_sound" id="0x7f060009" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:71 -->
+  <public type="string" name="def_unlock_sound" id="0x7f06000a" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/strings.xml:21 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-ca/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-da/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-fa/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-ja/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-nb/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-de/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-bg/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-th/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-fi/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-vi/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-sk/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-uk/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-el/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-nl/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-pl/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-sl/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-tl/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-rm/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-in/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-ko/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-ro/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-ar/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-fr/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-hr/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-sr/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-tr/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-cs/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-es/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-it/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-lt/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-pt/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-hu/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-ru/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-lv/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-sv/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-iw/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-en-rGB/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-zh-rCN/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-es-rUS/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-pt-rPT/strings.xml:22 -->
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values-zh-rTW/strings.xml:22 -->
+  <public type="string" name="app_label" id="0x7f06000b" />
+
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:31 -->
+  <public type="fraction" name="def_window_animation_scale" id="0x7f070000" />
+  <!-- Declared at frameworks/base/packages/SettingsProvider/res/values/defaults.xml:32 -->
+  <public type="fraction" name="def_window_transition_scale" id="0x7f070001" />
+
+</resources>

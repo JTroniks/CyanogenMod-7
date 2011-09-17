@@ -1,0 +1,25 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/app_global_time.png:0 -->
+  <!-- Declared at res/drawable-hdpi/app_global_time.png:0 -->
+  <public type="drawable" name="app_global_time" id="0x7f020000" />
+
+  <!-- Declared at res/layout/global_time.xml:0 -->
+  <public type="layout" name="global_time" id="0x7f030000" />
+
+  <!-- Declared at development/samples/GlobalTime/res/values/strings.xml:22 -->
+  <public type="string" name="global_time_text_text" id="0x7f040000" />
+
+  <!-- Declared at development/samples/GlobalTime/res/values/styles.xml:21 -->
+  <public type="style" name="Theme" id="0x7f050000" />
+
+  <!-- Declared at development/samples/GlobalTime/res/layout/global_time.xml:17 -->
+  <public type="id" name="text" id="0x7f060000" />
+
+</resources>

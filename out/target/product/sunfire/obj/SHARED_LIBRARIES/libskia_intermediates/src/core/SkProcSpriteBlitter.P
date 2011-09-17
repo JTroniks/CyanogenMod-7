@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libskia_intermediates/src/core/SkProcSpriteBlitter.o: \
+ external/skia/src/core/SkProcSpriteBlitter.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/skia/src/core/SkProcSpriteBlitter.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

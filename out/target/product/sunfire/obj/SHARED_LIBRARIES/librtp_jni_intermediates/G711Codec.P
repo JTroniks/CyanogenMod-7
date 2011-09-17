@@ -1,0 +1,13 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/librtp_jni_intermediates/G711Codec.o: \
+ frameworks/base/voip/jni/rtp/G711Codec.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/voip/jni/rtp/AudioCodec.h bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h
+ frameworks/base/voip/jni/rtp/G711Codec.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/voip/jni/rtp/AudioCodec.h bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :

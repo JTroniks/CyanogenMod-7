@@ -1,0 +1,53 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at packages/apps/Phone/tests/res/values/strings.xml:18 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-ca/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-da/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-fa/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-ja/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-nb/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-de/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-bg/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-th/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-fi/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-vi/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-sk/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-uk/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-el/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-nl/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-pl/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-sl/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-tl/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-rm/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-in/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-ko/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-ro/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-ar/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-fr/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-hr/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-sr/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-tr/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-cs/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-es/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-it/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-lt/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-pt/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-hu/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-ru/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-lv/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-sv/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-iw/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-en-rGB/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-zh-rCN/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-es-rUS/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-pt-rPT/strings.xml:19 -->
+  <!-- Declared at packages/apps/Phone/tests/res/values-zh-rTW/strings.xml:19 -->
+  <public type="string" name="app_name" id="0x7f020000" />
+
+</resources>

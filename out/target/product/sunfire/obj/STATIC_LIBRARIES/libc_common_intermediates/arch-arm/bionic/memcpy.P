@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libc_common_intermediates/arch-arm/bionic/memcpy.o: \
+ bionic/libc/arch-arm/bionic/memcpy.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/arch-arm/include/machine/cpu-features.h
+ bionic/libc/arch-arm/bionic/memcpy.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/arch-arm/include/machine/cpu-features.h :

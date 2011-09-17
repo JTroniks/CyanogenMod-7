@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:25
+-keep class com.example.android.wiktionary.LookupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.example.android.wiktionary.WordWidget { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.example.android.wiktionary.WordWidget$UpdateService { <init>(...); }
+

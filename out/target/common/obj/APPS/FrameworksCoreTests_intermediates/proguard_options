@@ -1,0 +1,515 @@
+# view AndroidManifest.xml #generated:1027
+-keep class android.accessibilityservice.AccessibilityTestService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1213
+-keep class android.app.SuggestionProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:947
+-keep class android.app.TranslucentFancyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1093
+-keep class android.app.activity.AbortReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1077
+-keep class android.app.activity.ClearTop { <init>(...); }
+
+# view AndroidManifest.xml #generated:1088
+-keep class android.app.activity.LaunchpadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1090
+-keep class android.app.activity.LaunchpadTabActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1064
+-keep class android.app.activity.LocalActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1125
+-keep class android.app.activity.LocalDeniedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1163
+-keep class android.app.activity.LocalDeniedService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1080
+-keep class android.app.activity.LocalDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:1119
+-keep class android.app.activity.LocalGrantedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1169
+-keep class android.app.activity.LocalGrantedService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1176
+-keep class android.app.activity.LocalProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:1098
+-keep class android.app.activity.LocalReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1075
+-keep class android.app.activity.LocalScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:1152
+-keep class android.app.activity.LocalService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1146
+-keep class android.app.activity.RemoteDeniedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1140
+-keep class android.app.activity.RemoteGrantedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1131
+-keep class android.app.activity.RemoteReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1085
+-keep class android.app.activity.RemoteSubActivityScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:1114
+-keep class android.app.activity.ResultReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:1203
+-keep class android.app.activity.SearchableActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1083
+-keep class android.app.activity.SubActivityScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:1061
+-keep class android.app.activity.TestedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1072
+-keep class android.app.activity.TestedScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:1223
+-keep class android.bluetooth.BluetoothTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:1187
+-keep class android.content.MemoryFileProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:1198
+-keep class android.os.BinderThreadPriorityService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1012
+-keep class android.os.BrightnessLimit { <init>(...); }
+
+# view AndroidManifest.xml #generated:1194
+-keep class android.os.MessengerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:1219
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class android.test.TestBrowserTests { <init>(...); }
+
+# view AndroidManifest.xml #generated:462
+-keep class android.view.BigCache { <init>(...); }
+
+# view AndroidManifest.xml #generated:926
+-keep class android.view.BitmapDrawable { <init>(...); }
+
+# view AndroidManifest.xml #generated:476
+-keep class android.view.Disabled { <init>(...); }
+
+# view AndroidManifest.xml #generated:933
+-keep class android.view.DrawableBgMinSize { <init>(...); }
+
+# view AndroidManifest.xml #generated:497
+-keep class android.view.GlobalFocusChange { <init>(...); }
+
+# view AndroidManifest.xml #generated:420
+-keep class android.view.Include { <init>(...); }
+
+# view res/layout/layout_one.xml #generated:20
+# view res/layout/layout_tag.xml #generated:20
+# view res/layout/layout_three.xml #generated:21
+# view res/layout/layout_three.xml #generated:22
+# view res/layout/layout_three.xml #generated:23
+# view res/layout/layout_three.xml #generated:24
+# view res/layout/layout_three.xml #generated:25
+# view res/layout/layout_three.xml #generated:26
+# view res/layout/layout_two.xml #generated:21
+-keep class android.view.InflateTest$ViewOne { <init>(...); }
+
+# view AndroidManifest.xml #generated:954
+-keep class android.view.Longpress { <init>(...); }
+
+# view AndroidManifest.xml #generated:427
+-keep class android.view.Merge { <init>(...); }
+
+# view AndroidManifest.xml #generated:940
+-keep class android.view.MutateDrawable { <init>(...); }
+
+# view AndroidManifest.xml #generated:483
+-keep class android.view.PopupWindowVisibility { <init>(...); }
+
+# view AndroidManifest.xml #generated:490
+-keep class android.view.PreDrawListener { <init>(...); }
+
+# view res/layout/pre_draw_listener.xml #generated:29
+-keep class android.view.PreDrawListener$MyLinearLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:919
+-keep class android.view.RemoteViewsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:441
+-keep class android.view.RunQueue { <init>(...); }
+
+# view AndroidManifest.xml #generated:434
+-keep class android.view.StubbedView { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class android.view.ViewAttachTestActivity { <init>(...); }
+
+# view res/layout/attach_view_test.xml #generated:7
+-keep class android.view.ViewAttachView { <init>(...); }
+
+# view AndroidManifest.xml #generated:912
+-keep class android.view.ViewGroupChildren { <init>(...); }
+
+# view AndroidManifest.xml #generated:448
+-keep class android.view.Visibility { <init>(...); }
+
+# view AndroidManifest.xml #generated:455
+-keep class android.view.VisibilityCallback { <init>(...); }
+
+# view res/layout/visibility_callback.xml #generated:43
+-keep class android.view.VisibilityCallback$MonitoredTextView { <init>(...); }
+
+# view AndroidManifest.xml #generated:469
+-keep class android.view.ZeroSized { <init>(...); }
+
+# view AndroidManifest.xml #generated:905
+-keep class android.view.menu.ListContextMenu { <init>(...); }
+
+# view AndroidManifest.xml #generated:990
+-keep class android.view.menu.MenuLayoutLandscape { <init>(...); }
+
+# view AndroidManifest.xml #generated:975
+-keep class android.view.menu.MenuWith1Item { <init>(...); }
+
+# view AndroidManifest.xml #generated:1019
+-keep class android.widget.AutoCompleteTextViewSimple { <init>(...); }
+
+# view AndroidManifest.xml #generated:1033
+-keep class android.widget.RadioGroupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:1005
+-keep class android.widget.expandablelistview.ExpandableListSimple { <init>(...); }
+
+# view AndroidManifest.xml #generated:961
+-keep class android.widget.expandablelistview.ExpandableListWithHeaders { <init>(...); }
+
+# view AndroidManifest.xml #generated:998
+-keep class android.widget.expandablelistview.InflatedExpandableListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:196
+-keep class android.widget.focus.AdjacentVerticalRectLists { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class android.widget.focus.DescendantFocusability { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class android.widget.focus.FocusAfterRemoval { <init>(...); }
+
+# view AndroidManifest.xml #generated:203
+-keep class android.widget.focus.GoneParentFocusedChild { <init>(...); }
+
+# view AndroidManifest.xml #generated:182
+-keep class android.widget.focus.HorizontalFocusSearch { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class android.widget.focus.LinearLayoutGrid { <init>(...); }
+
+# view AndroidManifest.xml #generated:140
+-keep class android.widget.focus.ListOfButtons { <init>(...); }
+
+# view AndroidManifest.xml #generated:154
+-keep class android.widget.focus.ListOfEditTexts { <init>(...); }
+
+# view AndroidManifest.xml #generated:161
+-keep class android.widget.focus.ListOfInternalSelectionViews { <init>(...); }
+
+# view AndroidManifest.xml #generated:168
+-keep class android.widget.focus.ListWithFooterViewAndNewLabels { <init>(...); }
+
+# view AndroidManifest.xml #generated:175
+-keep class android.widget.focus.ListWithMailMessages { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class android.widget.focus.RequestFocus { <init>(...); }
+
+# view AndroidManifest.xml #generated:189
+-keep class android.widget.focus.VerticalFocusSearch { <init>(...); }
+
+# view AndroidManifest.xml #generated:835
+-keep class android.widget.gridview.GridDelete { <init>(...); }
+
+# view AndroidManifest.xml #generated:793
+-keep class android.widget.gridview.GridInHorizontal { <init>(...); }
+
+# view AndroidManifest.xml #generated:807
+-keep class android.widget.gridview.GridInVertical { <init>(...); }
+
+# view AndroidManifest.xml #generated:800
+-keep class android.widget.gridview.GridPadding { <init>(...); }
+
+# view AndroidManifest.xml #generated:814
+-keep class android.widget.gridview.GridScrollListener { <init>(...); }
+
+# view AndroidManifest.xml #generated:842
+-keep class android.widget.gridview.GridSetSelection { <init>(...); }
+
+# view AndroidManifest.xml #generated:849
+-keep class android.widget.gridview.GridSetSelectionMany { <init>(...); }
+
+# view AndroidManifest.xml #generated:856
+-keep class android.widget.gridview.GridSetSelectionStackFromBottom { <init>(...); }
+
+# view AndroidManifest.xml #generated:863
+-keep class android.widget.gridview.GridSetSelectionStackFromBottomMany { <init>(...); }
+
+# view AndroidManifest.xml #generated:828
+-keep class android.widget.gridview.GridSimple { <init>(...); }
+
+# view AndroidManifest.xml #generated:898
+-keep class android.widget.gridview.GridSingleColumn { <init>(...); }
+
+# view AndroidManifest.xml #generated:870
+-keep class android.widget.gridview.GridStackFromBottom { <init>(...); }
+
+# view AndroidManifest.xml #generated:877
+-keep class android.widget.gridview.GridStackFromBottomMany { <init>(...); }
+
+# view AndroidManifest.xml #generated:821
+-keep class android.widget.gridview.GridThrasher { <init>(...); }
+
+# view AndroidManifest.xml #generated:884
+-keep class android.widget.gridview.GridVerticalSpacing { <init>(...); }
+
+# view AndroidManifest.xml #generated:891
+-keep class android.widget.gridview.GridVerticalSpacingStackFromBottom { <init>(...); }
+
+# view AndroidManifest.xml #generated:210
+-keep class android.widget.layout.frame.FrameLayoutGravity { <init>(...); }
+
+# view AndroidManifest.xml #generated:217
+-keep class android.widget.layout.frame.FrameLayoutMargin { <init>(...); }
+
+# view AndroidManifest.xml #generated:224
+-keep class android.widget.layout.linear.BaselineAlignmentCenterGravity { <init>(...); }
+
+# view AndroidManifest.xml #generated:245
+-keep class android.widget.layout.linear.BaselineAlignmentZeroWidthAndWeight { <init>(...); }
+
+# view AndroidManifest.xml #generated:231
+-keep class android.widget.layout.linear.BaselineButtons { <init>(...); }
+
+# view res/layout/baseline_0width_and_weight.xml #generated:29
+-keep class android.widget.layout.linear.ExceptionTextView { <init>(...); }
+
+# view AndroidManifest.xml #generated:238
+-keep class android.widget.layout.linear.FillInWrap { <init>(...); }
+
+# view AndroidManifest.xml #generated:252
+-keep class android.widget.layout.linear.HorizontalOrientationVerticalAlignment { <init>(...); }
+
+# view AndroidManifest.xml #generated:259
+-keep class android.widget.layout.linear.LLEditTextThenButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:266
+-keep class android.widget.layout.linear.LLOfButtons1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:280
+-keep class android.widget.layout.linear.LLOfButtons2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:287
+-keep class android.widget.layout.linear.LLOfTwoFocusableInTouchMode { <init>(...); }
+
+# view AndroidManifest.xml #generated:273
+-keep class android.widget.layout.linear.LinearLayoutEditTexts { <init>(...); }
+
+# view AndroidManifest.xml #generated:294
+-keep class android.widget.layout.linear.Weight { <init>(...); }
+
+# view AndroidManifest.xml #generated:301
+-keep class android.widget.layout.linear.WeightSum { <init>(...); }
+
+# view AndroidManifest.xml #generated:357
+-keep class android.widget.layout.table.AddColumn { <init>(...); }
+
+# view AndroidManifest.xml #generated:364
+-keep class android.widget.layout.table.CellSpan { <init>(...); }
+
+# view AndroidManifest.xml #generated:329
+-keep class android.widget.layout.table.FixedWidth { <init>(...); }
+
+# view AndroidManifest.xml #generated:343
+-keep class android.widget.layout.table.HorizontalGravity { <init>(...); }
+
+# view AndroidManifest.xml #generated:350
+-keep class android.widget.layout.table.VerticalGravity { <init>(...); }
+
+# view AndroidManifest.xml #generated:336
+-keep class android.widget.layout.table.Weight { <init>(...); }
+
+# view AndroidManifest.xml #generated:308
+-keep class android.widget.listview.AdjacentListsWithAdjacentISVsInside { <init>(...); }
+
+# view AndroidManifest.xml #generated:546
+-keep class android.widget.listview.ListBottomGravity { <init>(...); }
+
+# view AndroidManifest.xml #generated:553
+-keep class android.widget.listview.ListBottomGravityMany { <init>(...); }
+
+# view AndroidManifest.xml #generated:561
+-keep class android.widget.listview.ListButtonsDiagonalAcrossItems { <init>(...); }
+
+# view AndroidManifest.xml #generated:315
+-keep class android.widget.listview.ListDividers { <init>(...); }
+
+# view AndroidManifest.xml #generated:582
+-keep class android.widget.listview.ListEndingWithMultipleSeparators { <init>(...); }
+
+# view AndroidManifest.xml #generated:518
+-keep class android.widget.listview.ListFilter { <init>(...); }
+
+# view AndroidManifest.xml #generated:589
+-keep class android.widget.listview.ListGetSelectedView { <init>(...); }
+
+# view AndroidManifest.xml #generated:765
+-keep class android.widget.listview.ListHeterogeneous { <init>(...); }
+
+# view AndroidManifest.xml #generated:772
+-keep class android.widget.listview.ListHorizontalFocusWithinItemWins { <init>(...); }
+
+# view AndroidManifest.xml #generated:596
+-keep class android.widget.listview.ListInHorizontal { <init>(...); }
+
+# view AndroidManifest.xml #generated:603
+-keep class android.widget.listview.ListInVertical { <init>(...); }
+
+# view AndroidManifest.xml #generated:610
+-keep class android.widget.listview.ListInterleaveFocusables { <init>(...); }
+
+# view AndroidManifest.xml #generated:709
+-keep class android.widget.listview.ListItemFocusableAboveUnfocusable { <init>(...); }
+
+# view AndroidManifest.xml #generated:716
+-keep class android.widget.listview.ListItemFocusablesClose { <init>(...); }
+
+# view AndroidManifest.xml #generated:702
+-keep class android.widget.listview.ListItemFocusablesFarApart { <init>(...); }
+
+# view AndroidManifest.xml #generated:744
+-keep class android.widget.listview.ListItemISVAndButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:730
+-keep class android.widget.listview.ListItemsExpandOnSelection { <init>(...); }
+
+# view AndroidManifest.xml #generated:723
+-keep class android.widget.listview.ListLastItemPartiallyVisible { <init>(...); }
+
+# view AndroidManifest.xml #generated:779
+-keep class android.widget.listview.ListManagedCursor { <init>(...); }
+
+# view AndroidManifest.xml #generated:617
+-keep class android.widget.listview.ListOfItemsShorterThanScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:624
+-keep class android.widget.listview.ListOfItemsTallerThanScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:645
+-keep class android.widget.listview.ListOfShortShortTallShortShort { <init>(...); }
+
+# view AndroidManifest.xml #generated:638
+-keep class android.widget.listview.ListOfShortTallShort { <init>(...); }
+
+# view AndroidManifest.xml #generated:631
+-keep class android.widget.listview.ListOfThinItems { <init>(...); }
+
+# view AndroidManifest.xml #generated:751
+-keep class android.widget.listview.ListOfTouchables { <init>(...); }
+
+# view AndroidManifest.xml #generated:758
+-keep class android.widget.listview.ListRecyclerProfiling { <init>(...); }
+
+# view AndroidManifest.xml #generated:525
+-keep class android.widget.listview.ListScrollListener { <init>(...); }
+
+# view AndroidManifest.xml #generated:504
+-keep class android.widget.listview.ListSetSelection { <init>(...); }
+
+# view AndroidManifest.xml #generated:511
+-keep class android.widget.listview.ListSimple { <init>(...); }
+
+# view AndroidManifest.xml #generated:539
+-keep class android.widget.listview.ListTakeFocusFromSide { <init>(...); }
+
+# view AndroidManifest.xml #generated:532
+-keep class android.widget.listview.ListThrasher { <init>(...); }
+
+# view AndroidManifest.xml #generated:568
+-keep class android.widget.listview.ListTopGravity { <init>(...); }
+
+# view AndroidManifest.xml #generated:575
+-keep class android.widget.listview.ListTopGravityMany { <init>(...); }
+
+# view AndroidManifest.xml #generated:322
+-keep class android.widget.listview.ListViewHeight { <init>(...); }
+
+# view AndroidManifest.xml #generated:968
+-keep class android.widget.listview.ListWithDisappearingItemBug { <init>(...); }
+
+# view AndroidManifest.xml #generated:681
+-keep class android.widget.listview.ListWithEditTextHeader { <init>(...); }
+
+# view AndroidManifest.xml #generated:786
+-keep class android.widget.listview.ListWithEmptyView { <init>(...); }
+
+# view AndroidManifest.xml #generated:659
+-keep class android.widget.listview.ListWithFirstScreenUnSelectable { <init>(...); }
+
+# view AndroidManifest.xml #generated:674
+-keep class android.widget.listview.ListWithHeaders { <init>(...); }
+
+# view AndroidManifest.xml #generated:688
+-keep class android.widget.listview.ListWithNoFadingEdge { <init>(...); }
+
+# view AndroidManifest.xml #generated:652
+-keep class android.widget.listview.ListWithOffScreenNextSelectable { <init>(...); }
+
+# view AndroidManifest.xml #generated:737
+-keep class android.widget.listview.ListWithOnItemSelectedAction { <init>(...); }
+
+# view AndroidManifest.xml #generated:695
+-keep class android.widget.listview.ListWithScreenOfNoSelectables { <init>(...); }
+
+# view AndroidManifest.xml #generated:667
+-keep class android.widget.listview.ListWithSeparators { <init>(...); }
+
+# view AndroidManifest.xml #generated:371
+-keep class android.widget.scroll.ButtonAboveTallInternalSelectionView { <init>(...); }
+
+# view AndroidManifest.xml #generated:378
+-keep class android.widget.scroll.ButtonsWithTallTextViewInBetween { <init>(...); }
+
+# view AndroidManifest.xml #generated:385
+-keep class android.widget.scroll.RequestRectangleVisible { <init>(...); }
+
+# view AndroidManifest.xml #generated:392
+-keep class android.widget.scroll.RequestRectangleVisibleWithInternalScroll { <init>(...); }
+
+# view AndroidManifest.xml #generated:399
+-keep class android.widget.scroll.ScrollViewButtonsAndLabels { <init>(...); }
+
+# view AndroidManifest.xml #generated:406
+-keep class android.widget.scroll.ShortButtons { <init>(...); }
+
+# view AndroidManifest.xml #generated:413
+-keep class android.widget.scroll.TallTextAboveButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:1052
+-keep class com.android.frameworks.coretests.AndroidPerformanceTests { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.android.frameworks.coretests.StubTestBrowserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:982
+-keep class com.android.frameworks.coretests.menus.MenuLayoutPortrait { <init>(...); }
+

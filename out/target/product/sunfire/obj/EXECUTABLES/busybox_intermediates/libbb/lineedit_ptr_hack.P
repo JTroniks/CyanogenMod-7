@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/EXECUTABLES/busybox_intermediates/libbb/lineedit_ptr_hack.o: \
+ external/busybox/libbb/lineedit_ptr_hack.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/busybox/include-full/autoconf.h
+ external/busybox/libbb/lineedit_ptr_hack.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/busybox/include-full/autoconf.h :

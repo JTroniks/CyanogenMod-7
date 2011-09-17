@@ -1,0 +1,27 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libcrypto_intermediates/modes/ctr128.o: \
+ external/openssl/crypto/modes/ctr128.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/openssl/include/openssl/modes.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/string.h /usr/include/features.h \
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h /usr/include/xlocale.h \
+ /usr/include/bits/string.h /usr/include/bits/string2.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/stdlib.h \
+ /usr/include/assert.h
+ external/openssl/crypto/modes/ctr128.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/openssl/include/openssl/modes.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/string.h /usr/include/features.h :
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h :
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+ /usr/include/gnu/stubs-32.h /usr/include/xlocale.h :
+ /usr/include/bits/string.h /usr/include/bits/string2.h :
+ /usr/include/endian.h /usr/include/bits/endian.h :
+ /usr/include/bits/byteswap.h /usr/include/bits/types.h :
+ /usr/include/bits/typesizes.h /usr/include/stdlib.h :
+ /usr/include/assert.h :

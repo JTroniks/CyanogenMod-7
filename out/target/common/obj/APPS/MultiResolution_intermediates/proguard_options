@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:30
+-keep class com.example.android.multires.MultiRes { <init>(...); }
+

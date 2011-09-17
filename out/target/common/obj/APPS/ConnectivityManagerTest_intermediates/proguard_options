@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:61
+-keep class com.android.connectivitymanagertest.ConnectivityManagerStressTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.android.connectivitymanagertest.ConnectivityManagerTestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.android.connectivitymanagertest.ConnectivityManagerTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.android.connectivitymanagertest.ConnectivityManagerUnitTestRunner { <init>(...); }
+

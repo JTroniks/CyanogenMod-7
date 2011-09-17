@@ -1,0 +1,17 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libfdlibm-host_intermediates/w_scalb.o: \
+ external/fdlibm/w_scalb.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/fdlibm/fdlibm.h /usr/include/errno.h /usr/include/features.h \
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h /usr/include/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h
+ external/fdlibm/w_scalb.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/fdlibm/fdlibm.h /usr/include/errno.h /usr/include/features.h :
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h :
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+ /usr/include/gnu/stubs-32.h /usr/include/bits/errno.h :
+ /usr/include/linux/errno.h /usr/include/asm/errno.h :
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h :

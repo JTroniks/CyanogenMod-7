@@ -1,0 +1,191 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libbluetoothd_intermediates/plugin.o: \
+ external/bluetooth/bluez/src/plugin.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/errno.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h \
+ bionic/libc/include/dlfcn.h bionic/libc/include/string.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/malloc.h bionic/libc/include/sys/stat.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/sys/time.h \
+ bionic/libc/kernel/common/linux/time.h \
+ bionic/libc/kernel/common/linux/stat.h \
+ bionic/libc/arch-arm/include/endian.h bionic/libc/include/sys/endian.h \
+ external/bluetooth/bluez/src/../lib/bluetooth/bluetooth.h \
+ bionic/libc/include/stdio.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ bionic/libc/include/byteswap.h external/bluetooth/glib/glib.h \
+ external/bluetooth/glib/glib/galloca.h \
+ external/bluetooth/glib/glib/gtypes.h \
+ external/bluetooth/glib/glibconfig.h \
+ external/bluetooth/glib/glib/gmacros.h bionic/libc/include/limits.h \
+ bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/float.h \
+ external/bluetooth/glib/glib/garray.h \
+ external/bluetooth/glib/glib/gasyncqueue.h \
+ external/bluetooth/glib/glib/gthread.h \
+ external/bluetooth/glib/glib/gerror.h \
+ external/bluetooth/glib/glib/gquark.h \
+ external/bluetooth/glib/glib/gutils.h \
+ external/bluetooth/glib/glib/gatomic.h \
+ external/bluetooth/glib/glib/gbacktrace.h bionic/libc/include/signal.h \
+ bionic/libc/kernel/arch-arm/asm/signal.h \
+ bionic/libc/kernel/common/asm-generic/signal.h \
+ bionic/libc/kernel/arch-arm/asm/siginfo.h \
+ bionic/libc/kernel/common/asm-generic/siginfo.h \
+ external/bluetooth/glib/glib/gbase64.h \
+ external/bluetooth/glib/glib/gbookmarkfile.h bionic/libc/include/time.h \
+ external/bluetooth/glib/glib/gcache.h \
+ external/bluetooth/glib/glib/glist.h external/bluetooth/glib/glib/gmem.h \
+ external/bluetooth/glib/glib/gslice.h \
+ external/bluetooth/glib/glib/gchecksum.h \
+ external/bluetooth/glib/glib/gcompletion.h \
+ external/bluetooth/glib/glib/gconvert.h \
+ external/bluetooth/glib/glib/gdataset.h \
+ external/bluetooth/glib/glib/gdate.h external/bluetooth/glib/glib/gdir.h \
+ external/bluetooth/glib/glib/gfileutils.h \
+ external/bluetooth/glib/glib/ghash.h \
+ external/bluetooth/glib/glib/ghook.h \
+ external/bluetooth/glib/glib/giochannel.h \
+ external/bluetooth/glib/glib/gmain.h \
+ external/bluetooth/glib/glib/gpoll.h \
+ external/bluetooth/glib/glib/gslist.h \
+ external/bluetooth/glib/glib/gstring.h \
+ external/bluetooth/glib/glib/gunicode.h \
+ external/bluetooth/glib/glib/gkeyfile.h \
+ external/bluetooth/glib/glib/gmappedfile.h \
+ external/bluetooth/glib/glib/gmarkup.h \
+ external/bluetooth/glib/glib/gmessages.h \
+ external/bluetooth/glib/glib/gnode.h \
+ external/bluetooth/glib/glib/goption.h \
+ external/bluetooth/glib/glib/gpattern.h \
+ external/bluetooth/glib/glib/gprimes.h \
+ external/bluetooth/glib/glib/gqsort.h \
+ external/bluetooth/glib/glib/gqueue.h \
+ external/bluetooth/glib/glib/grand.h external/bluetooth/glib/glib/grel.h \
+ external/bluetooth/glib/glib/gregex.h \
+ external/bluetooth/glib/glib/gscanner.h \
+ external/bluetooth/glib/glib/gsequence.h \
+ external/bluetooth/glib/glib/gshell.h \
+ external/bluetooth/glib/glib/gspawn.h \
+ external/bluetooth/glib/glib/gstrfuncs.h \
+ external/bluetooth/glib/glib/gtestutils.h \
+ external/bluetooth/glib/glib/gthreadpool.h \
+ external/bluetooth/glib/glib/gtimer.h \
+ external/bluetooth/glib/glib/gtree.h \
+ external/bluetooth/glib/glib/gurifuncs.h \
+ external/bluetooth/bluez/src/plugin.h external/bluetooth/bluez/src/log.h \
+ external/bluetooth/bluez/src/hcid.h external/bluetooth/bluez/src/btio.h \
+ external/bluetooth/bluez/src/../plugins/builtin.h
+ external/bluetooth/bluez/src/plugin.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/errno.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :
+ bionic/libc/include/dlfcn.h bionic/libc/include/string.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/malloc.h bionic/libc/include/sys/stat.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/sys/time.h :
+ bionic/libc/kernel/common/linux/time.h :
+ bionic/libc/kernel/common/linux/stat.h :
+ bionic/libc/arch-arm/include/endian.h bionic/libc/include/sys/endian.h :
+ external/bluetooth/bluez/src/../lib/bluetooth/bluetooth.h :
+ bionic/libc/include/stdio.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ bionic/libc/include/byteswap.h external/bluetooth/glib/glib.h :
+ external/bluetooth/glib/glib/galloca.h :
+ external/bluetooth/glib/glib/gtypes.h :
+ external/bluetooth/glib/glibconfig.h :
+ external/bluetooth/glib/glib/gmacros.h bionic/libc/include/limits.h :
+ bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/float.h :
+ external/bluetooth/glib/glib/garray.h :
+ external/bluetooth/glib/glib/gasyncqueue.h :
+ external/bluetooth/glib/glib/gthread.h :
+ external/bluetooth/glib/glib/gerror.h :
+ external/bluetooth/glib/glib/gquark.h :
+ external/bluetooth/glib/glib/gutils.h :
+ external/bluetooth/glib/glib/gatomic.h :
+ external/bluetooth/glib/glib/gbacktrace.h bionic/libc/include/signal.h :
+ bionic/libc/kernel/arch-arm/asm/signal.h :
+ bionic/libc/kernel/common/asm-generic/signal.h :
+ bionic/libc/kernel/arch-arm/asm/siginfo.h :
+ bionic/libc/kernel/common/asm-generic/siginfo.h :
+ external/bluetooth/glib/glib/gbase64.h :
+ external/bluetooth/glib/glib/gbookmarkfile.h bionic/libc/include/time.h :
+ external/bluetooth/glib/glib/gcache.h :
+ external/bluetooth/glib/glib/glist.h external/bluetooth/glib/glib/gmem.h :
+ external/bluetooth/glib/glib/gslice.h :
+ external/bluetooth/glib/glib/gchecksum.h :
+ external/bluetooth/glib/glib/gcompletion.h :
+ external/bluetooth/glib/glib/gconvert.h :
+ external/bluetooth/glib/glib/gdataset.h :
+ external/bluetooth/glib/glib/gdate.h external/bluetooth/glib/glib/gdir.h :
+ external/bluetooth/glib/glib/gfileutils.h :
+ external/bluetooth/glib/glib/ghash.h :
+ external/bluetooth/glib/glib/ghook.h :
+ external/bluetooth/glib/glib/giochannel.h :
+ external/bluetooth/glib/glib/gmain.h :
+ external/bluetooth/glib/glib/gpoll.h :
+ external/bluetooth/glib/glib/gslist.h :
+ external/bluetooth/glib/glib/gstring.h :
+ external/bluetooth/glib/glib/gunicode.h :
+ external/bluetooth/glib/glib/gkeyfile.h :
+ external/bluetooth/glib/glib/gmappedfile.h :
+ external/bluetooth/glib/glib/gmarkup.h :
+ external/bluetooth/glib/glib/gmessages.h :
+ external/bluetooth/glib/glib/gnode.h :
+ external/bluetooth/glib/glib/goption.h :
+ external/bluetooth/glib/glib/gpattern.h :
+ external/bluetooth/glib/glib/gprimes.h :
+ external/bluetooth/glib/glib/gqsort.h :
+ external/bluetooth/glib/glib/gqueue.h :
+ external/bluetooth/glib/glib/grand.h external/bluetooth/glib/glib/grel.h :
+ external/bluetooth/glib/glib/gregex.h :
+ external/bluetooth/glib/glib/gscanner.h :
+ external/bluetooth/glib/glib/gsequence.h :
+ external/bluetooth/glib/glib/gshell.h :
+ external/bluetooth/glib/glib/gspawn.h :
+ external/bluetooth/glib/glib/gstrfuncs.h :
+ external/bluetooth/glib/glib/gtestutils.h :
+ external/bluetooth/glib/glib/gthreadpool.h :
+ external/bluetooth/glib/glib/gtimer.h :
+ external/bluetooth/glib/glib/gtree.h :
+ external/bluetooth/glib/glib/gurifuncs.h :
+ external/bluetooth/bluez/src/plugin.h external/bluetooth/bluez/src/log.h :
+ external/bluetooth/bluez/src/hcid.h external/bluetooth/bluez/src/btio.h :
+ external/bluetooth/bluez/src/../plugins/builtin.h :

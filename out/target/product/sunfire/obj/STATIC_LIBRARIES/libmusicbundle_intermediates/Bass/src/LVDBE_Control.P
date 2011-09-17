@@ -1,0 +1,25 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/Bass/src/LVDBE_Control.o: \
+ frameworks/base/media/libeffects/lvm/lib/Bass/src/LVDBE_Control.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/Bass/lib/LVDBE.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Bass/src/LVDBE_Private.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/BIQUAD.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/AGC.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/VectorArithmetic.h \
+ frameworks/base/media/libeffects/lvm/lib/Bass/src/LVDBE_Coeffs.h \
+ frameworks/base/media/libeffects/lvm/lib/Bass/src/LVDBE_Tables.h
+ frameworks/base/media/libeffects/lvm/lib/Bass/src/LVDBE_Control.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/Bass/lib/LVDBE.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Bass/src/LVDBE_Private.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/BIQUAD.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/src/LVC_Mixer.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/AGC.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/VectorArithmetic.h :
+ frameworks/base/media/libeffects/lvm/lib/Bass/src/LVDBE_Coeffs.h :
+ frameworks/base/media/libeffects/lvm/lib/Bass/src/LVDBE_Tables.h :

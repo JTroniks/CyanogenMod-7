@@ -1,0 +1,199 @@
+out/target/product/sunfire/obj/EXECUTABLES/sftp-server_intermediates/sftp-server-main.o: \
+ external/dropbear/sftp-server/sftp-server-main.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/dropbear/sftp-server/includes.h \
+ external/dropbear/sftp-server/config.h bionic/libc/include/sys/types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/sys/socket.h \
+ bionic/libc/kernel/common/linux/socket.h \
+ bionic/libc/kernel/arch-arm/asm/socket.h \
+ bionic/libc/kernel/arch-arm/asm/sockios.h \
+ bionic/libc/kernel/common/linux/sockios.h \
+ bionic/libc/kernel/common/linux/uio.h bionic/libc/include/limits.h \
+ bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/common/linux/limits.h \
+ bionic/libc/arch-arm/include/machine/internal_types.h \
+ bionic/libc/arch-arm/include/machine/limits.h \
+ bionic/libc/include/sys/syslimits.h \
+ bionic/libc/arch-arm/include/endian.h bionic/libc/include/sys/endian.h \
+ bionic/libc/include/utime.h bionic/libc/kernel/common/linux/utime.h \
+ bionic/libc/include/paths.h bionic/libc/include/strings.h \
+ bionic/libc/include/lastlog.h bionic/libc/include/sys/select.h \
+ bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h \
+ bionic/libc/include/signal.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/kernel/arch-arm/asm/signal.h \
+ bionic/libc/kernel/common/asm-generic/signal.h \
+ bionic/libc/kernel/arch-arm/asm/siginfo.h \
+ bionic/libc/kernel/common/asm-generic/siginfo.h \
+ bionic/libc/include/termios.h bionic/libc/include/sys/ioctl.h \
+ bionic/libc/kernel/common/linux/ioctl.h \
+ bionic/libc/kernel/arch-arm/asm/ioctl.h \
+ bionic/libc/kernel/common/asm-generic/ioctl.h \
+ bionic/libc/kernel/arch-arm/asm/ioctls.h \
+ bionic/libc/kernel/arch-arm/asm/termbits.h \
+ bionic/libc/include/sys/ioctl_compat.h \
+ bionic/libc/kernel/common/linux/termios.h \
+ bionic/libc/kernel/arch-arm/asm/termios.h bionic/libc/include/sys/stat.h \
+ bionic/libc/kernel/common/linux/stat.h bionic/libc/include/sys/mman.h \
+ bionic/libc/kernel/arch-arm/asm/mman.h \
+ bionic/libc/kernel/common/asm-generic/mman.h \
+ bionic/libc/kernel/arch-arm/asm/page.h bionic/libc/include/netinet/in.h \
+ bionic/libc/kernel/common/linux/in.h \
+ bionic/libc/kernel/arch-arm/asm/byteorder.h \
+ bionic/libc/kernel/common/linux/byteorder/little_endian.h \
+ bionic/libc/kernel/common/linux/byteorder/swab.h \
+ bionic/libc/kernel/common/linux/byteorder/generic.h \
+ bionic/libc/kernel/common/linux/in6.h bionic/libc/include/netinet/in6.h \
+ bionic/libc/include/netinet/in_systm.h bionic/libc/include/errno.h \
+ bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h \
+ external/dropbear/sftp-server/openssl/opensslv.h \
+ external/dropbear/sftp-server/defines.h \
+ external/dropbear/sftp-server/platform.h \
+ external/dropbear/sftp-server/openbsd-compat/openbsd-compat.h \
+ external/dropbear/sftp-server/includes.h bionic/libc/include/pwd.h \
+ external/dropbear/sftp-server/openbsd-compat/base64.h \
+ external/dropbear/sftp-server/openbsd-compat/sigact.h \
+ external/dropbear/sftp-server/openbsd-compat/glob.h \
+ external/dropbear/sftp-server/openbsd-compat/readpassphrase.h \
+ external/dropbear/sftp-server/openbsd-compat/vis.h \
+ external/dropbear/sftp-server/openbsd-compat/getrrsetbyname.h \
+ bionic/libc/include/arpa/nameser.h bionic/libc/include/netdb.h \
+ bionic/libc/include/resolv.h bionic/libc/include/sys/param.h \
+ bionic/libc/kernel/common/linux/param.h \
+ bionic/libc/kernel/arch-arm/asm/param.h bionic/libc/include/stdio.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ external/dropbear/sftp-server/openbsd-compat/sha2.h \
+ external/dropbear/sftp-server/openbsd-compat/bsd-misc.h \
+ external/dropbear/sftp-server/openbsd-compat/bsd-statvfs.h \
+ external/dropbear/sftp-server/openbsd-compat/bsd-waitpid.h \
+ external/dropbear/sftp-server/openbsd-compat/bsd-poll.h \
+ external/dropbear/sftp-server/openbsd-compat/fake-rfc2553.h \
+ external/dropbear/sftp-server/openbsd-compat/bsd-cray.h \
+ external/dropbear/sftp-server/openbsd-compat/bsd-cygwin_util.h \
+ external/dropbear/sftp-server/openbsd-compat/port-aix.h \
+ external/dropbear/sftp-server/openbsd-compat/port-irix.h \
+ external/dropbear/sftp-server/openbsd-compat/port-linux.h \
+ external/dropbear/sftp-server/openbsd-compat/port-solaris.h \
+ external/dropbear/sftp-server/openbsd-compat/port-tun.h \
+ external/dropbear/sftp-server/openbsd-compat/port-uw.h \
+ external/dropbear/sftp-server/openbsd-compat/bsd-nextstep.h \
+ external/dropbear/sftp-server/entropy.h \
+ external/dropbear/sftp-server/buffer.h \
+ external/dropbear/sftp-server/openssl/bn.h bionic/libc/include/unistd.h \
+ bionic/libc/include/sys/sysconf.h \
+ bionic/libc/kernel/common/linux/capability.h \
+ bionic/libc/include/pathconf.h external/dropbear/sftp-server/log.h \
+ external/dropbear/sftp-server/sftp.h \
+ external/dropbear/sftp-server/misc.h
+ external/dropbear/sftp-server/sftp-server-main.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/dropbear/sftp-server/includes.h :
+ external/dropbear/sftp-server/config.h bionic/libc/include/sys/types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/sys/socket.h :
+ bionic/libc/kernel/common/linux/socket.h :
+ bionic/libc/kernel/arch-arm/asm/socket.h :
+ bionic/libc/kernel/arch-arm/asm/sockios.h :
+ bionic/libc/kernel/common/linux/sockios.h :
+ bionic/libc/kernel/common/linux/uio.h bionic/libc/include/limits.h :
+ bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/common/linux/limits.h :
+ bionic/libc/arch-arm/include/machine/internal_types.h :
+ bionic/libc/arch-arm/include/machine/limits.h :
+ bionic/libc/include/sys/syslimits.h :
+ bionic/libc/arch-arm/include/endian.h bionic/libc/include/sys/endian.h :
+ bionic/libc/include/utime.h bionic/libc/kernel/common/linux/utime.h :
+ bionic/libc/include/paths.h bionic/libc/include/strings.h :
+ bionic/libc/include/lastlog.h bionic/libc/include/sys/select.h :
+ bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h :
+ bionic/libc/include/signal.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/kernel/arch-arm/asm/signal.h :
+ bionic/libc/kernel/common/asm-generic/signal.h :
+ bionic/libc/kernel/arch-arm/asm/siginfo.h :
+ bionic/libc/kernel/common/asm-generic/siginfo.h :
+ bionic/libc/include/termios.h bionic/libc/include/sys/ioctl.h :
+ bionic/libc/kernel/common/linux/ioctl.h :
+ bionic/libc/kernel/arch-arm/asm/ioctl.h :
+ bionic/libc/kernel/common/asm-generic/ioctl.h :
+ bionic/libc/kernel/arch-arm/asm/ioctls.h :
+ bionic/libc/kernel/arch-arm/asm/termbits.h :
+ bionic/libc/include/sys/ioctl_compat.h :
+ bionic/libc/kernel/common/linux/termios.h :
+ bionic/libc/kernel/arch-arm/asm/termios.h bionic/libc/include/sys/stat.h :
+ bionic/libc/kernel/common/linux/stat.h bionic/libc/include/sys/mman.h :
+ bionic/libc/kernel/arch-arm/asm/mman.h :
+ bionic/libc/kernel/common/asm-generic/mman.h :
+ bionic/libc/kernel/arch-arm/asm/page.h bionic/libc/include/netinet/in.h :
+ bionic/libc/kernel/common/linux/in.h :
+ bionic/libc/kernel/arch-arm/asm/byteorder.h :
+ bionic/libc/kernel/common/linux/byteorder/little_endian.h :
+ bionic/libc/kernel/common/linux/byteorder/swab.h :
+ bionic/libc/kernel/common/linux/byteorder/generic.h :
+ bionic/libc/kernel/common/linux/in6.h bionic/libc/include/netinet/in6.h :
+ bionic/libc/include/netinet/in_systm.h bionic/libc/include/errno.h :
+ bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :
+ external/dropbear/sftp-server/openssl/opensslv.h :
+ external/dropbear/sftp-server/defines.h :
+ external/dropbear/sftp-server/platform.h :
+ external/dropbear/sftp-server/openbsd-compat/openbsd-compat.h :
+ external/dropbear/sftp-server/includes.h bionic/libc/include/pwd.h :
+ external/dropbear/sftp-server/openbsd-compat/base64.h :
+ external/dropbear/sftp-server/openbsd-compat/sigact.h :
+ external/dropbear/sftp-server/openbsd-compat/glob.h :
+ external/dropbear/sftp-server/openbsd-compat/readpassphrase.h :
+ external/dropbear/sftp-server/openbsd-compat/vis.h :
+ external/dropbear/sftp-server/openbsd-compat/getrrsetbyname.h :
+ bionic/libc/include/arpa/nameser.h bionic/libc/include/netdb.h :
+ bionic/libc/include/resolv.h bionic/libc/include/sys/param.h :
+ bionic/libc/kernel/common/linux/param.h :
+ bionic/libc/kernel/arch-arm/asm/param.h bionic/libc/include/stdio.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ external/dropbear/sftp-server/openbsd-compat/sha2.h :
+ external/dropbear/sftp-server/openbsd-compat/bsd-misc.h :
+ external/dropbear/sftp-server/openbsd-compat/bsd-statvfs.h :
+ external/dropbear/sftp-server/openbsd-compat/bsd-waitpid.h :
+ external/dropbear/sftp-server/openbsd-compat/bsd-poll.h :
+ external/dropbear/sftp-server/openbsd-compat/fake-rfc2553.h :
+ external/dropbear/sftp-server/openbsd-compat/bsd-cray.h :
+ external/dropbear/sftp-server/openbsd-compat/bsd-cygwin_util.h :
+ external/dropbear/sftp-server/openbsd-compat/port-aix.h :
+ external/dropbear/sftp-server/openbsd-compat/port-irix.h :
+ external/dropbear/sftp-server/openbsd-compat/port-linux.h :
+ external/dropbear/sftp-server/openbsd-compat/port-solaris.h :
+ external/dropbear/sftp-server/openbsd-compat/port-tun.h :
+ external/dropbear/sftp-server/openbsd-compat/port-uw.h :
+ external/dropbear/sftp-server/openbsd-compat/bsd-nextstep.h :
+ external/dropbear/sftp-server/entropy.h :
+ external/dropbear/sftp-server/buffer.h :
+ external/dropbear/sftp-server/openssl/bn.h bionic/libc/include/unistd.h :
+ bionic/libc/include/sys/sysconf.h :
+ bionic/libc/kernel/common/linux/capability.h :
+ bionic/libc/include/pathconf.h external/dropbear/sftp-server/log.h :
+ external/dropbear/sftp-server/sftp.h :
+ external/dropbear/sftp-server/misc.h :

@@ -1,0 +1,5 @@
+out/target/common/obj/APPS/Email_intermediates/src/src/com/android/email/service/IEmailService.java: \
+  packages/apps/Email/src/com/android/email/service/IEmailService.aidl \
+  packages/apps/Email/src/com/android/email/service/IEmailServiceCallback.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl 
+

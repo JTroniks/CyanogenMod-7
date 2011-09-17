@@ -1,0 +1,63 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libsampleplugin_intermediates/PluginObject.o: \
+ development/samples/BrowserPlugin/jni/PluginObject.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/stdlib.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/string.h bionic/libc/include/malloc.h \
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h \
+ development/samples/BrowserPlugin/jni/main.h \
+ external/webkit/WebCore/bridge/npapi.h \
+ external/webkit/WebCore/plugins/npfunctions.h \
+ external/webkit/WebCore/bridge/npruntime.h \
+ external/webkit/WebCore/bridge/npapi.h \
+ external/webkit/WebKit/android/plugins/android_npapi.h \
+ external/webkit/WebKit/android/plugins/ANPKeyCodes.h \
+ external/webkit/WebKit/android/plugins/ANPSurface_npapi.h \
+ external/webkit/WebKit/android/plugins/android_npapi.h \
+ dalvik/libnativehelper/include/nativehelper/jni.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ external/webkit/WebKit/android/plugins/ANPSystem_npapi.h \
+ development/samples/BrowserPlugin/jni/PluginObject.h
+ development/samples/BrowserPlugin/jni/PluginObject.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/stdlib.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/string.h bionic/libc/include/malloc.h :
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h :
+ development/samples/BrowserPlugin/jni/main.h :
+ external/webkit/WebCore/bridge/npapi.h :
+ external/webkit/WebCore/plugins/npfunctions.h :
+ external/webkit/WebCore/bridge/npruntime.h :
+ external/webkit/WebCore/bridge/npapi.h :
+ external/webkit/WebKit/android/plugins/android_npapi.h :
+ external/webkit/WebKit/android/plugins/ANPKeyCodes.h :
+ external/webkit/WebKit/android/plugins/ANPSurface_npapi.h :
+ external/webkit/WebKit/android/plugins/android_npapi.h :
+ dalvik/libnativehelper/include/nativehelper/jni.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ external/webkit/WebKit/android/plugins/ANPSystem_npapi.h :
+ development/samples/BrowserPlugin/jni/PluginObject.h :

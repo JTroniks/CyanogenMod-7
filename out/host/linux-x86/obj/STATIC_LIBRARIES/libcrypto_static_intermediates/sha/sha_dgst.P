@@ -1,0 +1,7 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libcrypto_static_intermediates/sha/sha_dgst.o: \
+ external/openssl/crypto/sha/sha_dgst.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/openssl/include/openssl/opensslconf.h
+ external/openssl/crypto/sha/sha_dgst.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/openssl/include/openssl/opensslconf.h :

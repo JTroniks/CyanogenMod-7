@@ -1,0 +1,24 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/business_card.xml:0 -->
+  <public type="layout" name="business_card" id="0x7f020000" />
+
+  <!-- Declared at development/samples/BusinessCard/res/values/strings.xml:21 -->
+  <public type="string" name="businesscard_app" id="0x7f030000" />
+  <!-- Declared at development/samples/BusinessCard/res/values/strings.xml:22 -->
+  <public type="string" name="button_pick_contact" id="0x7f030001" />
+
+  <!-- Declared at development/samples/BusinessCard/res/layout/business_card.xml:6 -->
+  <public type="id" name="pick_contact_button" id="0x7f040000" />
+  <!-- Declared at development/samples/BusinessCard/res/layout/business_card.xml:13 -->
+  <public type="id" name="display_name_text_view" id="0x7f040001" />
+  <!-- Declared at development/samples/BusinessCard/res/layout/business_card.xml:19 -->
+  <public type="id" name="phone_number_text_view" id="0x7f040002" />
+
+</resources>

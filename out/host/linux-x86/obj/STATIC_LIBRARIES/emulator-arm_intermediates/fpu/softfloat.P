@@ -1,0 +1,23 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/emulator-arm_intermediates/fpu/softfloat.o: \
+ external/qemu/fpu/softfloat.c external/qemu/fpu/softfloat.h \
+ /usr/include/inttypes.h /usr/include/features.h \
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ external/qemu/android/config/config.h \
+ external/qemu/android/config/linux-x86/config-host.h \
+ external/qemu/fpu/softfloat-macros.h \
+ external/qemu/fpu/softfloat-specialize.h
+ external/qemu/fpu/softfloat.c external/qemu/fpu/softfloat.h :
+ /usr/include/inttypes.h /usr/include/features.h :
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h :
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+ /usr/include/gnu/stubs-32.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/bits/wchar.h :
+ external/qemu/android/config/config.h :
+ external/qemu/android/config/linux-x86/config-host.h :
+ external/qemu/fpu/softfloat-macros.h :
+ external/qemu/fpu/softfloat-specialize.h :

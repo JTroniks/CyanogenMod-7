@@ -1,0 +1,41 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/icon.png:0 -->
+  <!-- Declared at res/drawable-hdpi/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020000" />
+
+  <!-- Declared at res/layout/widget.xml:0 -->
+  <public type="layout" name="widget" id="0x7f030000" />
+
+  <!-- Declared at res/xml/widget_build.xml:0 -->
+  <public type="xml" name="widget_build" id="0x7f040000" />
+
+  <!-- Declared at development/apps/BuildWidget/res/values/colors.xml:3 -->
+  <public type="color" name="droidgreen" id="0x7f050000" />
+
+  <!-- Declared at development/apps/BuildWidget/res/values/strings.xml:18 -->
+  <public type="string" name="app_name" id="0x7f060000" />
+  <!-- Declared at development/apps/BuildWidget/res/values/strings.xml:19 -->
+  <public type="string" name="widget_name" id="0x7f060001" />
+
+  <!-- Declared at development/apps/BuildWidget/res/values/styles.xml:3 -->
+  <public type="style" name="Text" id="0x7f070000" />
+  <!-- Declared at development/apps/BuildWidget/res/values/styles.xml:5 -->
+  <public type="style" name="Text.BuildInfo" id="0x7f070001" />
+  <!-- Declared at development/apps/BuildWidget/res/values/styles.xml:16 -->
+  <public type="style" name="Text.BuildInfo.Fancy" id="0x7f070002" />
+
+  <!-- Declared at development/apps/BuildWidget/res/layout/widget.xml:17 -->
+  <public type="id" name="widget" id="0x7f080000" />
+  <!-- Declared at development/apps/BuildWidget/res/layout/widget.xml:25 -->
+  <public type="id" name="build_info" id="0x7f080001" />
+  <!-- Declared at development/apps/BuildWidget/res/layout/widget.xml:34 -->
+  <public type="id" name="build_changelist" id="0x7f080002" />
+
+</resources>

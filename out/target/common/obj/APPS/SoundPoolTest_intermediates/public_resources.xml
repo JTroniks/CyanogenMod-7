@@ -1,0 +1,24 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/raw/organ441.ogg:0 -->
+  <public type="raw" name="organ441" id="0x7f020000" />
+  <!-- Declared at res/raw/sine441.ogg:0 -->
+  <public type="raw" name="sine441" id="0x7f020001" />
+  <!-- Declared at res/raw/test1.mp3:0 -->
+  <public type="raw" name="test1" id="0x7f020002" />
+  <!-- Declared at res/raw/test2.ogg:0 -->
+  <public type="raw" name="test2" id="0x7f020003" />
+  <!-- Declared at res/raw/test3.ogg:0 -->
+  <public type="raw" name="test3" id="0x7f020004" />
+  <!-- Declared at res/raw/test4.ogg:0 -->
+  <public type="raw" name="test4" id="0x7f020005" />
+  <!-- Declared at res/raw/test5.ogg:0 -->
+  <public type="raw" name="test5" id="0x7f020006" />
+
+</resources>

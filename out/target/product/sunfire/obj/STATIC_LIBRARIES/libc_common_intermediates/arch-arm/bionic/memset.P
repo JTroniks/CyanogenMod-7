@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libc_common_intermediates/arch-arm/bionic/memset.o: \
+ bionic/libc/arch-arm/bionic/memset.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ bionic/libc/arch-arm/bionic/memset.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

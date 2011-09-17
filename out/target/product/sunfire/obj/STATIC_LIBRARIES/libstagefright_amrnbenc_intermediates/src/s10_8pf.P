@@ -1,0 +1,27 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_amrnbenc_intermediates/src/s10_8pf.o: \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/src/s10_8pf.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/malloc.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/src/s10_8pf.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/basicop_malloc.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/typedef.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/gsm_amr_typedefs.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/cnst.h
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/src/s10_8pf.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/malloc.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/src/s10_8pf.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/basicop_malloc.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/typedef.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/gsm_amr_typedefs.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/enc/../common/include/cnst.h :

@@ -1,0 +1,4 @@
+out/target/common/obj/APPS/FrameworksCoreTests_intermediates/src/src/android/os/IAidlTest.java: \
+  frameworks/base/core/tests/coretests/src/android/os/IAidlTest.aidl \
+  frameworks/base/core/tests/coretests/src/android/os/AidlTest.aidl 
+

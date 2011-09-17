@@ -1,0 +1,63 @@
+out/target/product/sunfire/obj/EXECUTABLES/dhdutil_intermediates/shared/bcmutils.o: \
+ hardware/broadcom/wlan/bcm4329/src/shared/bcmutils.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ hardware/broadcom/wlan/bcm4329/src/include/typedefs.h \
+ bionic/libc/include/sys/types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h \
+ hardware/broadcom/wlan/bcm4329/src/include/bcmdefs.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ hardware/broadcom/wlan/bcm4329/src/include/bcmutils.h \
+ bionic/libc/include/stdio.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h \
+ hardware/broadcom/wlan/bcm4329/src/include/bcmendian.h \
+ hardware/broadcom/wlan/bcm4329/src/include/bcmdevs.h \
+ hardware/broadcom/wlan/bcm4329/src/include/proto/ethernet.h \
+ hardware/broadcom/wlan/bcm4329/src/include/packed_section_start.h \
+ hardware/broadcom/wlan/bcm4329/src/include/packed_section_end.h \
+ hardware/broadcom/wlan/bcm4329/src/include/proto/vlan.h \
+ hardware/broadcom/wlan/bcm4329/src/include/proto/bcmip.h \
+ hardware/broadcom/wlan/bcm4329/src/include/proto/802.1d.h \
+ hardware/broadcom/wlan/bcm4329/src/include/proto/802.11.h \
+ hardware/broadcom/wlan/bcm4329/src/include/proto/wpa.h
+ hardware/broadcom/wlan/bcm4329/src/shared/bcmutils.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ hardware/broadcom/wlan/bcm4329/src/include/typedefs.h :
+ bionic/libc/include/sys/types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h :
+ hardware/broadcom/wlan/bcm4329/src/include/bcmdefs.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ hardware/broadcom/wlan/bcm4329/src/include/bcmutils.h :
+ bionic/libc/include/stdio.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h :
+ hardware/broadcom/wlan/bcm4329/src/include/bcmendian.h :
+ hardware/broadcom/wlan/bcm4329/src/include/bcmdevs.h :
+ hardware/broadcom/wlan/bcm4329/src/include/proto/ethernet.h :
+ hardware/broadcom/wlan/bcm4329/src/include/packed_section_start.h :
+ hardware/broadcom/wlan/bcm4329/src/include/packed_section_end.h :
+ hardware/broadcom/wlan/bcm4329/src/include/proto/vlan.h :
+ hardware/broadcom/wlan/bcm4329/src/include/proto/bcmip.h :
+ hardware/broadcom/wlan/bcm4329/src/include/proto/802.1d.h :
+ hardware/broadcom/wlan/bcm4329/src/include/proto/802.11.h :
+ hardware/broadcom/wlan/bcm4329/src/include/proto/wpa.h :

@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libboot_board_dream_sapphire_combined_intermediates/usb.o: \
+ device/htc/dream_sapphire/boot/usb.c \
+ bootable/bootloader/legacy/include/boot/boot.h
+ device/htc/dream_sapphire/boot/usb.c :
+ bootable/bootloader/legacy/include/boot/boot.h :

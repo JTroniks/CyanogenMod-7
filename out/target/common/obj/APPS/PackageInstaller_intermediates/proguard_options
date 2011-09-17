@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:24
+-keep class com.android.packageinstaller.InstallAppProgress { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.android.packageinstaller.PackageInstallerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.android.packageinstaller.UninstallAppProgress { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.android.packageinstaller.UninstallerActivity { <init>(...); }
+

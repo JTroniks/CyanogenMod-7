@@ -1,0 +1,7 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libfdlibm-host_intermediates/w_j1.o: \
+ external/fdlibm/w_j1.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/fdlibm/fdlibm.h
+ external/fdlibm/w_j1.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/fdlibm/fdlibm.h :

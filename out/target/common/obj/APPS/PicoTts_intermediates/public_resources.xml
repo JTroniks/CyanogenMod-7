@@ -1,0 +1,74 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/main.xml:0 -->
+  <public type="layout" name="main" id="0x7f020000" />
+
+  <!-- Declared at res/xml/voices_list.xml:0 -->
+  <public type="xml" name="voices_list" id="0x7f030000" />
+
+  <!-- Declared at external/svox/pico/res/values/strings.xml:21 -->
+  <public type="string" name="app_name" id="0x7f040000" />
+  <!-- Declared at external/svox/pico/res/values/strings.xml:22 -->
+  <public type="string" name="eng_usa_sample" id="0x7f040001" />
+  <!-- Declared at external/svox/pico/res/values/strings.xml:23 -->
+  <public type="string" name="eng_gbr_sample" id="0x7f040002" />
+  <!-- Declared at external/svox/pico/res/values/strings.xml:24 -->
+  <public type="string" name="fra_fra_sample" id="0x7f040003" />
+  <!-- Declared at external/svox/pico/res/values/strings.xml:25 -->
+  <public type="string" name="deu_deu_sample" id="0x7f040004" />
+  <!-- Declared at external/svox/pico/res/values/strings.xml:26 -->
+  <public type="string" name="ita_ita_sample" id="0x7f040005" />
+  <!-- Declared at external/svox/pico/res/values/strings.xml:27 -->
+  <public type="string" name="spa_esp_sample" id="0x7f040006" />
+  <!-- Declared at external/svox/pico/res/values/strings.xml:28 -->
+  <!-- Declared at external/svox/pico/res/values-da/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-ja/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-nb/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-de/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-el/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-nl/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-pl/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-ko/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-fr/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-tr/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-cs/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-es/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-it/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-pt/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-ru/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-sv/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-zh-rCN/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-es-rUS/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-pt-rPT/strings.xml:21 -->
+  <!-- Declared at external/svox/pico/res/values-zh-rTW/strings.xml:21 -->
+  <public type="string" name="installed" id="0x7f040007" />
+  <!-- Declared at external/svox/pico/res/values/strings.xml:29 -->
+  <!-- Declared at external/svox/pico/res/values-da/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-ja/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-nb/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-de/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-el/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-nl/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-pl/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-ko/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-fr/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-tr/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-cs/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-es/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-it/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-pt/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-ru/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-sv/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-zh-rCN/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-es-rUS/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-pt-rPT/strings.xml:22 -->
+  <!-- Declared at external/svox/pico/res/values-zh-rTW/strings.xml:22 -->
+  <public type="string" name="not_installed" id="0x7f040008" />
+
+</resources>

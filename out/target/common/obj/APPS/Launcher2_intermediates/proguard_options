@@ -1,0 +1,74 @@
+# view res/layout-land/all_apps_2d.xml #generated:18
+# view res/layout-port/all_apps_2d.xml #generated:18
+-keep class com.android.launcher2.AllApps2D { <init>(...); }
+
+# view res/layout-land/all_apps_2d.xml #generated:46
+# view res/layout-port/all_apps_2d.xml #generated:47
+-keep class com.android.launcher2.AllApps2D$HomeButton { <init>(...); }
+
+# view res/layout/all_apps_3d.xml #generated:18
+-keep class com.android.launcher2.AllApps3D { <init>(...); }
+
+# view res/layout-land/application.xml #generated:17
+# view res/layout-port/application.xml #generated:17
+-keep class com.android.launcher2.BubbleTextView { <init>(...); }
+
+# view res/layout-land/workspace_screen.xml #generated:17
+# view res/layout-port/workspace_screen.xml #generated:17
+-keep class com.android.launcher2.CellLayout { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:44
+# view res/layout-land/launcher.xml #generated:61
+-keep class com.android.launcher2.ClippedImageView { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:78
+# view res/layout-port/launcher.xml #generated:72
+-keep class com.android.launcher2.DeleteZone { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:17
+# view res/layout-port/launcher.xml #generated:17
+-keep class com.android.launcher2.DragLayer { <init>(...); }
+
+# view res/layout-land/folder_icon.xml #generated:17
+# view res/layout-port/folder_icon.xml #generated:17
+-keep class com.android.launcher2.FolderIcon { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:100
+# view res/layout-port/launcher.xml #generated:93
+-keep class com.android.launcher2.HandleView { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class com.android.launcher2.InstallShortcutReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.android.launcher2.Launcher { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.android.launcher2.LauncherApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class com.android.launcher2.LauncherProvider { <init>(...); }
+
+# view res/layout-land/live_folder_grid.xml #generated:20
+# view res/layout-port/live_folder_grid.xml #generated:20
+# view res/layout/live_folder_list.xml #generated:20
+-keep class com.android.launcher2.LiveFolder { <init>(...); }
+
+# view res/layout-land/live_folder_icon.xml #generated:20
+# view res/layout-port/live_folder_icon.xml #generated:20
+-keep class com.android.launcher2.LiveFolderIcon { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class com.android.launcher2.UninstallShortcutReceiver { <init>(...); }
+
+# view res/layout-land/user_folder.xml #generated:17
+# view res/layout-port/user_folder.xml #generated:17
+-keep class com.android.launcher2.UserFolder { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.android.launcher2.WallpaperChooser { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:28
+# view res/layout-port/launcher.xml #generated:28
+-keep class com.android.launcher2.Workspace { <init>(...); }
+

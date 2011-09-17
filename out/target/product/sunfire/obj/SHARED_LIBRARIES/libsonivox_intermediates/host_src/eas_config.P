@@ -1,0 +1,11 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libsonivox_intermediates/host_src/eas_config.o: \
+ external/sonivox/arm-wt-22k/host_src/eas_config.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/sonivox/arm-wt-22k/host_src/eas.h \
+ external/sonivox/arm-wt-22k/host_src/eas_types.h \
+ external/sonivox/arm-wt-22k/host_src/eas_config.h
+ external/sonivox/arm-wt-22k/host_src/eas_config.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/sonivox/arm-wt-22k/host_src/eas.h :
+ external/sonivox/arm-wt-22k/host_src/eas_types.h :
+ external/sonivox/arm-wt-22k/host_src/eas_config.h :

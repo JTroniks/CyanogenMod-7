@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:40
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.android.settings.tests.BluetoothRequestPermissionTest { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.android.settings.tests.SettingsLaunchPerformance { <init>(...); }
+

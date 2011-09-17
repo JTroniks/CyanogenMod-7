@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:33
+-keep class com.cyanogenmod.ganoptimizer.GanOptimizer { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.cyanogenmod.ganoptimizer.GanStateReceiver { <init>(...); }
+

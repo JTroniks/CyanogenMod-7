@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libvpx_intermediates/vp8/common/swapyv12buffer.o: \
+ external/libvpx/vp8/common/swapyv12buffer.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/libvpx/vp8/common/swapyv12buffer.h \
+ external/libvpx/vpx_scale/yv12config.h
+ external/libvpx/vp8/common/swapyv12buffer.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/libvpx/vp8/common/swapyv12buffer.h :
+ external/libvpx/vpx_scale/yv12config.h :

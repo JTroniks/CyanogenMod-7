@@ -1,0 +1,5 @@
+out/host/linux-x86/obj/EXECUTABLES/mke2fs_host_intermediates/default_profile.o: \
+ external/e2fsprogs/misc/default_profile.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h
+ external/e2fsprogs/misc/default_profile.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :

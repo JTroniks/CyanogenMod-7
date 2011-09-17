@@ -1,0 +1,7 @@
+out/host/linux-x86/obj/EXECUTABLES/jdwpspy_intermediates/find_JdwpConstants.o: \
+ development/tools/jdwpspy/find_JdwpConstants.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ dalvik/vm/jdwp/JdwpConstants.c dalvik/vm/jdwp/JdwpConstants.h
+ development/tools/jdwpspy/find_JdwpConstants.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ dalvik/vm/jdwp/JdwpConstants.c dalvik/vm/jdwp/JdwpConstants.h :

@@ -1,0 +1,364 @@
+# view res/layout-land/choose_lock_pattern.xml #generated:17
+# view res/layout-land/confirm_lock_pattern.xml #generated:17
+# view res/layout/choose_lock_pattern.xml #generated:16
+# view res/layout/confirm_lock_pattern.xml #generated:16
+-keep class com.android.internal.widget.LinearLayoutWithDefaultTouchRecepient { <init>(...); }
+
+# view res/layout-land/choose_lock_pattern.xml #generated:86
+# view res/layout-land/confirm_lock_pattern.xml #generated:60
+# view res/layout/choose_lock_pattern.xml #generated:42
+# view res/layout/confirm_lock_pattern.xml #generated:35
+-keep class com.android.internal.widget.LockPatternView { <init>(...); }
+
+# view res/layout-land/choose_lock_password.xml #generated:71
+# view res/layout/choose_lock_password.xml #generated:68
+-keep class com.android.internal.widget.PasswordEntryKeyboardView { <init>(...); }
+
+# view AndroidManifest.xml #generated:538
+-keep class com.android.settings.AccessibilitySettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:751
+-keep class com.android.settings.ActivityPicker { <init>(...); }
+
+# view AndroidManifest.xml #generated:622
+-keep class com.android.settings.ApnEditor { <init>(...); }
+
+# view AndroidManifest.xml #generated:161
+-keep class com.android.settings.ApnSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:334
+-keep class com.android.settings.AppGroupConfig { <init>(...); }
+
+# view AndroidManifest.xml #generated:328
+-keep class com.android.settings.AppGroupList { <init>(...); }
+
+# view AndroidManifest.xml #generated:847
+-keep class com.android.settings.AppWidgetPickActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:396
+-keep class com.android.settings.ApplicationSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:822
+-keep class com.android.settings.BandMode { <init>(...); }
+
+# view AndroidManifest.xml #generated:781
+-keep class com.android.settings.BatteryInfo { <init>(...); }
+
+# view res/xml/display_settings.xml #generated:21
+-keep class com.android.settings.BrightnessPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:574
+-keep class com.android.settings.ChooseLockGeneric { <init>(...); }
+
+# view AndroidManifest.xml #generated:586
+-keep class com.android.settings.ChooseLockPassword { <init>(...); }
+
+# view AndroidManifest.xml #generated:581
+-keep class com.android.settings.ChooseLockPattern { <init>(...); }
+
+# view AndroidManifest.xml #generated:596
+-keep class com.android.settings.ChooseLockPatternExample { <init>(...); }
+
+# view AndroidManifest.xml #generated:592
+-keep class com.android.settings.ChooseLockPatternTutorial { <init>(...); }
+
+# view AndroidManifest.xml #generated:570
+-keep class com.android.settings.ConfirmLockPassword { <init>(...); }
+
+# view AndroidManifest.xml #generated:569
+-keep class com.android.settings.ConfirmLockPattern { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.android.settings.CreateShortcut { <init>(...); }
+
+# view AndroidManifest.xml #generated:484
+-keep class com.android.settings.CredentialInstaller { <init>(...); }
+
+# view AndroidManifest.xml #generated:222
+-keep class com.android.settings.DateTimeSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:232
+-keep class com.android.settings.DateTimeSettingsSetupWizard { <init>(...); }
+
+# view AndroidManifest.xml #generated:767
+-keep class com.android.settings.DebugIntentSender { <init>(...); }
+
+# view res/xml/sound_settings.xml #generated:51
+# view res/xml/sound_settings.xml #generated:64
+-keep class com.android.settings.DefaultRingtonePreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:666
+-keep class com.android.settings.DevelopmentSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:518
+-keep class com.android.settings.DeviceAdminAdd { <init>(...); }
+
+# view AndroidManifest.xml #generated:505
+-keep class com.android.settings.DeviceAdminSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:775
+-keep class com.android.settings.DeviceInfo$StatsReportReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:359
+-keep class com.android.settings.DeviceInfoSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:796
+-keep class com.android.settings.Display { <init>(...); }
+
+# view AndroidManifest.xml #generated:302
+-keep class com.android.settings.DisplaySettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:346
+-keep class com.android.settings.DockSettings { <init>(...); }
+
+# view res/xml/sim_lock_settings.xml #generated:26
+-keep class com.android.settings.EditPinPreference { <init>(...); }
+
+# view res/xml/development_prefs.xml #generated:46
+-keep class com.android.settings.HostnamePreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:529
+-keep class com.android.settings.IccLockSettings { <init>(...); }
+
+# view res/xml/settings.xml #generated:100
+# view res/xml/settings.xml #generated:112
+# view res/xml/settings.xml #generated:126
+# view res/xml/settings.xml #generated:135
+# view res/xml/settings.xml #generated:147
+# view res/xml/settings.xml #generated:157
+# view res/xml/settings.xml #generated:168
+# view res/xml/settings.xml #generated:179
+# view res/xml/settings.xml #generated:190
+# view res/xml/settings.xml #generated:202
+# view res/xml/settings.xml #generated:213
+# view res/xml/settings.xml #generated:23
+# view res/xml/settings.xml #generated:32
+# view res/xml/settings.xml #generated:43
+# view res/xml/settings.xml #generated:55
+# view res/xml/settings.xml #generated:67
+# view res/xml/settings.xml #generated:78
+# view res/xml/settings.xml #generated:89
+-keep class com.android.settings.IconPreferenceScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:254
+-keep class com.android.settings.LanguageSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:239
+-keep class com.android.settings.LocalePicker { <init>(...); }
+
+# view AndroidManifest.xml #generated:248
+-keep class com.android.settings.LocalePickerInSetupWizard { <init>(...); }
+
+# view AndroidManifest.xml #generated:637
+-keep class com.android.settings.MasterClear { <init>(...); }
+
+# view AndroidManifest.xml #generated:643
+-keep class com.android.settings.MediaFormat { <init>(...); }
+
+# view AndroidManifest.xml #generated:267
+-keep class com.android.settings.PhysicalKeyboardSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:492
+-keep class com.android.settings.PrivacySettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:340
+-keep class com.android.settings.ProfileConfig { <init>(...); }
+
+# view AndroidManifest.xml #generated:322
+-keep class com.android.settings.ProfileGroupConfig { <init>(...); }
+
+# view AndroidManifest.xml #generated:316
+-keep class com.android.settings.ProfileList { <init>(...); }
+
+# view res/xml/profile_settings.xml #generated:30
+# view res/xml/profile_settings.xml #generated:46
+-keep class com.android.settings.ProfileRingtonePreference { <init>(...); }
+
+# view res/xml/bluetooth_settings.xml #generated:56
+# view res/xml/device_picker.xml #generated:24
+# view res/xml/wifi_access_points.xml #generated:20
+# view res/xml/wifi_settings.xml #generated:33
+-keep class com.android.settings.ProgressCategory { <init>(...); }
+
+# view AndroidManifest.xml #generated:812
+-keep class com.android.settings.ProxySelector { <init>(...); }
+
+# view AndroidManifest.xml #generated:804
+-keep class com.android.settings.RadioInfo { <init>(...); }
+
+# view res/xml/sound_settings.xml #generated:39
+-keep class com.android.settings.RingerVolumePreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:468
+-keep class com.android.settings.SecuritySettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.android.settings.Settings { <init>(...); }
+
+# view AndroidManifest.xml #generated:378
+-keep class com.android.settings.SettingsCMLicenseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:369
+-keep class com.android.settings.SettingsLicenseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:387
+-keep class com.android.settings.SettingsSafetyLegalActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:288
+-keep class com.android.settings.SoundSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:832
+-keep class com.android.settings.TestingSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:839
+-keep class com.android.settings.TestingSettingsBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:190
+-keep class com.android.settings.TetherSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:559
+-keep class com.android.settings.TextToSpeechSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:857
+-keep class com.android.settings.UsageStats { <init>(...); }
+
+# view AndroidManifest.xml #generated:275
+-keep class com.android.settings.UserDictionarySettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:550
+-keep class com.android.settings.VoiceInputOutputSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.android.settings.WirelessSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:600
+-keep class com.android.settings.ZoneList { <init>(...); }
+
+# view AndroidManifest.xml #generated:427
+-keep class com.android.settings.applications.InstalledAppDetails { <init>(...); }
+
+# view res/layout/manage_applications.xml #generated:40
+# view res/layout/running_processes_view.xml #generated:38
+-keep class com.android.settings.applications.LinearColorBar { <init>(...); }
+
+# view AndroidManifest.xml #generated:406
+-keep class com.android.settings.applications.ManageApplications { <init>(...); }
+
+# view res/layout/manage_applications.xml #generated:83
+-keep class com.android.settings.applications.RunningProcessesView { <init>(...); }
+
+# view AndroidManifest.xml #generated:463
+-keep class com.android.settings.applications.RunningServiceDetails { <init>(...); }
+
+# view AndroidManifest.xml #generated:789
+-keep class com.android.settings.battery_history.BatteryHistory { <init>(...); }
+
+# view res/layout/battery_history.xml #generated:102
+# view res/layout/battery_history.xml #generated:111
+# view res/layout/battery_history.xml #generated:48
+# view res/layout/battery_history.xml #generated:57
+# view res/layout/battery_history.xml #generated:66
+# view res/layout/battery_history.xml #generated:75
+# view res/layout/battery_history.xml #generated:84
+# view res/layout/battery_history.xml #generated:93
+-keep class com.android.settings.battery_history.GraphableButton { <init>(...); }
+
+# view res/xml/bluetooth_settings.xml #generated:26
+-keep class com.android.settings.bluetooth.BluetoothNamePreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:683
+-keep class com.android.settings.bluetooth.BluetoothPairingDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:725
+-keep class com.android.settings.bluetooth.BluetoothPairingRequest { <init>(...); }
+
+# view AndroidManifest.xml #generated:739
+-keep class com.android.settings.bluetooth.BluetoothPermissionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:732
+-keep class com.android.settings.bluetooth.BluetoothPermissionRequest { <init>(...); }
+
+# view AndroidManifest.xml #generated:173
+-keep class com.android.settings.bluetooth.BluetoothSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:680
+-keep class com.android.settings.bluetooth.ConnectSpecificProfilesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:693
+-keep class com.android.settings.bluetooth.DockEventReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:704
+-keep class com.android.settings.bluetooth.DockService { <init>(...); }
+
+# view AndroidManifest.xml #generated:706
+-keep class com.android.settings.bluetooth.RequestPermissionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:718
+-keep class com.android.settings.bluetooth.RequestPermissionHelperActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:611
+-keep class com.android.settings.deviceinfo.Memory { <init>(...); }
+
+# view AndroidManifest.xml #generated:602
+-keep class com.android.settings.deviceinfo.Status { <init>(...); }
+
+# view res/layout/preference_batteryhistory.xml #generated:17
+-keep class com.android.settings.fuelgauge.BatteryHistoryChart { <init>(...); }
+
+# view AndroidManifest.xml #generated:886
+-keep class com.android.settings.fuelgauge.BatteryHistoryDetail { <init>(...); }
+
+# view AndroidManifest.xml #generated:877
+-keep class com.android.settings.fuelgauge.PowerUsageDetail { <init>(...); }
+
+# view AndroidManifest.xml #generated:864
+-keep class com.android.settings.fuelgauge.PowerUsageSummary { <init>(...); }
+
+# view AndroidManifest.xml #generated:659
+-keep class com.android.settings.quicklaunch.BookmarkPicker { <init>(...); }
+
+# view AndroidManifest.xml #generated:649
+-keep class com.android.settings.quicklaunch.QuickLaunchSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:218
+-keep class com.android.settings.vpn.OpenvpnEditor$AdvancedSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:215
+-keep class com.android.settings.vpn.VpnEditor { <init>(...); }
+
+# view AndroidManifest.xml #generated:199
+-keep class com.android.settings.vpn.VpnSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:212
+-keep class com.android.settings.vpn.VpnTypeSelection { <init>(...); }
+
+# view AndroidManifest.xml #generated:894
+-keep class com.android.settings.widget.FlashlightActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:907
+-keep class com.android.settings.widget.SettingsAppWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:899
+-keep class com.android.settings.widget.WidgetSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.android.settings.wifi.AdvancedSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:135
+-keep class com.android.settings.wifi.WifiAPITest { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class com.android.settings.wifi.WifiApSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.android.settings.wifi.WifiConfigInfo { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class com.android.settings.wifi.WifiInfo { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.android.settings.wifi.WifiSettings { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.android.settings.wifi.WifiStatusTest { <init>(...); }
+

@@ -1,0 +1,36 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020000" />
+
+  <!-- Declared at res/layout/tag_divider.xml:0 -->
+  <public type="layout" name="tag_divider" id="0x7f030000" />
+  <!-- Declared at res/layout/tag_text.xml:0 -->
+  <public type="layout" name="tag_text" id="0x7f030001" />
+  <!-- Declared at res/layout/tag_viewer.xml:0 -->
+  <public type="layout" name="tag_viewer" id="0x7f030002" />
+
+  <!-- Declared at res/raw/discovered_tag_notification.ogg:0 -->
+  <public type="raw" name="discovered_tag_notification" id="0x7f040000" />
+
+  <!-- Declared at development/samples/NFCDemo/res/values/strings.xml:20 -->
+  <public type="string" name="app_name" id="0x7f050000" />
+  <!-- Declared at development/samples/NFCDemo/res/values/strings.xml:23 -->
+  <public type="string" name="title_scanned_tag" id="0x7f050001" />
+  <!-- Declared at development/samples/NFCDemo/res/values/strings.xml:26 -->
+  <public type="string" name="tag_text" id="0x7f050002" />
+
+  <!-- Declared at development/samples/NFCDemo/res/layout/tag_text.xml:18 -->
+  <public type="id" name="text" id="0x7f060000" />
+  <!-- Declared at development/samples/NFCDemo/res/layout/tag_viewer.xml:21 -->
+  <public type="id" name="title" id="0x7f060001" />
+  <!-- Declared at development/samples/NFCDemo/res/layout/tag_viewer.xml:29 -->
+  <public type="id" name="list" id="0x7f060002" />
+
+</resources>

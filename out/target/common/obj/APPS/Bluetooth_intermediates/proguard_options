@@ -1,0 +1,42 @@
+# view AndroidManifest.xml #generated:78
+-keep class com.android.bluetooth.opp.BluetoothOppBtEnableActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.android.bluetooth.opp.BluetoothOppBtEnablingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.android.bluetooth.opp.BluetoothOppBtErrorActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.android.bluetooth.opp.BluetoothOppIncomingFileConfirmActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.android.bluetooth.opp.BluetoothOppLauncherActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.android.bluetooth.opp.BluetoothOppLiveFolder { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.android.bluetooth.opp.BluetoothOppProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.android.bluetooth.opp.BluetoothOppReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.android.bluetooth.opp.BluetoothOppService { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.android.bluetooth.opp.BluetoothOppTransferActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.android.bluetooth.opp.BluetoothOppTransferHistory { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class com.android.bluetooth.pbap.BluetoothPbapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class com.android.bluetooth.pbap.BluetoothPbapReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.android.bluetooth.pbap.BluetoothPbapService { <init>(...); }
+

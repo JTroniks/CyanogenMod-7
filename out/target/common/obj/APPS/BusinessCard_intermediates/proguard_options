@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:26
+-keep class com.example.android.businesscard.BusinessCardActivity { <init>(...); }
+

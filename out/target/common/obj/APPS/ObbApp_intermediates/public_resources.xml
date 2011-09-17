@@ -1,0 +1,48 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/obb_mount_activity.xml:0 -->
+  <public type="layout" name="obb_mount_activity" id="0x7f020000" />
+
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:21 -->
+  <public type="string" name="obb_app" id="0x7f030000" />
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:23 -->
+  <public type="string" name="mount" id="0x7f030001" />
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:24 -->
+  <public type="string" name="unmount" id="0x7f030002" />
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:26 -->
+  <public type="string" name="path_label" id="0x7f030003" />
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:27 -->
+  <public type="string" name="status_label" id="0x7f030004" />
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:29 -->
+  <public type="string" name="obb_already_mounted" id="0x7f030005" />
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:30 -->
+  <public type="string" name="obb_not_mounted" id="0x7f030006" />
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:32 -->
+  <public type="string" name="failed_to_start_mount" id="0x7f030007" />
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:33 -->
+  <public type="string" name="failed_to_start_unmount" id="0x7f030008" />
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:35 -->
+  <public type="string" name="attempting_mount" id="0x7f030009" />
+  <!-- Declared at development/samples/Obb/res/values/strings.xml:36 -->
+  <public type="string" name="attempting_unmount" id="0x7f03000a" />
+
+  <!-- Declared at development/samples/Obb/res/layout/obb_mount_activity.xml:27 -->
+  <public type="id" name="mount" id="0x7f040000" />
+  <!-- Declared at development/samples/Obb/res/layout/obb_mount_activity.xml:31 -->
+  <public type="id" name="unmount" id="0x7f040001" />
+  <!-- Declared at development/samples/Obb/res/layout/obb_mount_activity.xml:36 -->
+  <public type="id" name="status_label" id="0x7f040002" />
+  <!-- Declared at development/samples/Obb/res/layout/obb_mount_activity.xml:40 -->
+  <public type="id" name="status" id="0x7f040003" />
+  <!-- Declared at development/samples/Obb/res/layout/obb_mount_activity.xml:44 -->
+  <public type="id" name="path_label" id="0x7f040004" />
+  <!-- Declared at development/samples/Obb/res/layout/obb_mount_activity.xml:48 -->
+  <public type="id" name="path" id="0x7f040005" />
+
+</resources>

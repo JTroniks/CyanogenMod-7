@@ -1,0 +1,13 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libcrypto_intermediates/bf/bf_cfb64.o: \
+ external/openssl/crypto/bf/bf_cfb64.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/openssl/include/openssl/blowfish.h \
+ external/openssl/include/openssl/e_os2.h \
+ external/openssl/include/openssl/opensslconf.h \
+ external/openssl/crypto/bf/bf_locl.h
+ external/openssl/crypto/bf/bf_cfb64.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/openssl/include/openssl/blowfish.h :
+ external/openssl/include/openssl/e_os2.h :
+ external/openssl/include/openssl/opensslconf.h :
+ external/openssl/crypto/bf/bf_locl.h :

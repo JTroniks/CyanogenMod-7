@@ -1,0 +1,93 @@
+out/target/product/sunfire/obj/EXECUTABLES/dbus-daemon_intermediates/policy.o: \
+ external/dbus/bus/policy.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/dbus/bus/policy.h external/dbus/dbus/dbus.h \
+ external/dbus/dbus/dbus-arch-deps.h external/dbus/dbus/dbus-macros.h \
+ external/dbus/dbus/dbus-address.h external/dbus/dbus/dbus-types.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ external/dbus/dbus/dbus-errors.h external/dbus/dbus/dbus-bus.h \
+ external/dbus/dbus/dbus-connection.h external/dbus/dbus/dbus-memory.h \
+ external/dbus/dbus/dbus-message.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h \
+ external/dbus/dbus/dbus-shared.h external/dbus/dbus/dbus-misc.h \
+ external/dbus/dbus/dbus-pending-call.h \
+ external/dbus/dbus/dbus-protocol.h external/dbus/dbus/dbus-server.h \
+ external/dbus/dbus/dbus-signature.h external/dbus/dbus/dbus-threads.h \
+ external/dbus/dbus/dbus-string.h external/dbus/config.h \
+ system/core/include/cutils/sockets.h bionic/libc/include/errno.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h \
+ bionic/libc/include/stdlib.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/include/alloca.h \
+ bionic/libc/include/strings.h bionic/libc/include/sys/types.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h \
+ bionic/libc/include/sys/socket.h \
+ bionic/libc/kernel/common/linux/socket.h \
+ bionic/libc/kernel/arch-arm/asm/socket.h \
+ bionic/libc/kernel/arch-arm/asm/sockios.h \
+ bionic/libc/kernel/common/linux/sockios.h \
+ bionic/libc/kernel/common/linux/uio.h external/dbus/dbus/dbus-sysdeps.h \
+ external/dbus/dbus/dbus-list.h external/dbus/dbus/dbus-internals.h \
+ external/dbus/dbus/dbus-threads-internal.h external/dbus/bus/bus.h \
+ external/dbus/dbus/dbus-mainloop.h external/dbus/dbus/dbus-userdb.h \
+ external/dbus/bus/services.h external/dbus/dbus/dbus-hash.h \
+ external/dbus/bus/connection.h external/dbus/bus/test.h \
+ external/dbus/bus/utils.h
+ external/dbus/bus/policy.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/dbus/bus/policy.h external/dbus/dbus/dbus.h :
+ external/dbus/dbus/dbus-arch-deps.h external/dbus/dbus/dbus-macros.h :
+ external/dbus/dbus/dbus-address.h external/dbus/dbus/dbus-types.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ external/dbus/dbus/dbus-errors.h external/dbus/dbus/dbus-bus.h :
+ external/dbus/dbus/dbus-connection.h external/dbus/dbus/dbus-memory.h :
+ external/dbus/dbus/dbus-message.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :
+ external/dbus/dbus/dbus-shared.h external/dbus/dbus/dbus-misc.h :
+ external/dbus/dbus/dbus-pending-call.h :
+ external/dbus/dbus/dbus-protocol.h external/dbus/dbus/dbus-server.h :
+ external/dbus/dbus/dbus-signature.h external/dbus/dbus/dbus-threads.h :
+ external/dbus/dbus/dbus-string.h external/dbus/config.h :
+ system/core/include/cutils/sockets.h bionic/libc/include/errno.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :
+ bionic/libc/include/stdlib.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/include/alloca.h :
+ bionic/libc/include/strings.h bionic/libc/include/sys/types.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h :
+ bionic/libc/include/sys/socket.h :
+ bionic/libc/kernel/common/linux/socket.h :
+ bionic/libc/kernel/arch-arm/asm/socket.h :
+ bionic/libc/kernel/arch-arm/asm/sockios.h :
+ bionic/libc/kernel/common/linux/sockios.h :
+ bionic/libc/kernel/common/linux/uio.h external/dbus/dbus/dbus-sysdeps.h :
+ external/dbus/dbus/dbus-list.h external/dbus/dbus/dbus-internals.h :
+ external/dbus/dbus/dbus-threads-internal.h external/dbus/bus/bus.h :
+ external/dbus/dbus/dbus-mainloop.h external/dbus/dbus/dbus-userdb.h :
+ external/dbus/bus/services.h external/dbus/dbus/dbus-hash.h :
+ external/dbus/bus/connection.h external/dbus/bus/test.h :
+ external/dbus/bus/utils.h :

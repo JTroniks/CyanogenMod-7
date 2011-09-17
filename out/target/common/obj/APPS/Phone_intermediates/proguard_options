@@ -1,0 +1,189 @@
+# view res/layout-mdpi/incall_touch_ui.xml #generated:43
+# view res/layout/incall_touch_ui.xml #generated:43
+# view res/layout/incall_touch_ui_left.xml #generated:43
+-keep class com.android.internal.widget.RotarySelector { <init>(...); }
+
+# view res/layout-mdpi/incall_touch_ui.xml #generated:33
+# view res/layout/incall_touch_ui.xml #generated:33
+# view res/layout/incall_touch_ui_left.xml #generated:33
+-keep class com.android.internal.widget.SlidingTab { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.android.phone.ADNList { <init>(...); }
+
+# view AndroidManifest.xml #generated:400
+-keep class com.android.phone.BluetoothHeadsetService { <init>(...); }
+
+# view res/layout-finger/dialpad.xml #generated:17
+# view res/layout-finger/non_drawer_dialpad.xml #generated:57
+# view res/layout-long-finger/dialpad.xml #generated:21
+# view res/layout-long-finger/non_drawer_dialpad.xml #generated:57
+-keep class com.android.phone.ButtonGridLayout { <init>(...); }
+
+# view res/xml/gsm_umts_additional_options.xml #generated:6
+-keep class com.android.phone.CLIRListPreference { <init>(...); }
+
+# view res/layout/incall_screen.xml #generated:41
+-keep class com.android.phone.CallCard { <init>(...); }
+
+# view AndroidManifest.xml #generated:383
+-keep class com.android.phone.CallFeaturesSetting { <init>(...); }
+
+# view res/xml/callforward_options.xml #generated:16
+# view res/xml/callforward_options.xml #generated:31
+# view res/xml/callforward_options.xml #generated:47
+# view res/xml/callforward_options.xml #generated:63
+-keep class com.android.phone.CallForwardEditPreference { <init>(...); }
+
+# view res/xml/gsm_umts_additional_options.xml #generated:15
+-keep class com.android.phone.CallWaitingCheckBoxPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:293
+-keep class com.android.phone.CdmaCallOptions { <init>(...); }
+
+# view AndroidManifest.xml #generated:279
+-keep class com.android.phone.CdmaOptions { <init>(...); }
+
+# view res/xml/cdma_options.xml #generated:28
+-keep class com.android.phone.CdmaSubscriptionListPreference { <init>(...); }
+
+# view res/xml/cdma_options.xml #generated:20
+-keep class com.android.phone.CdmaSystemSelectListPreference { <init>(...); }
+
+# view res/xml/cdma_call_privacy.xml #generated:6
+-keep class com.android.phone.CdmaVoicePrivacyCheckBoxPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:316
+-keep class com.android.phone.CellBroadcastSms { <init>(...); }
+
+# view AndroidManifest.xml #generated:341
+-keep class com.android.phone.ChangeIccPinScreen { <init>(...); }
+
+# view res/layout-finger/dtmf_twelve_key_dialer.xml #generated:80
+# view res/layout-finger/non_drawer_dialpad.xml #generated:25
+# view res/layout-long-finger/non_drawer_dialpad.xml #generated:25
+# view res/layout/otacall_card.xml #generated:79
+-keep class com.android.phone.DTMFTwelveKeyDialerView { <init>(...); }
+
+# view AndroidManifest.xml #generated:360
+-keep class com.android.phone.DataRoamingReenable { <init>(...); }
+
+# view AndroidManifest.xml #generated:368
+-keep class com.android.phone.DataUsage { <init>(...); }
+
+# view AndroidManifest.xml #generated:356
+-keep class com.android.phone.DeleteFdnContactScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:352
+-keep class com.android.phone.EditFdnContactScreen { <init>(...); }
+
+# view res/xml/call_feature_setting.xml #generated:167
+# view res/xml/call_feature_setting.xml #generated:56
+-keep class com.android.phone.EditPhoneNumberPreference { <init>(...); }
+
+# view res/xml/fdn_setting.xml #generated:19
+# view res/xml/fdn_setting.xml #generated:26
+-keep class com.android.phone.EditPinPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:394
+-keep class com.android.phone.EmergencyCallHandler { <init>(...); }
+
+# view AndroidManifest.xml #generated:417
+-keep class com.android.phone.EmergencyCallbackModeExitDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:414
+-keep class com.android.phone.EmergencyCallbackModeService { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.android.phone.EmergencyDialer { <init>(...); }
+
+# view AndroidManifest.xml #generated:330
+-keep class com.android.phone.EnableFdnScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:334
+-keep class com.android.phone.EnableIccPinScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.android.phone.FdnList { <init>(...); }
+
+# view AndroidManifest.xml #generated:324
+-keep class com.android.phone.FdnSetting { <init>(...); }
+
+# view AndroidManifest.xml #generated:348
+-keep class com.android.phone.GetPin2Screen { <init>(...); }
+
+# view AndroidManifest.xml #generated:308
+-keep class com.android.phone.GsmUmtsAdditionalCallOptions { <init>(...); }
+
+# view AndroidManifest.xml #generated:300
+-keep class com.android.phone.GsmUmtsCallForwardOptions { <init>(...); }
+
+# view AndroidManifest.xml #generated:286
+-keep class com.android.phone.GsmUmtsCallOptions { <init>(...); }
+
+# view AndroidManifest.xml #generated:272
+-keep class com.android.phone.GsmUmtsOptions { <init>(...); }
+
+# view AndroidManifest.xml #generated:89
+-keep class com.android.phone.IccProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:228
+-keep class com.android.phone.InCallScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:238
+-keep class com.android.phone.InCallScreenShowActivation { <init>(...); }
+
+# view res/layout/incall_screen.xml #generated:106
+-keep class com.android.phone.InCallTouchUi { <init>(...); }
+
+# view res/xml/gsm_umts_additional_options.xml #generated:22
+-keep class com.android.phone.MSISDNEditPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.android.phone.MyPhoneNumber { <init>(...); }
+
+# view AndroidManifest.xml #generated:260
+-keep class com.android.phone.NetworkQueryService { <init>(...); }
+
+# view AndroidManifest.xml #generated:262
+-keep class com.android.phone.NetworkSetting { <init>(...); }
+
+# view AndroidManifest.xml #generated:407
+-keep class com.android.phone.OtaStartupReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.android.phone.OutgoingCallBroadcaster { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.android.phone.PhoneApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:454
+-keep class com.android.phone.PhoneToggler { <init>(...); }
+
+# view AndroidManifest.xml #generated:220
+-keep class com.android.phone.ProcessOutgoingCallTest { <init>(...); }
+
+# view AndroidManifest.xml #generated:376
+-keep class com.android.phone.RoamingSetting { <init>(...); }
+
+# view AndroidManifest.xml #generated:249
+-keep class com.android.phone.Settings { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.android.phone.SimContacts { <init>(...); }
+
+# view AndroidManifest.xml #generated:429
+-keep class com.android.phone.SipBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:450
+-keep class com.android.phone.SipCallOptionHandler { <init>(...); }
+
+# view res/xml/gsm_umts_options.xml #generated:31
+-keep class com.android.phone.Use2GOnlyCheckBoxPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:447
+-keep class com.android.phone.sip.SipEditor { <init>(...); }
+
+# view AndroidManifest.xml #generated:438
+-keep class com.android.phone.sip.SipSettings { <init>(...); }
+

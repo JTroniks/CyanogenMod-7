@@ -1,0 +1,32 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/bg_grad_blue.9.png:0 -->
+  <public type="drawable" name="bg_grad_blue" id="0x7f020000" />
+  <!-- Declared at res/drawable/bg_grad_green.9.png:0 -->
+  <public type="drawable" name="bg_grad_green" id="0x7f020001" />
+  <!-- Declared at res/drawable/bg_grad_grey.9.png:0 -->
+  <public type="drawable" name="bg_grad_grey" id="0x7f020002" />
+  <!-- Declared at res/drawable/bg_grad_red.9.png:0 -->
+  <public type="drawable" name="bg_grad_red" id="0x7f020003" />
+  <!-- Declared at res/drawable/bg_grad_yellow.9.png:0 -->
+  <public type="drawable" name="bg_grad_yellow" id="0x7f020004" />
+  <!-- Declared at res/drawable/btn_dark_ticks_stretch_multiple.9.png:0 -->
+  <public type="drawable" name="btn_dark_ticks_stretch_multiple" id="0x7f020005" />
+  <!-- Declared at res/drawable/btn_dark_ticks_stretch_single.9.png:0 -->
+  <public type="drawable" name="btn_dark_ticks_stretch_single" id="0x7f020006" />
+  <!-- Declared at res/drawable/btn_light_ticks_stretch_multiple.9.png:0 -->
+  <public type="drawable" name="btn_light_ticks_stretch_multiple" id="0x7f020007" />
+  <!-- Declared at res/drawable/btn_light_ticks_stretch_single.9.png:0 -->
+  <public type="drawable" name="btn_light_ticks_stretch_single" id="0x7f020008" />
+  <!-- Declared at res/drawable/btn_transparent_ticks_stretch_multiple.9.png:0 -->
+  <public type="drawable" name="btn_transparent_ticks_stretch_multiple" id="0x7f020009" />
+  <!-- Declared at res/drawable/btn_transparent_ticks_stretch_single.9.png:0 -->
+  <public type="drawable" name="btn_transparent_ticks_stretch_single" id="0x7f02000a" />
+
+</resources>

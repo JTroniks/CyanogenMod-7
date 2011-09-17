@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libfdlibm_intermediates/s_cbrt.o: \
+ external/fdlibm/s_cbrt.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/fdlibm/fdlibm.h
+ external/fdlibm/s_cbrt.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/fdlibm/fdlibm.h :

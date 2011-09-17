@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/app/IProfileManager.java: \
+  frameworks/base/core/java/android/app/IProfileManager.aidl \
+  frameworks/base/core/java/android/app/Profile.aidl \
+  frameworks/base/core/java/android/app/NotificationGroup.aidl \
+  frameworks/base/core/java/android/os/ParcelUuid.aidl 
+

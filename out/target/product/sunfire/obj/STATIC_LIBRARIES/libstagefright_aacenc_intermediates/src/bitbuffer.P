@@ -1,0 +1,11 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_aacenc_intermediates/src/bitbuffer.o: \
+ frameworks/base/media/libstagefright/codecs/aacenc/src/bitbuffer.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/bitbuffer.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedef.h \
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h
+ frameworks/base/media/libstagefright/codecs/aacenc/src/bitbuffer.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/inc/bitbuffer.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedef.h :
+ frameworks/base/media/libstagefright/codecs/aacenc/basic_op/typedefs.h :

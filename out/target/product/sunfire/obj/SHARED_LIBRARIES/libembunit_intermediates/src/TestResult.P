@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libembunit_intermediates/src/TestResult.o: \
+ external/embunit/src/TestResult.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/embunit/inc/Test.h external/embunit/inc/TestListener.h \
+ external/embunit/inc/TestResult.h
+ external/embunit/src/TestResult.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/embunit/inc/Test.h external/embunit/inc/TestListener.h :
+ external/embunit/inc/TestResult.h :

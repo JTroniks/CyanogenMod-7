@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:25
+-keep class com.example.android.lunarlander.LunarLander { <init>(...); }
+
+# view res/layout/lunar_layout.xml #generated:21
+-keep class com.example.android.lunarlander.LunarView { <init>(...); }
+

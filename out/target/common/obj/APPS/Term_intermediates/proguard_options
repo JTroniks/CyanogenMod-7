@@ -1,0 +1,9 @@
+# view res/layout/term_activity.xml #generated:24
+-keep class com.android.term.EmulatorView { <init>(...); }
+
+# view AndroidManifest.xml #generated:4
+-keep class com.android.term.Term { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.android.term.TermPreferences { <init>(...); }
+

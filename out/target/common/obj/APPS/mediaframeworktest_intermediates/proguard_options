@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:41
+-keep class com.android.mediaframeworktest.MediaFrameworkPerfTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.android.mediaframeworktest.MediaFrameworkPowerTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.android.mediaframeworktest.MediaFrameworkTest { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.android.mediaframeworktest.MediaFrameworkTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.android.mediaframeworktest.MediaFrameworkUnitTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.android.mediaframeworktest.MediaRecorderStressTestRunner { <init>(...); }
+

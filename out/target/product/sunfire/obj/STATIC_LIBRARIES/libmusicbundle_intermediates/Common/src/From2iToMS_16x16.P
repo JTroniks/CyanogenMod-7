@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/Common/src/From2iToMS_16x16.o: \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/From2iToMS_16x16.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/VectorArithmetic.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h
+ frameworks/base/media/libeffects/lvm/lib/Common/src/From2iToMS_16x16.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/VectorArithmetic.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :

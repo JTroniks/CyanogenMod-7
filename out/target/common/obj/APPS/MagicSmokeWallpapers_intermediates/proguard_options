@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:35
+-keep class com.android.magicsmoke.MagicSmoke { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.android.magicsmoke.MagicSmokeSelector { <init>(...); }
+

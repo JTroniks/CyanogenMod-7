@@ -1,0 +1,57 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libvpx_intermediates/vp8/common/reconintra4x4.o: \
+ external/libvpx/vp8/common/reconintra4x4.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/libvpx/vpx_ports/config.h external/libvpx/vpx_config.h \
+ external/libvpx/vp8/common/recon.h external/libvpx/vp8/common/blockd.h \
+ external/libvpx/vpx_scale/yv12config.h external/libvpx/vp8/common/mv.h \
+ external/libvpx/vp8/common/treecoder.h \
+ external/libvpx/vp8/common/subpixel.h \
+ external/libvpx/vp8/common/arm/subpixel_arm.h \
+ external/libvpx/vpx_ports/mem.h external/libvpx/vpx/vpx_integer.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/include/inttypes.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ external/libvpx/vp8/common/arm/recon_arm.h \
+ external/libvpx/vpx_mem/vpx_mem.h bionic/libc/include/stdlib.h \
+ bionic/libc/include/string.h bionic/libc/include/malloc.h \
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+ bionic/libc/include/sys/types.h \
+ bionic/libc/kernel/common/linux/posix_types.h \
+ bionic/libc/kernel/common/linux/stddef.h \
+ bionic/libc/kernel/common/linux/compiler.h \
+ bionic/libc/kernel/arch-arm/asm/posix_types.h \
+ bionic/libc/kernel/arch-arm/asm/types.h \
+ bionic/libc/kernel/common/linux/types.h \
+ bionic/libc/arch-arm/include/machine/kernel.h \
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h \
+ external/libvpx/vp8/common/reconintra.h
+ external/libvpx/vp8/common/reconintra4x4.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/libvpx/vpx_ports/config.h external/libvpx/vpx_config.h :
+ external/libvpx/vp8/common/recon.h external/libvpx/vp8/common/blockd.h :
+ external/libvpx/vpx_scale/yv12config.h external/libvpx/vp8/common/mv.h :
+ external/libvpx/vp8/common/treecoder.h :
+ external/libvpx/vp8/common/subpixel.h :
+ external/libvpx/vp8/common/arm/subpixel_arm.h :
+ external/libvpx/vpx_ports/mem.h external/libvpx/vpx/vpx_integer.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/include/inttypes.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ external/libvpx/vp8/common/arm/recon_arm.h :
+ external/libvpx/vpx_mem/vpx_mem.h bionic/libc/include/stdlib.h :
+ bionic/libc/include/string.h bionic/libc/include/malloc.h :
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+ bionic/libc/include/sys/types.h :
+ bionic/libc/kernel/common/linux/posix_types.h :
+ bionic/libc/kernel/common/linux/stddef.h :
+ bionic/libc/kernel/common/linux/compiler.h :
+ bionic/libc/kernel/arch-arm/asm/posix_types.h :
+ bionic/libc/kernel/arch-arm/asm/types.h :
+ bionic/libc/kernel/common/linux/types.h :
+ bionic/libc/arch-arm/include/machine/kernel.h :
+ bionic/libc/include/sys/sysmacros.h bionic/libc/include/memory.h :
+ external/libvpx/vp8/common/reconintra.h :

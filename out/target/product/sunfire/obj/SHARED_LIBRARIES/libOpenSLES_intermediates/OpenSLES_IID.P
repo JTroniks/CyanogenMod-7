@@ -1,0 +1,13 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libOpenSLES_intermediates/OpenSLES_IID.o: \
+ system/media/opensles/libopensles/OpenSLES_IID.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ system/media/opensles/include/SLES/OpenSLES.h \
+ system/media/opensles/include/SLES/OpenSLES_Platform.h \
+ system/media/opensles/include/SLES/OpenSLES_Android.h \
+ system/media/opensles/libopensles/MPH.h
+ system/media/opensles/libopensles/OpenSLES_IID.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ system/media/opensles/include/SLES/OpenSLES.h :
+ system/media/opensles/include/SLES/OpenSLES_Platform.h :
+ system/media/opensles/include/SLES/OpenSLES_Android.h :
+ system/media/opensles/libopensles/MPH.h :

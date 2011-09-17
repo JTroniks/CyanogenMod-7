@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libskia_intermediates/src/opts/S32A_Blend_BlitRow32_arm.o: \
+ external/skia/src/opts/S32A_Blend_BlitRow32_arm.S \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/skia/src/opts/S32A_Blend_BlitRow32_arm.S :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

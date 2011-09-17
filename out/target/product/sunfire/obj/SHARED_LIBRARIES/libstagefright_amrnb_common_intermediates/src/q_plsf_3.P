@@ -1,0 +1,37 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libstagefright_amrnb_common_intermediates/src/q_plsf_3.o: \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/src/q_plsf_3.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/malloc.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/q_plsf.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/typedef.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/gsm_amr_typedefs.h \
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/cnst.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/mode.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/typedef.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/lsp_lsf.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/reorder.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/basicop_malloc.h \
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/lsfwt.h
+ frameworks/base/media/libstagefright/codecs/amrnb/common/src/q_plsf_3.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/malloc.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/q_plsf.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/typedef.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/gsm_amr_typedefs.h :
+ bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/cnst.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/mode.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/typedef.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/lsp_lsf.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/reorder.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/basicop_malloc.h :
+ frameworks/base/media/libstagefright/codecs/amrnb/common/include/lsfwt.h :

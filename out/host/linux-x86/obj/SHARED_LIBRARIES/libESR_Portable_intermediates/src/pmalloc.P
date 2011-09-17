@@ -1,0 +1,5 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libESR_Portable_intermediates/src/pmalloc.o: \
+ external/srec/portable/src/pmalloc.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h
+ external/srec/portable/src/pmalloc.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :

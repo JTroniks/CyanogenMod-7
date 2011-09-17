@@ -1,0 +1,55 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libicui18n_intermediates/esctrn.o: \
+ external/icu4c/i18n/esctrn.cpp \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/icu4c/i18n/../common/unicode/utypes.h \
+ external/icu4c/i18n/../common/unicode/umachine.h \
+ external/icu4c/i18n/../common/unicode/ptypes.h /usr/include/sys/types.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
+ external/icu4c/i18n/../common/unicode/platform.h /usr/include/inttypes.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ external/icu4c/i18n/../common/unicode/urename.h \
+ external/icu4c/i18n/../common/unicode/uvernum.h \
+ external/icu4c/i18n/../common/unicode/utf.h \
+ external/icu4c/i18n/../common/unicode/utf8.h \
+ external/icu4c/i18n/../common/unicode/utf16.h \
+ external/icu4c/i18n/../common/unicode/utf_old.h \
+ external/icu4c/i18n/../common/unicode/uversion.h \
+ external/icu4c/i18n/../common/unicode/uconfig.h
+ external/icu4c/i18n/esctrn.cpp :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/icu4c/i18n/../common/unicode/utypes.h :
+ external/icu4c/i18n/../common/unicode/umachine.h :
+ external/icu4c/i18n/../common/unicode/ptypes.h /usr/include/sys/types.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/time.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/endian.h /usr/include/bits/endian.h :
+ /usr/include/bits/byteswap.h /usr/include/sys/select.h :
+ /usr/include/bits/select.h /usr/include/bits/sigset.h :
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h :
+ /usr/include/bits/pthreadtypes.h :
+ external/icu4c/i18n/../common/unicode/platform.h /usr/include/inttypes.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/bits/wchar.h :
+ external/icu4c/i18n/../common/unicode/urename.h :
+ external/icu4c/i18n/../common/unicode/uvernum.h :
+ external/icu4c/i18n/../common/unicode/utf.h :
+ external/icu4c/i18n/../common/unicode/utf8.h :
+ external/icu4c/i18n/../common/unicode/utf16.h :
+ external/icu4c/i18n/../common/unicode/utf_old.h :
+ external/icu4c/i18n/../common/unicode/uversion.h :
+ external/icu4c/i18n/../common/unicode/uconfig.h :

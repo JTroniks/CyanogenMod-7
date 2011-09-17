@@ -1,0 +1,131 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libssl_intermediates/t1_lib.o: \
+ external/openssl/ssl/t1_lib.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h /usr/include/stdio.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h external/openssl/include/openssl/objects.h \
+ external/openssl/include/openssl/obj_mac.h \
+ external/openssl/include/openssl/bio.h \
+ external/openssl/include/openssl/e_os2.h \
+ external/openssl/include/openssl/opensslconf.h \
+ external/openssl/include/openssl/crypto.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/types.h \
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/alloca.h external/openssl/include/openssl/stack.h \
+ external/openssl/include/openssl/safestack.h \
+ external/openssl/include/openssl/opensslv.h \
+ external/openssl/include/openssl/ossl_typ.h \
+ external/openssl/include/openssl/symhacks.h \
+ external/openssl/include/openssl/asn1.h /usr/include/xlocale.h \
+ external/openssl/include/openssl/bn.h \
+ external/openssl/include/openssl/evp.h \
+ external/openssl/include/openssl/hmac.h \
+ external/openssl/include/openssl/ocsp.h \
+ external/openssl/include/openssl/x509.h \
+ external/openssl/include/openssl/buffer.h \
+ external/openssl/include/openssl/ec.h \
+ external/openssl/include/openssl/ecdsa.h \
+ external/openssl/include/openssl/ecdh.h \
+ external/openssl/include/openssl/rsa.h \
+ external/openssl/include/openssl/dsa.h \
+ external/openssl/include/openssl/dh.h \
+ external/openssl/include/openssl/sha.h \
+ external/openssl/include/openssl/x509_vfy.h \
+ external/openssl/include/openssl/lhash.h \
+ external/openssl/include/openssl/pkcs7.h \
+ external/openssl/include/openssl/x509v3.h \
+ external/openssl/include/openssl/conf.h external/openssl/ssl/ssl_locl.h \
+ /usr/include/string.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h external/openssl/e_os.h \
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/confname.h \
+ /usr/include/getopt.h external/openssl/include/openssl/comp.h \
+ external/openssl/include/openssl/err.h \
+ external/openssl/include/openssl/ssl.h \
+ external/openssl/include/openssl/pem.h \
+ external/openssl/include/openssl/pem2.h \
+ external/openssl/include/openssl/kssl.h \
+ external/openssl/include/openssl/ssl2.h \
+ external/openssl/include/openssl/ssl3.h \
+ external/openssl/include/openssl/tls1.h \
+ external/openssl/include/openssl/dtls1.h \
+ external/openssl/include/openssl/pqueue.h /usr/include/sys/time.h \
+ external/openssl/include/openssl/ssl23.h
+ external/openssl/ssl/t1_lib.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h /usr/include/stdio.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h :
+ /usr/include/bits/stdio.h external/openssl/include/openssl/objects.h :
+ external/openssl/include/openssl/obj_mac.h :
+ external/openssl/include/openssl/bio.h :
+ external/openssl/include/openssl/e_os2.h :
+ external/openssl/include/openssl/opensslconf.h :
+ external/openssl/include/openssl/crypto.h /usr/include/stdlib.h :
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h :
+ /usr/include/endian.h /usr/include/bits/endian.h :
+ /usr/include/bits/byteswap.h /usr/include/sys/types.h :
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h :
+ /usr/include/bits/sigset.h /usr/include/bits/time.h :
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h :
+ /usr/include/alloca.h external/openssl/include/openssl/stack.h :
+ external/openssl/include/openssl/safestack.h :
+ external/openssl/include/openssl/opensslv.h :
+ external/openssl/include/openssl/ossl_typ.h :
+ external/openssl/include/openssl/symhacks.h :
+ external/openssl/include/openssl/asn1.h /usr/include/xlocale.h :
+ external/openssl/include/openssl/bn.h :
+ external/openssl/include/openssl/evp.h :
+ external/openssl/include/openssl/hmac.h :
+ external/openssl/include/openssl/ocsp.h :
+ external/openssl/include/openssl/x509.h :
+ external/openssl/include/openssl/buffer.h :
+ external/openssl/include/openssl/ec.h :
+ external/openssl/include/openssl/ecdsa.h :
+ external/openssl/include/openssl/ecdh.h :
+ external/openssl/include/openssl/rsa.h :
+ external/openssl/include/openssl/dsa.h :
+ external/openssl/include/openssl/dh.h :
+ external/openssl/include/openssl/sha.h :
+ external/openssl/include/openssl/x509_vfy.h :
+ external/openssl/include/openssl/lhash.h :
+ external/openssl/include/openssl/pkcs7.h :
+ external/openssl/include/openssl/x509v3.h :
+ external/openssl/include/openssl/conf.h external/openssl/ssl/ssl_locl.h :
+ /usr/include/string.h /usr/include/bits/string.h :
+ /usr/include/bits/string2.h /usr/include/errno.h :
+ /usr/include/bits/errno.h /usr/include/linux/errno.h :
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h :
+ /usr/include/asm-generic/errno-base.h external/openssl/e_os.h :
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h :
+ /usr/include/bits/environments.h /usr/include/bits/confname.h :
+ /usr/include/getopt.h external/openssl/include/openssl/comp.h :
+ external/openssl/include/openssl/err.h :
+ external/openssl/include/openssl/ssl.h :
+ external/openssl/include/openssl/pem.h :
+ external/openssl/include/openssl/pem2.h :
+ external/openssl/include/openssl/kssl.h :
+ external/openssl/include/openssl/ssl2.h :
+ external/openssl/include/openssl/ssl3.h :
+ external/openssl/include/openssl/tls1.h :
+ external/openssl/include/openssl/dtls1.h :
+ external/openssl/include/openssl/pqueue.h /usr/include/sys/time.h :
+ external/openssl/include/openssl/ssl23.h :

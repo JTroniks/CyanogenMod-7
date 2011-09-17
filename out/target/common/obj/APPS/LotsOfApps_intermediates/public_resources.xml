@@ -1,0 +1,84 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/ic_launcher_add_folder.png:0 -->
+  <public type="drawable" name="ic_launcher_add_folder" id="0x7f020000" />
+  <!-- Declared at res/drawable/ic_launcher_alarmclock.png:0 -->
+  <public type="drawable" name="ic_launcher_alarmclock" id="0x7f020001" />
+  <!-- Declared at res/drawable/ic_launcher_application.png:0 -->
+  <public type="drawable" name="ic_launcher_application" id="0x7f020002" />
+  <!-- Declared at res/drawable/ic_launcher_appwidget.png:0 -->
+  <public type="drawable" name="ic_launcher_appwidget" id="0x7f020003" />
+  <!-- Declared at res/drawable/ic_launcher_browser.png:0 -->
+  <public type="drawable" name="ic_launcher_browser" id="0x7f020004" />
+  <!-- Declared at res/drawable/ic_launcher_camera.png:0 -->
+  <public type="drawable" name="ic_launcher_camera" id="0x7f020005" />
+  <!-- Declared at res/drawable/ic_launcher_camera_record.png:0 -->
+  <public type="drawable" name="ic_launcher_camera_record" id="0x7f020006" />
+  <!-- Declared at res/drawable/ic_launcher_contacts.png:0 -->
+  <public type="drawable" name="ic_launcher_contacts" id="0x7f020007" />
+  <!-- Declared at res/drawable/ic_launcher_drm_file.png:0 -->
+  <public type="drawable" name="ic_launcher_drm_file" id="0x7f020008" />
+  <!-- Declared at res/drawable/ic_launcher_folder.png:0 -->
+  <public type="drawable" name="ic_launcher_folder" id="0x7f020009" />
+  <!-- Declared at res/drawable/ic_launcher_folder_bluetooth.png:0 -->
+  <public type="drawable" name="ic_launcher_folder_bluetooth" id="0x7f02000a" />
+  <!-- Declared at res/drawable/ic_launcher_folder_live.png:0 -->
+  <public type="drawable" name="ic_launcher_folder_live" id="0x7f02000b" />
+  <!-- Declared at res/drawable/ic_launcher_folder_live_contacts.png:0 -->
+  <public type="drawable" name="ic_launcher_folder_live_contacts" id="0x7f02000c" />
+  <!-- Declared at res/drawable/ic_launcher_folder_live_contacts_phone.png:0 -->
+  <public type="drawable" name="ic_launcher_folder_live_contacts_phone" id="0x7f02000d" />
+  <!-- Declared at res/drawable/ic_launcher_folder_live_contacts_starred.png:0 -->
+  <public type="drawable" name="ic_launcher_folder_live_contacts_starred" id="0x7f02000e" />
+  <!-- Declared at res/drawable/ic_launcher_folder_open.png:0 -->
+  <public type="drawable" name="ic_launcher_folder_open" id="0x7f02000f" />
+  <!-- Declared at res/drawable/ic_launcher_gallery.png:0 -->
+  <public type="drawable" name="ic_launcher_gallery" id="0x7f020010" />
+  <!-- Declared at res/drawable/ic_launcher_home.png:0 -->
+  <public type="drawable" name="ic_launcher_home" id="0x7f020011" />
+  <!-- Declared at res/drawable/ic_launcher_im.png:0 -->
+  <public type="drawable" name="ic_launcher_im" id="0x7f020012" />
+  <!-- Declared at res/drawable/ic_launcher_musicplayer_2.png:0 -->
+  <public type="drawable" name="ic_launcher_musicplayer_2" id="0x7f020013" />
+  <!-- Declared at res/drawable/ic_launcher_phone.png:0 -->
+  <public type="drawable" name="ic_launcher_phone" id="0x7f020014" />
+  <!-- Declared at res/drawable/ic_launcher_record_audio.png:0 -->
+  <public type="drawable" name="ic_launcher_record_audio" id="0x7f020015" />
+  <!-- Declared at res/drawable/ic_launcher_settings.png:0 -->
+  <public type="drawable" name="ic_launcher_settings" id="0x7f020016" />
+  <!-- Declared at res/drawable/ic_launcher_shortcut.png:0 -->
+  <public type="drawable" name="ic_launcher_shortcut" id="0x7f020017" />
+  <!-- Declared at res/drawable/ic_launcher_shortcut_browser_bookmark.png:0 -->
+  <public type="drawable" name="ic_launcher_shortcut_browser_bookmark" id="0x7f020018" />
+  <!-- Declared at res/drawable/ic_launcher_shortcut_contact.png:0 -->
+  <public type="drawable" name="ic_launcher_shortcut_contact" id="0x7f020019" />
+  <!-- Declared at res/drawable/ic_launcher_shortcut_directdial.png:0 -->
+  <public type="drawable" name="ic_launcher_shortcut_directdial" id="0x7f02001a" />
+  <!-- Declared at res/drawable/ic_launcher_shortcut_directmessage.png:0 -->
+  <public type="drawable" name="ic_launcher_shortcut_directmessage" id="0x7f02001b" />
+  <!-- Declared at res/drawable/ic_launcher_shortcut_music_playlist.png:0 -->
+  <public type="drawable" name="ic_launcher_shortcut_music_playlist" id="0x7f02001c" />
+  <!-- Declared at res/drawable/ic_launcher_sim_toolkit.png:0 -->
+  <public type="drawable" name="ic_launcher_sim_toolkit" id="0x7f02001d" />
+  <!-- Declared at res/drawable/ic_launcher_slideshow_add_sms.png:0 -->
+  <public type="drawable" name="ic_launcher_slideshow_add_sms" id="0x7f02001e" />
+  <!-- Declared at res/drawable/ic_launcher_slideshow_default_sms.png:0 -->
+  <public type="drawable" name="ic_launcher_slideshow_default_sms" id="0x7f02001f" />
+  <!-- Declared at res/drawable/ic_launcher_smsmms.png:0 -->
+  <public type="drawable" name="ic_launcher_smsmms" id="0x7f020020" />
+  <!-- Declared at res/drawable/ic_launcher_soundrecorder.png:0 -->
+  <public type="drawable" name="ic_launcher_soundrecorder" id="0x7f020021" />
+  <!-- Declared at res/drawable/ic_launcher_video_camera.png:0 -->
+  <public type="drawable" name="ic_launcher_video_camera" id="0x7f020022" />
+  <!-- Declared at res/drawable/ic_launcher_video_player.png:0 -->
+  <public type="drawable" name="ic_launcher_video_player" id="0x7f020023" />
+  <!-- Declared at res/drawable/ic_launcher_wallpaper.png:0 -->
+  <public type="drawable" name="ic_launcher_wallpaper" id="0x7f020024" />
+
+</resources>

@@ -1,0 +1,67 @@
+out/host/linux-x86/obj/EXECUTABLES/test_vector_host_intermediates/test_vector.o: \
+ external/astl/tests/test_vector.cpp \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/astl/tests/../include/vector bionic/libstdc++/include/cstddef \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ bionic/libstdc++/include/cstdlib /usr/include/stdlib.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/xlocale.h \
+ /usr/include/sys/types.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/time.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/alloca.h bionic/libstdc++/include/cstring \
+ /usr/include/string.h external/astl/include/algorithm \
+ external/astl/include/iterator external/astl/include/type_traits.h \
+ external/astl/include/memory external/astl/include/type_traits.h \
+ bionic/libstdc++/include/new external/astl/include/limits \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/limits.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+ /usr/include/bits/stdio_lim.h bionic/libstdc++/include/climits \
+ external/astl/include/string external/astl/include/char_traits.h \
+ external/astl/include/ios_pos_types.h bionic/libstdc++/include/cstdio \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ /usr/include/bits/sys_errlist.h external/astl/tests/common.h
+ external/astl/tests/test_vector.cpp :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/astl/tests/../include/vector bionic/libstdc++/include/cstddef :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ bionic/libstdc++/include/cstdlib /usr/include/stdlib.h :
+ /usr/include/features.h /usr/include/bits/predefs.h :
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h :
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h :
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h :
+ /usr/include/endian.h /usr/include/bits/endian.h :
+ /usr/include/bits/byteswap.h /usr/include/xlocale.h :
+ /usr/include/sys/types.h /usr/include/bits/types.h :
+ /usr/include/bits/typesizes.h /usr/include/time.h :
+ /usr/include/sys/select.h /usr/include/bits/select.h :
+ /usr/include/bits/sigset.h /usr/include/bits/time.h :
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h :
+ /usr/include/alloca.h bionic/libstdc++/include/cstring :
+ /usr/include/string.h external/astl/include/algorithm :
+ external/astl/include/iterator external/astl/include/type_traits.h :
+ external/astl/include/memory external/astl/include/type_traits.h :
+ bionic/libstdc++/include/new external/astl/include/limits :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/limits.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include-fixed/syslimits.h :
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h :
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h :
+ /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h :
+ /usr/include/bits/stdio_lim.h bionic/libstdc++/include/climits :
+ external/astl/include/string external/astl/include/char_traits.h :
+ external/astl/include/ios_pos_types.h bionic/libstdc++/include/cstdio :
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h :
+ /usr/include/wchar.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ /usr/include/bits/sys_errlist.h external/astl/tests/common.h :

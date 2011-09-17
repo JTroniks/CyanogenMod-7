@@ -1,0 +1,61 @@
+# view res/layout/viewimage.xml #generated:102
+# view res/layout/viewimage.xml #generated:109
+# view res/layout/viewimage.xml #generated:74
+# view res/layout/viewimage.xml #generated:81
+# view res/layout/viewimage.xml #generated:88
+# view res/layout/viewimage.xml #generated:95
+-keep class com.android.camera.ActionMenuButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.android.camera.CropImage { <init>(...); }
+
+# view res/layout/cropimage.xml #generated:26
+-keep class com.android.camera.CropImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.android.camera.DeleteImage { <init>(...); }
+
+# view res/layout/viewimage.xml #generated:68
+-keep class com.android.camera.EvenlySpacedLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.android.camera.GalleryPicker { <init>(...); }
+
+# view res/layout/gallery_picker_item.xml #generated:23
+-keep class com.android.camera.GalleryPickerItem { <init>(...); }
+
+# view AndroidManifest.xml #generated:131
+-keep class com.android.camera.GallerySettings { <init>(...); }
+
+# view res/layout/image_gallery.xml #generated:25
+-keep class com.android.camera.GridViewSpecial { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.android.camera.ImageGallery { <init>(...); }
+
+# view res/layout/viewimage.xml #generated:25
+# view res/layout/viewimage.xml #generated:30
+# view res/layout/viewimage.xml #generated:40
+-keep class com.android.camera.ImageViewTouch { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.android.camera.MovieView { <init>(...); }
+
+# view AndroidManifest.xml #generated:177
+-keep class com.android.camera.PhotoAppWidgetBind { <init>(...); }
+
+# view AndroidManifest.xml #generated:168
+-keep class com.android.camera.PhotoAppWidgetConfigure { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.android.camera.PhotoAppWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:149
+-keep class com.android.camera.PickWallpaper { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.android.camera.ViewImage { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class com.android.camera.Wallpaper { <init>(...); }
+

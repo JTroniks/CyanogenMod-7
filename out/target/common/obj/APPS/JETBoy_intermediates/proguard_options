@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:26
+-keep class com.example.android.jetboy.JetBoy { <init>(...); }
+
+# view res/layout/main.xml #generated:6
+-keep class com.example.android.jetboy.JetBoyView { <init>(...); }
+

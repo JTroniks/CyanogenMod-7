@@ -1,0 +1,12 @@
+# view res/layout/appwidget_host.xml #generated:34
+-keep class com.android.tests.appwidgethost.AppWidgetContainerView { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.android.tests.appwidgethost.AppWidgetHostActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.android.tests.appwidgethost.TestAppWidgetConfigure { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.android.tests.appwidgethost.TestAppWidgetProvider { <init>(...); }
+

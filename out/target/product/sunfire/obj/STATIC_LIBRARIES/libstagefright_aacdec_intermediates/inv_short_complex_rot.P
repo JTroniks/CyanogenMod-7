@@ -1,0 +1,27 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_aacdec_intermediates/inv_short_complex_rot.o: \
+ frameworks/base/media/libstagefright/codecs/aacdec/inv_short_complex_rot.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/digit_reversal_tables.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_audio_type_defs.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/imdct_fxp.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/inv_short_complex_rot.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_normalize.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/fxp_mul32.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/fxp_mul32_c_equivalent.h
+ frameworks/base/media/libstagefright/codecs/aacdec/inv_short_complex_rot.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/digit_reversal_tables.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_audio_type_defs.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/imdct_fxp.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/inv_short_complex_rot.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_normalize.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/fxp_mul32.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/fxp_mul32_c_equivalent.h :

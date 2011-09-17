@@ -1,0 +1,32 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/main.xml:0 -->
+  <public type="layout" name="main" id="0x7f020000" />
+
+  <!-- Declared at frameworks/base/tests/LowStorageTest/res/values/strings.xml:18 -->
+  <public type="string" name="total_storage" id="0x7f030000" />
+  <!-- Declared at frameworks/base/tests/LowStorageTest/res/values/strings.xml:19 -->
+  <public type="string" name="available_storage" id="0x7f030001" />
+  <!-- Declared at frameworks/base/tests/LowStorageTest/res/values/strings.xml:20 -->
+  <public type="string" name="eat_up_storage" id="0x7f030002" />
+  <!-- Declared at frameworks/base/tests/LowStorageTest/res/values/strings.xml:21 -->
+  <public type="string" name="status" id="0x7f030003" />
+  <!-- Declared at frameworks/base/tests/LowStorageTest/res/values/strings.xml:22 -->
+  <public type="string" name="run_text" id="0x7f030004" />
+
+  <!-- Declared at frameworks/base/tests/LowStorageTest/res/layout/main.xml:26 -->
+  <public type="id" name="totalsize" id="0x7f040000" />
+  <!-- Declared at frameworks/base/tests/LowStorageTest/res/layout/main.xml:41 -->
+  <public type="id" name="freesize" id="0x7f040001" />
+  <!-- Declared at frameworks/base/tests/LowStorageTest/res/layout/main.xml:53 -->
+  <public type="id" name="status" id="0x7f040002" />
+  <!-- Declared at frameworks/base/tests/LowStorageTest/res/layout/main.xml:65 -->
+  <public type="id" name="button_run" id="0x7f040003" />
+
+</resources>

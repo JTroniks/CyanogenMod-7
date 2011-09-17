@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/EXECUTABLES/rsync_intermediates/zlib/adler32.o: \
+ external/rsync/zlib/adler32.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/rsync/zlib/zlib.h external/rsync/zlib/zconf.h
+ external/rsync/zlib/adler32.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/rsync/zlib/zlib.h external/rsync/zlib/zconf.h :

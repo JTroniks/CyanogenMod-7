@@ -1,0 +1,15 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/logo.png:0 -->
+  <public type="drawable" name="logo" id="0x7f020000" />
+
+  <!-- Declared at frameworks/base/tests/TransformTest/res/values/strings.xml:18 -->
+  <public type="string" name="act_title" id="0x7f030000" />
+
+</resources>

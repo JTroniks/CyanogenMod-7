@@ -1,0 +1,35 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libstagefright_aacdec_intermediates/sbr_aliasing_reduction.o: \
+ frameworks/base/media/libstagefright/codecs/aacdec/sbr_aliasing_reduction.cpp \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/sbr_aliasing_reduction.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_audio_type_defs.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_sqrt.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/aac_mem_funcs.h \
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/malloc.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_div.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/fxp_mul32.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/fxp_mul32_c_equivalent.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_normalize.h \
+ frameworks/base/media/libstagefright/codecs/aacdec/sbr_constants.h
+ frameworks/base/media/libstagefright/codecs/aacdec/sbr_aliasing_reduction.cpp :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/sbr_aliasing_reduction.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_audio_type_defs.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_sqrt.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/aac_mem_funcs.h :
+ bionic/libc/include/string.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/malloc.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_div.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/fxp_mul32.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/fxp_mul32_c_equivalent.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/pv_normalize.h :
+ frameworks/base/media/libstagefright/codecs/aacdec/sbr_constants.h :

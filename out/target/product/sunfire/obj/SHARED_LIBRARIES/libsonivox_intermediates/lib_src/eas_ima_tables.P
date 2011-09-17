@@ -1,0 +1,7 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libsonivox_intermediates/lib_src/eas_ima_tables.o: \
+ external/sonivox/arm-wt-22k/lib_src/eas_ima_tables.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/sonivox/arm-wt-22k/host_src/eas_types.h
+ external/sonivox/arm-wt-22k/lib_src/eas_ima_tables.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/sonivox/arm-wt-22k/host_src/eas_types.h :

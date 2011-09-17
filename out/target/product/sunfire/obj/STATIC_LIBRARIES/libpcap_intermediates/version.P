@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libpcap_intermediates/version.o: \
+ external/libpcap/version.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h
+ external/libpcap/version.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :

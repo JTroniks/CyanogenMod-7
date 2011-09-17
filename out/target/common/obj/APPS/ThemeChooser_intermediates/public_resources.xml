@@ -1,0 +1,133 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/chooser_bg.xml:0 -->
+  <public type="drawable" name="chooser_bg" id="0x7f020000" />
+  <!-- Declared at res/drawable-mdpi/icon.png:0 -->
+  <!-- Declared at res/drawable-hdpi/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020001" />
+
+  <!-- Declared at res/layout/main.xml:0 -->
+  <public type="layout" name="main" id="0x7f030000" />
+  <!-- Declared at res/layout/theme_item.xml:0 -->
+  <public type="layout" name="theme_item" id="0x7f030001" />
+
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/colors.xml:19 -->
+  <public type="color" name="chooser_bg_color" id="0x7f040000" />
+
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/config.xml:6 -->
+  <public type="bool" name="config_change_style_only" id="0x7f050000" />
+
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/dimens.xml:19 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-long/dimens.xml:19 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-land/dimens.xml:19 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-long-land/dimens.xml:19 -->
+  <public type="dimen" name="chooserheader_marginTop" id="0x7f060000" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/dimens.xml:20 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-long/dimens.xml:20 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-land/dimens.xml:20 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-long-land/dimens.xml:20 -->
+  <public type="dimen" name="chooserheader_marginBottom" id="0x7f060001" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/dimens.xml:22 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-land/dimens.xml:22 -->
+  <public type="dimen" name="choosertext_marginTop" id="0x7f060002" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/dimens.xml:23 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-long/dimens.xml:21 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-long-land/dimens.xml:21 -->
+  <public type="dimen" name="chooserapply_marginTop" id="0x7f060003" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/dimens.xml:24 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-long/dimens.xml:22 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-long-land/dimens.xml:22 -->
+  <public type="dimen" name="chooserapply_marginBottom" id="0x7f060004" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/dimens.xml:26 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-land/dimens.xml:24 -->
+  <public type="dimen" name="preview_height_size" id="0x7f060005" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/dimens.xml:27 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-land/dimens.xml:25 -->
+  <public type="dimen" name="preview_width_size" id="0x7f060006" />
+
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:19 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:19 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:19 -->
+  <public type="string" name="app_name" id="0x7f070000" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:20 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:20 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:20 -->
+  <public type="string" name="app_title" id="0x7f070001" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:21 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:21 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:21 -->
+  <public type="string" name="apply" id="0x7f070002" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:23 -->
+  <public type="string" name="menu_header" id="0x7f070003" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:24 -->
+  <public type="string" name="menu_uninstall" id="0x7f070004" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:25 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:23 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:23 -->
+  <public type="string" name="theme_current" id="0x7f070005" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:26 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:24 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:24 -->
+  <public type="string" name="theme_change_dialog_title" id="0x7f070006" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:27 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:25 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:25 -->
+  <public type="string" name="switching_to_theme" id="0x7f070007" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:28 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:26 -->
+  <public type="string" name="item_count" id="0x7f070008" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:30 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:27 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:28 -->
+  <public type="string" name="dialog_theme_error_title" id="0x7f070009" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:31 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:28 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:29 -->
+  <public type="string" name="dialog_missing_host_density_msg" id="0x7f07000a" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:32 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:29 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:30 -->
+  <public type="string" name="dialog_missing_theme_package_scope_msg" id="0x7f07000b" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:33 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:30 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:31 -->
+  <public type="string" name="dialog_apply_anyway_btn" id="0x7f07000c" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/strings.xml:34 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-it/strings.xml:31 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-zh-rTW/strings.xml:32 -->
+  <public type="string" name="dialog_bummer_btn" id="0x7f07000d" />
+
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/styles.xml:19 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-land/styles.xml:19 -->
+  <public type="style" name="ComposedTitle" id="0x7f080000" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/styles.xml:23 -->
+  <public type="style" name="ChooserText" id="0x7f080001" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/styles.xml:30 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-land/styles.xml:23 -->
+  <public type="style" name="ChooserText.Title" id="0x7f080002" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/styles.xml:36 -->
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values-land/styles.xml:29 -->
+  <public type="style" name="ChooserText.Position" id="0x7f080003" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/styles.xml:41 -->
+  <public type="style" name="ChooserApply" id="0x7f080004" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/values/themes.xml:19 -->
+  <public type="style" name="Chooser" id="0x7f080005" />
+
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/layout/main.xml:35 -->
+  <public type="id" name="adapter_position" id="0x7f090000" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/layout/main.xml:47 -->
+  <public type="id" name="gallery" id="0x7f090001" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/layout/main.xml:55 -->
+  <public type="id" name="theme_name" id="0x7f090002" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/layout/main.xml:66 -->
+  <public type="id" name="apply" id="0x7f090003" />
+  <!-- Declared at vendor/tmobile/apps/ThemeChooser/res/layout/theme_item.xml:22 -->
+  <public type="id" name="theme_preview" id="0x7f090004" />
+
+</resources>

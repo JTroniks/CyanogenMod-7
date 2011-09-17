@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libSR_AudioIn_intermediates/audioin.o: \
+ external/srec/audio/AudioIn/UNIX/src/audioin.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/srec/audio/AudioIn/UNIX/src/../include/audioin.h \
+ external/srec/audio/AudioIn/UNIX/src/../include/audioinerr.h
+ external/srec/audio/AudioIn/UNIX/src/audioin.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/srec/audio/AudioIn/UNIX/src/../include/audioin.h :
+ external/srec/audio/AudioIn/UNIX/src/../include/audioinerr.h :

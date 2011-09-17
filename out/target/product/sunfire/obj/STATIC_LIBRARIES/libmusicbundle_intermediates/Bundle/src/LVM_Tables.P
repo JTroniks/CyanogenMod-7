@@ -1,0 +1,15 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/Bundle/src/LVM_Tables.o: \
+ frameworks/base/media/libeffects/lvm/lib/Bundle/src/LVM_Tables.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/Bundle/src/LVM_Tables.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/BIQUAD.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h \
+ frameworks/base/media/libeffects/lvm/lib/Bundle/src/LVM_Coeffs.h
+ frameworks/base/media/libeffects/lvm/lib/Bundle/src/LVM_Tables.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/Bundle/src/LVM_Tables.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/BIQUAD.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :
+ frameworks/base/media/libeffects/lvm/lib/Bundle/src/LVM_Coeffs.h :

@@ -1,0 +1,19 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmincrypt_intermediates/rsa.o: \
+ system/core/libmincrypt/rsa.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ system/core/include/mincrypt/rsa.h bionic/libc/include/inttypes.h \
+ bionic/libc/include/stdint.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h \
+ bionic/libc/include/sys/_types.h \
+ bionic/libc/arch-arm/include/machine/_types.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ system/core/include/mincrypt/sha.h
+ system/core/libmincrypt/rsa.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ system/core/include/mincrypt/rsa.h bionic/libc/include/inttypes.h :
+ bionic/libc/include/stdint.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stddef.h :
+ bionic/libc/include/sys/_types.h :
+ bionic/libc/arch-arm/include/machine/_types.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ system/core/include/mincrypt/sha.h :

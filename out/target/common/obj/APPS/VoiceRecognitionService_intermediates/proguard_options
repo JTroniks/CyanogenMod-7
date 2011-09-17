@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:30
+-keep class com.example.android.voicerecognitionservice.VoiceRecognitionService { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.example.android.voicerecognitionservice.VoiceRecognitionSettings { <init>(...); }
+

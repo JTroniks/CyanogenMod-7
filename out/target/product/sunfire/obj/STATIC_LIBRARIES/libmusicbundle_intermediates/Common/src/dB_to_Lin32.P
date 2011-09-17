@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/STATIC_LIBRARIES/libmusicbundle_intermediates/Common/src/dB_to_Lin32.o: \
+ frameworks/base/media/libeffects/lvm/lib/Common/src/dB_to_Lin32.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/ScalarArithmetic.h \
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h
+ frameworks/base/media/libeffects/lvm/lib/Common/src/dB_to_Lin32.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/ScalarArithmetic.h :
+ frameworks/base/media/libeffects/lvm/lib/Common/lib/LVM_Types.h :

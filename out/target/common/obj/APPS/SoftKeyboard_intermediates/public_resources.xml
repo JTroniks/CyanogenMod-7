@@ -1,0 +1,71 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/sym_keyboard_delete.png:0 -->
+  <!-- Declared at res/drawable-hdpi/sym_keyboard_delete.png:0 -->
+  <public type="drawable" name="sym_keyboard_delete" id="0x7f020000" />
+  <!-- Declared at res/drawable-mdpi/sym_keyboard_done.png:0 -->
+  <!-- Declared at res/drawable-hdpi/sym_keyboard_done.png:0 -->
+  <public type="drawable" name="sym_keyboard_done" id="0x7f020001" />
+  <!-- Declared at res/drawable-mdpi/sym_keyboard_return.png:0 -->
+  <!-- Declared at res/drawable-hdpi/sym_keyboard_return.png:0 -->
+  <public type="drawable" name="sym_keyboard_return" id="0x7f020002" />
+  <!-- Declared at res/drawable-mdpi/sym_keyboard_search.png:0 -->
+  <!-- Declared at res/drawable-hdpi/sym_keyboard_search.png:0 -->
+  <public type="drawable" name="sym_keyboard_search" id="0x7f020003" />
+  <!-- Declared at res/drawable-mdpi/sym_keyboard_shift.png:0 -->
+  <!-- Declared at res/drawable-hdpi/sym_keyboard_shift.png:0 -->
+  <public type="drawable" name="sym_keyboard_shift" id="0x7f020004" />
+  <!-- Declared at res/drawable-mdpi/sym_keyboard_space.png:0 -->
+  <!-- Declared at res/drawable-hdpi/sym_keyboard_space.png:0 -->
+  <public type="drawable" name="sym_keyboard_space" id="0x7f020005" />
+
+  <!-- Declared at res/layout/input.xml:0 -->
+  <public type="layout" name="input" id="0x7f030000" />
+
+  <!-- Declared at res/xml/method.xml:0 -->
+  <public type="xml" name="method" id="0x7f040000" />
+  <!-- Declared at res/xml/qwerty.xml:0 -->
+  <public type="xml" name="qwerty" id="0x7f040001" />
+  <!-- Declared at res/xml/symbols.xml:0 -->
+  <public type="xml" name="symbols" id="0x7f040002" />
+  <!-- Declared at res/xml/symbols_shift.xml:0 -->
+  <public type="xml" name="symbols_shift" id="0x7f040003" />
+
+  <!-- Declared at development/samples/SoftKeyboard/res/values/colors.xml:21 -->
+  <public type="color" name="candidate_normal" id="0x7f050000" />
+  <!-- Declared at development/samples/SoftKeyboard/res/values/colors.xml:22 -->
+  <public type="color" name="candidate_recommended" id="0x7f050001" />
+  <!-- Declared at development/samples/SoftKeyboard/res/values/colors.xml:23 -->
+  <public type="color" name="candidate_other" id="0x7f050002" />
+  <!-- Declared at development/samples/SoftKeyboard/res/values/colors.xml:24 -->
+  <public type="color" name="candidate_background" id="0x7f050003" />
+
+  <!-- Declared at development/samples/SoftKeyboard/res/values/dimens.xml:22 -->
+  <!-- Declared at development/samples/SoftKeyboard/res/values-land/dimens.xml:22 -->
+  <public type="dimen" name="key_height" id="0x7f060000" />
+  <!-- Declared at development/samples/SoftKeyboard/res/values/dimens.xml:23 -->
+  <public type="dimen" name="candidate_font_height" id="0x7f060001" />
+  <!-- Declared at development/samples/SoftKeyboard/res/values/dimens.xml:24 -->
+  <public type="dimen" name="candidate_vertical_padding" id="0x7f060002" />
+
+  <!-- Declared at development/samples/SoftKeyboard/res/values/strings.xml:22 -->
+  <public type="string" name="ime_name" id="0x7f070000" />
+  <!-- Declared at development/samples/SoftKeyboard/res/values/strings.xml:25 -->
+  <public type="string" name="word_separators" id="0x7f070001" />
+  <!-- Declared at development/samples/SoftKeyboard/res/values/strings.xml:28 -->
+  <public type="string" name="label_go_key" id="0x7f070002" />
+  <!-- Declared at development/samples/SoftKeyboard/res/values/strings.xml:29 -->
+  <public type="string" name="label_next_key" id="0x7f070003" />
+  <!-- Declared at development/samples/SoftKeyboard/res/values/strings.xml:30 -->
+  <public type="string" name="label_send_key" id="0x7f070004" />
+
+  <!-- Declared at development/samples/SoftKeyboard/res/layout/input.xml:21 -->
+  <public type="id" name="keyboard" id="0x7f080000" />
+
+</resources>

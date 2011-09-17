@@ -1,0 +1,15 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libFFTEm_intermediates/Embedded/common/src/b_BasicEm/Phase.o: \
+ external/neven/Embedded/common/src/b_BasicEm/Phase.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/neven/Embedded/common/src/b_BasicEm/Phase.h \
+ external/neven/Embedded/common/src/b_BasicEm/Basic.h \
+ external/neven/Embedded/common/conf/../conf/b_BasicEm/LibConfig.h \
+ external/neven/Embedded/common/src/b_BasicEm/Config.h \
+ external/neven/Embedded/common/src/b_BasicEm/Math.h
+ external/neven/Embedded/common/src/b_BasicEm/Phase.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/neven/Embedded/common/src/b_BasicEm/Phase.h :
+ external/neven/Embedded/common/src/b_BasicEm/Basic.h :
+ external/neven/Embedded/common/conf/../conf/b_BasicEm/LibConfig.h :
+ external/neven/Embedded/common/src/b_BasicEm/Config.h :
+ external/neven/Embedded/common/src/b_BasicEm/Math.h :

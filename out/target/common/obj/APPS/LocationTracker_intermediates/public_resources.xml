@@ -1,0 +1,90 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/entrylist_item.xml:0 -->
+  <public type="layout" name="entrylist_item" id="0x7f020000" />
+
+  <!-- Declared at res/xml/preferences.xml:0 -->
+  <public type="xml" name="preferences" id="0x7f030000" />
+
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:21 -->
+  <public type="string" name="start_service_menu" id="0x7f040000" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:22 -->
+  <public type="string" name="stop_service_menu" id="0x7f040001" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:23 -->
+  <public type="string" name="settings_menu" id="0x7f040002" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:24 -->
+  <public type="string" name="update_preference" id="0x7f040003" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:25 -->
+  <public type="string" name="title_mintime_preference" id="0x7f040004" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:26 -->
+  <public type="string" name="summary_mintime_preference" id="0x7f040005" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:27 -->
+  <public type="string" name="dialog_title_mintime_preference" id="0x7f040006" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:28 -->
+  <public type="string" name="title_mindistance_preference" id="0x7f040007" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:29 -->
+  <public type="string" name="summary_mindistance_preference" id="0x7f040008" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:30 -->
+  <public type="string" name="dialog_title_mindistance_preference" id="0x7f040009" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:31 -->
+  <public type="string" name="provider_preferences" id="0x7f04000a" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:32 -->
+  <public type="string" name="title_network_preference" id="0x7f04000b" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:33 -->
+  <public type="string" name="summary_network_preference" id="0x7f04000c" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:34 -->
+  <public type="string" name="title_gps_preference" id="0x7f04000d" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:35 -->
+  <public type="string" name="summary_gps_preference" id="0x7f04000e" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:36 -->
+  <public type="string" name="title_signal_preference" id="0x7f04000f" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:37 -->
+  <public type="string" name="summary_signal_preference" id="0x7f040010" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:38 -->
+  <public type="string" name="advanced_preferences" id="0x7f040011" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:39 -->
+  <public type="string" name="title_advanced_log_preference" id="0x7f040012" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:40 -->
+  <public type="string" name="summary_advanced_preference" id="0x7f040013" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:41 -->
+  <public type="string" name="app_label" id="0x7f040014" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:42 -->
+  <public type="string" name="export_sub_menu" id="0x7f040015" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:43 -->
+  <public type="string" name="export_kml" id="0x7f040016" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:44 -->
+  <public type="string" name="export_csv" id="0x7f040017" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:45 -->
+  <public type="string" name="clear_data" id="0x7f040018" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:46 -->
+  <public type="string" name="delete_confirm" id="0x7f040019" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/values/strings.xml:47 -->
+  <public type="string" name="confirm_title" id="0x7f04001a" />
+
+  <!-- Declared at res/menu/menu.xml:0 -->
+  <public type="menu" name="menu" id="0x7f050000" />
+
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/layout/entrylist_item.xml:20 -->
+  <public type="id" name="entrylist_item" id="0x7f060000" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/menu/menu.xml:20 -->
+  <public type="id" name="start_service_menu" id="0x7f060001" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/menu/menu.xml:22 -->
+  <public type="id" name="stop_service_menu" id="0x7f060002" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/menu/menu.xml:24 -->
+  <public type="id" name="settings_menu" id="0x7f060003" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/menu/menu.xml:26 -->
+  <public type="id" name="export_sub_menu" id="0x7f060004" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/menu/menu.xml:29 -->
+  <public type="id" name="export_kml" id="0x7f060005" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/menu/menu.xml:31 -->
+  <public type="id" name="export_csv" id="0x7f060006" />
+  <!-- Declared at frameworks/base/tests/LocationTracker/res/menu/menu.xml:35 -->
+  <public type="id" name="clear_data_menu" id="0x7f060007" />
+
+</resources>

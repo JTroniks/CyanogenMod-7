@@ -1,0 +1,4 @@
+out/target/common/obj/APPS/ApiDemos_intermediates/src/src/com/example/android/apis/app/IRemoteService.java: \
+  development/samples/ApiDemos/src/com/example/android/apis/app/IRemoteService.aidl \
+  development/samples/ApiDemos/src/com/example/android/apis/app/IRemoteServiceCallback.aidl 
+

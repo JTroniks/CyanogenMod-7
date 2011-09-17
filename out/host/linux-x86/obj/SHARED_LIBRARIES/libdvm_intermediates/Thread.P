@@ -1,0 +1,151 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libdvm_intermediates/Thread.o: \
+ dalvik/vm/Thread.c system/core/include/arch/linux-x86/AndroidConfig.h \
+ dalvik/vm/Dalvik.h /usr/include/pthread.h /usr/include/features.h \
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/sched.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ /usr/include/time.h /usr/include/bits/sched.h /usr/include/bits/time.h \
+ /usr/include/xlocale.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/setjmp.h dalvik/vm/Common.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/assert.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdbool.h \
+ frameworks/base/include/utils/Log.h system/core/include/cutils/log.h \
+ /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/sys/sysmacros.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/getopt.h \
+ system/core/include/cutils/uio.h /usr/include/sys/uio.h \
+ /usr/include/bits/uio.h system/core/include/cutils/logd.h \
+ system/core/include/android/log.h dalvik/vm/Inlines.h dalvik/vm/Misc.h \
+ /usr/include/sys/time.h dalvik/vm/Bits.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/alloca.h /usr/include/string.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h dalvik/libdex/SysUtil.h \
+ dalvik/libdex/DexFile.h dalvik/vm/Common.h dalvik/libdex/DexProto.h \
+ dalvik/libdex/DexFile.h dalvik/libdex/ZipArchive.h \
+ dalvik/libdex/SysUtil.h dalvik/vm/DvmDex.h dalvik/vm/RawDexFile.h \
+ dalvik/vm/Sync.h dalvik/vm/oo/Object.h dalvik/vm/Atomic.h \
+ system/core/include/cutils/atomic.h \
+ system/core/include/cutils/atomic-inline.h \
+ system/core/include/cutils/atomic-x86.h dalvik/vm/Native.h \
+ dalvik/vm/native/InternalNative.h dalvik/vm/DalvikVersion.h \
+ dalvik/vm/Debugger.h dalvik/vm/jdwp/Jdwp.h \
+ dalvik/vm/jdwp/JdwpConstants.h dalvik/vm/jdwp/ExpandBuf.h \
+ dalvik/vm/Common.h dalvik/vm/Bits.h dalvik/vm/Profile.h \
+ dalvik/vm/UtfString.h dalvik/vm/Intern.h dalvik/vm/ReferenceTable.h \
+ dalvik/vm/IndirectRefTable.h dalvik/vm/AtomicCache.h dalvik/vm/Thread.h \
+ dalvik/libnativehelper/include/nativehelper/jni.h /usr/include/errno.h \
+ /usr/include/bits/errno.h bionic/libc/kernel/common/linux/errno.h \
+ bionic/libc/kernel/arch-arm/asm/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno.h \
+ bionic/libc/kernel/common/asm-generic/errno-base.h \
+ system/core/include/cutils/sched_policy.h dalvik/vm/Ddm.h \
+ dalvik/vm/Hash.h dalvik/vm/interp/Stack.h dalvik/vm/oo/Class.h \
+ dalvik/vm/oo/Resolve.h dalvik/vm/oo/Array.h dalvik/vm/Exception.h \
+ dalvik/vm/alloc/Alloc.h dalvik/vm/alloc/CardTable.h \
+ dalvik/vm/alloc/HeapDebug.h dalvik/vm/alloc/HeapWorker.h \
+ dalvik/vm/alloc/GC.h dalvik/vm/hprof/Hprof.h dalvik/vm/Dalvik.h \
+ dalvik/vm/alloc/WriteBarrier.h dalvik/vm/oo/AccessCheck.h \
+ dalvik/vm/JarFile.h dalvik/vm/Properties.h dalvik/vm/SignalCatcher.h \
+ dalvik/vm/StdioConverter.h dalvik/vm/JniInternal.h \
+ dalvik/vm/LinearAlloc.h dalvik/vm/analysis/DexVerify.h \
+ dalvik/vm/analysis/DexPrepare.h dalvik/vm/analysis/RegisterMap.h \
+ dalvik/vm/analysis/VerifySubs.h dalvik/vm/analysis/CodeVerify.h \
+ dalvik/vm/Init.h dalvik/libdex/OpCode.h dalvik/libdex/InstrUtils.h \
+ dalvik/libdex/OpCode.h dalvik/vm/AllocTracker.h dalvik/vm/PointerSet.h \
+ dalvik/vm/Globals.h dalvik/vm/reflect/Reflect.h dalvik/vm/oo/TypeCheck.h \
+ dalvik/vm/Atomic.h dalvik/vm/interp/Interp.h dalvik/vm/InlineNative.h \
+ dalvik/vm/oo/ObjectInlines.h frameworks/base/include/utils/threads.h \
+ /usr/include/sys/resource.h /usr/include/bits/resource.h \
+ /usr/include/sys/mman.h /usr/include/bits/mman.h /usr/include/signal.h \
+ /usr/include/bits/signum.h /usr/include/bits/siginfo.h \
+ /usr/include/bits/sigaction.h /usr/include/bits/sigcontext.h \
+ /usr/include/bits/sigstack.h /usr/include/sys/ucontext.h \
+ /usr/include/bits/sigthread.h /usr/include/fcntl.h \
+ /usr/include/bits/fcntl.h /usr/include/bits/stat.h \
+ /usr/include/sys/prctl.h bionic/libc/kernel/common/linux/prctl.h
+ dalvik/vm/Thread.c system/core/include/arch/linux-x86/AndroidConfig.h :
+ dalvik/vm/Dalvik.h /usr/include/pthread.h /usr/include/features.h :
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h :
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+ /usr/include/gnu/stubs-32.h /usr/include/endian.h :
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h :
+ /usr/include/sched.h /usr/include/bits/types.h :
+ /usr/include/bits/typesizes.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ /usr/include/time.h /usr/include/bits/sched.h /usr/include/bits/time.h :
+ /usr/include/xlocale.h /usr/include/bits/pthreadtypes.h :
+ /usr/include/bits/setjmp.h dalvik/vm/Common.h /usr/include/stdio.h :
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdarg.h :
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h :
+ /usr/include/bits/stdio.h /usr/include/assert.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdint.h :
+ /usr/include/stdint.h /usr/include/bits/wchar.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stdbool.h :
+ frameworks/base/include/utils/Log.h system/core/include/cutils/log.h :
+ /usr/include/sys/types.h /usr/include/sys/select.h :
+ /usr/include/bits/select.h /usr/include/bits/sigset.h :
+ /usr/include/sys/sysmacros.h /usr/include/unistd.h :
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h :
+ /usr/include/bits/confname.h /usr/include/getopt.h :
+ system/core/include/cutils/uio.h /usr/include/sys/uio.h :
+ /usr/include/bits/uio.h system/core/include/cutils/logd.h :
+ system/core/include/android/log.h dalvik/vm/Inlines.h dalvik/vm/Misc.h :
+ /usr/include/sys/time.h dalvik/vm/Bits.h /usr/include/stdlib.h :
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h :
+ /usr/include/alloca.h /usr/include/string.h /usr/include/bits/string.h :
+ /usr/include/bits/string2.h dalvik/libdex/SysUtil.h :
+ dalvik/libdex/DexFile.h dalvik/vm/Common.h dalvik/libdex/DexProto.h :
+ dalvik/libdex/DexFile.h dalvik/libdex/ZipArchive.h :
+ dalvik/libdex/SysUtil.h dalvik/vm/DvmDex.h dalvik/vm/RawDexFile.h :
+ dalvik/vm/Sync.h dalvik/vm/oo/Object.h dalvik/vm/Atomic.h :
+ system/core/include/cutils/atomic.h :
+ system/core/include/cutils/atomic-inline.h :
+ system/core/include/cutils/atomic-x86.h dalvik/vm/Native.h :
+ dalvik/vm/native/InternalNative.h dalvik/vm/DalvikVersion.h :
+ dalvik/vm/Debugger.h dalvik/vm/jdwp/Jdwp.h :
+ dalvik/vm/jdwp/JdwpConstants.h dalvik/vm/jdwp/ExpandBuf.h :
+ dalvik/vm/Common.h dalvik/vm/Bits.h dalvik/vm/Profile.h :
+ dalvik/vm/UtfString.h dalvik/vm/Intern.h dalvik/vm/ReferenceTable.h :
+ dalvik/vm/IndirectRefTable.h dalvik/vm/AtomicCache.h dalvik/vm/Thread.h :
+ dalvik/libnativehelper/include/nativehelper/jni.h /usr/include/errno.h :
+ /usr/include/bits/errno.h bionic/libc/kernel/common/linux/errno.h :
+ bionic/libc/kernel/arch-arm/asm/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno.h :
+ bionic/libc/kernel/common/asm-generic/errno-base.h :
+ system/core/include/cutils/sched_policy.h dalvik/vm/Ddm.h :
+ dalvik/vm/Hash.h dalvik/vm/interp/Stack.h dalvik/vm/oo/Class.h :
+ dalvik/vm/oo/Resolve.h dalvik/vm/oo/Array.h dalvik/vm/Exception.h :
+ dalvik/vm/alloc/Alloc.h dalvik/vm/alloc/CardTable.h :
+ dalvik/vm/alloc/HeapDebug.h dalvik/vm/alloc/HeapWorker.h :
+ dalvik/vm/alloc/GC.h dalvik/vm/hprof/Hprof.h dalvik/vm/Dalvik.h :
+ dalvik/vm/alloc/WriteBarrier.h dalvik/vm/oo/AccessCheck.h :
+ dalvik/vm/JarFile.h dalvik/vm/Properties.h dalvik/vm/SignalCatcher.h :
+ dalvik/vm/StdioConverter.h dalvik/vm/JniInternal.h :
+ dalvik/vm/LinearAlloc.h dalvik/vm/analysis/DexVerify.h :
+ dalvik/vm/analysis/DexPrepare.h dalvik/vm/analysis/RegisterMap.h :
+ dalvik/vm/analysis/VerifySubs.h dalvik/vm/analysis/CodeVerify.h :
+ dalvik/vm/Init.h dalvik/libdex/OpCode.h dalvik/libdex/InstrUtils.h :
+ dalvik/libdex/OpCode.h dalvik/vm/AllocTracker.h dalvik/vm/PointerSet.h :
+ dalvik/vm/Globals.h dalvik/vm/reflect/Reflect.h dalvik/vm/oo/TypeCheck.h :
+ dalvik/vm/Atomic.h dalvik/vm/interp/Interp.h dalvik/vm/InlineNative.h :
+ dalvik/vm/oo/ObjectInlines.h frameworks/base/include/utils/threads.h :
+ /usr/include/sys/resource.h /usr/include/bits/resource.h :
+ /usr/include/sys/mman.h /usr/include/bits/mman.h /usr/include/signal.h :
+ /usr/include/bits/signum.h /usr/include/bits/siginfo.h :
+ /usr/include/bits/sigaction.h /usr/include/bits/sigcontext.h :
+ /usr/include/bits/sigstack.h /usr/include/sys/ucontext.h :
+ /usr/include/bits/sigthread.h /usr/include/fcntl.h :
+ /usr/include/bits/fcntl.h /usr/include/bits/stat.h :
+ /usr/include/sys/prctl.h bionic/libc/kernel/common/linux/prctl.h :

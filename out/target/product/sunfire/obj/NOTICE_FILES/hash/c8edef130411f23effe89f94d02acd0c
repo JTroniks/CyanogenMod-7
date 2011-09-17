@@ -1,0 +1,5 @@
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/bin/showlease.txt
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/bin/dhcpcd.txt
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/etc/dhcpcd/dhcpcd-hooks/95-configured.txt
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/etc/dhcpcd/dhcpcd-hooks/20-dns.conf.txt
+out/target/product/sunfire/obj/NOTICE_FILES/src/system/etc/dhcpcd/dhcpcd-run-hooks.txt

@@ -1,0 +1,71 @@
+# view AndroidManifest.xml #generated:8
+-keep class com.android.calculator2.Calculator { <init>(...); }
+
+# view res/layout-land/main.xml #generated:32
+# view res/layout-port/main.xml #generated:27
+-keep class com.android.calculator2.CalculatorDisplay { <init>(...); }
+
+# view res/layout-land/main.xml #generated:101
+# view res/layout-land/main.xml #generated:113
+# view res/layout-land/main.xml #generated:118
+# view res/layout-land/main.xml #generated:123
+# view res/layout-land/main.xml #generated:128
+# view res/layout-land/main.xml #generated:133
+# view res/layout-land/main.xml #generated:138
+# view res/layout-land/main.xml #generated:150
+# view res/layout-land/main.xml #generated:155
+# view res/layout-land/main.xml #generated:160
+# view res/layout-land/main.xml #generated:165
+# view res/layout-land/main.xml #generated:170
+# view res/layout-land/main.xml #generated:175
+# view res/layout-land/main.xml #generated:199
+# view res/layout-land/main.xml #generated:204
+# view res/layout-land/main.xml #generated:209
+# view res/layout-land/main.xml #generated:214
+# view res/layout-land/main.xml #generated:219
+# view res/layout-land/main.xml #generated:231
+# view res/layout-land/main.xml #generated:236
+# view res/layout-land/main.xml #generated:241
+# view res/layout-land/main.xml #generated:246
+# view res/layout-land/main.xml #generated:251
+# view res/layout-land/main.xml #generated:44
+# view res/layout-land/main.xml #generated:76
+# view res/layout-land/main.xml #generated:81
+# view res/layout-land/main.xml #generated:86
+# view res/layout-land/main.xml #generated:91
+# view res/layout-land/main.xml #generated:96
+# view res/layout-port/main.xml #generated:111
+# view res/layout-port/main.xml #generated:116
+# view res/layout-port/main.xml #generated:121
+# view res/layout-port/main.xml #generated:126
+# view res/layout-port/main.xml #generated:138
+# view res/layout-port/main.xml #generated:143
+# view res/layout-port/main.xml #generated:148
+# view res/layout-port/main.xml #generated:153
+# view res/layout-port/main.xml #generated:165
+# view res/layout-port/main.xml #generated:170
+# view res/layout-port/main.xml #generated:175
+# view res/layout-port/main.xml #generated:180
+# view res/layout-port/main.xml #generated:200
+# view res/layout-port/main.xml #generated:205
+# view res/layout-port/main.xml #generated:210
+# view res/layout-port/main.xml #generated:222
+# view res/layout-port/main.xml #generated:227
+# view res/layout-port/main.xml #generated:232
+# view res/layout-port/main.xml #generated:244
+# view res/layout-port/main.xml #generated:249
+# view res/layout-port/main.xml #generated:254
+# view res/layout-port/main.xml #generated:266
+# view res/layout-port/main.xml #generated:271
+# view res/layout-port/main.xml #generated:276
+# view res/layout-port/main.xml #generated:68
+# view res/layout-port/main.xml #generated:84
+# view res/layout-port/main.xml #generated:89
+# view res/layout-port/main.xml #generated:94
+# view res/layout-port/main.xml #generated:99
+-keep class com.android.calculator2.ColorButton { <init>(...); }
+
+# view res/layout-land/main.xml #generated:57
+# view res/layout-port/main.xml #generated:39
+-keep class com.android.calculator2.PanelSwitcher { <init>(...); }
+

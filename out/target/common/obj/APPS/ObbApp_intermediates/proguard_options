@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:24
+-keep class com.example.android.obbapp.ObbMountActivity { <init>(...); }
+

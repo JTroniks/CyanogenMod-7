@@ -1,0 +1,45 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-mdpi/oh_hai_icon.png:0 -->
+  <!-- Declared at res/drawable-hdpi/oh_hai_icon.png:0 -->
+  <public type="drawable" name="oh_hai_icon" id="0x7f020000" />
+
+  <!-- Declared at res/layout/appwidget_host.xml:0 -->
+  <public type="layout" name="appwidget_host" id="0x7f030000" />
+  <!-- Declared at res/layout/test_appwidget.xml:0 -->
+  <public type="layout" name="test_appwidget" id="0x7f030001" />
+  <!-- Declared at res/layout/test_appwidget_configure.xml:0 -->
+  <public type="layout" name="test_appwidget_configure" id="0x7f030002" />
+
+  <!-- Declared at res/xml/appwidget_info.xml:0 -->
+  <public type="xml" name="appwidget_info" id="0x7f040000" />
+
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetHostTest/res/values/strings.xml:18 -->
+  <public type="string" name="appwidget_view_title" id="0x7f050000" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetHostTest/res/values/strings.xml:19 -->
+  <public type="string" name="add_appwidget" id="0x7f050001" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetHostTest/res/values/strings.xml:20 -->
+  <public type="string" name="oh_hai" id="0x7f050002" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetHostTest/res/values/strings.xml:21 -->
+  <public type="string" name="delete_appwidget" id="0x7f050003" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetHostTest/res/values/strings.xml:22 -->
+  <public type="string" name="save" id="0x7f050004" />
+
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetHostTest/res/layout/appwidget_host.xml:34 -->
+  <public type="id" name="appwidget_container" id="0x7f060000" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetHostTest/res/layout/appwidget_host.xml:43 -->
+  <public type="id" name="add_appwidget" id="0x7f060001" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetHostTest/res/layout/test_appwidget.xml:17 -->
+  <public type="id" name="oh_hai_text" id="0x7f060002" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetHostTest/res/layout/test_appwidget_configure.xml:30 -->
+  <public type="id" name="edit_text" id="0x7f060003" />
+  <!-- Declared at frameworks/base/tests/appwidgets/AppWidgetHostTest/res/layout/test_appwidget_configure.xml:36 -->
+  <public type="id" name="save_button" id="0x7f060004" />
+
+</resources>

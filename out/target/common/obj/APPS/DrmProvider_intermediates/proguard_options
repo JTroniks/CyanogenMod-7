@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.android.providers.drm.DrmProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.android.providers.drm.DrmPushReceiver { <init>(...); }
+

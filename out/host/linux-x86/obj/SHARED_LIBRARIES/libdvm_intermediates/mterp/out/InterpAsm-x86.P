@@ -1,0 +1,7 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libdvm_intermediates/mterp/out/InterpAsm-x86.o: \
+ dalvik/vm/mterp/out/InterpAsm-x86.S \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ dalvik/vm/mterp/out/../common/asm-constants.h
+ dalvik/vm/mterp/out/InterpAsm-x86.S :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ dalvik/vm/mterp/out/../common/asm-constants.h :

@@ -1,0 +1,6 @@
+# view res/layout/download_list_item.xml #generated:20
+-keep class com.android.providers.downloads.ui.DownloadItem { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.android.providers.downloads.ui.DownloadList { <init>(...); }
+

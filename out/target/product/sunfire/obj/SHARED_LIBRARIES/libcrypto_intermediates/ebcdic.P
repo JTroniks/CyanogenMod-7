@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libcrypto_intermediates/ebcdic.o: \
+ external/openssl/crypto/ebcdic.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ external/openssl/include/openssl/e_os2.h \
+ external/openssl/include/openssl/opensslconf.h
+ external/openssl/crypto/ebcdic.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ external/openssl/include/openssl/e_os2.h :
+ external/openssl/include/openssl/opensslconf.h :

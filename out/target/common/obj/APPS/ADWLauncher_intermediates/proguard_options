@@ -1,0 +1,128 @@
+# view res/layout-land/launcher.xml #generated:49
+# view res/layout-land/launcher.xml #generated:59
+# view res/layout-land/launcher.xml #generated:69
+# view res/layout-land/launcher.xml #generated:79
+# view res/layout-land/launcher.xml #generated:89
+# view res/layout-port/launcher.xml #generated:46
+# view res/layout-port/launcher.xml #generated:56
+# view res/layout-port/launcher.xml #generated:66
+# view res/layout-port/launcher.xml #generated:76
+# view res/layout-port/launcher.xml #generated:86
+-keep class com.android.launcher.ActionButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.android.launcher.ActivityPickerActivity { <init>(...); }
+
+# view res/layout-land/old_drawer.xml #generated:16
+# view res/layout-port/old_drawer.xml #generated:16
+-keep class com.android.launcher.AllAppsGridView { <init>(...); }
+
+# view res/layout-land/new_drawer.xml #generated:17
+# view res/layout-port/new_drawer.xml #generated:17
+-keep class com.android.launcher.AllAppsSlidingView { <init>(...); }
+
+# view res/layout-land/application.xml #generated:17
+# view res/layout-port/application.xml #generated:17
+-keep class com.android.launcher.BubbleTextView { <init>(...); }
+
+# view res/layout-land/workspace_screen.xml #generated:17
+# view res/layout-port/workspace_screen.xml #generated:17
+-keep class com.android.launcher.CellLayout { <init>(...); }
+
+# view res/layout/small_application.xml #generated:17
+-keep class com.android.launcher.CounterImageView { <init>(...); }
+
+# view res/layout-land/application_boxed.xml #generated:17
+# view res/layout-port/application_boxed.xml #generated:17
+-keep class com.android.launcher.CounterTextView { <init>(...); }
+
+# view AndroidManifest.xml #generated:82
+-keep class com.android.launcher.CustomShirtcutActivity { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:140
+# view res/layout-port/launcher.xml #generated:138
+-keep class com.android.launcher.DeleteZone { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:134
+# view res/layout-port/launcher.xml #generated:132
+-keep class com.android.launcher.DesktopIndicator { <init>(...); }
+
+# view res/xml/launcher_settings.xml #generated:103
+# view res/xml/launcher_settings.xml #generated:109
+# view res/xml/launcher_settings.xml #generated:122
+# view res/xml/launcher_settings.xml #generated:142
+# view res/xml/launcher_settings.xml #generated:167
+# view res/xml/launcher_settings.xml #generated:243
+# view res/xml/launcher_settings.xml #generated:28
+# view res/xml/launcher_settings.xml #generated:34
+# view res/xml/launcher_settings.xml #generated:43
+# view res/xml/launcher_settings.xml #generated:49
+# view res/xml/launcher_settings.xml #generated:91
+# view res/xml/launcher_settings.xml #generated:97
+-keep class com.android.launcher.DialogSeekBarPreference { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:114
+# view res/layout-port/launcher.xml #generated:112
+-keep class com.android.launcher.DockBar { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:17
+# view res/layout-port/launcher.xml #generated:17
+-keep class com.android.launcher.DragLayer { <init>(...); }
+
+# view res/layout-land/folder_icon.xml #generated:17
+# view res/layout-port/folder_icon.xml #generated:17
+-keep class com.android.launcher.FolderIcon { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.android.launcher.InstallShortcutReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.android.launcher.Launcher { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.android.launcher.LauncherApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.android.launcher.LauncherProvider { <init>(...); }
+
+# view res/layout-land/live_folder_grid.xml #generated:20
+# view res/layout-port/live_folder_grid.xml #generated:20
+# view res/layout/live_folder_list.xml #generated:20
+-keep class com.android.launcher.LiveFolder { <init>(...); }
+
+# view res/layout-land/live_folder_icon.xml #generated:20
+# view res/layout-port/live_folder_icon.xml #generated:20
+-keep class com.android.launcher.LiveFolderIcon { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:122
+# view res/layout-port/launcher.xml #generated:120
+-keep class com.android.launcher.MiniLauncher { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.android.launcher.MyLauncherSettings { <init>(...); }
+
+# view res/layout/widget_span_setup.xml #generated:55
+# view res/layout/widget_span_setup.xml #generated:60
+-keep class com.android.launcher.NumberPicker { <init>(...); }
+
+# view res/layout/number_picker.xml #generated:22
+# view res/layout/number_picker.xml #generated:37
+-keep class com.android.launcher.NumberPickerButton { <init>(...); }
+
+# view res/xml/launcher_settings.xml #generated:338
+-keep class com.android.launcher.PreviewPreference { <init>(...); }
+
+# view res/layout-land/user_folder.xml #generated:17
+# view res/layout-port/user_folder.xml #generated:17
+-keep class com.android.launcher.UserFolder { <init>(...); }
+
+# view res/layout-land/launcher.xml #generated:26
+# view res/layout-port/launcher.xml #generated:26
+-keep class com.android.launcher.Workspace { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class com.android.launcher.catalogue.AppInfoMList { <init>(...); }
+
+# view res/layout/quickaction_item.xml #generated:17
+-keep class com.devoteam.quickaction.QuickActionItem { <init>(...); }
+

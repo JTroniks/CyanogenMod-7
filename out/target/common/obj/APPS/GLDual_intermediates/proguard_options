@@ -1,0 +1,9 @@
+# view res/layout/gldual_activity.xml #generated:22
+-keep class android.opengl.GLSurfaceView { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.android.gldual.GLDualActivity { <init>(...); }
+
+# view res/layout/gldual_activity.xml #generated:26
+-keep class com.android.gldual.GLDualGL2View { <init>(...); }
+

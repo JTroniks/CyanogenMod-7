@@ -1,0 +1,9 @@
+out/target/product/sunfire/obj/SHARED_LIBRARIES/libnativehelper_intermediates/Register.o: \
+ dalvik/libnativehelper/Register.c \
+ system/core/include/arch/linux-arm/AndroidConfig.h \
+ dalvik/libnativehelper/include/nativehelper/jni.h \
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h
+ dalvik/libnativehelper/Register.c :
+ system/core/include/arch/linux-arm/AndroidConfig.h :
+ dalvik/libnativehelper/include/nativehelper/jni.h :
+ prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/../lib/gcc/arm-eabi/4.4.3/include/stdarg.h :

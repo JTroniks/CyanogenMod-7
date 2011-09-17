@@ -1,0 +1,13 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libcrypto_static_intermediates/aes/aes_cbc.o: \
+ external/openssl/crypto/aes/aes_cbc.c \
+ system/core/include/arch/linux-x86/AndroidConfig.h \
+ external/openssl/include/openssl/aes.h \
+ external/openssl/include/openssl/opensslconf.h \
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h \
+ external/openssl/include/openssl/modes.h
+ external/openssl/crypto/aes/aes_cbc.c :
+ system/core/include/arch/linux-x86/AndroidConfig.h :
+ external/openssl/include/openssl/aes.h :
+ external/openssl/include/openssl/opensslconf.h :
+ /usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5.2/include/stddef.h :
+ external/openssl/include/openssl/modes.h :

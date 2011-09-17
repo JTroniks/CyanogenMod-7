@@ -1,0 +1,39 @@
+# view AndroidManifest.xml #generated:149
+-keep class com.cooliris.cache.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.cooliris.cache.CacheService { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class com.cooliris.media.CropImage { <init>(...); }
+
+# view res/layout/cropimage.xml #generated:25
+-keep class com.cooliris.media.CropImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.cooliris.media.Gallery { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.cooliris.media.MovieView { <init>(...); }
+
+# view AndroidManifest.xml #generated:187
+-keep class com.cooliris.media.PhotoAppWidgetBind { <init>(...); }
+
+# view AndroidManifest.xml #generated:177
+-keep class com.cooliris.media.PhotoAppWidgetConfigure { <init>(...); }
+
+# view AndroidManifest.xml #generated:169
+-keep class com.cooliris.media.PhotoAppWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.cooliris.media.Photographs { <init>(...); }
+
+# view AndroidManifest.xml #generated:135
+-keep class com.cooliris.picasa.PicasaContentProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:191
+-keep class com.cooliris.picasa.PicasaReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:140
+-keep class com.cooliris.picasa.PicasaService { <init>(...); }
+
